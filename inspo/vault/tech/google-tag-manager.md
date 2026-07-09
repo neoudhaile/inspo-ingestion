@@ -1,0 +1,52 @@
+# Google Tag Manager
+_47 sites · hub type: tech_
+
+- [[sites/21st.dev|21st.dev]] — A community registry of hand-crafted React components and templates. Start from real, polished UI instead of the bland AI average, and ship products that look like you, not everyone else.
+- [[sites/addyosmani.com|addyosmani.com]] — Addy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.
+- [[sites/alisawuffles.github.io|alisawuffles.github.io]] — PhD student at the University of Washington.
+- [[sites/amanml.com|amanml.com]] — Currently, exploring and building my curiosities.
+- [[sites/b150.ai|b150.ai]] — Don't wait for the future. Build it.
+- [[sites/backgrounds.supply|backgrounds.supply]] — A huge collection of handcrafted and AI-Generated Backgrounds
+- [[sites/badmarketing.com|badmarketing.com]] — WE MAKE GOOD BRANDS GO BAD
+- [[sites/bigideasdb.com|bigideasdb.com]] — Find Proven Problems. Build Your Next Successful Startup.
+- [[sites/bigplayers.co|bigplayers.co]] — Steal billion-dollar growth strategies from the world's top companies.
+- [[sites/claude.com|claude.com]] — How Claude Code works in large codebases: Best practices and where to start
+- [[sites/cofounder.co|cofounder.co]] — Run an entire company with AI agents.
+- [[sites/coldiq.com|coldiq.com]] — We build B2B revenue engines with the most advanced GTM software — leveraging AI & tech to scale and automate go-to-market.
+- [[sites/creao.ai|creao.ai]] — CREAO builds AI agents that run your work — they plug into your existing tools, learn how you operate, and compound your knowledge around the clock.
+- [[sites/crustdata.com|crustdata.com]] — People and Company Search for AI
+- [[sites/davekrugman.com|davekrugman.com]] — Photographer, writer, and digital artist. Creating work at the intersection of technology and art.
+- [[sites/daytona.io|daytona.io]] — Run AI Code on Daytona
+- [[sites/deel.com|deel.com]] — Hire, manage, pay, & equip anyone, anywhere.
+- [[sites/eko.lumaris.works|eko.lumaris.works]] — All the tiny tasks that eat your day, done in seconds.
+- [[sites/geniusmargins.com|geniusmargins.com]] — Simple ways to think better, do more, and find hidden chances.
+- [[sites/hofai.io|hofai.io]] — AI öğrenmenin en keyifli yolu. (the most enjoyable way to learn AI)
+- [[sites/jenni.ai|jenni.ai]] — Jenni is an AI research and academic writing assistant that helps students, researchers, and academics create essays, papers, and citations with ease.
+- [[sites/juneoven.com|juneoven.com]] — I'm a full countertop smart kitchen with sizzle to spare.
+- [[sites/langchain.com|langchain.com]] — We're a growing team of builders making an outsized impact in our industry
+- [[sites/letters.thedankoe.com|letters.thedankoe.com]] — stay relevant
+- [[sites/linkeddit.com|linkeddit.com]] — The Ultimate Reddit Marketing Platform
+- [[sites/nehasharma.dev|nehasharma.dev]] — Software engineer sharing insights on React, Next.js, System Design, AI, and Accessibility — technical blogs, tutorials, and book recommendations.
+- [[sites/nyk.dev|nyk.dev]] — Builder, Shipper, Architect — Co-Founder & CEO @ Builderz
+- [[sites/outlandermag.com|outlandermag.com]] — Always First at Keeping You Tapped in To Fashion. Active In The Culture Since 2014.
+- [[sites/photon.codes|photon.codes]] — Bring Agents to the Interfaces Millions Already Use.
+- [[sites/ribbit.dk|ribbit.dk]] — Ribbit is a creative motion agency based in Copenhagen founded to create memorable and engaging animations and motion graphics.
+- [[sites/rork.com|rork.com]] — Be the next app founder
+- [[sites/ryancarson.com|ryancarson.com]] — Founder, CEO and Developer with 25 years experience building developer communities and startups.
+- [[sites/serif.sh|serif.sh]] — Create beautiful, shareable images of your favorite quotes. Choose from elegant serif-styled themes.
+- [[sites/shanemac.com|shanemac.com]] — Hi, I'm Shane Mac.
+- [[sites/shipper.now|shipper.now]] — Build apps by chatting to AI
+- [[sites/simple.ink|simple.ink]] — Turn your Notion page into your website in 1 minute — free, no-code, no credit card.
+- [[sites/stitch.withgoogle.com|stitch.withgoogle.com]] — Design at the speed of AI
+- [[sites/systematiclongshort.com|systematiclongshort.com]] — Understand how the game is played at the highest levels
+- [[sites/templatoria.com|templatoria.com]] — Handcrafted, launch-ready Framer templates designed for fast setup, easy customization, and real-world websites.
+- [[sites/the-cafelist.com|the-cafelist.com]] — A hand-curated guide to work-friendly coffee shops, across cities.
+- [[sites/theprohuman.ai|theprohuman.ai]] — Get AI tools and insights in minutes. Trusted by 700,000+ readers.
+- [[sites/thinkwithmark.com|thinkwithmark.com]] — Bookmarks, reinvented.
+- [[sites/tryponcho.com|tryponcho.com]] — Access 3000+ tools from one account with Poncho. Find data at machine speed, automate work, and skip setup, subscriptions, and API keys.
+- [[sites/typatone.com|typatone.com]] — The act of writing has always been an art. Now, it can also be an act of music.
+- [[sites/vanschneider.com|vanschneider.com]] — I create, therefore I am.
+- [[sites/varickagents.com|varickagents.com]] — Transform Your Enterprise With AI
+- [[sites/ytch.tv|ytch.tv]] — If Youtube had actual channels.
+
+**Related tech:** [[tech/meta-pixel|Meta Pixel]] [[tech/framer|Framer]] [[tech/google-fonts|Google Fonts]] [[tech/webflow|Webflow]] [[tech/cloudflare|Cloudflare]]

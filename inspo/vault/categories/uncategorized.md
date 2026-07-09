@@ -1,0 +1,53 @@
+# uncategorized
+_50 sites · hub type: categories_
+
+- [[sites/affiliatenetwork.com|affiliatenetwork.com]] — The #1 Affiliate Network for organic marketing.
+- [[sites/akira.sachi.dev|akira.sachi.dev]] — A modern starter with Next.js, Tailwind, ShadCN/ui, Motion, Drizzle, Postgres, Auth, Dodo Payments, and Resend.
+- [[sites/animations.dev|animations.dev]] — Learn the theory and practice behind great animations with this interactive learning experience.
+- [[sites/arneshbanerjee.github.io|arneshbanerjee.github.io]] — I like to train models, build agents, and tinker with multi-agent systems for autonomy and safety.
+- [[sites/backdoorai.app|backdoorai.app]] — Land interviews with your dream startups, on autopilot.
+- [[sites/bird.onethreenine.net|bird.onethreenine.net]] — A tiny microphone on my apartment balcony listens around the clock — realtime bird recognition via Cornell's BirdNET. NVIDIA ShadowPlay, but for birdsong.
+- [[sites/cafe.endofday.studio|cafe.endofday.studio]] — A warm, illustrated virtual café with a timer, lofi music and a leave-someone-a-coffee gift mechanic.
+- [[sites/cofounder.co|cofounder.co]] — Run an entire company with AI agents.
+- [[sites/coldiq.com|coldiq.com]] — We build B2B revenue engines with the most advanced GTM software — leveraging AI & tech to scale and automate go-to-market.
+- [[sites/colf.dev|colf.dev]] — Prompt solutions to algorithmic problems with the fewest tokens.
+- [[sites/coolsites.ai|coolsites.ai]] — Cause everyone deserves a good Fu*king Website
+- [[sites/creao.ai|creao.ai]] — CREAO builds AI agents that run your work — they plug into your existing tools, learn how you operate, and compound your knowledge around the clock.
+- [[sites/daryl.cv|daryl.cv]] — A self-taught designer and developer from Australia.
+- [[sites/deel.com|deel.com]] — Hire, manage, pay, & equip anyone, anywhere.
+- [[sites/designrebuilds.vercel.app|designrebuilds.vercel.app]] — Watch my components — a numbered set of UI component rebuilds.
+- [[sites/eko.lumaris.works|eko.lumaris.works]] — All the tiny tasks that eat your day, done in seconds.
+- [[sites/fey.com|fey.com]] — Make better investments.
+- [[sites/flowstate.com|flowstate.com]] — Master Flow State to Sharpen Focus, Multiply Output, and Operate at Peak Performance.
+- [[sites/heyneuma.com|heyneuma.com]] — Build your ideas by talking to AI.
+- [[sites/humanoid-index.com|humanoid-index.com]] — A comprehensive visual index of humanoid robots.
+- [[sites/itshover.com|itshover.com]] — Animated icons that move with intent.
+- [[sites/jenni.ai|jenni.ai]] — Jenni is an AI research and academic writing assistant that helps students, researchers, and academics create essays, papers, and citations with ease.
+- [[sites/juneoven.com|juneoven.com]] — I'm a full countertop smart kitchen with sizzle to spare.
+- [[sites/kmk0.com|kmk0.com]] — Making websites is my passion. Here's a quick view to what I am working on and links to relevant projects.
+- [[sites/langchain.com|langchain.com]] — We're a growing team of builders making an outsized impact in our industry
+- [[sites/lelezhang.design|lelezhang.design]] — Interactive drawing experiments and demos.
+- [[sites/letters.thedankoe.com|letters.thedankoe.com]] — stay relevant
+- [[sites/linkeddit.com|linkeddit.com]] — The Ultimate Reddit Marketing Platform
+- [[sites/maxibestof.one|maxibestof.one]] — The maxi best of design inspiration.
+- [[sites/maximin.design|maximin.design]] — Amplifying human capabilities with delightful & instinctual technology.
+- [[sites/mercuryos.com|mercuryos.com]] — Mercury is a speculative reimagining of the operating system as a fluid experience driven by human intent.
+- [[sites/nicelydone.club|nicelydone.club]] — Ship faster with proven UX flows from the world's best apps.
+- [[sites/nucleoapp.com|nucleoapp.com]] — Explore the Nucleo icons, 40000+ icons for UIs, presentations, and print projects. Download instantly or use them via our web and native apps.
+- [[sites/nyk.dev|nyk.dev]] — Builder, Shipper, Architect — Co-Founder & CEO @ Builderz
+- [[sites/patterncraft.fun|patterncraft.fun]] — Create stunning websites with our curated collection of 100+ modern CSS background patterns and gradients.
+- [[sites/roam.neesh.page|roam.neesh.page]] — An infinite canvas for browsing well-designed objects.
+- [[sites/sensory-ui.com|sensory-ui.com]] — A semantic, opt-in sound layer for React and Next.js apps — meaningful audio feedback for UI, built for shadcn/ui.
+- [[sites/serif.sh|serif.sh]] — Create beautiful, shareable images of your favorite quotes. Choose from elegant serif-styled themes.
+- [[sites/synergyscale.co|synergyscale.co]] — Get 10+ qualified meetings in the next 30 days, or your money back.
+- [[sites/systematiclongshort.com|systematiclongshort.com]] — Understand how the game is played at the highest levels
+- [[sites/the-cafelist.com|the-cafelist.com]] — A hand-curated guide to work-friendly coffee shops, across cities.
+- [[sites/transitions.dev|transitions.dev]] — Collection of the most essential transitions for web apps that you can just copy and paste into any project.
+- [[sites/typatone.com|typatone.com]] — The act of writing has always been an art. Now, it can also be an act of music.
+- [[sites/type.lol|type.lol]] — Discover and explore independent type foundries from around the world. Browse 1,100+ foundries, 14,000+ typefaces, and 1,600+ designers.
+- [[sites/typo.love|typo.love]] — For all the words left unsaid.
+- [[sites/weirdfolders.com|weirdfolders.com]] — Custom Folder Icons for your Operative System, download a free pack or learn to make them yourself
+- [[sites/willmanidis.com|willmanidis.com]] — I live in New York. I founded ScienceIO, a language model provider, which we sold to a large EMR provider.
+- [[sites/ytch.tv|ytch.tv]] — If Youtube had actual channels.
+- [[sites/zendex.spyrosigma.in|zendex.spyrosigma.in]] — Mental models, patterns, and frameworks on thinking clearly, building well, and living with intention.
+- [[sites/zzz.zoomquilt.org|zzz.zoomquilt.org]] — A collaborative infinitely zooming painting.

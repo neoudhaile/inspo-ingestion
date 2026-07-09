@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.playwright-mcp/
+.DS_Store
+# pipeline transient/state (match wherever the project dir lives)
+_inbox/
+_backfill_attempted.json

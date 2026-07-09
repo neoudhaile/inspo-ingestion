@@ -1,0 +1,55 @@
+# developer-product
+_50 sites · hub type: aesthetics_
+
+- [[sites/12matcha.com|12matcha.com]] — 12 Matcha — Forever in Pursuit of Exquisite Matcha
+- [[sites/affiliatenetwork.com|affiliatenetwork.com]] — The #1 Affiliate Network for organic marketing.
+- [[sites/akira.sachi.dev|akira.sachi.dev]] — A modern starter with Next.js, Tailwind, ShadCN/ui, Motion, Drizzle, Postgres, Auth, Dodo Payments, and Resend.
+- [[sites/ashpreetbedi.com|ashpreetbedi.com]] — Founder & CEO of Agno. I write about software, AI, and the systems we build around them.
+- [[sites/bigideasdb.com|bigideasdb.com]] — Find Proven Problems. Build Your Next Successful Startup.
+- [[sites/christophlocher.com|christophlocher.com]] — I am an Interaction Designer living and working in Hamburg, Europe. My goal is making complex problems manageable through accessible abstractions.
+- [[sites/cofounder.co|cofounder.co]] — Run an entire company with AI agents.
+- [[sites/colf.dev|colf.dev]] — Prompt solutions to algorithmic problems with the fewest tokens.
+- [[sites/creao.ai|creao.ai]] — CREAO builds AI agents that run your work — they plug into your existing tools, learn how you operate, and compound your knowledge around the clock.
+- [[sites/davekrugman.com|davekrugman.com]] — Photographer, writer, and digital artist. Creating work at the intersection of technology and art.
+- [[sites/daytona.io|daytona.io]] — Run AI Code on Daytona
+- [[sites/deel.com|deel.com]] — Hire, manage, pay, & equip anyone, anywhere.
+- [[sites/ditther.com|ditther.com]] — Ditther — Browser-based Image Editor with Dither Effects
+- [[sites/eko.lumaris.works|eko.lumaris.works]] — All the tiny tasks that eat your day, done in seconds.
+- [[sites/fantasypresidentcareer.com|fantasypresidentcareer.com]] — An AI-powered political sandbox — type any policy and watch 24 voter personas, 32 stakeholder groups and all 50 states react in real time (derived from the hero; the page ships no meta description).
+- [[sites/fey.com|fey.com]] — Make better investments.
+- [[sites/gatheros.co|gatheros.co]] — The Mac app for design inspiration. Capture, organize, and find every reference without leaving your desktop.
+- [[sites/hofai.io|hofai.io]] — AI öğrenmenin en keyifli yolu. (the most enjoyable way to learn AI)
+- [[sites/hw.cafe|hw.cafe]] — >_ hello world
+- [[sites/itshover.com|itshover.com]] — Animated icons that move with intent.
+- [[sites/jenni.ai|jenni.ai]] — Jenni is an AI research and academic writing assistant that helps students, researchers, and academics create essays, papers, and citations with ease.
+- [[sites/juneoven.com|juneoven.com]] — I'm a full countertop smart kitchen with sizzle to spare.
+- [[sites/khairallah.xyz|khairallah.xyz]] — Hi, I'm Khairallah. I've been building software and digital products for years across blockchain, web3, and AI.
+- [[sites/kiira.in|kiira.in]] — Hi, I'm Keerthi — Visual Designer
+- [[sites/killedbyopenai.com|killedbyopenai.com]] — A graveyard tracking every OpenAI product, feature and API — alive, killed, or zombie (shipped but left to rot).
+- [[sites/lab01.dev|lab01.dev]] — Lab01 by Sebastiano Guerriero — a portfolio/lab of live front-end UI experiments (derived from the h1; the page ships no meta description).
+- [[sites/linkeddit.com|linkeddit.com]] — The Ultimate Reddit Marketing Platform
+- [[sites/midu.dev|midu.dev]] — Aprende IA y { Programación } sin saltar entre mil recursos
+- [[sites/mo1.app|mo1.app]] — like after effects, but it's fun
+- [[sites/motionsites.ai|motionsites.ai]] — Your Design AI Superpowers In One Click.
+- [[sites/nicelydone.club|nicelydone.club]] — Ship faster with proven UX flows from the world's best apps.
+- [[sites/nucleoapp.com|nucleoapp.com]] — Explore the Nucleo icons, 40000+ icons for UIs, presentations, and print projects. Download instantly or use them via our web and native apps.
+- [[sites/nyk.dev|nyk.dev]] — Builder, Shipper, Architect — Co-Founder & CEO @ Builderz
+- [[sites/objectives.md|objectives.md]] — # Objectives
+- [[sites/patterncraft.fun|patterncraft.fun]] — Create stunning websites with our curated collection of 100+ modern CSS background patterns and gradients.
+- [[sites/printingpress.dev|printingpress.dev]] — Welcome to the Printing Press. Print an agent-native CLI for any API, app, or site — from a single prompt.
+- [[sites/sensory-ui.com|sensory-ui.com]] — A semantic, opt-in sound layer for React and Next.js apps — meaningful audio feedback for UI, built for shadcn/ui.
+- [[sites/siddz.com|siddz.com]] — Full-Stack Developer & Software Engineer based in India — React, Next.js, TypeScript, Node.js.
+- [[sites/simple.ink|simple.ink]] — Turn your Notion page into your website in 1 minute — free, no-code, no credit card.
+- [[sites/sinceerly.com|sinceerly.com]] — Be sinceerly human
+- [[sites/spacetypegenerator.com|spacetypegenerator.com]] — "a kinetic type generator from kielm" — type a phrase and bend it through 3D space with dozens of live sliders and presets.
+- [[sites/spyrosigma.in|spyrosigma.in]] — Backend AI Engineer @ezAIx — building production AI systems, RAG pipelines, and multi-agent orchestration.
+- [[sites/synergyscale.co|synergyscale.co]] — Get 10+ qualified meetings in the next 30 days, or your money back.
+- [[sites/thinkwithmark.com|thinkwithmark.com]] — Bookmarks, reinvented.
+- [[sites/todesktop.com|todesktop.com]] — Release, Secure and Scale your Electron App.
+- [[sites/transitions.dev|transitions.dev]] — Collection of the most essential transitions for web apps that you can just copy and paste into any project.
+- [[sites/varickagents.com|varickagents.com]] — Transform Your Enterprise With AI
+- [[sites/vercel.com|vercel.com]] — Build and deploy on the AI Cloud.
+- [[sites/ytch.tv|ytch.tv]] — If Youtube had actual channels.
+- [[sites/zendex.spyrosigma.in|zendex.spyrosigma.in]] — Mental models, patterns, and frameworks on thinking clearly, building well, and living with intention.
+
+**Related aesthetics:** [[aesthetics/dark|dark]] [[aesthetics/light|light]] [[aesthetics/portfolio|portfolio]] [[aesthetics/editorial|editorial]] [[aesthetics/minimal|minimal]]

@@ -1,0 +1,2010 @@
+# bestdesignsonx.com — full dump
+
+Every entry from [bestdesignsonx.com](https://bestdesignsonx.com/), fetched 2026-05-28 from the site's public Supabase feed (`bestdesignsonx` table). Each row is a design-focused tweet curated by the site.
+
+Format: `- [@handle](x-link) — first line of tweet text · 👁 views ❤ likes 🔖 bookmarks · YYYY-MM-DD`
+
+Sorted newest first (by `published_at`).
+
+---
+
+- [@me_Jahanvi](https://x.com/me_Jahanvi) · [tweet](https://x.com/me_Jahanvi/status/1920090996525719773) — Okay, how about a 'Date of Birth' field that shows your Zodiac sign as soon as you input the month?  · 👁 11169 ❤ 174 🔖 42 · 
+- [@narative](https://x.com/narative) · [tweet](https://x.com/narative/status/1926473760388899124) — (no text) · 👁 11241 ❤ 261 🔖 47 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/1921913095049392426) — Details  · 👁 19561 ❤ 342 🔖 222 · 
+- [@AsaadMahmood5](https://x.com/AsaadMahmood5) · [tweet](https://x.com/AsaadMahmood5/status/1926963546018959820) — Thoughts on the UI and animation so far? · 👁 5595 ❤ 220 🔖 76 · 
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/1919070013484318855) — Swift and Rive is the perfect combo · 👁 19714 ❤ 333 🔖 180 · 
+- [@arvsrn](https://x.com/arvsrn) · [tweet](https://x.com/arvsrn/status/1920048461543567494) — (no text) · 👁 4215 ❤ 86 🔖 46 · 
+- [@tejashinduja](https://x.com/tejashinduja) · [tweet](https://x.com/tejashinduja/status/1921962069273858222) — ✜ buttons · 👁 15382 ❤ 330 🔖 148 · 
+- [@aleksliving](https://x.com/aleksliving) · [tweet](https://x.com/aleksliving/status/1922037459589746930) — fun proto from today (inspired by the apple watch) · 👁 9163 ❤ 207 🔖 57 · 
+- [@samstooff](https://x.com/samstooff) · [tweet](https://x.com/samstooff/status/1920090991253405919) — It is live!  · 👁 5947 ❤ 50 🔖 15 · 
+- [@pwign](https://x.com/pwign) · [tweet](https://x.com/pwign/status/1920268556358303862) — updated my plugin to one-click convert all the existing progressive blurs to Figma’s built in ones! · 👁 19468 ❤ 357 🔖 61 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1927340151874736287) — Available for projects →  · 👁 13299 ❤ 180 🔖 132 · 
+- [@barrettrmdesign](https://x.com/barrettrmdesign) · [tweet](https://x.com/barrettrmdesign/status/1924999333855789477) — Some lowercase "a" samples I've designed! Check out all my typefaces here: https://barrettrm.com · 👁 30043 ❤ 1173 🔖 357 · 
+- [@David_Visuals_](https://x.com/David_Visuals_) · [tweet](https://x.com/David_Visuals_/status/1920060250880672070) — Token Swap - Light mode  · 👁 11902 ❤ 232 🔖 97 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1923852968647934243) — Experimenting with animated bento cards. · 👁 126117 ❤ 2310 🔖 1091 · 
+- [@Praha37v](https://x.com/Praha37v) · [tweet](https://x.com/Praha37v/status/1922966985866141864) — This wasn’t supposed to be funny  · 👁 17551 ❤ 390 🔖 136 · 
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/1901925351229444325) — Clean · 👁 13724 ❤ 368 🔖 148 · 
+- [@___sujan](https://x.com/___sujan) · [tweet](https://x.com/___sujan/status/1922340017277477133) — Hey y'all. My role got terminated at Microsoft today so I am open to Product Design roles. I'm based in the East coast so preference is remote but open to hybrid in NYC or Philly. · 👁 2306 ❤ 23 🔖 10 · 
+- [@heyXdave](https://x.com/heyXdave) · [tweet](https://x.com/heyXdave/status/1921928371002572839) — daily standup tool designed with @shadcn ui automatically syncs GitHub PRs · 👁 80032 ❤ 787 🔖 727 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1921479639291056481) — Web development for an Australian fintech company, specialising in Web3 and AI technology · 👁 31448 ❤ 854 🔖 573 · 
+- [@BlessCreatics](https://x.com/BlessCreatics) · [tweet](https://x.com/BlessCreatics/status/1919986542371647743) — sbtrct // biz card exploration · 👁 16854 ❤ 538 🔖 147 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1924025732482875553) — (no text) · 👁 13186 ❤ 835 🔖 58 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/2053116529105932585) — Organized work folders for web · 👁 2128 ❤ 101 🔖 31 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1921914721399165201) — Brand sprint in progress for an AI-powered moving startup. Making moving simpler  · 👁 17115 ❤ 392 🔖 215 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1921481668684070992) — How do yo like me NOW!!! · 👁 43727 ❤ 1072 🔖 545 · 
+- [@MotionByLeo](https://x.com/MotionByLeo) · [tweet](https://x.com/MotionByLeo/status/1922354639384510582) — Damn I love this Branding  · 👁 30739 ❤ 876 🔖 459 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1921919829033787396) — 𝙻𝚘𝚛𝚍 𝚑𝚊𝚟𝚎 𝚖𝚎𝚛𝚌𝚢 𝚘𝚗 𝚖𝚎 · 👁 36300 ❤ 2383 🔖 266 · 
+- [@AdamBartas](https://x.com/AdamBartas) · [tweet](https://x.com/AdamBartas/status/1921460569020014857) — Would you hire an agency with this site? · 👁 26216 ❤ 617 🔖 361 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1921848319715729842) — Sidebar — Dark Mode  · 👁 5798 ❤ 106 🔖 44 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1922670069177340090) — Card explorations · 👁 15457 ❤ 512 🔖 216 · 
+- [@RalconStudio](https://x.com/RalconStudio) · [tweet](https://x.com/RalconStudio/status/1922860324887101665) — Most websites have a boring intro animation  · 👁 4052 ❤ 113 🔖 58 · 
+- [@bynneh](https://x.com/bynneh) · [tweet](https://x.com/bynneh/status/1923065093568463167) — WIP @framer template. · 👁 12633 ❤ 298 🔖 91 · 
+- [@seesawsite](https://x.com/seesawsite) · [tweet](https://x.com/seesawsite/status/1922705125166153738) — ThreeTools by @KMkota0 @olioliwork · 👁 1580 ❤ 20 🔖 5 · 
+- [@ferreira_zander](https://x.com/ferreira_zander) · [tweet](https://x.com/ferreira_zander/status/1917468459925135686) — Our animators are cooking  · 👁 14349 ❤ 384 🔖 149 · 
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/1921812136671793479) — Sweet icon hover animation on Supabase  · 👁 2544 ❤ 58 🔖 19 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1925189652182614203) — just recreated this perfect minimalistic text selection tooltip in @framer · 👁 3590 ❤ 77 🔖 14 · 
+- [@Amin__turki](https://x.com/Amin__turki) · [tweet](https://x.com/Amin__turki/status/1922878926549905806) — Portfolio landing page design  · 👁 52170 ❤ 958 🔖 606 · 
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/1922647279011311892) — time for a new @framer template · 👁 6108 ❤ 159 🔖 101 · 
+- [@_joshbendall](https://x.com/_joshbendall) · [tweet](https://x.com/_joshbendall/status/1922548018835816810) — PAPER.03_SBS · 👁 10068 ❤ 314 🔖 81 · 
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/1923008859385352386) — light mode for Method, my latest @framer template ☀︎ · 👁 5319 ❤ 211 🔖 97 · 
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/1923019789498241534) — me: just ship this app, no time for details · 👁 2579 ❤ 34 🔖 5 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1924473249284432064) — mobile concept @intrfacer · 👁 15067 ❤ 527 🔖 269 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1923740539339370653) — Suvd Lkha · 👁 147176 ❤ 5149 🔖 1564 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1932046206881968500) — The Ještěd Tower. A television transmitter and also a hotel on top of Mount Ještěd, not far from the Polish and German border. It is one of my most favourite architecture landmarks of my country.  · 👁 3561 ❤ 89 🔖 22 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1928813705707311195) — Did I cook? · 👁 13715 ❤ 407 🔖 156 · 
+- [@robhope](https://x.com/robhope) · [tweet](https://x.com/robhope/status/1917949614143214021) — Well @envato (labs) just dropped the freshest design inspo resource I've seen in ages. It's called InspoGen. · 👁 0 ❤ 0 🔖 0 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1922908083002519739) — lil bit of yellows and reds · 👁 25533 ❤ 916 🔖 246 · 
+- [@cedric_design](https://x.com/cedric_design) · [tweet](https://x.com/cedric_design/status/1924137150624452775) — Was bored today. · 👁 12676 ❤ 173 🔖 85 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1923731519845130632) — grain & gradient @intrfacer · 👁 8032 ❤ 231 🔖 82 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1922622926332833960) —  · 👁 6951 ❤ 204 🔖 58 · 
+- [@MeschacIrung](https://x.com/MeschacIrung) · [tweet](https://x.com/MeschacIrung/status/1920063167012438476) — Me : I want it to be simple  · 👁 7799 ❤ 191 🔖 75 · 
+- [@KomboMatt](https://x.com/KomboMatt) · [tweet](https://x.com/KomboMatt/status/1922615505489219852) — 3D asset created in Blender and textured in Substance Painter as part of a personal learning project. · 👁 2307 ❤ 96 🔖 23 · 
+- [@iamsahilvhora](https://x.com/iamsahilvhora) · [tweet](https://x.com/iamsahilvhora/status/1922914388555727005) — First sneak peek of the SaaS product I’m working on. · 👁 10676 ❤ 159 🔖 113 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1918656145201520766) — (no text) · 👁 10985 ❤ 437 🔖 76 · 
+- [@kuxshl](https://x.com/kuxshl) · [tweet](https://x.com/kuxshl/status/1922577416733462729) — ahh, black and white never misses! · 👁 28034 ❤ 415 🔖 157 · 
+- [@madebyvishesh](https://x.com/madebyvishesh) · [tweet](https://x.com/madebyvishesh/status/1921950998085488849) — Ladinel® — Biz Card Exploration · 👁 11127 ❤ 375 🔖 107 · 
+- [@adhiraj_OTW](https://x.com/adhiraj_OTW) · [tweet](https://x.com/adhiraj_OTW/status/1924819900960317832) — adding a tiny bit of motion to my skills · 👁 7331 ❤ 208 🔖 73 · 
+- [@stefbrucedesign](https://x.com/stefbrucedesign) · [tweet](https://x.com/stefbrucedesign/status/1922290766468284550) — Latest moodboard for client project · 👁 17493 ❤ 341 🔖 170 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1921459677356777581) — in love with this font · 👁 50960 ❤ 1049 🔖 808 · 
+- [@RamyWafaa](https://x.com/RamyWafaa) · [tweet](https://x.com/RamyWafaa/status/1924511583746523429) — A small update to Blueprint collection, adding an icon set for Ai agents and generative content. · 👁 15341 ❤ 397 🔖 185 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1924026984189018221) — gooey tabs in @framer. · 👁 12519 ❤ 369 🔖 162 · 
+- [@felixhhaas](https://x.com/felixhhaas) · [tweet](https://x.com/felixhhaas/status/1929452774023909544) — spread the love · 👁 46293 ❤ 806 🔖 540 · 
+- [@framer](https://x.com/framer) · [tweet](https://x.com/framer/status/1925231546942025907) —  See you in 15. Tune in now, join the live chat, and "stick" around for a special gift at the end. · 👁 14210 ❤ 66 🔖 7 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1923622448278405386) — rejected visual identity · 👁 8540 ❤ 151 🔖 69 · 
+- [@wladuiux](https://x.com/wladuiux) · [tweet](https://x.com/wladuiux/status/1923764189375472128) — another small detail of the dynamic island · 👁 4983 ❤ 114 🔖 13 · 
+- [@natkohasic](https://x.com/natkohasic) · [tweet](https://x.com/natkohasic/status/1928051878387925341) — (no text) · 👁 4898 ❤ 95 🔖 26 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1924759528048091456) — WIP  · 👁 6129 ❤ 143 🔖 50 · 
+- [@z3dsy](https://x.com/z3dsy) · [tweet](https://x.com/z3dsy/status/1929772264276242554) — Securely vpn · 👁 17552 ❤ 387 🔖 238 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1929729433151459521) — Micro-interactions in @framer by @hxmzaehsan · 👁 340 ❤ 6 🔖 4 · 
+- [@apostraphi](https://x.com/apostraphi) · [tweet](https://x.com/apostraphi/status/1929583945139576862) — stay curious · 👁 13017 ❤ 470 🔖 79 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1929485659410158072) — Offers  · 👁 18520 ❤ 279 🔖 158 · 
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/1921944936666021931) — Staking Panel  · 👁 10066 ❤ 162 🔖 55 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1918315325726331228) — Updated the work page on http://logotype.org · 👁 4515 ❤ 83 🔖 13 · 
+- [@ItsAmmarHassan](https://x.com/ItsAmmarHassan) · [tweet](https://x.com/ItsAmmarHassan/status/1928056658946838650) — Finally cooked up a 99.8% pure batch  · 👁 3695 ❤ 90 🔖 14 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1917170910898913581) — Floating navbar · 👁 9286 ❤ 181 🔖 66 · 
+- [@orinfitzgerald](https://x.com/orinfitzgerald) · [tweet](https://x.com/orinfitzgerald/status/1928379351785239023) — testimonial cycler for my upcoming @framer template · 👁 4764 ❤ 162 🔖 56 · 
+- [@sentrix_exe](https://x.com/sentrix_exe) · [tweet](https://x.com/sentrix_exe/status/1929532499459543348) — Onboarding screen   · 👁 13662 ❤ 357 🔖 144 · 
+- [@nonzeroexitcode](https://x.com/nonzeroexitcode) · [tweet](https://x.com/nonzeroexitcode/status/1929615716115726807) — animating weight... i love variable fonts · 👁 87390 ❤ 1374 🔖 609 · 
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/1927010479278317655) — Interface Selection Sidebar / Dark mode · 👁 19166 ❤ 373 🔖 251 · 
+- [@meodai](https://x.com/meodai) · [tweet](https://x.com/meodai/status/1928036164931334175) — I still work on RYBitten · 👁 5235 ❤ 179 🔖 63 · 
+- [@jakubzegzulka](https://x.com/jakubzegzulka) · [tweet](https://x.com/jakubzegzulka/status/1924477898897142243) — 3D User Interface · 👁 219688 ❤ 3279 🔖 1491 · 
+- [@hxmzaehsan](https://x.com/hxmzaehsan) · [tweet](https://x.com/hxmzaehsan/status/1927687579278745619) — Micro-interactions in @framer are just beautiful. · 👁 21562 ❤ 431 🔖 207 · 
+- [@dchernyshuk](https://x.com/dchernyshuk) · [tweet](https://x.com/dchernyshuk/status/1927729957335154850) — Micro-interaction scroll-section for a client · 👁 8042 ❤ 222 🔖 84 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1927380372037263482) — No mockups. Just brand design, as it is  · 👁 11886 ❤ 316 🔖 141 · 
+- [@damiantolv](https://x.com/damiantolv) · [tweet](https://x.com/damiantolv/status/1930623876737978514) — Hey @framer template creators, · 👁 29644 ❤ 494 🔖 285 · 
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/1922620459473875161) —  We're cooking w/@necatikcl at @LueStudio · 👁 8247 ❤ 213 🔖 95 · 
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/1929587940595831028) — Working on a general purpose toolbar component and also wrote a lil something about how I built it so far. · 👁 13055 ❤ 382 🔖 232 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1924309091767455888) — Jewellery logo! · 👁 4732 ❤ 197 🔖 51 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1929601179891519650) — Shopify, but without the “template” feel · 👁 12258 ❤ 310 🔖 196 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1921476952034095420) — 𝚝𝚑𝚎𝚛𝚎 𝚒𝚜 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚒𝚖𝚎 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐. · 👁 26719 ❤ 1319 🔖 162 · 
+- [@asallen](https://x.com/asallen) · [tweet](https://x.com/asallen/status/1928504639059841086) — Best part of making a camera app is designing all the fun iconography. · 👁 14610 ❤ 380 🔖 98 · 
+- [@nerooeth](https://x.com/nerooeth) · [tweet](https://x.com/nerooeth/status/1928039483477307796) — Which one do you prefer · 👁 23338 ❤ 600 🔖 196 · 
+- [@MarkKnd](https://x.com/MarkKnd) · [tweet](https://x.com/MarkKnd/status/1928200087341019262) — Wooah · 👁 6205 ❤ 74 🔖 31 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1928416795230155255) — Mini task creator widget · 👁 9594 ❤ 143 🔖 70 · 
+- [@_desaina](https://x.com/_desaina) · [tweet](https://x.com/_desaina/status/1917983141970509907) — 008 // Weekly Meal Plan  · 👁 90301 ❤ 1330 🔖 819 · 
+- [@chmielwork](https://x.com/chmielwork) · [tweet](https://x.com/chmielwork/status/1928533960239284722) — extra spicy story about designer who dreams about pixels · 👁 16857 ❤ 92 🔖 80 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/2046248775757258924) — widgets · 👁 63390 ❤ 740 🔖 577 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1922546106702979294) — Ariel Childs Branding · 👁 12081 ❤ 332 🔖 143 · 
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/1924003617503097108) — (no text) · 👁 8704 ❤ 204 🔖 26 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1924778899298517156) — Music Road · 👁 32982 ❤ 848 🔖 256 · 
+- [@yashwanth941v](https://x.com/yashwanth941v) · [tweet](https://x.com/yashwanth941v/status/1921301754680840621) — "About us" page redesign experiment for @zen_browser  · 👁 14876 ❤ 194 🔖 94 · 
+- [@RamyWafaa](https://x.com/RamyWafaa) · [tweet](https://x.com/RamyWafaa/status/1927021460645618033) — Activities icons and illustrations set from blueprint collection is finally done, this one will add 100 new drawings. · 👁 11693 ❤ 225 🔖 83 · 
+- [@nonzeroexitcode](https://x.com/nonzeroexitcode) · [tweet](https://x.com/nonzeroexitcode/status/1923833027286663321) — learning a lot of german today · 👁 738 ❤ 15 🔖 4 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1922994675260027075) — moments · 👁 3020 ❤ 98 🔖 15 · 
+- [@uxmariam](https://x.com/uxmariam) · [tweet](https://x.com/uxmariam/status/1928199770549424497) — Components – B2C mobile app · 👁 539 ❤ 19 🔖 2 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1923987078150295942) — Don't miss it! · 👁 65741 ❤ 1188 🔖 534 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1924088787690549440) — One from the drafts. Part of a branding project for a Bali-based client. · 👁 481 ❤ 10 🔖 0 · 
+- [@studio__aaa](https://x.com/studio__aaa) · [tweet](https://x.com/studio__aaa/status/1928449551599325325) — dither boy · 👁 1522 ❤ 54 🔖 6 · 
+- [@frannyfx](https://x.com/frannyfx) · [tweet](https://x.com/frannyfx/status/1930959529421812098) — Users can finally track a specific amount without using a container, though I must say the UI for the containers is a lot more whimsical  · 👁 24964 ❤ 490 🔖 315 · 
+- [@dorukkavcioglu](https://x.com/dorukkavcioglu) · [tweet](https://x.com/dorukkavcioglu/status/1929517298991132836) — infinite motion · 👁 746 ❤ 19 🔖 0 · 
+- [@TrippleOh7](https://x.com/TrippleOh7) · [tweet](https://x.com/TrippleOh7/status/1923709083665781149) — Toast exploration inspired by @tejashinduja  · 👁 10831 ❤ 138 🔖 57 · 
+- [@Piqostudio](https://x.com/Piqostudio) · [tweet](https://x.com/Piqostudio/status/1924110224706732527) — New Menu!  · 👁 9388 ❤ 300 🔖 164 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1928257939741233603) — Scroll inertia meets mesh distortion. · 👁 268 ❤ 4 🔖 0 · 
+- [@EllieExalt](https://x.com/EllieExalt) · [tweet](https://x.com/EllieExalt/status/1927387951903764852) — Very refined and very, very clean   · 👁 43094 ❤ 521 🔖 533 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1918636666207539625) —  · 👁 11078 ❤ 457 🔖 212 · 
+- [@kargulstudio](https://x.com/kargulstudio) · [tweet](https://x.com/kargulstudio/status/2016233416933478807) — (no text) · 👁 16847 ❤ 71 🔖 34 · 
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/1923814026359767244) — I love details · 👁 8284 ❤ 200 🔖 82 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1923124846214439328) — Self initiated project for The Minimalist  · 👁 1228 ❤ 41 🔖 0 · 
+- [@EllieExalt](https://x.com/EllieExalt) · [tweet](https://x.com/EllieExalt/status/1922343928268829104) — So good you just want to copy it....  · 👁 36728 ❤ 557 🔖 425 · 
+- [@dchernyshuk](https://x.com/dchernyshuk) · [tweet](https://x.com/dchernyshuk/status/1926683331950776642) — Feeling fancy with micro-interactions · 👁 8085 ❤ 210 🔖 101 · 
+- [@eduardbodak](https://x.com/eduardbodak) · [tweet](https://x.com/eduardbodak/status/1919384219643518985) — My Portfolio is live! · 👁 34199 ❤ 705 🔖 497 · 
+- [@domi_kissi](https://x.com/domi_kissi) · [tweet](https://x.com/domi_kissi/status/1930877406744604781) — Just finished this boarding pass design  · 👁 56594 ❤ 985 🔖 575 · 
+- [@solisolsoli](https://x.com/solisolsoli) · [tweet](https://x.com/solisolsoli/status/1924004527373713786) — By mendezmendez · 👁 122051 ❤ 4306 🔖 384 · 
+- [@MeschacIrung](https://x.com/MeschacIrung) · [tweet](https://x.com/MeschacIrung/status/1930989022999900670) — two tabs @serhii_be · 👁 5191 ❤ 146 🔖 56 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1918253813481570447) — Album · 👁 22083 ❤ 498 🔖 181 · 
+- [@Angeltl_design](https://x.com/Angeltl_design) · [tweet](https://x.com/Angeltl_design/status/1925531067215487062) — Recent exploration for a new creatine brand  · 👁 9057 ❤ 194 🔖 92 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1924957342300348855) — Building more isometric components in @figma · 👁 5112 ❤ 131 🔖 31 · 
+- [@lovishotherdays](https://x.com/lovishotherdays) · [tweet](https://x.com/lovishotherdays/status/1919061983145627718) — [b/p] palette was so fresh on this one, colour and taste—got a better veggie name for a hex? drop it below  · 👁 55726 ❤ 1471 🔖 939 · 
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/1924837420089958451) — Filter tree – Market  · 👁 13495 ❤ 196 🔖 136 · 
+- [@apostraphi](https://x.com/apostraphi) · [tweet](https://x.com/apostraphi/status/1929381108111560889) — what will you discover? · 👁 7885 ❤ 273 🔖 48 · 
+- [@fahlevidesign](https://x.com/fahlevidesign) · [tweet](https://x.com/fahlevidesign/status/1928354919234375904) — WIP @framer Template · 👁 1952 ❤ 69 🔖 24 · 
+- [@KomboMatt](https://x.com/KomboMatt) · [tweet](https://x.com/KomboMatt/status/1929799461376553136) — Book cover exploration in Blender and Cycles. · 👁 5580 ❤ 268 🔖 82 · 
+- [@ydwndr](https://x.com/ydwndr) · [tweet](https://x.com/ydwndr/status/1928791087130526173) — bottom menu · 👁 24034 ❤ 511 🔖 368 · 
+- [@sucodeee](https://x.com/sucodeee) · [tweet](https://x.com/sucodeee/status/1928386806182986050) — SwiftUI Fixed Tab · 👁 7939 ❤ 209 🔖 149 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1933540111909540054) — Size Customisation  · 👁 518 ❤ 15 🔖 7 · 
+- [@saisatvik_](https://x.com/saisatvik_) · [tweet](https://x.com/saisatvik_/status/1929531972474319159) — Rejected piece, Designed for a course-selling platform a while ago in @figma · 👁 45807 ❤ 1040 🔖 503 · 
+- [@jonathan_ravasz](https://x.com/jonathan_ravasz) · [tweet](https://x.com/jonathan_ravasz/status/1932218968603082948) — widgets are coming to visionOS — with a new three-dimensional style. · 👁 73511 ❤ 345 🔖 124 · 
+- [@raphaelsalaja](https://x.com/raphaelsalaja) · [tweet](https://x.com/raphaelsalaja/status/1917980032825201154) — built an api to pull my apple fitness data into my site · 👁 19231 ❤ 352 🔖 187 · 
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/1928093219394384361) — Trying to balance subtle decoration with function. · 👁 16045 ❤ 324 🔖 202 · 
+- [@me_Jahanvi](https://x.com/me_Jahanvi) · [tweet](https://x.com/me_Jahanvi/status/1929482450956116001) — Tab selection interaction, but with lil' twist and turns ‍ · 👁 3580 ❤ 96 🔖 19 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1932079485219635438) — Who doesn't love orange brandings?  · 👁 4223 ❤ 185 🔖 82 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1932681200499597480) — add collaborators to the shopping list · 👁 22736 ❤ 431 🔖 155 · 
+- [@deaconu_victor](https://x.com/deaconu_victor) · [tweet](https://x.com/deaconu_victor/status/1931103084417102223) — I can't get tired of that bounce. · 👁 6482 ❤ 125 🔖 50 · 
+- [@soltwagner](https://x.com/soltwagner) · [tweet](https://x.com/soltwagner/status/1921777375249129797) — Personal Portfolio Home Page Template for Framer  · 👁 11817 ❤ 196 🔖 141 · 
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/1930626395815759959) — Folder / Hover Animation Concept · 👁 18529 ❤ 479 🔖 268 · 
+- [@tyka_dominik](https://x.com/tyka_dominik) · [tweet](https://x.com/tyka_dominik/status/1929468794658857272) — light mode  · 👁 56608 ❤ 549 🔖 429 · 
+- [@ln_dev7](https://x.com/ln_dev7) · [tweet](https://x.com/ln_dev7/status/1929192039972819416) — Animated Counter  · 👁 11057 ❤ 377 🔖 183 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1931354233028387059) — Super Frisson  · 👁 9534 ❤ 299 🔖 141 · 
+- [@virgil_pana](https://x.com/virgil_pana) · [tweet](https://x.com/virgil_pana/status/1932659468648521845) — Expandable Notification Toast with timer · 👁 15980 ❤ 470 🔖 379 · 
+- [@_doitvik](https://x.com/_doitvik) · [tweet](https://x.com/_doitvik/status/1927262719217897783) — Editorial layout + images with motion blur  · 👁 16646 ❤ 498 🔖 218 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1926280832844435604) — 18 · 👁 25581 ❤ 200 🔖 90 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1921565325692162403) — For your inspirations :: Blue · 👁 6914 ❤ 231 🔖 93 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1929776309388931112) — job hunting, redefined by matches / interaction · 👁 26933 ❤ 792 🔖 473 · 
+- [@oliver_gareis](https://x.com/oliver_gareis) · [tweet](https://x.com/oliver_gareis/status/1925618707058835804) — I designed some editorial layout concepts for the Pharrell Williams Dark Tour 2025 · 👁 59040 ❤ 1476 🔖 775 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1929553591947362435) — brighter colors · 👁 12351 ❤ 247 🔖 152 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1932112146781147156) — Brand guide design in the works · 👁 86076 ❤ 1733 🔖 1321 · 
+- [@EllieExalt](https://x.com/EllieExalt) · [tweet](https://x.com/EllieExalt/status/1930971189595259059) — Clean designs on a Friday never felt so good  · 👁 15219 ❤ 210 🔖 160 · 
+- [@emilkowalski_](https://x.com/emilkowalski_) · [tweet](https://x.com/emilkowalski_/status/1928140156151775421) — Animated navigation at Linear with Radix's Navigation Menu · 👁 49293 ❤ 1014 🔖 442 · 
+- [@JanLosert](https://x.com/JanLosert) · [tweet](https://x.com/JanLosert/status/1921916290488254497) — Fun @webflow build from last year with @dmcgco's designs, yet again!  This time with almost a vintage touch of world clocks, 2 separate columns to scroll and his signature box-y style. Very refreshing · 👁 1904 ❤ 65 🔖 18 · 
+- [@nitishkmrk](https://x.com/nitishkmrk) · [tweet](https://x.com/nitishkmrk/status/1928339592362742245) — quick paste interaction ⎯⟡° · 👁 12696 ❤ 340 🔖 136 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1928311439573295167) — prospera logo! · 👁 1505 ❤ 77 🔖 21 · 
+- [@nuevo_tokyo](https://x.com/nuevo_tokyo) · [tweet](https://x.com/nuevo_tokyo/status/1917420007002374540) — AgBr V1.1 IS OUT! · 👁 0 ❤ 0 🔖 0 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1928162981751226625) — That’s how you make comments actually scrollable ‍ · 👁 31265 ❤ 996 🔖 677 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1929123576004722952) — Time picker block  · 👁 11105 ❤ 408 🔖 245 · 
+- [@kubadesign](https://x.com/kubadesign) · [tweet](https://x.com/kubadesign/status/1928362650271989801) — that's your reminder to do your design warmup  · 👁 145067 ❤ 588 🔖 354 · 
+- [@_joshbendall](https://x.com/_joshbendall) · [tweet](https://x.com/_joshbendall/status/1917900329141821494) — April Recap! · 👁 2750 ❤ 125 🔖 47 · 
+- [@_catwu](https://x.com/_catwu) · [tweet](https://x.com/_catwu/status/1918017844375371947) — Big news: Claude Code is now included in the Claude Max subscription! · 👁 463282 ❤ 1448 🔖 392 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1924905735793570048) — From the Feature section of the website / Bento Cards: · 👁 9638 ❤ 129 🔖 60 · 
+- [@jakelogancondon](https://x.com/jakelogancondon) · [tweet](https://x.com/jakelogancondon/status/1923812355625857057) — Wunder. #atoz · 👁 22565 ❤ 506 🔖 159 · 
+- [@tranmautritam](https://x.com/tranmautritam) · [tweet](https://x.com/tranmautritam/status/1930547355709042903) — 16 Cute Monster 3D Icons  · 👁 101505 ❤ 1459 🔖 928 · 
+- [@bricksdept](https://x.com/bricksdept) · [tweet](https://x.com/bricksdept/status/1918357718319984710) — Intro to my latest YouTube tutorial  · 👁 71624 ❤ 1509 🔖 926 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1927618625621418213) — hero sections that we love · 👁 44027 ❤ 1263 🔖 776 · 
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/2043192703463117004) — meetings management card · 👁 3114 ❤ 120 🔖 50 · 
+- [@mojapoly](https://x.com/mojapoly) · [tweet](https://x.com/mojapoly/status/1932407986829582760) — Motion 46 · 👁 11740 ❤ 596 🔖 112 · 
+- [@byamine__](https://x.com/byamine__) · [tweet](https://x.com/byamine__/status/1932035013307940967) — cypher look on mockups · 👁 20745 ❤ 399 🔖 150 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1928070990724006362) — Dark mode toggle made in @figma  · 👁 1023 ❤ 21 🔖 0 · 
+- [@fusionpx](https://x.com/fusionpx) · [tweet](https://x.com/fusionpx/status/1926405347960402311) — triodelabs - brand concept · 👁 3310 ❤ 72 🔖 29 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1923182536823279852) — What time is it? · 👁 1161 ❤ 18 🔖 3 · 
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/1930620891152736664) —  Send Asset Flow · 👁 32401 ❤ 438 🔖 321 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1928461643979128979) — Just some branding design  · 👁 9772 ❤ 284 🔖 118 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1926976514467209494) — (no text) · 👁 9895 ❤ 184 🔖 127 · 
+- [@jajacreatives](https://x.com/jajacreatives) · [tweet](https://x.com/jajacreatives/status/1929302447928856820) — From Haseeb Madeit branding · 👁 18199 ❤ 352 🔖 169 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1928442627604783517) — Hey, where is my client?  · 👁 12078 ❤ 191 🔖 108 · 
+- [@cammmsky](https://x.com/cammmsky) · [tweet](https://x.com/cammmsky/status/1926924518548791736) — New work,  · 👁 3205 ❤ 81 🔖 31 · 
+- [@imskyleen](https://x.com/imskyleen) · [tweet](https://x.com/imskyleen/status/1929636016689676308) — Announcing Animated Icons in Alpha on @animate_ui  · 👁 20789 ❤ 341 🔖 351 · 
+- [@Barbapapapps](https://x.com/Barbapapapps) · [tweet](https://x.com/Barbapapapps/status/1928080708750176297) —  smooth · 👁 8968 ❤ 219 🔖 100 · 
+- [@Iconlypro](https://x.com/Iconlypro) · [tweet](https://x.com/Iconlypro/status/1929546044599419111) — Animation icons!  · 👁 5559 ❤ 154 🔖 50 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1923886490536329643) — I would say this "Smooth asf" · 👁 85496 ❤ 1613 🔖 933 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1928436307241439506) — Speech to text @intrfacer · 👁 4014 ❤ 105 🔖 39 · 
+- [@awwwards](https://x.com/awwwards) · [tweet](https://x.com/awwwards/status/1931622878585164217) — Today’s #SOTD goes to @Holographikco for "Trawelt". · 👁 3330 ❤ 40 🔖 9 · 
+- [@greglalle](https://x.com/greglalle) · [tweet](https://x.com/greglalle/status/1919678426341900595) — Custom anchor link transition system to avoid long page scroll, from our last work for the new @Quechua SS25 Lookbook by @Decathlon  · 👁 4124 ❤ 189 🔖 81 · 
+- [@alisamadi__](https://x.com/alisamadi__) · [tweet](https://x.com/alisamadi__/status/1929553677385408691) — Made with Motion & Tailwind CSS · 👁 7438 ❤ 286 🔖 128 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1918225184844333257) — Brand concept. · 👁 12808 ❤ 326 🔖 154 · 
+- [@bnj](https://x.com/bnj) · [tweet](https://x.com/bnj/status/1914386344329293935) — 100% true...for now · 👁 153396 ❤ 1197 🔖 852 · 
+- [@Ishanzaad](https://x.com/Ishanzaad) · [tweet](https://x.com/Ishanzaad/status/1928480541235405056) — Music player card - Visual exploration · 👁 26323 ❤ 598 🔖 244 · 
+- [@barrettrmdesign](https://x.com/barrettrmdesign) · [tweet](https://x.com/barrettrmdesign/status/1928625219893067935) — A few uppercase B experimental letterforms · 👁 24865 ❤ 952 🔖 242 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1929493120174973435) — Time picker block  · 👁 16058 ❤ 563 🔖 451 · 
+- [@nonzeroexitcode](https://x.com/nonzeroexitcode) · [tweet](https://x.com/nonzeroexitcode/status/1931040444189716894) — you can create some pretty cool loaders using only ascii · 👁 33187 ❤ 952 🔖 492 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1931772412829254022) — Kurpa Hosk Type · 👁 24578 ❤ 751 🔖 256 · 
+- [@MarkKnd](https://x.com/MarkKnd) · [tweet](https://x.com/MarkKnd/status/1930308388052754620) — Branding in progress · 👁 10086 ❤ 186 🔖 68 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/1928437126040875262) — Very close · 👁 26595 ❤ 395 🔖 284 · 
+- [@sterlingand_co](https://x.com/sterlingand_co) · [tweet](https://x.com/sterlingand_co/status/1918355521586844134) — Zephyr x Neson Z1 keyboard with GMK Expo keycaps · 👁 8672 ❤ 199 🔖 17 · 
+- [@RamyWafaa](https://x.com/RamyWafaa) · [tweet](https://x.com/RamyWafaa/status/1929502304702500922) — Grab the latest free Icons set fromt he Sharpie collection, 25 Valentine icons available now exclusively on Getillustrations  · 👁 1808 ❤ 73 🔖 17 · 
+- [@uiuxarih](https://x.com/uiuxarih) · [tweet](https://x.com/uiuxarih/status/1929133866666614890) — Cinematic for Hero Section - What you think?  · 👁 8411 ❤ 297 🔖 124 · 
+- [@vanschneider](https://x.com/vanschneider) · [tweet](https://x.com/vanschneider/status/1928222312739795341) — Small detail I love  ↓   · 👁 6586 ❤ 136 🔖 60 · 
+- [@blac_ai](https://x.com/blac_ai) · [tweet](https://x.com/blac_ai/status/1924101667647352933) — gm, faithful · 👁 23153 ❤ 892 🔖 70 · 
+- [@armilk88](https://x.com/armilk88) · [tweet](https://x.com/armilk88/status/1932494237159076106) — let's continue the flight the flight the flight · 👁 17027 ❤ 1366 🔖 173 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1930638062360375383) — UX Challenges Cards @intrfacer · 👁 6154 ❤ 189 🔖 95 · 
+- [@Burak_elbu](https://x.com/Burak_elbu) · [tweet](https://x.com/Burak_elbu/status/1928367044677800105) — OrbitID – Brand Guidelines – 02 · 👁 4715 ❤ 176 🔖 60 · 
+- [@robably__](https://x.com/robably__) · [tweet](https://x.com/robably__/status/1928559351679119661) — stoked on this  · 👁 4620 ❤ 156 🔖 24 · 
+- [@rightclickdead](https://x.com/rightclickdead) · [tweet](https://x.com/rightclickdead/status/1933987729844400198) — (no text) · 👁 784 ❤ 39 🔖 0 · 
+- [@azhassan_](https://x.com/azhassan_) · [tweet](https://x.com/azhassan_/status/1924129719634583800) — Shimmering text field made using @createwithplay · 👁 10101 ❤ 307 🔖 126 · 
+- [@AliMamedgasanov](https://x.com/AliMamedgasanov) · [tweet](https://x.com/AliMamedgasanov/status/1928817634318884881) — setting things up... · 👁 26240 ❤ 263 🔖 279 · 
+- [@dzineloop](https://x.com/dzineloop) · [tweet](https://x.com/dzineloop/status/1925554353236258858) — Abstract 4© Logomark · 👁 7985 ❤ 212 🔖 80 · 
+- [@designerdaily_r](https://x.com/designerdaily_r) · [tweet](https://x.com/designerdaily_r/status/1925404129444470916) — Framer Daily Picks are now officially live on Designer Daily Report, reaching 50,000 daily readers  · 👁 611 ❤ 12 🔖 2 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1927994579011477714) — AI app // Components · 👁 12370 ❤ 164 🔖 67 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1932411791092715551) — Open/closed states · 👁 17997 ❤ 521 🔖 275 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1931983271010975952) — brand coming soon · 👁 62081 ❤ 2204 🔖 876 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1917931494053679407) — (no text) · 👁 9163 ❤ 165 🔖 41 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1926988339367866410) — Shape of work UX Tools @intrfacer · 👁 9997 ❤ 288 🔖 127 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1932677169488261536) — UI card hover animation by @markoilico · 👁 272 ❤ 5 🔖 5 · 
+- [@markoilico](https://x.com/markoilico) · [tweet](https://x.com/markoilico/status/1924948054681256136) — Apple Classics UI cards. · 👁 31732 ❤ 968 🔖 400 · 
+- [@alessio_joseph](https://x.com/alessio_joseph) · [tweet](https://x.com/alessio_joseph/status/1922656395389734990) — new @grillitype release goes insanely hard · 👁 27821 ❤ 869 🔖 344 · 
+- [@thenickpattison](https://x.com/thenickpattison) · [tweet](https://x.com/thenickpattison/status/1918059617965220168) — We whipped up some quick concepts for the Config bball game called Screenshots. What are we feeling folks? · 👁 84070 ❤ 2337 🔖 996 · 
+- [@_joshbendall](https://x.com/_joshbendall) · [tweet](https://x.com/_joshbendall/status/1921740626128707971) — EVERYTHING.04_G · 👁 12770 ❤ 390 🔖 106 · 
+- [@Mayankshahh](https://x.com/Mayankshahh) · [tweet](https://x.com/Mayankshahh/status/1929563658952028211) — Made in @rive_app Making Web3 interesting again. · 👁 15180 ❤ 456 🔖 227 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1931299499433140395) — You thought it'll be just a logo? · 👁 4865 ❤ 67 🔖 21 · 
+- [@JJGerrishDev](https://x.com/JJGerrishDev) · [tweet](https://x.com/JJGerrishDev/status/1929213021068366106) — Took my first weekend off X since starting 3 months ago and began working on my next @framer template  · 👁 4156 ❤ 140 🔖 39 · 
+- [@tyka_dominik](https://x.com/tyka_dominik) · [tweet](https://x.com/tyka_dominik/status/1928030053029294322) — >  · 👁 72774 ❤ 509 🔖 353 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1925467037771673631) — recents \\ web, brand, print, socials · 👁 14035 ❤ 266 🔖 144 · 
+- [@oliver_gareis](https://x.com/oliver_gareis) · [tweet](https://x.com/oliver_gareis/status/1918371356837614072) — Joined @contra to spread a bit more editorial vibes on the platform · 👁 4796 ❤ 126 🔖 42 · 
+- [@blac_ai](https://x.com/blac_ai) · [tweet](https://x.com/blac_ai/status/1923839188295876919) — death-song of a dying realm · 👁 13815 ❤ 635 🔖 60 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1921852209311916488) — coming soon · 👁 12642 ❤ 371 🔖 130 · 
+- [@thestudiothree](https://x.com/thestudiothree) · [tweet](https://x.com/thestudiothree/status/1934318913548059125) — Shielded in a Storm WRDN© · 👁 1978 ❤ 63 🔖 29 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1920828441647067347) — Domino Card Bento Box  · 👁 8328 ❤ 320 🔖 129 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1926897102933618987) — oh yes, Praha pretty much cooked with this social proof animation. · 👁 14897 ❤ 389 🔖 170 · 
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/1930656533441921185) — Collection Preview · 👁 19193 ❤ 456 🔖 266 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1921920452387086692) —  · 👁 6089 ❤ 187 🔖 51 · 
+- [@tejashinduja](https://x.com/tejashinduja) · [tweet](https://x.com/tejashinduja/status/1922588446893449304) — ✣ edible toast · 👁 52734 ❤ 869 🔖 498 · 
+- [@alexgilev1](https://x.com/alexgilev1) · [tweet](https://x.com/alexgilev1/status/1929549038128337006) — It’s easier than ever to build a product; it’s harder than ever to make it stick. · 👁 14866 ❤ 237 🔖 193 · 
+- [@WHOISHOSSEINAM](https://x.com/WHOISHOSSEINAM) · [tweet](https://x.com/WHOISHOSSEINAM/status/1928470013247201765) — Pricing cards · 👁 21479 ❤ 316 🔖 195 · 
+- [@akhakim_](https://x.com/akhakim_) · [tweet](https://x.com/akhakim_/status/1929813491667685401) — Task Overview · 👁 28882 ❤ 514 🔖 327 · 
+- [@insank18](https://x.com/insank18) · [tweet](https://x.com/insank18/status/1932024277399962033) — Profile Section · 👁 10335 ❤ 236 🔖 127 · 
+- [@DenisJeliazkov](https://x.com/DenisJeliazkov) · [tweet](https://x.com/DenisJeliazkov/status/1930640821281571044) — I'm obsessed with design. · 👁 63407 ❤ 453 🔖 757 · 
+- [@anujkumarux](https://x.com/anujkumarux) · [tweet](https://x.com/anujkumarux/status/1919254280474612029) — SaaS hero section!  · 👁 13846 ❤ 294 🔖 76 · 
+- [@RalconStudio](https://x.com/RalconStudio) · [tweet](https://x.com/RalconStudio/status/1924405554132492744) — Services · 👁 46838 ❤ 1409 🔖 919 · 
+- [@kuipermarc](https://x.com/kuipermarc) · [tweet](https://x.com/kuipermarc/status/1933528612256559126) — The @framer marketplace just got an update  · 👁 506 ❤ 19 🔖 0 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1932388778590511145) — One of our best Website, we designed + developed. · 👁 10773 ❤ 293 🔖 102 · 
+- [@SD_Ashira](https://x.com/SD_Ashira) · [tweet](https://x.com/SD_Ashira/status/1932377986314957289) — Components · 👁 142 ❤ 7 🔖 0 · 
+- [@BlessCreatics](https://x.com/BlessCreatics) · [tweet](https://x.com/BlessCreatics/status/1924333717612552469) — more posters/social post designs · 👁 29622 ❤ 617 🔖 191 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1918588455392874571) — fun brand concept from a while back · 👁 38135 ❤ 1004 🔖 508 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1927578074704457901) — (no text) · 👁 11021 ❤ 222 🔖 69 · 
+- [@uxkosta](https://x.com/uxkosta) · [tweet](https://x.com/uxkosta/status/1928462903587266779) — New pricing for steel - huge upgrade · 👁 27242 ❤ 408 🔖 273 · 
+- [@resn_has_no_i](https://x.com/resn_has_no_i) · [tweet](https://x.com/resn_has_no_i/status/1929828371766120868) — Faith and typography — Dim Sum 004  · 👁 1919 ❤ 67 🔖 23 · 
+- [@alxvgyn](https://x.com/alxvgyn) · [tweet](https://x.com/alxvgyn/status/1924760859353510078) — posting again because i can · 👁 5865 ❤ 159 🔖 38 · 
+- [@AdyashaPadhy](https://x.com/AdyashaPadhy) · [tweet](https://x.com/AdyashaPadhy/status/1929549328860819902) — snippets from last week - some cool Sarvam merch · 👁 69463 ❤ 1392 🔖 604 · 
+- [@rightclickdead](https://x.com/rightclickdead) · [tweet](https://x.com/rightclickdead/status/1932112545273291213) — (no text) · 👁 13914 ❤ 649 🔖 70 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1922132752620519832) — Execution. · 👁 52457 ❤ 860 🔖 701 · 
+- [@insank18](https://x.com/insank18) · [tweet](https://x.com/insank18/status/1929469628532597160) — Task list on Mobile · 👁 9901 ❤ 221 🔖 129 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1930948879253733633) — (no text) · 👁 31011 ❤ 836 🔖 312 · 
+- [@dakshpixelup](https://x.com/dakshpixelup) · [tweet](https://x.com/dakshpixelup/status/1929901223437840828) — grid, bold type and flashy gradients. · 👁 3545 ❤ 101 🔖 28 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1928435298855272649) — Pitch deck in progress with modern layouts · 👁 69864 ❤ 1208 🔖 1183 · 
+- [@RikOostenbroek](https://x.com/RikOostenbroek) · [tweet](https://x.com/RikOostenbroek/status/1926981506091598327) — LIS · 👁 21570 ❤ 586 🔖 62 · 
+- [@bnj](https://x.com/bnj) · [tweet](https://x.com/bnj/status/1917275913299058809) — We raised $5.9M to build @variantui: code generation with taste, range, and room to explore · 👁 565638 ❤ 4568 🔖 3280 · 
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/1924176097182454196) — FAQ with previews on hover · 👁 16248 ❤ 354 🔖 185 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1919718702724915564) — Music Road · 👁 35116 ❤ 868 🔖 273 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1929167545124237592) — Developer Bento Box  · 👁 37032 ❤ 1170 🔖 631 · 
+- [@saisatvik_](https://x.com/saisatvik_) · [tweet](https://x.com/saisatvik_/status/2049519084824412446) — Minimal Section Design · 👁 2718 ❤ 123 🔖 59 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1928058747248951783) — 23 · 👁 16035 ❤ 141 🔖 52 · 
+- [@thedesignermrym](https://x.com/thedesignermrym) · [tweet](https://x.com/thedesignermrym/status/1919319384444596401) — No purple no blue — time for butter yellow  something new  · 👁 8754279 ❤ 2088 🔖 881 · 
+- [@idariusdan](https://x.com/idariusdan) · [tweet](https://x.com/idariusdan/status/1925890203492749694) — Power down the light. · 👁 3800 ❤ 103 🔖 7 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1930988928137367973) — News app for genZ @intrfacer · 👁 34534 ❤ 952 🔖 639 · 
+- [@anu_pkrl](https://x.com/anu_pkrl) · [tweet](https://x.com/anu_pkrl/status/1927767222824395192) — Phoenix A* black hole made in @hiunicornstudio · 👁 371 ❤ 12 🔖 2 · 
+- [@berlickfold](https://x.com/berlickfold) · [tweet](https://x.com/berlickfold/status/1924056196178161796) — Creative Recap. · 👁 22828 ❤ 487 🔖 210 · 
+- [@_joshrg](https://x.com/_joshrg) · [tweet](https://x.com/_joshrg/status/1925758986973741350) — 23/05 @thecosmos · 👁 1528 ❤ 39 🔖 8 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1927754355500884464) — Oshun Visual Identity by Boast Studio  · 👁 17099 ❤ 488 🔖 186 · 
+- [@Arkotypeco](https://x.com/Arkotypeco) · [tweet](https://x.com/Arkotypeco/status/1931716625348129197) — Something new. · 👁 52716 ❤ 510 🔖 191 · 
+- [@ensaktas](https://x.com/ensaktas) · [tweet](https://x.com/ensaktas/status/1917126650090684728) — (no text) · 👁 405 ❤ 0 🔖 0 · 
+- [@hello_maria__](https://x.com/hello_maria__) · [tweet](https://x.com/hello_maria__/status/1922366433670963327) — It was fun doing this @pixelbyayo · 👁 6235 ❤ 240 🔖 66 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1919432113280933995) — Work coming along  · 👁 33930 ❤ 921 🔖 530 · 
+- [@choirulsyafril_](https://x.com/choirulsyafril_) · [tweet](https://x.com/choirulsyafril_/status/1918130465359458702) — Activity log · 👁 22970 ❤ 310 🔖 271 · 
+- [@seltugba_](https://x.com/seltugba_) · [tweet](https://x.com/seltugba_/status/2057142754610659604) — Getting closer to the dashboard  · 👁 844 ❤ 51 🔖 23 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1928466439339487641) — isometric & blur · 👁 26821 ❤ 434 🔖 387 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1924770839544938961) — Gulp Visual Identity by Blake Scott  · 👁 25845 ❤ 553 🔖 224 · 
+- [@FonsMans](https://x.com/FonsMans) · [tweet](https://x.com/FonsMans/status/1920013998516535426) — Stacks — Visual study · 👁 22359 ❤ 397 🔖 124 · 
+- [@pseudonymtra](https://x.com/pseudonymtra) · [tweet](https://x.com/pseudonymtra/status/1933497586775962110) — playing around with @LottielabHQ · 👁 552 ❤ 30 🔖 4 · 
+- [@DanPurdie16](https://x.com/DanPurdie16) · [tweet](https://x.com/DanPurdie16/status/1922665103784083497) — Taking inspiration from these well-designed brand guidelines.  · 👁 30138 ❤ 675 🔖 762 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1926934772766376371) — Client page for an upcoming project — launching soon. Features a scrolling interactive list of companies with a preview of work for each. · 👁 2021 ❤ 84 🔖 30 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1927341516776734912) — Simple - Clean - Minimal + Light mode! · 👁 7647 ❤ 223 🔖 64 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1932162407599849587) — Let em fly. #b3d · 👁 5132 ❤ 290 🔖 43 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1929735908666073265) — custom loader · 👁 4587 ❤ 175 🔖 39 · 
+- [@realvjy](https://x.com/realvjy) · [tweet](https://x.com/realvjy/status/1917189431175626849) — Some time ago created this lil interaction in @figma to log mood from watch app.  Now, thinking to build this app. · 👁 6840 ❤ 174 🔖 55 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1930493535415132671) — add collaborators to the shopping list / interaction · 👁 34723 ❤ 958 🔖 583 · 
+- [@thestudiothree](https://x.com/thestudiothree) · [tweet](https://x.com/thestudiothree/status/1933588590564684175) — Clothing that Shields · 👁 2424 ❤ 92 🔖 29 · 
+- [@keilethh](https://x.com/keilethh) · [tweet](https://x.com/keilethh/status/1929568591508119964) — POLYXENA — Logo & Visual identity. · 👁 24800 ❤ 677 🔖 321 · 
+- [@joshuawolk](https://x.com/joshuawolk) · [tweet](https://x.com/joshuawolk/status/1917655301135950226) — $15M ARR app studio soft launch (we’re hiring, dms open) · 👁 0 ❤ 0 🔖 0 · 
+- [@ArtemiuLebedev](https://x.com/ArtemiuLebedev) · [tweet](https://x.com/ArtemiuLebedev/status/1918329977746886956) — Clean UI. Dirty beats. Mobile homepage from the newly launched OXI Instruments website. · 👁 1758 ❤ 62 🔖 24 · 
+- [@_joshrg](https://x.com/_joshrg) · [tweet](https://x.com/_joshrg/status/1916770974143255012) — Soon  · 👁 17394 ❤ 353 🔖 224 · 
+- [@avstorm](https://x.com/avstorm) · [tweet](https://x.com/avstorm/status/1929794442011066733) — Excited to see what Apple has cooked up for the new WWDC25 introductions · 👁 88679 ❤ 1801 🔖 438 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1923422360910057800) — 1-hour sketchy brand concept. · 👁 48591 ❤ 1373 🔖 697 · 
+- [@BleachFX](https://x.com/BleachFX) · [tweet](https://x.com/BleachFX/status/1918334668702925152) — starveila - typography & chrome art  · 👁 28583 ❤ 1243 🔖 325 · 
+- [@idariusdan](https://x.com/idariusdan) · [tweet](https://x.com/idariusdan/status/1927370456438649081) — AI vs http://tiny.supply. · 👁 20325 ❤ 248 🔖 98 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1918712156905693382) — Matahari Sans by Studio Sun · 👁 57442 ❤ 1979 🔖 680 · 
+- [@idariusdan](https://x.com/idariusdan) · [tweet](https://x.com/idariusdan/status/1924807569589047754) — More icons done for Bart, the awesome guy who is behind @pieterpostcom. · 👁 2952 ❤ 117 🔖 19 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1930221192289358322) — Chitto™ - Branding · 👁 10903 ❤ 319 🔖 129 · 
+- [@inkko44](https://x.com/inkko44) · [tweet](https://x.com/inkko44/status/1918691695589212383) — Exploring GSAP with @boltdotnew  · 👁 31196 ❤ 463 🔖 291 · 
+- [@pqoqubbw](https://x.com/pqoqubbw) · [tweet](https://x.com/pqoqubbw/status/1933213315859439733) — crafted a new component for http://pqoqubbw.dev · 👁 13235 ❤ 484 🔖 234 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1917918582022754812) — (no text) · 👁 4967 ❤ 87 🔖 34 · 
+- [@mockupcloud](https://x.com/mockupcloud) · [tweet](https://x.com/mockupcloud/status/1925537138596356360) — MODU Brand Identity · 👁 9789 ❤ 164 🔖 91 · 
+- [@creatoroly](https://x.com/creatoroly) · [tweet](https://x.com/creatoroly/status/1924516259602784281) — do you really want to make clean edits now? · 👁 12283 ❤ 360 🔖 158 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1927308766296367479) — Filter block with date picker  · 👁 5233 ❤ 171 🔖 81 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1932840674727977465) — Teenage Engineering TP—7 Black illustrated in @figma · 👁 29913 ❤ 350 🔖 108 · 
+- [@fafa818969](https://x.com/fafa818969) · [tweet](https://x.com/fafa818969/status/1918879000652399105) — Physics based clock · 👁 31308 ❤ 1352 🔖 319 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1925247047915184366) — (no text) · 👁 26164 ❤ 680 🔖 276 · 
+- [@lucchaissac](https://x.com/lucchaissac) · [tweet](https://x.com/lucchaissac/status/1917108907962503290) —  Vibe printing La Compagnie des Internets packaging  · 👁 1427 ❤ 38 🔖 0 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1924949001960321455) — Bureau Grusenmeyer · 👁 26695 ❤ 1012 🔖 289 · 
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/1929123935460675779) — Nav and team switcher for AI agent workflow manager · 👁 19941 ❤ 341 🔖 226 · 
+- [@natkohasic](https://x.com/natkohasic) · [tweet](https://x.com/natkohasic/status/1928384450469011822) — Build your ideas. Insist on your vision. Do not compromise. Design it exactly how you see it in your mind. · 👁 19705 ❤ 340 🔖 139 · 
+- [@Praha37v](https://x.com/Praha37v) · [tweet](https://x.com/Praha37v/status/1933065048978829549) — How's our new landing page project? · 👁 6329 ❤ 185 🔖 65 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1932507615264743895) — Some of my recent works. · 👁 12772 ❤ 645 🔖 151 · 
+- [@ashthecreative](https://x.com/ashthecreative) · [tweet](https://x.com/ashthecreative/status/1918674628223828008) —  Variations · 👁 5236 ❤ 220 🔖 54 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1931979644816793621) — what about dark mode tho? · 👁 6332 ❤ 131 🔖 67 · 
+- [@Gogolitus](https://x.com/Gogolitus) · [tweet](https://x.com/Gogolitus/status/1932569009221730555) — Sometimes, love is a beautiful mess. · 👁 52241 ❤ 2675 🔖 375 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1919742954639397273) — Blueprint Bento Box  · 👁 12070 ❤ 383 🔖 192 · 
+- [@MoizArshi29](https://x.com/MoizArshi29) · [tweet](https://x.com/MoizArshi29/status/1926963155155943442) —  Footer exploration · 👁 4323 ❤ 138 🔖 45 · 
+- [@lancedraws](https://x.com/lancedraws) · [tweet](https://x.com/lancedraws/status/1932060154968572268) — (no text) · 👁 41741 ❤ 1062 🔖 463 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1929509563843137575) — (no text) · 👁 4081 ❤ 84 🔖 50 · 
+- [@jamesm](https://x.com/jamesm) · [tweet](https://x.com/jamesm/status/1924906195535483254) —  Onboarding... @finta · 👁 18416 ❤ 295 🔖 189 · 
+- [@bartek_marzec](https://x.com/bartek_marzec) · [tweet](https://x.com/bartek_marzec/status/1919471407798390962) — Dropbox hover icon microinteraction · 👁 10177 ❤ 264 🔖 153 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1931342882390090094) — Fire starter. #b3df · 👁 8312 ❤ 326 🔖 56 · 
+- [@thisisgrey](https://x.com/thisisgrey) · [tweet](https://x.com/thisisgrey/status/1929795008540119218) — https://blurrbureau.com — I thought Blurr Bureau were just good but then I looked at their stuff in detail and I confirm they are good good good. Thrice pro, thrice surprising. · 👁 6995 ❤ 153 🔖 74 · 
+- [@louisdainguyen](https://x.com/louisdainguyen) · [tweet](https://x.com/louisdainguyen/status/1906481633861013670) — In-App Pricing Plans. · 👁 27031 ❤ 336 🔖 344 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1932035074754560193) — Bottom nav bar · 👁 5833 ❤ 156 🔖 68 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1923070612630622441) — (no text) · 👁 27836 ❤ 765 🔖 249 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1922668237226901571) — keep it minimal. · 👁 24225 ❤ 479 🔖 297 · 
+- [@Piqostudio](https://x.com/Piqostudio) · [tweet](https://x.com/Piqostudio/status/1930270817755246920) — We’ve just launched our brand new website!  · 👁 10193 ❤ 337 🔖 157 · 
+- [@Tanjim38](https://x.com/Tanjim38) · [tweet](https://x.com/Tanjim38/status/1925071696031359117) — I was moving from @lmsqueezy to @polar_sh and saw the results. · 👁 7606 ❤ 78 🔖 50 · 
+- [@danielsun_ui](https://x.com/danielsun_ui) · [tweet](https://x.com/danielsun_ui/status/1901638179980992733) — Projects / Reward Point / Web design, illustrations · 👁 19961 ❤ 423 🔖 144 · 
+- [@narative](https://x.com/narative) · [tweet](https://x.com/narative/status/1918077477890543817) — (no text) · 👁 25592 ❤ 712 🔖 103 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1918984078524625223) — (no text) · 👁 5248 ❤ 78 🔖 25 · 
+- [@rtvux](https://x.com/rtvux) · [tweet](https://x.com/rtvux/status/1918980941571039273) — Micro wins call for micro animations  · 👁 21612 ❤ 585 🔖 408 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1920867900916654323) — Recent brand experiments. · 👁 33832 ❤ 872 🔖 472 · 
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/1917273501603348613) — Cooking reminder · 👁 9280 ❤ 247 🔖 72 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1927217951674970568) — Simple trick to design insanely clean UI buttons: · 👁 54297 ❤ 467 🔖 715 · 
+- [@RikOostenbroek](https://x.com/RikOostenbroek) · [tweet](https://x.com/RikOostenbroek/status/1927368049742516334) — gm · 👁 18600 ❤ 470 🔖 70 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1922681590074736844) — Designed an animation to showcase how AI can make realtime decisions in the shipping industry. · 👁 3501 ❤ 78 🔖 31 · 
+- [@tyka_dominik](https://x.com/tyka_dominik) · [tweet](https://x.com/tyka_dominik/status/1924890989371511038) — Design trend cycle: · 👁 18807 ❤ 271 🔖 113 · 
+- [@WeAreOffMenu](https://x.com/WeAreOffMenu) · [tweet](https://x.com/WeAreOffMenu/status/1932073383581094156) — (no text) · 👁 3497 ❤ 76 🔖 19 · 
+- [@halil_works](https://x.com/halil_works) · [tweet](https://x.com/halil_works/status/2053083038716731509) — Wallet Settings · 👁 277 ❤ 11 🔖 2 · 
+- [@madebyvishesh](https://x.com/madebyvishesh) · [tweet](https://x.com/madebyvishesh/status/1932082814087750088) — which one looks better for logo? · 👁 17457 ❤ 403 🔖 145 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1926607309389582770) — Role assigned to.... · 👁 16586 ❤ 339 🔖 120 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1918284591376277933) — (no text) · 👁 4743 ❤ 62 🔖 28 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1919000052506202400) — dashboard ui/ux · 👁 6753 ❤ 153 🔖 31 · 
+- [@layout_guy](https://x.com/layout_guy) · [tweet](https://x.com/layout_guy/status/1921515234990145951) — show me your red graphic designs · 👁 34370 ❤ 560 🔖 266 · 
+- [@ethnfndr](https://x.com/ethnfndr) · [tweet](https://x.com/ethnfndr/status/1918389733463605347) — Crow H #corvid #crow #crowbro · 👁 193 ❤ 13 🔖 0 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1932407402080686558) — 35 · 👁 12492 ❤ 119 🔖 37 · 
+- [@wladuiux](https://x.com/wladuiux) · [tweet](https://x.com/wladuiux/status/1929067412063719749) — profile component · 👁 14380 ❤ 266 🔖 133 · 
+- [@goo_vision](https://x.com/goo_vision) · [tweet](https://x.com/goo_vision/status/1919375217488539754) — Explore · 👁 487641 ❤ 16518 🔖 3141 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1918999048616542462) —  · 👁 12294 ❤ 374 🔖 140 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1929539393909342633) — Drams Components made in @framer · 👁 17508 ❤ 336 🔖 153 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1928451334375666041) — Solvent — Visual Identity                         · 👁 7502 ❤ 199 🔖 76 · 
+- [@SeanFinlay_](https://x.com/SeanFinlay_) · [tweet](https://x.com/SeanFinlay_/status/1919731370861162510) — Today's nice things to look at are brought to you by Morgan Lacey Hart, Brothers Design Co. & Laura Strote Designs. · 👁 31959 ❤ 922 🔖 374 · 
+- [@Praha37v](https://x.com/Praha37v) · [tweet](https://x.com/Praha37v/status/1934075400013201522) — Bento  · 👁 8311 ❤ 269 🔖 168 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1925596000539848855) — (no text) · 👁 64415 ❤ 1479 🔖 644 · 
+- [@dmiiiitrii](https://x.com/dmiiiitrii) · [tweet](https://x.com/dmiiiitrii/status/1931091694251848155) — Logo design for @zipper_trade · 👁 29930 ❤ 601 🔖 238 · 
+- [@momomojiya](https://x.com/momomojiya) · [tweet](https://x.com/momomojiya/status/1916966888141426963) — 狐 tape · 👁 57773 ❤ 1348 🔖 269 · 
+- [@notcnrad](https://x.com/notcnrad) · [tweet](https://x.com/notcnrad/status/1929283404563984785) — why should buttons be limited to one action? · 👁 607 ❤ 18 🔖 6 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/2052739041653649646) — The @modilium way of 2-week brandsprint · 👁 3129 ❤ 60 🔖 20 · 
+- [@Iconlypro](https://x.com/Iconlypro) · [tweet](https://x.com/Iconlypro/status/1919036893657718802) — New motion icons, 60fps! · 👁 10335 ❤ 256 🔖 96 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1918311084416540726) — Miro Aura Design System by @MiroHQ  · 👁 5337 ❤ 151 🔖 62 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1932173928333820139) — Ondřej Mazanec for Superior Type · 👁 28114 ❤ 1070 🔖 394 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1930159202476908760) — Brand Guidelines // StatiQ  · 👁 12668 ❤ 335 🔖 211 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1932157898513420308) — Forgot to show you the bottom half · 👁 12215 ❤ 207 🔖 69 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1918051736989909319) — Launched our new studio site in one day using @framer — Really minimal one pager but aligns more to where we are today & gives us something to build on as we transition our studio name change. Link in · 👁 2800 ❤ 78 🔖 16 · 
+- [@_OriginalMoh1](https://x.com/_OriginalMoh1) · [tweet](https://x.com/_OriginalMoh1/status/1918593620866687085) — Loads in 4K  · 👁 16153 ❤ 218 🔖 92 · 
+- [@iamsahilvhora](https://x.com/iamsahilvhora) · [tweet](https://x.com/iamsahilvhora/status/2047551406505361550) — Designed these tabs for my fintech product. · 👁 1244 ❤ 58 🔖 18 · 
+- [@morflax_com](https://x.com/morflax_com) · [tweet](https://x.com/morflax_com/status/1929902207962608001) — GM · 👁 495 ❤ 11 🔖 3 · 
+- [@tanbirDsgnDev](https://x.com/tanbirDsgnDev) · [tweet](https://x.com/tanbirDsgnDev/status/1918648027062907090) — a visual treat, no matter how many times i see it.... · 👁 40215 ❤ 618 🔖 483 · 
+- [@rubenhume](https://x.com/rubenhume) · [tweet](https://x.com/rubenhume/status/1924909476567540123) — Logo from the archive. What do you see? –– · 👁 8498 ❤ 123 🔖 28 · 
+- [@paulsoulhiard](https://x.com/paulsoulhiard) · [tweet](https://x.com/paulsoulhiard/status/1929910553000001877) — unused sketch from a generative motion study on AI language systems  · 👁 6817 ❤ 249 🔖 80 · 
+- [@hewarsaber](https://x.com/hewarsaber) · [tweet](https://x.com/hewarsaber/status/1923121909836738651) — 369 sites, but only 9 got a 5/5 rating. · 👁 180976 ❤ 902 🔖 1224 · 
+- [@ermanmalak](https://x.com/ermanmalak) · [tweet](https://x.com/ermanmalak/status/1918322041373249590) — Going back and forth between light and dark mode for my personal site. · 👁 3077 ❤ 72 🔖 22 · 
+- [@akhakim_](https://x.com/akhakim_) · [tweet](https://x.com/akhakim_/status/1928702270327198027) — Boarding ticket screen · 👁 91020 ❤ 1187 🔖 711 · 
+- [@nitishkmrk](https://x.com/nitishkmrk) · [tweet](https://x.com/nitishkmrk/status/1933050634594660800) — pin item interaction ⎯⟡° · 👁 16186 ❤ 430 🔖 242 · 
+- [@Inncoder_](https://x.com/Inncoder_) · [tweet](https://x.com/Inncoder_/status/1933237121449435457) — Say what you want about the new Liquid Glass look in iOS 26, but the alert dialogs? 100× better. Finally something we can use without making it look like the app was made a few decades ago. · 👁 136492 ❤ 1869 🔖 162 · 
+- [@heyshihab](https://x.com/heyshihab) · [tweet](https://x.com/heyshihab/status/2053030015185604947) — Forge™ · 👁 483 ❤ 30 🔖 0 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1925568327252152458) — No mockups. Just brand design, pure and simple  · 👁 50232 ❤ 1074 🔖 492 · 
+- [@doctorbaytas](https://x.com/doctorbaytas) · [tweet](https://x.com/doctorbaytas/status/1917545443208356331) — I might be fired for releasing this... · 👁 153918 ❤ 1107 🔖 3109 · 
+- [@cssdesignawards](https://x.com/cssdesignawards) · [tweet](https://x.com/cssdesignawards/status/1918576147933327638) — Website Of The Day is Archi-malin Studio  · 👁 3599 ❤ 102 🔖 38 · 
+- [@theatashka](https://x.com/theatashka) · [tweet](https://x.com/theatashka/status/1929162150867505205) — First month of taking X seriously. · 👁 24194 ❤ 410 🔖 225 · 
+- [@elayadesigns](https://x.com/elayadesigns) · [tweet](https://x.com/elayadesigns/status/1929585642679271643) — (no text) · 👁 3204 ❤ 68 🔖 21 · 
+- [@_Kavsoft](https://x.com/_Kavsoft) · [tweet](https://x.com/_Kavsoft/status/1928518139798532319) — After days of work, I'm proudly introducing Mockview 4.0 for iOS & iPadOS  · 👁 21674 ❤ 329 🔖 121 · 
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/1924964625558225042) — Tags collection · 👁 87216 ❤ 1529 🔖 1139 · 
+- [@barthkosi](https://x.com/barthkosi) · [tweet](https://x.com/barthkosi/status/1931278899247304999) — Portfolio websites should feel more personal. · 👁 81265 ❤ 1515 🔖 1084 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1933837090615111699) — (no text) · 👁 4248 ❤ 91 🔖 51 · 
+- [@remy_godet](https://x.com/remy_godet) · [tweet](https://x.com/remy_godet/status/1917572824560197941) — So many things to share! Anything you'd like to see me post? · 👁 45934 ❤ 1466 🔖 619 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1930713766947061914) — Where can I find charts like these? Has anyone already built something similar? · 👁 100322 ❤ 1322 🔖 1536 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1919688992699584863) — (no text) · 👁 5396 ❤ 92 🔖 40 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1921348851765596514) — Redressed is such a tricky font to use, but when it hit, it hits. · 👁 4128 ❤ 162 🔖 32 · 
+- [@hunterthompson](https://x.com/hunterthompson) · [tweet](https://x.com/hunterthompson/status/1917967078503727528) — oh, this is going to be fun · 👁 2947 ❤ 101 🔖 29 · 
+- [@creativedash](https://x.com/creativedash) · [tweet](https://x.com/creativedash/status/1930608423156228157) — Too much fun with @splinetool · 👁 17930 ❤ 602 🔖 295 · 
+- [@createwithplay](https://x.com/createwithplay) · [tweet](https://x.com/createwithplay/status/1918283299270672571) — With Play's Simulator for macOS you can now design and prototype for any screen size. · 👁 15705 ❤ 321 🔖 149 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1929560551895486495) — Grids make it look like hard work · 👁 42352 ❤ 904 🔖 440 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1927797234873016656) — Task manager swipe interaction  · 👁 6761 ❤ 187 🔖 93 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1932367989028135325) — Orin - Logo & Branding · 👁 0 ❤ 0 🔖 0 · 
+- [@danilotanic](https://x.com/danilotanic) · [tweet](https://x.com/danilotanic/status/1917491702723432651) — Quick onboarding · 👁 8868 ❤ 293 🔖 138 · 
+- [@spottedinprod](https://x.com/spottedinprod) · [tweet](https://x.com/spottedinprod/status/1918648234404086152) — abode · magnets · 👁 23748 ❤ 397 🔖 266 · 
+- [@alxvgyn](https://x.com/alxvgyn) · [tweet](https://x.com/alxvgyn/status/1924063018209460286) — used one of those ''try this prompt in ChatGPT'' posts, kinda cool · 👁 558 ❤ 15 🔖 3 · 
+- [@Piqostudio](https://x.com/Piqostudio) · [tweet](https://x.com/Piqostudio/status/1919399184815571273) — Wanna click the button!  · 👁 7690 ❤ 235 🔖 69 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1932392279592849657) — Editable table  · 👁 12349 ❤ 221 🔖 158 · 
+- [@_joshbendall](https://x.com/_joshbendall) · [tweet](https://x.com/_joshbendall/status/1919595657922322755) — FORMA.02_DSK · 👁 2758 ❤ 199 🔖 56 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1922677836529152225) — Letter S with leaf.  · 👁 982 ❤ 48 🔖 8 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1918470563116531994) —  · 👁 7893 ❤ 264 🔖 78 · 
+- [@nrybakov_](https://x.com/nrybakov_) · [tweet](https://x.com/nrybakov_/status/1927765783154749795) — Will you go app onboarding after such Welcome Screen? · 👁 42726 ❤ 781 🔖 565 · 
+- [@raunofreiberg](https://x.com/raunofreiberg) · [tweet](https://x.com/raunofreiberg/status/1918351065927254373) — Some SVG animations for illustrations by @glennui · 👁 15810 ❤ 414 🔖 135 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1930644310342394221) — i’m not a robot / connect the numbers in order · 👁 214713 ❤ 1400 🔖 494 · 
+- [@lucchaissac](https://x.com/lucchaissac) · [tweet](https://x.com/lucchaissac/status/1927282124648042673) — Lil' clean up ツ · 👁 5276 ❤ 116 🔖 43 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1929432545797796306) — just saw this smooth 3D interactive animation by @joostdamh · 👁 13281 ❤ 396 🔖 187 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1928526832665542896) — by Colophon Foundry · 👁 116323 ❤ 5346 🔖 663 · 
+- [@mikun_ux](https://x.com/mikun_ux) · [tweet](https://x.com/mikun_ux/status/2058855625845571854) — ouuuu · 👁 2714 ❤ 88 🔖 46 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1930715955736494315) — You’ve probably seen the sneak peeks. · 👁 28086 ❤ 675 🔖 569 · 
+- [@CharlesPattson](https://x.com/CharlesPattson) · [tweet](https://x.com/CharlesPattson/status/1930892529425138148) — Interestingly this is not new tech. I’m surprised at the lack of these types of UI treatments. Maybe due to perf? · 👁 29601 ❤ 202 🔖 62 · 
+- [@alec_dilanchian](https://x.com/alec_dilanchian) · [tweet](https://x.com/alec_dilanchian/status/1929573760065024418) — We added a journal to one year  · 👁 39776 ❤ 642 🔖 294 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1920868843267760612) — V1 Exploring for Art Input  · 👁 47545 ❤ 1309 🔖 651 · 
+- [@khrcreatives](https://x.com/khrcreatives) · [tweet](https://x.com/khrcreatives/status/1932126283024281719) — Day 25 of My 30-Day Logo Design Challenge: Sony Ice Cream · 👁 11701 ❤ 194 🔖 44 · 
+- [@itsnotchester](https://x.com/itsnotchester) · [tweet](https://x.com/itsnotchester/status/1932092134552998067) — design is hard · 👁 5716 ❤ 142 🔖 56 · 
+- [@julianmollema](https://x.com/julianmollema) · [tweet](https://x.com/julianmollema/status/1917835714156282010) — Web work for an Amsterdam based Leather bags brand. · 👁 7054 ❤ 282 🔖 112 · 
+- [@uiuxarih](https://x.com/uiuxarih) · [tweet](https://x.com/uiuxarih/status/1928464786662007126) — Storage Box  · 👁 32132 ❤ 712 🔖 336 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1918330502777278619) — A closer look at Teylo · 👁 8979 ❤ 146 🔖 71 · 
+- [@bedirhandogn](https://x.com/bedirhandogn) · [tweet](https://x.com/bedirhandogn/status/1933488267036447010) — Brand  · 👁 3681 ❤ 112 🔖 50 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1917460910328721648) — filters / time picker / price picker · 👁 39715 ❤ 613 🔖 373 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1925929671016751408) — Trying some new colors for Nate Cafeteria! · 👁 4386 ❤ 171 🔖 46 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1918772553226559811) — Basile Fournier · 👁 43067 ❤ 1121 🔖 400 · 
+- [@wladuiux](https://x.com/wladuiux) · [tweet](https://x.com/wladuiux/status/1932893781575016771) — concept which I did in may, how does it look? · 👁 10976 ❤ 224 🔖 111 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1920007931883397416) — Cannly reimagined · 👁 6517 ❤ 160 🔖 84 · 
+- [@pau_wee_](https://x.com/pau_wee_) · [tweet](https://x.com/pau_wee_/status/2042272468702773635) — personal site shennanigans · 👁 14141 ❤ 849 🔖 244 · 
+- [@arvsrn](https://x.com/arvsrn) · [tweet](https://x.com/arvsrn/status/1916787063501828604) — (no text) · 👁 5030 ❤ 91 🔖 43 · 
+- [@idariusdan](https://x.com/idariusdan) · [tweet](https://x.com/idariusdan/status/1925948084967575711) — Together with Bart, the guy behind @pieterpostcom  phenomenal service, made this cute intro-video. · 👁 836 ❤ 12 🔖 0 · 
+- [@_doitvik](https://x.com/_doitvik) · [tweet](https://x.com/_doitvik/status/1918686234655777108) — Some more details: the "About" section  · 👁 6001 ❤ 178 🔖 81 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1927213173414756440) — (no text) · 👁 77668 ❤ 2966 🔖 825 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1925177482178642336) — elements @intrfacer · 👁 5835 ❤ 200 🔖 69 · 
+- [@dzzgnr](https://x.com/dzzgnr) · [tweet](https://x.com/dzzgnr/status/1917551540656824430) —  share wallet address · 👁 7686 ❤ 125 🔖 38 · 
+- [@jdomito_](https://x.com/jdomito_) · [tweet](https://x.com/jdomito_/status/1927734421937106991) — Cape Hauy Whisky — · 👁 9242 ❤ 218 🔖 80 · 
+- [@sekachov](https://x.com/sekachov) · [tweet](https://x.com/sekachov/status/1919377262249742582) — an open call to all designers, indie devs, and vibe coders: if you're working on an app (mobile or desktop), drop a link in the comments, I'm putting together a list for a newsletter and on the lookou · 👁 153697 ❤ 1543 🔖 1543 · 
+- [@insank18](https://x.com/insank18) · [tweet](https://x.com/insank18/status/1928439345758732556) — Summary Task App  · 👁 10654 ❤ 254 🔖 102 · 
+- [@ahnafcreates](https://x.com/ahnafcreates) · [tweet](https://x.com/ahnafcreates/status/1920113307706655009) — i love using textures · 👁 74400 ❤ 1939 🔖 896 · 
+- [@TheRobertAvram](https://x.com/TheRobertAvram) · [tweet](https://x.com/TheRobertAvram/status/1931991399139868792) — AI Notetaker settings  · 👁 353 ❤ 11 🔖 5 · 
+- [@ilyamiskov](https://x.com/ilyamiskov) · [tweet](https://x.com/ilyamiskov/status/1924870767172341836) — I wish iPhone’s native Camera app could have an option to turn off all the AI processing bullshit. · 👁 16647 ❤ 226 🔖 51 · 
+- [@theamitsarangal](https://x.com/theamitsarangal) · [tweet](https://x.com/theamitsarangal/status/1926159040440082768) — Business card designed for an Advocate. · 👁 3283 ❤ 94 🔖 27 · 
+- [@alexcreq](https://x.com/alexcreq) · [tweet](https://x.com/alexcreq/status/1932406427546452348) — "Large" typeface (roman & italic) · 👁 8072 ❤ 207 🔖 35 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1931917496640249891) — P for transport brand! · 👁 2311 ❤ 116 🔖 29 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1918895782461112629) — /202 · 👁 6447 ❤ 277 🔖 84 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1925245483011739752) — (no text) · 👁 25748 ❤ 352 🔖 179 · 
+- [@andmarquez](https://x.com/andmarquez) · [tweet](https://x.com/andmarquez/status/1933165884815577321) — Layout 153 · 👁 33653 ❤ 1882 🔖 479 · 
+- [@mortenpx](https://x.com/mortenpx) · [tweet](https://x.com/mortenpx/status/1932547783908864440) — Forget about liquid glass.... · 👁 2896 ❤ 53 🔖 15 · 
+- [@adhiraj_OTW](https://x.com/adhiraj_OTW) · [tweet](https://x.com/adhiraj_OTW/status/1930930248608059579) — Gradients scare me, so here I am :) · 👁 15963 ❤ 469 🔖 175 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1925250740257259969) — Chase Shewbridge · 👁 29175 ❤ 847 🔖 419 · 
+- [@nutlope](https://x.com/nutlope) · [tweet](https://x.com/nutlope/status/1923409505460580725) — y'all are not ready for this quiz app · 👁 69193 ❤ 684 🔖 639 · 
+- [@bittucreator](https://x.com/bittucreator) · [tweet](https://x.com/bittucreator/status/1929073385541124120) — pricing plans page design.  · 👁 9903 ❤ 126 🔖 55 · 
+- [@egeberkina](https://x.com/egeberkina) · [tweet](https://x.com/egeberkina/status/1918291652210311278) — Branded keycaps · 👁 165906 ❤ 1355 🔖 1054 · 
+- [@aydaoz](https://x.com/aydaoz) · [tweet](https://x.com/aydaoz/status/2052723438817792100) — soul to landing @intrfacer · 👁 905 ❤ 26 🔖 3 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1920062358577144295) — Braun PVC—4 Record Player Illustrated in @figma · 👁 1776 ❤ 53 🔖 9 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1932287825119957390) — Atelier Choque Le Goff · 👁 43516 ❤ 1572 🔖 507 · 
+- [@kirillSRV](https://x.com/kirillSRV) · [tweet](https://x.com/kirillSRV/status/1925920926232703483) — decided to create something new · 👁 35749 ❤ 419 🔖 287 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1924834597285855353) — Simple Brand sprint at 450$ · 👁 7281 ❤ 177 🔖 79 · 
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/1926973792124891276) — Adding AI agent node, but in dark mode · 👁 16607 ❤ 469 🔖 241 · 
+- [@markoilico](https://x.com/markoilico) · [tweet](https://x.com/markoilico/status/1918423047570374709) — Pairing 3D icons with flat icons.  · 👁 674 ❤ 17 🔖 6 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1919399638903206055) — For your inspiration. · 👁 4709 ❤ 130 🔖 35 · 
+- [@v_serbulenko](https://x.com/v_serbulenko) · [tweet](https://x.com/v_serbulenko/status/1928760628639944809) — Not sure who's cooking Saturday, but I’ll be deep in something kinda huge · 👁 7268 ❤ 135 🔖 60 · 
+- [@scottyujan](https://x.com/scottyujan) · [tweet](https://x.com/scottyujan/status/1919817929170079751) — making a m4 mac mini iPhone dock  · 👁 33094 ❤ 788 🔖 169 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1926910658089570570) — Shots from the Nume project! · 👁 2987 ❤ 115 🔖 21 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1928506434540421505) — The logo vs the tags · 👁 16506 ❤ 293 🔖 103 · 
+- [@RamyWafaa](https://x.com/RamyWafaa) · [tweet](https://x.com/RamyWafaa/status/1922629857361514651) — Taking a short break from super realism and diving into a childish abstract mood with these illustrations, Bloomie is a new style of colorful illustrations set to release this week on Getillustrations · 👁 25824 ❤ 941 🔖 360 · 
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/1930267546432700673) — Glassmorphism + Dark UI =  · 👁 39635 ❤ 1022 🔖 639 · 
+- [@xchylerdrenth](https://x.com/xchylerdrenth) · [tweet](https://x.com/xchylerdrenth/status/1906552334320287808) — Attachment components · 👁 46726 ❤ 853 🔖 814 · 
+- [@nrybakov_](https://x.com/nrybakov_) · [tweet](https://x.com/nrybakov_/status/1931793744853913642) — Wrapping this weekends with little personal card  · 👁 31236 ❤ 622 🔖 343 · 
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/1923761938531500473) — this is stunning.. · 👁 5249 ❤ 115 🔖 97 · 
+- [@markoilico](https://x.com/markoilico) · [tweet](https://x.com/markoilico/status/1924221934822457594) — Always like creating these hover effects in Figma.  · 👁 933 ❤ 20 🔖 4 · 
+- [@stfnco](https://x.com/stfnco) · [tweet](https://x.com/stfnco/status/1922312610625814859) — soon  · 👁 4595 ❤ 159 🔖 57 · 
+- [@samstooff](https://x.com/samstooff) · [tweet](https://x.com/samstooff/status/1923350468115218850) — Part Seven. · 👁 59777 ❤ 502 🔖 218 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1932031620904861903) — Ai Mix · 👁 11196 ❤ 486 🔖 139 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1928062571464249447) — We love clean design layouts over here. · 👁 49935 ❤ 930 🔖 572 · 
+- [@heyXdave](https://x.com/heyXdave) · [tweet](https://x.com/heyXdave/status/1924466896646394197) — (no text) · 👁 15982 ❤ 290 🔖 138 · 
+- [@lucas__crespo](https://x.com/lucas__crespo) · [tweet](https://x.com/lucas__crespo/status/1924548639529071009) — our pretty pixels · 👁 43164 ❤ 1088 🔖 429 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1925806278061769091) — font pairings that I often use in my designs · 👁 78764 ❤ 1822 🔖 1757 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1933301269763866636) — Ross Paul McEwan · 👁 16517 ❤ 525 🔖 139 · 
+- [@nitishkmrk](https://x.com/nitishkmrk) · [tweet](https://x.com/nitishkmrk/status/1919279951033102707) — predictive text interaction ⎯⟡° · 👁 24287 ❤ 570 🔖 250 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1924829512577262037) — good night · 👁 19469 ❤ 702 🔖 60 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1922697285281976640) — Recent brand experiment. · 👁 37071 ❤ 979 🔖 637 · 
+- [@dejvdesign](https://x.com/dejvdesign) · [tweet](https://x.com/dejvdesign/status/2052783687855480889) — Workflow nodes · 👁 1495 ❤ 49 🔖 25 · 
+- [@EthanDriskill](https://x.com/EthanDriskill) · [tweet](https://x.com/EthanDriskill/status/1917691626295627982) — Did we cook? · 👁 1846 ❤ 23 🔖 3 · 
+- [@pacovitiello](https://x.com/pacovitiello) · [tweet](https://x.com/pacovitiello/status/1917168247088066710) — Just rolled out this slick diagram layout on Origin UI  · 👁 59728 ❤ 1170 🔖 572 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1929531732916642151) — Happy Monday! · 👁 20018 ❤ 601 🔖 408 · 
+- [@welovedaily](https://x.com/welovedaily) · [tweet](https://x.com/welovedaily/status/1925694980871327759) — Oji — · 👁 17808 ❤ 413 🔖 164 · 
+- [@ArtemiuLebedev](https://x.com/ArtemiuLebedev) · [tweet](https://x.com/ArtemiuLebedev/status/1925195149493047694) — Sneak peek into the upcoming MyHealthPrac website. Your smarter health companion. One page. Dozens of insights. Track what matters. · 👁 4597 ❤ 247 🔖 132 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1920544914812641622) — New chapter, beyond excited for what is to come! @thestudiothree · 👁 8689 ❤ 272 🔖 113 · 
+- [@WeAreOffMenu](https://x.com/WeAreOffMenu) · [tweet](https://x.com/WeAreOffMenu/status/1933136735833403679) — (no text) · 👁 4982 ❤ 161 🔖 37 · 
+- [@orinfitzgerald](https://x.com/orinfitzgerald) · [tweet](https://x.com/orinfitzgerald/status/1927999416553852997) — logo cycler for my upcoming @framer template · 👁 2411 ❤ 65 🔖 15 · 
+- [@nrybakov_](https://x.com/nrybakov_) · [tweet](https://x.com/nrybakov_/status/1931666447370960928) — Tiny bottom sheet interaction. It’s always feels good to add this extra touch. · 👁 28804 ❤ 660 🔖 401 · 
+- [@devxnuj](https://x.com/devxnuj) · [tweet](https://x.com/devxnuj/status/2045414198965121518) — Social media assets exploration for a proposal software · 👁 606 ❤ 43 🔖 5 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/2055995771326267835) — are you agree that this is very clean product design? · 👁 6720 ❤ 144 🔖 115 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1933040194770362505) — I can officially say, we design better than Apple. · 👁 156832 ❤ 1420 🔖 996 · 
+- [@letsavee](https://x.com/letsavee) · [tweet](https://x.com/letsavee/status/1929560255182090725) — Monday Inspiration newsletter just went out.  · 👁 26555 ❤ 492 🔖 192 · 
+- [@radbar_1](https://x.com/radbar_1) · [tweet](https://x.com/radbar_1/status/1929866801233514829) — End-to-end Data Infrastructure for the Global South. · 👁 1300 ❤ 36 🔖 12 · 
+- [@platonck1](https://x.com/platonck1) · [tweet](https://x.com/platonck1/status/1927799028286132540) — Redesigned my site — now it's the width of a regular phone · 👁 14362 ❤ 291 🔖 112 · 
+- [@ln_dev7](https://x.com/ln_dev7) · [tweet](https://x.com/ln_dev7/status/1928457950152077492) — Steps animation   · 👁 23157 ❤ 651 🔖 372 · 
+- [@usrnk1](https://x.com/usrnk1) · [tweet](https://x.com/usrnk1/status/2057081048048038380) — cursdex · 👁 1414 ❤ 23 🔖 8 · 
+- [@_zuji](https://x.com/_zuji) · [tweet](https://x.com/_zuji/status/1931238396376371569) — scroll details · 👁 6318 ❤ 231 🔖 112 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1925515742684094904) — Recent brand sprint for PackPal, an AI-powered moving startup. Really happy with how it turned out  · 👁 11275 ❤ 243 🔖 104 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1925229830515413342) — Brand exploration. · 👁 16234 ❤ 507 🔖 220 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1918274270448484410) —  · 👁 12572 ❤ 412 🔖 146 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929659288706076889) — Theran by Outline Online · 👁 9459 ❤ 232 🔖 46 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1928142356185838020) — rethinking some browser UI/UX · 👁 26229 ❤ 496 🔖 279 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1929870040712528114) — Integrations Did I cook? · 👁 6113 ❤ 211 🔖 60 · 
+- [@logosohel1](https://x.com/logosohel1) · [tweet](https://x.com/logosohel1/status/1925134473181413751) — A modern and professional brand identity for Innomed, a medical technology company. · 👁 16866 ❤ 405 🔖 202 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1929794701831668140) — this is your daily reminder to set the correct HTML tag for elements on your @framer site. · 👁 2265 ❤ 34 🔖 11 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/1931090110231036139) — Supergrok Redesign  · 👁 10161 ❤ 182 🔖 72 · 
+- [@luke_netti](https://x.com/luke_netti) · [tweet](https://x.com/luke_netti/status/1933497654119404000) — Branding for a conceptual energy company. · 👁 340 ❤ 10 🔖 0 · 
+- [@nonzeroexitcode](https://x.com/nonzeroexitcode) · [tweet](https://x.com/nonzeroexitcode/status/1926670638837604550) — highlight text v2———maybe this is better? · 👁 8491 ❤ 217 🔖 106 · 
+- [@TyraNTDZN](https://x.com/TyraNTDZN) · [tweet](https://x.com/TyraNTDZN/status/1927301554635223045) — Business Card Explorations · 👁 2474 ❤ 105 🔖 12 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1929787556142424152) — Drams DR—42 Radio Player updated with @framer workshop. Live now on Drams website. Sound on and go play — link below  · 👁 5225 ❤ 74 🔖 16 · 
+- [@xcyynical](https://x.com/xcyynical) · [tweet](https://x.com/xcyynical/status/1927363914565599389) — LYSA® — branding. · 👁 21378 ❤ 663 🔖 263 · 
+- [@athasdev](https://x.com/athasdev) · [tweet](https://x.com/athasdev/status/1933215034722701583) — Remote connections are working on Athas now. · 👁 10178 ❤ 268 🔖 27 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1933992846434193474) — Website development for Sable Rubber, an Australian regenerative rubber company. Design by Groundcrew · 👁 377 ❤ 27 🔖 7 · 
+- [@NoahShreve](https://x.com/NoahShreve) · [tweet](https://x.com/NoahShreve/status/1918672132055150650) — Decided to bring back the old OrangeStudio site because it was such a banger. · 👁 13107 ❤ 160 🔖 72 · 
+- [@jamesm](https://x.com/jamesm) · [tweet](https://x.com/jamesm/status/2052464848252867047) — (no text) · 👁 14059 ❤ 348 🔖 144 · 
+- [@allanyu_](https://x.com/allanyu_) · [tweet](https://x.com/allanyu_/status/1932180984293625988) — Here's how you do the liquid glass effect in Figma. Fine tune this general direction and you can take it home. · 👁 89727 ❤ 601 🔖 962 · 
+- [@Macbaconai](https://x.com/Macbaconai) · [tweet](https://x.com/Macbaconai/status/1929822884932813308) — (no text) · 👁 139392 ❤ 5039 🔖 911 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1927729573988274207) — Did I cook? · 👁 8076 ❤ 215 🔖 76 · 
+- [@lifeofmansoor](https://x.com/lifeofmansoor) · [tweet](https://x.com/lifeofmansoor/status/1930142475345375688) — Design is for the obsessed. · 👁 2673 ❤ 89 🔖 12 · 
+- [@Low_code_studio](https://x.com/Low_code_studio) · [tweet](https://x.com/Low_code_studio/status/1918875049496305795) — (no text) · 👁 8057 ❤ 172 🔖 80 · 
+- [@Salmaaboukarr](https://x.com/Salmaaboukarr) · [tweet](https://x.com/Salmaaboukarr/status/1929984033816985970) — There’s nothing like having full creative control to generate high-quality AI images for a brand like BERO · 👁 36467 ❤ 482 🔖 453 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1924813999389941898) — Building a new isometric component set in @figma · 👁 21561 ❤ 324 🔖 99 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1932452708390432907) — give me dither & pixels · 👁 17663 ❤ 412 🔖 284 · 
+- [@vanschneider](https://x.com/vanschneider) · [tweet](https://x.com/vanschneider/status/1917599747105554577) — I love working with the mymind brand. · 👁 53135 ❤ 1321 🔖 496 · 
+- [@DmitryLepisov](https://x.com/DmitryLepisov) · [tweet](https://x.com/DmitryLepisov/status/1933494572447105159) — Would this logo suit this app?  · 👁 10557 ❤ 258 🔖 90 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1926896067645210774) — subtle animations bring so much character · 👁 29378 ❤ 636 🔖 378 · 
+- [@wickedmishra](https://x.com/wickedmishra) · [tweet](https://x.com/wickedmishra/status/1933193402084212996) — A compilation of my gooey, "liquid" work before Liquid Glass by Apple. · 👁 21931 ❤ 288 🔖 222 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1917911389588402401) — Range slider  · 👁 10105 ❤ 222 🔖 106 · 
+- [@benjitaylor](https://x.com/benjitaylor) · [tweet](https://x.com/benjitaylor/status/1920894031904600154) — This is a great breakdown of how our new onboarding approach works in @family, both for devs and users. Super simple. · 👁 47331 ❤ 630 🔖 533 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1928767662546362707) — Still one of the most referenced animation-heavy websites. · 👁 310 ❤ 9 🔖 2 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1933146649674596469) — Teenage Engineering TX-6 Black illustrated in @figma — that completes the set! · 👁 3899 ❤ 114 🔖 33 · 
+- [@PeterTarka](https://x.com/PeterTarka) · [tweet](https://x.com/PeterTarka/status/1918680940093579311) — Shapes Studio  · 👁 10367 ❤ 321 🔖 86 · 
+- [@AugustasDesign](https://x.com/AugustasDesign) · [tweet](https://x.com/AugustasDesign/status/1919240443851575510) — My new agency website is live! · 👁 7675 ❤ 196 🔖 122 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1931438004171669625) — made it interactive in @framer · 👁 103034 ❤ 1914 🔖 868 · 
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/2043554776865185875) — workspace config panel · 👁 2601 ❤ 119 🔖 49 · 
+- [@dwayneferdib](https://x.com/dwayneferdib) · [tweet](https://x.com/dwayneferdib/status/1929516517537747314) — playing around with after effects · 👁 27674 ❤ 797 🔖 224 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1929913232023785554) — 𝚐𝚘𝚘𝚍 𝚗𝚒𝚐𝚑𝚝, 𝚜𝚝𝚛𝚞𝚐𝚐𝚕𝚎𝚛𝚜. · 👁 50337 ❤ 2482 🔖 347 · 
+- [@sketch](https://x.com/sketch) · [tweet](https://x.com/sketch/status/1927358069345767921) — Remember when we said auto layout was coming to Sketch? It’s here. It’s called Stacks, and it’s part of our biggest release ever — out now. · 👁 157062 ❤ 995 🔖 289 · 
+- [@insank18](https://x.com/insank18) · [tweet](https://x.com/insank18/status/1930154620946645346) — Widgets Today · 👁 15084 ❤ 285 🔖 219 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1927802176350388561) — (no text) · 👁 15311 ❤ 366 🔖 112 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1930231735343849961) — Navigating through the internal product pages of the FSCO website · 👁 3307 ❤ 171 🔖 78 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1928802465228394817) — Finalising the default light & dark modes for Peony. Plan on having many more themes - but it's a good start. · 👁 27522 ❤ 447 🔖 401 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1930263360802828564) — If you’re a solo founder building something in public and you need clean, fast product design: · 👁 8520 ❤ 254 🔖 187 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1932665530302808087) — Vanilla Chi · 👁 37898 ❤ 1541 🔖 430 · 
+- [@kevintwohy](https://x.com/kevintwohy) · [tweet](https://x.com/kevintwohy/status/1933327387036692946) — website updates [coming soon] · 👁 3732 ❤ 120 🔖 35 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1924465903774892306) — just recreated this smooth image before-after carousel in @framer — perfect for showcasing transformations. · 👁 4072 ❤ 103 🔖 54 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1927334108008452376) — 21 · 👁 39700 ❤ 234 🔖 119 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1918950004187619579) — Eurovision 2025 Visual Identity by @notwk_ldn  · 👁 13346 ❤ 313 🔖 107 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1921627188048052530) — Is this the best showreel on the web? · 👁 32116 ❤ 812 🔖 537 · 
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/1932056672156995588) — Text Edit / AI Highlight · 👁 16974 ❤ 377 🔖 226 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1927632193800827071) — Mega menu // SeamlessAI · 👁 16199 ❤ 247 🔖 149 · 
+- [@wes_cream](https://x.com/wes_cream) · [tweet](https://x.com/wes_cream/status/1929860128368422931) — Inductance.  · 👁 21107 ❤ 167 🔖 26 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1928062373950095537) — (no text) · 👁 2190 ❤ 52 🔖 21 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1930575281334743528) — brand + web  · 👁 76174 ❤ 2344 🔖 1241 · 
+- [@yahyavision](https://x.com/yahyavision) · [tweet](https://x.com/yahyavision/status/1933197382507810907) — Visual Identity — Service Pros Hub® · 👁 4561 ❤ 151 🔖 61 · 
+- [@hallo_shawon](https://x.com/hallo_shawon) · [tweet](https://x.com/hallo_shawon/status/1923936584220475800) — Ladox Logo Design  Concept · 👁 944 ❤ 64 🔖 13 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1933554665523703994) — Recent design work! · 👁 4906 ❤ 161 🔖 54 · 
+- [@rightclickdead](https://x.com/rightclickdead) · [tweet](https://x.com/rightclickdead/status/1933456263095980530) — I just recieved an invitation to participate in the Museum of @GIPHY Artists, more updates will follow as things progress  · 👁 2906 ❤ 175 🔖 15 · 
+- [@thomasauros](https://x.com/thomasauros) · [tweet](https://x.com/thomasauros/status/1932807057205588326) — Some isometric diagrams for the upcoming @evervault docs rebuild. · 👁 17804 ❤ 432 🔖 210 · 
+- [@bedirhandogn](https://x.com/bedirhandogn) · [tweet](https://x.com/bedirhandogn/status/2047285309008695647) — Arciel. · 👁 1118 ❤ 48 🔖 10 · 
+- [@athasdev](https://x.com/athasdev) · [tweet](https://x.com/athasdev/status/1933121091750252606) — Remote connections are coming soon! · 👁 19634 ❤ 410 🔖 94 · 
+- [@kubadesign](https://x.com/kubadesign) · [tweet](https://x.com/kubadesign/status/1927995172861747378) — hero section 03 · 👁 105561 ❤ 844 🔖 465 · 
+- [@v_serbulenko](https://x.com/v_serbulenko) · [tweet](https://x.com/v_serbulenko/status/1921897920065884352) — I continue to work on @googlechrome tabs screen. Gonna make it fully functional like the original one. · 👁 34751 ❤ 545 🔖 285 · 
+- [@ensaktas](https://x.com/ensaktas) · [tweet](https://x.com/ensaktas/status/1917125242071249200) — Fresh look, same ambition. · 👁 3524 ❤ 58 🔖 13 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1927761293227769974) — All about abstractions in color.  · 👁 7061 ❤ 362 🔖 63 · 
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/1928929089974349904) — Task details view / dark mode  · 👁 24622 ❤ 273 🔖 187 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1933141874522636385) — Rejected Logo :( · 👁 2792 ❤ 81 🔖 29 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1919760385155997969) — 𝚐𝚘𝚘𝚍 𝚗𝚒𝚐𝚑𝚝 · 👁 12489 ❤ 745 🔖 46 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1927849390170952127) — (no text) · 👁 5265 ❤ 125 🔖 44 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1930278377719558347) — orange never fails · 👁 43951 ❤ 1101 🔖 791 · 
+- [@evilrabbit_](https://x.com/evilrabbit_) · [tweet](https://x.com/evilrabbit_/status/1933249719368888391) — The wizard @henryheffernan · 👁 10393 ❤ 235 🔖 155 · 
+- [@dnaijatechguy](https://x.com/dnaijatechguy) · [tweet](https://x.com/dnaijatechguy/status/1917315448695148606) — Everyday as designers we move closer to carpentry as an alternative career.  · 👁 45882 ❤ 670 🔖 531 · 
+- [@Pixel0Symphony](https://x.com/Pixel0Symphony) · [tweet](https://x.com/Pixel0Symphony/status/1927743354688753665) — (no text) · 👁 3767 ❤ 184 🔖 29 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1918669285180002595) — Got a few unused logos hanging around. Anyone want to give them a new home? · 👁 15622 ❤ 342 🔖 149 · 
+- [@pqoqubbw](https://x.com/pqoqubbw) · [tweet](https://x.com/pqoqubbw/status/1932869187476570140) — minimalistic table of contents · 👁 5201 ❤ 188 🔖 78 · 
+- [@Venildesigner](https://x.com/Venildesigner) · [tweet](https://x.com/Venildesigner/status/1933678620012146733) — Assets overview component  · 👁 8158 ❤ 168 🔖 71 · 
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2044087277840703884) — (no text) · 👁 2895 ❤ 123 🔖 59 · 
+- [@47thegreat_](https://x.com/47thegreat_) · [tweet](https://x.com/47thegreat_/status/1930300680033468523) — This Portfolio Presentation Template will be FREE for a few hours.  Fully Editable! · 👁 27007 ❤ 531 🔖 373 · 
+- [@TweetsByTBI](https://x.com/TweetsByTBI) · [tweet](https://x.com/TweetsByTBI/status/1932739718850228414) — Based on visuals of travel, @Holographikco’s identity and web refresh for @trawelt_com take off in style → http://t-bi.link/trawelt · 👁 9578 ❤ 251 🔖 124 · 
+- [@CharlieGBaker](https://x.com/CharlieGBaker) · [tweet](https://x.com/CharlieGBaker/status/1916788752372101598) — Finance widget  · 👁 1936 ❤ 74 🔖 14 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1918696552367092205) — input components, light mode  · 👁 7417 ❤ 193 🔖 81 · 
+- [@dakshpixelup](https://x.com/dakshpixelup) · [tweet](https://x.com/dakshpixelup/status/1929528561393709504) —  New skin unlocked. · 👁 4703 ❤ 148 🔖 47 · 
+- [@headroomAI](https://x.com/headroomAI) · [tweet](https://x.com/headroomAI/status/1927734140364894550) — Scrappy small business? · 👁 109205 ❤ 1436 🔖 530 · 
+- [@zielinskiwoj](https://x.com/zielinskiwoj) · [tweet](https://x.com/zielinskiwoj/status/1919756513318498707) — Create 3D orb gradients with @Figma · 👁 42298 ❤ 681 🔖 647 · 
+- [@bentenwoodring](https://x.com/bentenwoodring) · [tweet](https://x.com/bentenwoodring/status/1933169166153900366) — Exploration · 👁 787 ❤ 33 🔖 4 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1925580160025469005) — Mabone — Visual Identity                        · 👁 29364 ❤ 608 🔖 324 · 
+- [@Venildesigner](https://x.com/Venildesigner) · [tweet](https://x.com/Venildesigner/status/1929699615127097756) — Email project for a Client  · 👁 33438 ❤ 449 🔖 332 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1917494381000679896) — Type Scale — Design System  · 👁 5555 ❤ 104 🔖 68 · 
+- [@hunterthompson](https://x.com/hunterthompson) · [tweet](https://x.com/hunterthompson/status/1924510918651863138) — Webflow dev for IngredientAI · 👁 6238 ❤ 74 🔖 35 · 
+- [@arvsrn](https://x.com/arvsrn) · [tweet](https://x.com/arvsrn/status/1918598910450241719) — (no text) · 👁 11619 ❤ 201 🔖 136 · 
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/1921647942093443368) — wow.. this scroll effect with that incredible wiggle animation is crazy.. · 👁 77347 ❤ 1990 🔖 1084 · 
+- [@saisatvik_](https://x.com/saisatvik_) · [tweet](https://x.com/saisatvik_/status/2056705930126123471) — Product page design · 👁 779 ❤ 39 🔖 10 · 
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/1927020209119875124) — (no text) · 👁 3873 ❤ 123 🔖 18 · 
+- [@b___ence](https://x.com/b___ence) · [tweet](https://x.com/b___ence/status/1918308767420047692) — some vol public release previews, ty all for the feedback on early access · 👁 12752 ❤ 352 🔖 140 · 
+- [@BasicAppleGuy](https://x.com/BasicAppleGuy) · [tweet](https://x.com/BasicAppleGuy/status/1933526618473181441) — Finder Icon History · 👁 178541 ❤ 2620 🔖 216 · 
+- [@_yangyou](https://x.com/_yangyou) · [tweet](https://x.com/_yangyou/status/1927502568529232371) — love the packaging details as much as i love these new notebooks, thank you @PPLXsupply @RypeArts  · 👁 11971 ❤ 294 🔖 90 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1920761522315223486) — No mockups, just the raw, beautiful core of branding  · 👁 15140 ❤ 387 🔖 182 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1930146830844588451) — Out of the Dark Typefaces · 👁 11711 ❤ 327 🔖 95 · 
+- [@unrootdesign](https://x.com/unrootdesign) · [tweet](https://x.com/unrootdesign/status/2038239888986849526) — Still love prev version of Dreamie we did in 2025 · 👁 1667 ❤ 40 🔖 12 · 
+- [@hrshbika](https://x.com/hrshbika) · [tweet](https://x.com/hrshbika/status/1927767983809614001) — I love green  · 👁 3779 ❤ 164 🔖 35 · 
+- [@benjaminnathan](https://x.com/benjaminnathan) · [tweet](https://x.com/benjaminnathan/status/1905292726607675685) — (no text) · 👁 16937 ❤ 351 🔖 117 · 
+- [@nuevo_tokyo](https://x.com/nuevo_tokyo) · [tweet](https://x.com/nuevo_tokyo/status/1929730975766139222) — It’s fun to destroy things from time to time — when it doesn’t cause trouble. · 👁 8688 ❤ 164 🔖 31 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1930975199412855223) — Calendar event types  · 👁 9855 ❤ 159 🔖 78 · 
+- [@rndr_realm](https://x.com/rndr_realm) · [tweet](https://x.com/rndr_realm/status/1924417546452648004) — Glass layers + dynamic rotations = endless visual transformations. · 👁 36208 ❤ 858 🔖 536 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1930156283895918804) — Dashboard animation in Unicorn by @UXzadriel  · 👁 339 ❤ 7 🔖 5 · 
+- [@piyushsphere](https://x.com/piyushsphere) · [tweet](https://x.com/piyushsphere/status/2046209239119761524) — Enterprise Bento Cards · 👁 1044 ❤ 56 🔖 22 · 
+- [@thestudiothree](https://x.com/thestudiothree) · [tweet](https://x.com/thestudiothree/status/1922716396808462563) — Make your Brand STAND OUT  · 👁 3087 ❤ 84 🔖 43 · 
+- [@initjean](https://x.com/initjean) · [tweet](https://x.com/initjean/status/1927531433230237955) — i love designing in code · 👁 24658 ❤ 548 🔖 204 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1929530863248699557) — Another simple logo sprint on http://logotype.org  · 👁 8203 ❤ 158 🔖 38 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1919393714272682156) — I am excited to announce my new business model http://interfacer.co · 👁 17491 ❤ 270 🔖 164 · 
+- [@merycodes](https://x.com/merycodes) · [tweet](https://x.com/merycodes/status/1928640807050895507) — Status indicator explorations · 👁 42680 ❤ 904 🔖 396 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/2056640393488249221) — visual system concept · 👁 2285 ❤ 74 🔖 24 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929901006193864812) — Bendito Mockup · 👁 8703 ❤ 167 🔖 29 · 
+- [@ty_kra_lab](https://x.com/ty_kra_lab) · [tweet](https://x.com/ty_kra_lab/status/1933625559260569977) — Managed to do the morphing · 👁 2039 ❤ 24 🔖 4 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1927001595943788994) — just recreated this sick 3d icon hover animation in @framer. · 👁 20687 ❤ 419 🔖 330 · 
+- [@cathlynsa](https://x.com/cathlynsa) · [tweet](https://x.com/cathlynsa/status/1929606485199528389) — Typografia • Czechoslovak printers’ journal published by Práce (c. 1950s–1980s), with covers by Vladislav Najbrt – Its clean, functional design was rooted in the print process, 1964...1966. · 👁 29605 ❤ 991 🔖 322 · 
+- [@realvjy](https://x.com/realvjy) · [tweet](https://x.com/realvjy/status/1933829927058428334) — What about chaos button  · 👁 10003 ❤ 283 🔖 127 · 
+- [@maybepratikk](https://x.com/maybepratikk) · [tweet](https://x.com/maybepratikk/status/1928064017693565207) — is this what they call - "clean work" ? · 👁 1849 ❤ 52 🔖 10 · 
+- [@thestudiothree](https://x.com/thestudiothree) · [tweet](https://x.com/thestudiothree/status/1929599373228265661) — Run with us · 👁 7013 ❤ 189 🔖 86 · 
+- [@Gwtm_Designs](https://x.com/Gwtm_Designs) · [tweet](https://x.com/Gwtm_Designs/status/1929814389114523697) — Creative tip: Make your moodboard strong enough to carry you through the whole project  · 👁 19740 ❤ 428 🔖 244 · 
+- [@DannPetty](https://x.com/DannPetty) · [tweet](https://x.com/DannPetty/status/1924831253313753223) — Every footer should have this · 👁 49415 ❤ 1200 🔖 521 · 
+- [@cactusui](https://x.com/cactusui) · [tweet](https://x.com/cactusui/status/1926312911363879289) —  Branding presets · 👁 125434 ❤ 979 🔖 978 · 
+- [@nadimujjl](https://x.com/nadimujjl) · [tweet](https://x.com/nadimujjl/status/1918921355430334699) — Aura Film Studio©. · 👁 19281 ❤ 702 🔖 215 · 
+- [@ydwndr](https://x.com/ydwndr) · [tweet](https://x.com/ydwndr/status/1929153473213497537) — love designing toast components · 👁 19949 ❤ 413 🔖 230 · 
+- [@BreejeAnadkat](https://x.com/BreejeAnadkat) · [tweet](https://x.com/BreejeAnadkat/status/1922618423479001431) — I charged $999 for this site 6 months ago — guess how much it costs now? · 👁 11843 ❤ 89 🔖 98 · 
+- [@matrixmurals](https://x.com/matrixmurals) · [tweet](https://x.com/matrixmurals/status/1929659291063005686) — A Warrior's Final Bow · 👁 114363 ❤ 2655 🔖 391 · 
+- [@MarcoPrizzy](https://x.com/MarcoPrizzy) · [tweet](https://x.com/MarcoPrizzy/status/1923034491263533466) —  Introducing my first @Framer template, Rowen · 👁 11115 ❤ 226 🔖 55 · 
+- [@LindaOjo_](https://x.com/LindaOjo_) · [tweet](https://x.com/LindaOjo_/status/1918251451547087090) — Started off with the 2D @discord icon in Figma and made a 3D version in Blender. · 👁 20914 ❤ 577 🔖 95 · 
+- [@adieldesign](https://x.com/adieldesign) · [tweet](https://x.com/adieldesign/status/1929789149080375635) — hero design exploration · 👁 11772 ❤ 313 🔖 110 · 
+- [@noxxhq](https://x.com/noxxhq) · [tweet](https://x.com/noxxhq/status/1930289979508359574) — PROJEKT DISPLAY → 15% OFF  · 👁 2714 ❤ 70 🔖 38 · 
+- [@mehekprabhakar](https://x.com/mehekprabhakar) · [tweet](https://x.com/mehekprabhakar/status/1933871093355319771) — vibrant, edgy and all things fun for @tizz_trade · 👁 6230 ❤ 168 🔖 64 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1919413259817386247) — Monday. #b3d · 👁 9441 ❤ 344 🔖 66 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1929583816693502200) — Exploring features card · 👁 6531 ❤ 145 🔖 52 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1929527520841576482) — Renewable Energy Research Bureau · 👁 835 ❤ 30 🔖 6 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1921554390210466013) — Had some fun with the new @figma draw tools. Created this og pub style branding. (: · 👁 31931 ❤ 710 🔖 310 · 
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/1932073849446633583) — (even more) widgets ⧈ · 👁 17580 ❤ 235 🔖 141 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1897531816858509642) — brand assets · 👁 55225 ❤ 1051 🔖 354 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1925159650447491315) —  · 👁 90146 ❤ 2667 🔖 1699 · 
+- [@designmeagency](https://x.com/designmeagency) · [tweet](https://x.com/designmeagency/status/1906345727477022868) — (no text) · 👁 20295 ❤ 341 🔖 224 · 
+- [@Inspector_9](https://x.com/Inspector_9) · [tweet](https://x.com/Inspector_9/status/1923778108634562607) — 𝓗𝓮𝓪𝓿𝓮𝓷’𝓼 𝓣𝓪𝓼𝓽𝓮𝓼 · 👁 43357 ❤ 1702 🔖 208 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1932096077286539436) — Shine bright, rate it 1-10 · 👁 10317 ❤ 278 🔖 106 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1923316357371678801) — brand work · 👁 9975 ❤ 270 🔖 93 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1929493907001229407) — Marketing agencies deserves good Brandings too! · 👁 0 ❤ 0 🔖 0 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1925967891402195452) — Logos and icons. · 👁 19892 ❤ 431 🔖 150 · 
+- [@TweetsByTBI](https://x.com/TweetsByTBI) · [tweet](https://x.com/TweetsByTBI/status/1931924303408419121) — Breaking away from clinical aesthetics, Lettera7’s look for AM reveals the beauty in bacterial forms. · 👁 23091 ❤ 495 🔖 285 · 
+- [@rndr_realm](https://x.com/rndr_realm) · [tweet](https://x.com/rndr_realm/status/1932036825142395214) — Our latest 3D, motion & web projects in one reel. · 👁 7411 ❤ 213 🔖 110 · 
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/1926946705380954561) — Here we go  · 👁 39575 ❤ 525 🔖 164 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1924511367605911877) — Can Yang (IG: solxus) · 👁 21074 ❤ 559 🔖 219 · 
+- [@AhmetKose571](https://x.com/AhmetKose571) · [tweet](https://x.com/AhmetKose571/status/1933567486143742344) — New @framer template loading…  · 👁 7039 ❤ 186 🔖 68 · 
+- [@tanbirDsgnDev](https://x.com/tanbirDsgnDev) · [tweet](https://x.com/tanbirDsgnDev/status/1924886791397769482) — prompture on mobile view is also killing it  · 👁 10480 ❤ 182 🔖 71 · 
+- [@avstorm](https://x.com/avstorm) · [tweet](https://x.com/avstorm/status/1917640868669870187) — Aura - Miro’s new product design language. · 👁 0 ❤ 0 🔖 0 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1919621225732587911) — /204 · 👁 3517 ❤ 175 🔖 39 · 
+- [@Amin__turki](https://x.com/Amin__turki) · [tweet](https://x.com/Amin__turki/status/1922573151747055989) — Dark or light? · 👁 17466 ❤ 364 🔖 165 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1929615525602320739) — Another quick animation for when docs are scanned in Peony. Playing with a few options for this one. Made in @splinetool. · 👁 36604 ❤ 564 🔖 335 · 
+- [@yasirbugra](https://x.com/yasirbugra) · [tweet](https://x.com/yasirbugra/status/1932145788601450932) — Liquid Glass  · 👁 1891 ❤ 31 🔖 7 · 
+- [@AdamWhitcroft](https://x.com/AdamWhitcroft) · [tweet](https://x.com/AdamWhitcroft/status/1932507752234168391) — Still one of my favourites I've made. · 👁 90959 ❤ 1966 🔖 195 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1918658431084380310) — Logo icons from http://logotype.org · 👁 10032 ❤ 205 🔖 100 · 
+- [@benfryc](https://x.com/benfryc) · [tweet](https://x.com/benfryc/status/1919531652159602796) — clarity over quantity · 👁 13466 ❤ 427 🔖 44 · 
+- [@_atilla1](https://x.com/_atilla1) · [tweet](https://x.com/_atilla1/status/1929908241955176468) — Pretty happy with how the watch customizer turned out. · 👁 84040 ❤ 1631 🔖 766 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1929289473226899670) — Minimal Drams Posters · 👁 32719 ❤ 658 🔖 287 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1926986690935112146) — Packpal brand visual identity by http://byunleash.studio · 👁 10254 ❤ 203 🔖 95 · 
+- [@BrettFromDJ](https://x.com/BrettFromDJ) · [tweet](https://x.com/BrettFromDJ/status/1932876956397425061) — Thought liquid glass was cool? · 👁 146386 ❤ 2062 🔖 837 · 
+- [@CobianOG](https://x.com/CobianOG) · [tweet](https://x.com/CobianOG/status/1922369648231604733) — This one’s heavily inspired by @DopeOblivion work · 👁 1139 ❤ 27 🔖 7 · 
+- [@bittucreator](https://x.com/bittucreator) · [tweet](https://x.com/bittucreator/status/1925502537744228510) — logo design for equin. flat—$599 · 👁 7507 ❤ 153 🔖 69 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1927998597318037805) — Most visited design today. · 👁 323 ❤ 5 🔖 0 · 
+- [@byfloperillat](https://x.com/byfloperillat) · [tweet](https://x.com/byfloperillat/status/2048430040124158032) — Upcoming projects I’m really excited about · 👁 12746 ❤ 227 🔖 78 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1933478288783204812) — sidebar export interaction · 👁 1406 ❤ 60 🔖 24 · 
+- [@pwign](https://x.com/pwign) · [tweet](https://x.com/pwign/status/1927760004183970067) — boing · 👁 29537 ❤ 639 🔖 164 · 
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/1930201409670263061) — AI data management dashboard · 👁 7323 ❤ 165 🔖 102 · 
+- [@fahlevidesign](https://x.com/fahlevidesign) · [tweet](https://x.com/fahlevidesign/status/1930336402237207039) — WIP @framer Template · 👁 8282 ❤ 338 🔖 185 · 
+- [@GabFoulon](https://x.com/GabFoulon) · [tweet](https://x.com/GabFoulon/status/1922277779208352221) — Animated icons I made for @krea_ai · 👁 28136 ❤ 836 🔖 326 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1917579474289451094) — i just recreated this folder recolor animation in @framer. · 👁 3400 ❤ 69 🔖 30 · 
+- [@RomaTesla](https://x.com/RomaTesla) · [tweet](https://x.com/RomaTesla/status/1924138346890043520) — Profile picture placeholder on Portal  · 👁 4731 ❤ 79 🔖 33 · 
+- [@designcmmnty](https://x.com/designcmmnty) · [tweet](https://x.com/designcmmnty/status/1901575657923948829) — Design  By @MSchwaibold · 👁 17246 ❤ 503 🔖 284 · 
+- [@nachiiiUI](https://x.com/nachiiiUI) · [tweet](https://x.com/nachiiiUI/status/2044652849767051379) — Dark or White · 👁 6032 ❤ 133 🔖 56 · 
+- [@ItsAmmarHassan](https://x.com/ItsAmmarHassan) · [tweet](https://x.com/ItsAmmarHassan/status/1927692666826899517) — I think I need to stop this ... · 👁 7257 ❤ 219 🔖 62 · 
+- [@JoshuaNewton1](https://x.com/JoshuaNewton1) · [tweet](https://x.com/JoshuaNewton1/status/1918281991306527239) — Alright! here's the end of Week 5 going full-time on @AppOrbit · 👁 1597 ❤ 45 🔖 3 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1929640402178416688) — Lil thingamajig. #b3d · 👁 6131 ❤ 190 🔖 55 · 
+- [@lostdoesart](https://x.com/lostdoesart) · [tweet](https://x.com/lostdoesart/status/1928080374367654204) — We partnered with @Neuroptima to rebuild their entire brand experience, from shelf to screen. · 👁 5334 ❤ 107 🔖 23 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1919726012339786152) — Edit your preferences  · 👁 12631 ❤ 277 🔖 144 · 
+- [@rafahari](https://x.com/rafahari) · [tweet](https://x.com/rafahari/status/1929887427583267033) — Here's some other details that I bet most won't ever notice, but (for the sake of my career) I hope some will _feel it_: · 👁 9190 ❤ 177 🔖 74 · 
+- [@aydaoz](https://x.com/aydaoz) · [tweet](https://x.com/aydaoz/status/1924761672150908966) — (no text) · 👁 12169 ❤ 221 🔖 109 · 
+- [@madewithgsap](https://x.com/madewithgsap) · [tweet](https://x.com/madewithgsap/status/1928074641773395976) — Big text in motion! Learn how to easily animate your sentences and make your content come alive. Build with @greensock  · 👁 2117 ❤ 70 🔖 23 · 
+- [@marcelkargul](https://x.com/marcelkargul) · [tweet](https://x.com/marcelkargul/status/2037881003910336992) — hero section, dashboard, even the colors. · 👁 64990 ❤ 458 🔖 340 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929539499387978094) — (no text) · 👁 8758 ❤ 186 🔖 28 · 
+- [@dejvdesign](https://x.com/dejvdesign) · [tweet](https://x.com/dejvdesign/status/2052703587445170305) — Modal concept - light & dark mode · 👁 793 ❤ 35 🔖 11 · 
+- [@DannPetty](https://x.com/DannPetty) · [tweet](https://x.com/DannPetty/status/1933582338878849150) — But is it converting? Yes, new eye balls. · 👁 35832 ❤ 753 🔖 440 · 
+- [@Designownow_](https://x.com/Designownow_) · [tweet](https://x.com/Designownow_/status/1917687992082391338) — Angled button concept. I was getting board of looking at buttons from a front facing view... so... voilà, put it at an angle. What do you think? · 👁 19714 ❤ 419 🔖 200 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1933751429577028067) — Xtian Miller · 👁 29207 ❤ 1076 🔖 240 · 
+- [@istrdsgn](https://x.com/istrdsgn) · [tweet](https://x.com/istrdsgn/status/1924831378153083013) — chat imput - interaction states · 👁 16928 ❤ 301 🔖 180 · 
+- [@MaxDrekker](https://x.com/MaxDrekker) · [tweet](https://x.com/MaxDrekker/status/1929877389057646684) — (no text) · 👁 6372 ❤ 490 🔖 42 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1922869281873707494) — Beauty logo design! · 👁 2248 ❤ 94 🔖 19 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1929613321784737876) — banger? · 👁 29862 ❤ 335 🔖 243 · 
+- [@xapobankapp](https://x.com/xapobankapp) · [tweet](https://x.com/xapobankapp/status/1930267580595372452) — Access total Bitcoin freedom with one app. · 👁 428307 ❤ 7 🔖 6 · 
+- [@iconists](https://x.com/iconists) · [tweet](https://x.com/iconists/status/2047389166732743054) — Codex UI icons · 👁 66123 ❤ 2013 🔖 529 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1928381767599198338) — Account setup  · 👁 23739 ❤ 747 🔖 593 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1925083640326979979) — this clean tooltip animation by @ln_dev7 is so smooth! · 👁 4276 ❤ 107 🔖 32 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1927772606964404511) — Visual identity design for Krila Institute! · 👁 1720 ❤ 101 🔖 18 · 
+- [@hamzaxwz](https://x.com/hamzaxwz) · [tweet](https://x.com/hamzaxwz/status/1927701640586395802) — Recent design work  · 👁 11647 ❤ 217 🔖 129 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1919784367167271285) — TVG Visual Identity by Nonstop  · 👁 11549 ❤ 393 🔖 155 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1928484063750279211) — MGN Nyon  · 👁 393 ❤ 16 🔖 2 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1929796866071286031) — old internet core · 👁 5668 ❤ 203 🔖 47 · 
+- [@creativedash](https://x.com/creativedash) · [tweet](https://x.com/creativedash/status/1929847168640123315) — Stepper Prototype 01 · 👁 4192 ❤ 145 🔖 45 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1918242307876278435) — Look at this button! · 👁 40589 ❤ 794 🔖 362 · 
+- [@wladuiux](https://x.com/wladuiux) · [tweet](https://x.com/wladuiux/status/1928604212792852747) — a piece of sidebar · 👁 5436 ❤ 116 🔖 27 · 
+- [@filipoviclazar_](https://x.com/filipoviclazar_) · [tweet](https://x.com/filipoviclazar_/status/2037937420289687995) — I bet there’s no more unique thumbnail for a template on the marketplace. · 👁 4377 ❤ 161 🔖 56 · 
+- [@adhiraj_OTW](https://x.com/adhiraj_OTW) · [tweet](https://x.com/adhiraj_OTW/status/1924419773787767115) — tech should be fun pt.2 · 👁 11451 ❤ 299 🔖 101 · 
+- [@UltraLinx](https://x.com/UltraLinx) · [tweet](https://x.com/UltraLinx/status/1917928513782559029) — So we have an app now. Which I can't quite believe. · 👁 40205 ❤ 519 🔖 137 · 
+- [@ydwndr](https://x.com/ydwndr) · [tweet](https://x.com/ydwndr/status/1929878257274613773) — sidebar  · 👁 18648 ❤ 398 🔖 300 · 
+- [@zeljko_design](https://x.com/zeljko_design) · [tweet](https://x.com/zeljko_design/status/1917965813744648497) — April design recap · 👁 38987 ❤ 778 🔖 483 · 
+- [@codebydennis](https://x.com/codebydennis) · [tweet](https://x.com/codebydennis/status/1924442189213405623) — If you want to use parts of my portfolio without ending up on http://copydennis.com, join @osmosupply. · 👁 8662 ❤ 199 🔖 63 · 
+- [@benjaminnathan](https://x.com/benjaminnathan) · [tweet](https://x.com/benjaminnathan/status/1925554578839192052) — The Spring Event also brought major interface updates to @framer, with refreshed icons, updated toolbars, and denser UIs in places like our Insert Panels and Actions Menu. A little spring cleaning. · 👁 9500 ❤ 119 🔖 14 · 
+- [@FonsMans](https://x.com/FonsMans) · [tweet](https://x.com/FonsMans/status/1929873698141462966) — I want to see more of this, everywhere. · 👁 32151 ❤ 706 🔖 225 · 
+- [@itsbyferdi](https://x.com/itsbyferdi) · [tweet](https://x.com/itsbyferdi/status/1927734566476726758) — From the archives  · 👁 781 ❤ 33 🔖 7 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1929173892830019783) — Experimenting with menu animations in Peony. Animated in @splinetool, illustrated in @figma. · 👁 29416 ❤ 392 🔖 203 · 
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/1924863645965521157) — Floor Sweep · 👁 18495 ❤ 490 🔖 292 · 
+- [@insank18](https://x.com/insank18) · [tweet](https://x.com/insank18/status/1929900574180552851) — Preview Section  · 👁 3556 ❤ 113 🔖 38 · 
+- [@keilethh](https://x.com/keilethh) · [tweet](https://x.com/keilethh/status/1922000436766130478) — Bitrecs — Visuals for an e-commerce brand. · 👁 30575 ❤ 774 🔖 410 · 
+- [@RamyWafaa](https://x.com/RamyWafaa) · [tweet](https://x.com/RamyWafaa/status/1917484660222742590) — Today's update for BluePrint icons by Getillustrations, the Business icons set is done and ready to release · 👁 17936 ❤ 445 🔖 158 · 
+- [@tikhbana](https://x.com/tikhbana) · [tweet](https://x.com/tikhbana/status/1927759763296620638) — huh · 👁 11098 ❤ 127 🔖 22 · 
+- [@PludaAlex](https://x.com/PludaAlex) · [tweet](https://x.com/PludaAlex/status/1919091035453464776) — I’ll always trade a button for a gesture. It’s less obvious, sure — but once learned, it just flows.  The UI vanishes, and what’s left is pure intent.  · 👁 7156 ❤ 228 🔖 136 · 
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/1930731047626645734) — this is so fluid.. · 👁 114219 ❤ 3045 🔖 2079 · 
+- [@barrettrmdesign](https://x.com/barrettrmdesign) · [tweet](https://x.com/barrettrmdesign/status/1929559755443282079) — A few uppercase A samples from some of my typefaces! · 👁 28427 ❤ 906 🔖 343 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1918272590403047929) — Upgrade to enterprise  · 👁 14389 ❤ 255 🔖 166 · 
+- [@alxvgyn](https://x.com/alxvgyn) · [tweet](https://x.com/alxvgyn/status/1924423608337657922) — jumping straight into old archives · 👁 594 ❤ 22 🔖 4 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1927584339329495214) — I found the best shadows settings, steal it or save both appreciated  · 👁 72925 ❤ 1233 🔖 1680 · 
+- [@Mayankshahh](https://x.com/Mayankshahh) · [tweet](https://x.com/Mayankshahh/status/1919789735750299702) — Made in @rive_app Free file dropping soon! @Chaayos this deserves a spot in your app  · 👁 74207 ❤ 1415 🔖 700 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1918712996206932083) — (no text) · 👁 4649 ❤ 74 🔖 25 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1929435328768536782) — Task manager swipe interaction by @bogdan_qclay  · 👁 355 ❤ 6 🔖 4 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/2041115198782849489) — flowers and agents · 👁 10767 ❤ 357 🔖 99 · 
+- [@dejvdesign](https://x.com/dejvdesign) · [tweet](https://x.com/dejvdesign/status/2043628529082908905) — Ticket Dashboard – Smart Notifications Feature · 👁 2613 ❤ 93 🔖 57 · 
+- [@uiuxphil](https://x.com/uiuxphil) · [tweet](https://x.com/uiuxphil/status/1927053926718656600) — Design idea: @Audible with reading functionality  · 👁 8548 ❤ 101 🔖 42 · 
+- [@productsantos](https://x.com/productsantos) · [tweet](https://x.com/productsantos/status/1929528872338407910) — Wallet  · 👁 10896 ❤ 224 🔖 91 · 
+- [@SeanFinlay_](https://x.com/SeanFinlay_) · [tweet](https://x.com/SeanFinlay_/status/1918274281370223062) — Another 4 locked in. · 👁 19079 ❤ 439 🔖 242 · 
+- [@natkohasic](https://x.com/natkohasic) · [tweet](https://x.com/natkohasic/status/1930630947960951011) — Designing a timeline really makes you see how the days go by. · 👁 28912 ❤ 570 🔖 334 · 
+- [@dzineloop](https://x.com/dzineloop) · [tweet](https://x.com/dzineloop/status/1930264784412520924) — More on Broence Streetwear © Visual Identity · 👁 4195 ❤ 133 🔖 39 · 
+- [@frisohakkers](https://x.com/frisohakkers) · [tweet](https://x.com/frisohakkers/status/1932069392868663494) — made a custom dynamic island · 👁 1706 ❤ 67 🔖 16 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1929978523978215880) — Blog design in the works · 👁 28688 ❤ 550 🔖 364 · 
+- [@novikoff](https://x.com/novikoff) · [tweet](https://x.com/novikoff/status/1932437911573852627) — This is an era of dynamic UI. And @rive_app is excellent for this! · 👁 36824 ❤ 793 🔖 410 · 
+- [@bruce_CQT](https://x.com/bruce_CQT) · [tweet](https://x.com/bruce_CQT/status/2040821526623392174) — undo → summon it back from the rocks  · 👁 28174 ❤ 589 🔖 227 · 
+- [@zielinskiwoj](https://x.com/zielinskiwoj) · [tweet](https://x.com/zielinskiwoj/status/1929898902087512451) — A brand new library drops on Source this week · 👁 33844 ❤ 566 🔖 369 · 
+- [@pqoqubbw](https://x.com/pqoqubbw) · [tweet](https://x.com/pqoqubbw/status/1933931459082891651) — added an editor for customizing the canvas · 👁 4924 ❤ 133 🔖 69 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1929735153288728787) — (no text) · 👁 4062 ❤ 125 🔖 29 · 
+- [@bedirhandogn](https://x.com/bedirhandogn) · [tweet](https://x.com/bedirhandogn/status/2053063883481370774) — Simple.  · 👁 93 ❤ 9 🔖 3 · 
+- [@lancedraws](https://x.com/lancedraws) · [tweet](https://x.com/lancedraws/status/1932450473539215552) — (no text) · 👁 21722 ❤ 492 🔖 196 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1919758884392128574) — Mobile onboard @intrfacer · 👁 23249 ❤ 754 🔖 417 · 
+- [@sucodeee](https://x.com/sucodeee) · [tweet](https://x.com/sucodeee/status/1921893307526864899) — SwiftUI custom card input  · 👁 17219 ❤ 410 🔖 265 · 
+- [@kirillSRV](https://x.com/kirillSRV) · [tweet](https://x.com/kirillSRV/status/1927776568698343903) — new bento · 👁 6111 ❤ 114 🔖 40 · 
+- [@TweetsByTBI](https://x.com/TweetsByTBI) · [tweet](https://x.com/TweetsByTBI/status/1929523496440504669) — Comprehensive presentation templates for every use case, from strategy to pitching, built for Figma, Figma Slides, InDesign, Canva, PowerPoint, Google Slides and Keynote.⁠ · 👁 10165 ❤ 221 🔖 198 · 
+- [@austboston](https://x.com/austboston) · [tweet](https://x.com/austboston/status/1924560375229645036) — new dark mode trays in new version of Stuff · 👁 20301 ❤ 447 🔖 218 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1931699079022592197) — Streamlined Launches Bento Box  · 👁 11611 ❤ 376 🔖 156 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1925534839270264880) — Minimal & Simple. · 👁 32045 ❤ 467 🔖 279 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1932330334714298803) — shades of blue in design · 👁 26712 ❤ 1040 🔖 416 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1926319243496137211) — UXTools 2024 design tool survey mobile @intrfacer · 👁 7091 ❤ 174 🔖 51 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1931981188631269867) — recent work snippets · 👁 9586 ❤ 238 🔖 108 · 
+- [@inkko44](https://x.com/inkko44) · [tweet](https://x.com/inkko44/status/1922749000291152315) — 10-minute landing page created with @lovable_dev and @hiunicornstudio · 👁 86459 ❤ 303 🔖 340 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1925550535593140236) — Tabs Visual Identity by @studiofreight  · 👁 19412 ❤ 778 🔖 311 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1928135575963320664) — Left or Right · 👁 173287 ❤ 1487 🔖 850 · 
+- [@jsngr](https://x.com/jsngr) · [tweet](https://x.com/jsngr/status/1931082967037989081) — recents · 👁 78442 ❤ 1363 🔖 635 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1928052506783011271) — snippet from a brand presentation · 👁 5648 ❤ 165 🔖 49 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1932075213056876696) — Hausen™  —  Visual Identity                             · 👁 7247 ❤ 208 🔖 79 · 
+- [@miniarchillect](https://x.com/miniarchillect) · [tweet](https://x.com/miniarchillect/status/1927271814176112648) — (no text) · 👁 97573 ❤ 4470 🔖 456 · 
+- [@lucas__crespo](https://x.com/lucas__crespo) · [tweet](https://x.com/lucas__crespo/status/1929236688519197165) — the art direction for 2023's google io was perfect · 👁 55218 ❤ 1621 🔖 600 · 
+- [@me_Jahanvi](https://x.com/me_Jahanvi) · [tweet](https://x.com/me_Jahanvi/status/1918646726560190694) — Tooltips don't necessarily have to be boringly bound in a box, right?  · 👁 13954 ❤ 421 🔖 151 · 
+- [@dchernyshuk](https://x.com/dchernyshuk) · [tweet](https://x.com/dchernyshuk/status/1929520279773982838) — I completely overengineered a menu interaction so you don't have to · 👁 13328 ❤ 200 🔖 93 · 
+- [@ermanmalak](https://x.com/ermanmalak) · [tweet](https://x.com/ermanmalak/status/1919425643470901673) — Now that I’ve finally figured out how to do these technical renders in Blender, I’m probably going to start bombarding you with them for a while. · 👁 29489 ❤ 735 🔖 286 · 
+- [@jamesm](https://x.com/jamesm) · [tweet](https://x.com/jamesm/status/1929501495042748719) — I've had so much fun redesigning the @finta product UI. A huge thanks to @andywang for the trust and full creative autonomy throughout so far! · 👁 27409 ❤ 506 🔖 335 · 
+- [@rennesis](https://x.com/rennesis) · [tweet](https://x.com/rennesis/status/1853825750664667527) — New work! Excited to continue our collaboration with ChainGPT by launching the ChainGPT Labs - newest addition to brand's product family, serving as a venture capital and incubator for the next genera · 👁 91988 ❤ 1307 🔖 817 · 
+- [@spottedinprod](https://x.com/spottedinprod) · [tweet](https://x.com/spottedinprod/status/1929976785288175728) — reeder · player · 👁 20497 ❤ 247 🔖 169 · 
+- [@SinistaVision](https://x.com/SinistaVision) · [tweet](https://x.com/SinistaVision/status/1932939831400608224) — Some unused/scrapped projects · 👁 21945 ❤ 727 🔖 246 · 
+- [@brandarchivexyz](https://x.com/brandarchivexyz) · [tweet](https://x.com/brandarchivexyz/status/1929463038161146131) — Drav by Wedge, 2019 · 👁 6974 ❤ 148 🔖 53 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1929403743042191554) — /231 · 👁 66972 ❤ 1908 🔖 899 · 
+- [@sbr_m](https://x.com/sbr_m) · [tweet](https://x.com/sbr_m/status/1929788109522456884) — #今日のいいデザイン · 👁 35521 ❤ 781 🔖 347 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1929806519463501949) — Early bento explorations for Lightdash  · 👁 11663 ❤ 169 🔖 72 · 
+- [@samstooff](https://x.com/samstooff) · [tweet](https://x.com/samstooff/status/1918276534605103125) — Part Five. · 👁 200799 ❤ 955 🔖 426 · 
+- [@__o_state](https://x.com/__o_state) · [tweet](https://x.com/__o_state/status/1929481869373870215) — Orpetron(@orpetron)にて、Portfolio v7がSOTDを受賞しました · 👁 4374 ❤ 104 🔖 21 · 
+- [@lucchaissac](https://x.com/lucchaissac) · [tweet](https://x.com/lucchaissac/status/1924728490294669353) — Just playing around with the lil’ details  · 👁 4627 ❤ 146 🔖 71 · 
+- [@darel023](https://x.com/darel023) · [tweet](https://x.com/darel023/status/1919729266515968061) — Turn your @Figma designs into animations with AI. · 👁 160248 ❤ 2084 🔖 1713 · 
+- [@jh3yy](https://x.com/jh3yy) · [tweet](https://x.com/jh3yy/status/1933621207221362753) — configurable chromatic aberration as requested – adjust to your likin'  · 👁 152579 ❤ 1314 🔖 721 · 
+- [@serglotz](https://x.com/serglotz) · [tweet](https://x.com/serglotz/status/1920961237522760114) — Just noticed this subtle design detail and a tribute @vanschneider paid to Sony Vaio. Timeless design lives on. · 👁 3875 ❤ 44 🔖 4 · 
+- [@BlessCreatics](https://x.com/BlessCreatics) · [tweet](https://x.com/BlessCreatics/status/1920348268942307407) — 005 // sbtrct · 👁 47935 ❤ 1453 🔖 608 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1924440242213249529) — (no text) · 👁 5600 ❤ 105 🔖 43 · 
+- [@remy_godet](https://x.com/remy_godet) · [tweet](https://x.com/remy_godet/status/1917905444040855938) — Working on a motion for my brand, so excited! · 👁 44467 ❤ 1235 🔖 484 · 
+- [@gizakdag](https://x.com/gizakdag) · [tweet](https://x.com/gizakdag/status/1924123572928127465) — A typical Sunday for Melancholy Guy. · 👁 248708 ❤ 5045 🔖 1008 · 
+- [@alex_barashkov](https://x.com/alex_barashkov) · [tweet](https://x.com/alex_barashkov/status/1919749094324490367) — I'm very surprised that over a year after @huly_io's website launched, people are still posting about it on X almost every week, copying some effects and sharing stories via DMs about how they tried t · 👁 20658 ❤ 389 🔖 214 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1930241259400310871) — Ve · 👁 5881 ❤ 251 🔖 71 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1917297206006276534) — imagine being 30+ and beefing on design twitter  · 👁 27821 ❤ 674 🔖 336 · 
+- [@gilverse_design](https://x.com/gilverse_design) · [tweet](https://x.com/gilverse_design/status/1931009742748725298) — PRICING section · 👁 5104 ❤ 111 🔖 46 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1929552856878657874) — Exploring new horizons!  · 👁 16740 ❤ 380 🔖 189 · 
+- [@evilrabbit_](https://x.com/evilrabbit_) · [tweet](https://x.com/evilrabbit_/status/1933977304906207647) — Beautiful https://howbr.vercel.app · 👁 57291 ❤ 631 🔖 466 · 
+- [@outpacestudios](https://x.com/outpacestudios) · [tweet](https://x.com/outpacestudios/status/1930334354531574133) — Unwind, never rewind.  · 👁 2437 ❤ 53 🔖 26 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1928003972893397400) — Appearance  · 👁 19837 ❤ 374 🔖 291 · 
+- [@vaunblu](https://x.com/vaunblu) · [tweet](https://x.com/vaunblu/status/1919737884200022027) — Revisiting my 100 hour journey learning motion · 👁 80143 ❤ 1904 🔖 1290 · 
+- [@aamond97](https://x.com/aamond97) · [tweet](https://x.com/aamond97/status/1927027558052155505) — Frame 1686552275 · 👁 2921 ❤ 127 🔖 18 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1919311604929474908) — Neutral Shades  · 👁 15477 ❤ 237 🔖 214 · 
+- [@huge_icons](https://x.com/huge_icons) · [tweet](https://x.com/huge_icons/status/1929741587250401532) — Dropdown Menu · 👁 7611 ❤ 153 🔖 101 · 
+- [@bittucreator](https://x.com/bittucreator) · [tweet](https://x.com/bittucreator/status/1933473548120830374) — new website ~ design for Chrono.  · 👁 2885 ❤ 101 🔖 30 · 
+- [@haydenbleasel](https://x.com/haydenbleasel) · [tweet](https://x.com/haydenbleasel/status/1930022190453535205) — I created a tiny app last week to replace my browser's new tab screen and I love it to bits.  Tracks my quick tasks, X posts and followers. · 👁 30556 ❤ 396 🔖 357 · 
+- [@keilethh](https://x.com/keilethh) · [tweet](https://x.com/keilethh/status/1918367782959276297) — AETHER — Logo & Visual identity. · 👁 532 ❤ 542 🔖 212 · 
+- [@Peterpangfx](https://x.com/Peterpangfx) · [tweet](https://x.com/Peterpangfx/status/1929428609346772995) — Logo design for a solar energy brand... · 👁 8762 ❤ 279 🔖 85 · 
+- [@JillesDesign](https://x.com/JillesDesign) · [tweet](https://x.com/JillesDesign/status/1918710565595197875) — I’m returning to freelancing. · 👁 5431 ❤ 107 🔖 39 · 
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/1928455931920019883) — Transaction Details Modal · 👁 11444 ❤ 184 🔖 100 · 
+- [@alyx_so](https://x.com/alyx_so) · [tweet](https://x.com/alyx_so/status/1932118901896147052) — brand identity for DistributeAI · 👁 59204 ❤ 1099 🔖 598 · 
+- [@alex_krasikau](https://x.com/alex_krasikau) · [tweet](https://x.com/alex_krasikau/status/1917596015344992401) — Auto-match  · 👁 26727 ❤ 495 🔖 248 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1918577041085218852) — Moving out of the comfort zone. · 👁 10948 ❤ 308 🔖 109 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1929444838094540989) — creating moodboards is the best part of the whole process · 👁 43914 ❤ 1787 🔖 652 · 
+- [@createwithplay](https://x.com/createwithplay) · [tweet](https://x.com/createwithplay/status/1924835886320984476) — You can now design with native menus in Play! Easily add all the different types of native menus including button menus, context menus, and bar menus.  · 👁 11824 ❤ 228 🔖 90 · 
+- [@KumailNanji](https://x.com/KumailNanji) · [tweet](https://x.com/KumailNanji/status/1927739433136071086) — chatgpt model switcher  · 👁 13202 ❤ 253 🔖 120 · 
+- [@mockupcloud](https://x.com/mockupcloud) · [tweet](https://x.com/mockupcloud/status/1921550867406401964) — Groupement Forestier de Bretagne Branding · 👁 13182 ❤ 272 🔖 143 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1927729500747391204) — Collection of Brand Socials  · 👁 12941 ❤ 346 🔖 235 · 
+- [@DanPurdie16](https://x.com/DanPurdie16) · [tweet](https://x.com/DanPurdie16/status/1930670300359749984) — Experimenting. · 👁 69193 ❤ 877 🔖 520 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1931683335006290095) — Mobile UI app design onboarding · 👁 32424 ❤ 699 🔖 292 · 
+- [@Macbaconai](https://x.com/Macbaconai) · [tweet](https://x.com/Macbaconai/status/1929904006018613728) — (no text) · 👁 93216 ❤ 3523 🔖 519 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1929617775120818314) — Lead magnet page WIP  · 👁 10173 ❤ 132 🔖 46 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1931995616361804057) — STRIVE - Branding · 👁 5580 ❤ 184 🔖 65 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1917610232135704674) — Amazon Rebrand by Studio Koto  · 👁 19396 ❤ 728 🔖 270 · 
+- [@aessestudio](https://x.com/aessestudio) · [tweet](https://x.com/aessestudio/status/1919720194651324466) — 100 Bio by Studio Don on Visual Journal → https://visualjournal.it/100bio · 👁 8744 ❤ 200 🔖 72 · 
+- [@CorentinBerndu](https://x.com/CorentinBerndu) · [tweet](https://x.com/CorentinBerndu/status/1917976771775041966) — A simple gallery brought to life with WebGL and shaders — always satisfying to make!  · 👁 7055 ❤ 272 🔖 97 · 
+- [@DesignSpot_Jap](https://x.com/DesignSpot_Jap) · [tweet](https://x.com/DesignSpot_Jap/status/1924019809723003207) — 簡単な図形から作れるシンボル一覧 · 👁 449214 ❤ 10921 🔖 11133 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1928071382635585938) — Happy Thursday! · 👁 11909 ❤ 544 🔖 109 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1919088154428190924) — Watch · 👁 12558 ❤ 328 🔖 102 · 
+- [@Peterpangfx](https://x.com/Peterpangfx) · [tweet](https://x.com/Peterpangfx/status/1926974927233507345) — Visuals for the WCKED brand.... · 👁 10507 ❤ 262 🔖 128 · 
+- [@fafa818969](https://x.com/fafa818969) · [tweet](https://x.com/fafa818969/status/1919244266712256855) — It's time to learn @cavalry__app · 👁 5499 ❤ 153 🔖 37 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/1929523279301157045) — Workflow design for clients  · 👁 17767 ❤ 282 🔖 252 · 
+- [@froessell](https://x.com/froessell) · [tweet](https://x.com/froessell/status/1932422706286244265) — Spent last night cooking up some section layouts for an upcoming @framer template. · 👁 654 ❤ 25 🔖 6 · 
+- [@rajputrajesh448](https://x.com/rajputrajesh448) · [tweet](https://x.com/rajputrajesh448/status/1933095578277150858) — New Release — Megna, a bold sans serif typeface with a confident voice and generously wide proportions. Megna balances strong visual presence with refined versatility. 9 weights and 36 styles availabl · 👁 15386 ❤ 721 🔖 411 · 
+- [@jvepng](https://x.com/jvepng) · [tweet](https://x.com/jvepng/status/1923988537176883723) — Introducing, your modern Qwerty companion · 👁 135094 ❤ 1911 🔖 519 · 
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/1918711600795533656) — Don't forget to put a gradient mask around your sliders to make them appear smoothly · 👁 15675 ❤ 340 🔖 182 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1924409012746908129) — Big Cartel by How&How  · 👁 60657 ❤ 1711 🔖 728 · 
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/1928075074856190121) —  Interviews Dropdown · 👁 13945 ❤ 229 🔖 104 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1927292946174382229) — Just designed the new cleanest sidebar ever  · 👁 29556 ❤ 196 🔖 188 · 
+- [@aessestudio](https://x.com/aessestudio) · [tweet](https://x.com/aessestudio/status/1920813844634440112) — Gentlee by We Want More on Visual Journal → https://visualjournal.it/gentlee · 👁 11167 ❤ 344 🔖 142 · 
+- [@logosohel1](https://x.com/logosohel1) · [tweet](https://x.com/logosohel1/status/1924034727226257474) — OMNICARE FOUNDATION© - Visual Identity 2025 · 👁 54833 ❤ 1346 🔖 881 · 
+- [@LukeADesign](https://x.com/LukeADesign) · [tweet](https://x.com/LukeADesign/status/1932344687303483654) — Moodboard for this weeks construction based branding project · 👁 17875 ❤ 383 🔖 128 · 
+- [@ethnfndr](https://x.com/ethnfndr) · [tweet](https://x.com/ethnfndr/status/1918010221890326807) — Metal music H #metal · 👁 280 ❤ 23 🔖 0 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1924851929668108315) — My only real goal as an artist is to share my work with as many people as I can. And to collaborate with cool folks on dope exciting things. · 👁 5120 ❤ 151 🔖 31 · 
+- [@lostdoesart](https://x.com/lostdoesart) · [tweet](https://x.com/lostdoesart/status/1924804620557123704) — Activity Feed - Animated · 👁 23468 ❤ 633 🔖 438 · 
+- [@DopeOblivion](https://x.com/DopeOblivion) · [tweet](https://x.com/DopeOblivion/status/1920587236833104146) — Still one of my favorite button and nav bar · 👁 51816 ❤ 918 🔖 582 · 
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/1933504158713491852) — AI summary and suggestions · 👁 15933 ❤ 256 🔖 216 · 
+- [@jerbosmans](https://x.com/jerbosmans) · [tweet](https://x.com/jerbosmans/status/1918297102972539311) — Reworked my portfolio. Projects and collaborations coming soon! · 👁 44341 ❤ 928 🔖 363 · 
+- [@mrjeremyblaze](https://x.com/mrjeremyblaze) · [tweet](https://x.com/mrjeremyblaze/status/2043653179288527290) — Quality comparison research tool — @neverbeforeco · 👁 866 ❤ 31 🔖 14 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1918832955591623077) —  · 👁 34026 ❤ 854 🔖 380 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1919437088597967203) — New logo WIP prompt based off my own style. · 👁 54624 ❤ 1176 🔖 557 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1930253539114090936) — Secure Bento Box  · 👁 15288 ❤ 458 🔖 185 · 
+- [@aessestudio](https://x.com/aessestudio) · [tweet](https://x.com/aessestudio/status/1927699598337831274) — Cape Hauy Whisky by Denomination on Visual Journal → https://visualjournal.it/capehauywhisky · 👁 12516 ❤ 253 🔖 87 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1924678719890698544) — Jiahao Qin · 👁 33236 ❤ 1136 🔖 315 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1929942378732802192) — (no text) · 👁 9813 ❤ 225 🔖 61 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1931293055241552343) — Messing around. · 👁 32059 ❤ 1460 🔖 418 · 
+- [@brandarchivexyz](https://x.com/brandarchivexyz) · [tweet](https://x.com/brandarchivexyz/status/1925474243921232057) — Natural Innovations by Otherway, 2025 · 👁 8962 ❤ 219 🔖 111 · 
+- [@spottedinprod](https://x.com/spottedinprod) · [tweet](https://x.com/spottedinprod/status/1930395986406334584) — pixeldrop · tips · 👁 52566 ❤ 249 🔖 169 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1927031102213869890) — S letter logo for new startup!  · 👁 2016 ❤ 85 🔖 19 · 
+- [@danielsun_ui](https://x.com/danielsun_ui) · [tweet](https://x.com/danielsun_ui/status/1924776306694144013) — My favorite part of http://danielsun.space is the footer! The main idea was to place a "totally unobtrusive" connect button in the center so it’s easy to spot. @framer  handled the animations smoothly · 👁 3663 ❤ 98 🔖 32 · 
+- [@_nonfigurativ_](https://x.com/_nonfigurativ_) · [tweet](https://x.com/_nonfigurativ_/status/1932017118515495129) — I finally got around to giving my own website some love.  · 👁 23377 ❤ 711 🔖 206 · 
+- [@Renz_Ward](https://x.com/Renz_Ward) · [tweet](https://x.com/Renz_Ward/status/1918350750058725704) — AURA© / Futuristic Logotype · 👁 15760 ❤ 558 🔖 151 · 
+- [@FonsMans](https://x.com/FonsMans) · [tweet](https://x.com/FonsMans/status/1925086574964060525) — Layered — Visual study · 👁 19537 ❤ 412 🔖 103 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1921968524106285457) — Betec — Visual Identity                       · 👁 17267 ❤ 401 🔖 228 · 
+- [@Luis_Vask](https://x.com/Luis_Vask) · [tweet](https://x.com/Luis_Vask/status/1919496625417843185) — Another exploration of the Hyperware® project. · 👁 7925 ❤ 181 🔖 55 · 
+- [@lovishotherdays](https://x.com/lovishotherdays) · [tweet](https://x.com/lovishotherdays/status/1918237580014821696) — [p] every user gets a pocket-sized system · 👁 11601 ❤ 210 🔖 94 · 
+- [@oliver_gareis](https://x.com/oliver_gareis) · [tweet](https://x.com/oliver_gareis/status/1924502811603022305) — I designed some editorial layout concepts for the Pharrell Williams Dark Tour 2025 · 👁 59887 ❤ 1381 🔖 845 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/2052754141651537996) — Every sound, one place. · 👁 1374 ❤ 58 🔖 18 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1920449229199417346) — Ongoing brand sprint for an AI SaaS startup. Always fun shaping ideas into something real  · 👁 12618 ❤ 296 🔖 137 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1927259542930284800) — you think straight text is boring? · 👁 2902 ❤ 76 🔖 61 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1927726559210717525) — Mabone Studios © · 👁 13655 ❤ 193 🔖 77 · 
+- [@creatoroly](https://x.com/creatoroly) · [tweet](https://x.com/creatoroly/status/1919788946378084663) — I've been playing with widgets for the last few days....  · 👁 99606 ❤ 2515 🔖 1197 · 
+- [@byamine__](https://x.com/byamine__) · [tweet](https://x.com/byamine__/status/1926593470505812228) — Recent brand work for cypher · 👁 27477 ❤ 201 🔖 60 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1919853255422566400) — Another new style I'm playing around with.  · 👁 65737 ❤ 1724 🔖 612 · 
+- [@Abstudiobrand](https://x.com/Abstudiobrand) · [tweet](https://x.com/Abstudiobrand/status/1925482686153449488) — Another Two marks, Two types! · 👁 12555 ❤ 285 🔖 112 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1926135447681466484) — /222 · 👁 16979 ❤ 442 🔖 172 · 
+- [@thomasauros](https://x.com/thomasauros) · [tweet](https://x.com/thomasauros/status/1928117615261540766) — The Three.js hero for our new Page Protection feature is one of my favorites that I've made. · 👁 58762 ❤ 1176 🔖 554 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1927167875711639706) — (no text) · 👁 20118 ❤ 522 🔖 160 · 
+- [@kartikhq](https://x.com/kartikhq) · [tweet](https://x.com/kartikhq/status/1929749882933596539) — Roland Concept · 👁 11973 ❤ 469 🔖 114 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1918337358295945436) — Minimal doesn’t mean boring — just check this one · 👁 54806 ❤ 1568 🔖 1560 · 
+- [@alessio_joseph](https://x.com/alessio_joseph) · [tweet](https://x.com/alessio_joseph/status/1932106307487797644) — the pinkness will continue until morale improves · 👁 44519 ❤ 1487 🔖 459 · 
+- [@ramishdotdesign](https://x.com/ramishdotdesign) · [tweet](https://x.com/ramishdotdesign/status/1927983257293033686) — A touch of dark mode · 👁 4965 ❤ 95 🔖 31 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1929212577579434012) — Watch · 👁 26247 ❤ 644 🔖 216 · 
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/1926310206020997140) — Glassy card · 👁 40936 ❤ 625 🔖 323 · 
+- [@suhaniashok](https://x.com/suhaniashok) · [tweet](https://x.com/suhaniashok/status/1919839570281087255) — cute lil way to skim your notes  · 👁 15381 ❤ 364 🔖 155 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929946182354383221) — Bastian Muhr's website - Graphic design by Fabian Bremer. · 👁 23089 ❤ 647 🔖 252 · 
+- [@mx_shiryoku](https://x.com/mx_shiryoku) · [tweet](https://x.com/mx_shiryoku/status/1918305135916142692) — Made with http://sortui.company · 👁 11090 ❤ 154 🔖 72 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1918529240091283621) — (no text) · 👁 22923 ❤ 701 🔖 165 · 
+- [@Suupercharged](https://x.com/Suupercharged) · [tweet](https://x.com/Suupercharged/status/1924796646153716033) — work in progress  · 👁 3463 ❤ 96 🔖 28 · 
+- [@brandarchivexyz](https://x.com/brandarchivexyz) · [tweet](https://x.com/brandarchivexyz/status/1918621714121883926) — Nuud Gum by Mother Design, 2021 · 👁 9454 ❤ 233 🔖 102 · 
+- [@k_grajeda](https://x.com/k_grajeda) · [tweet](https://x.com/k_grajeda/status/1917700260941685225) — now trying a disintegrate-style send animation · 👁 9628 ❤ 249 🔖 100 · 
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/2045514713753121231) — metallic buttons ❖ · 👁 909 ❤ 16 🔖 2 · 
+- [@Ayoubka_](https://x.com/Ayoubka_) · [tweet](https://x.com/Ayoubka_/status/2047700552499310703) — Friday dashboard  · 👁 170 ❤ 11 🔖 0 · 
+- [@RalconStudio](https://x.com/RalconStudio) · [tweet](https://x.com/RalconStudio/status/1924742825520111827) — Book a call that is not boring v2 · 👁 26267 ❤ 667 🔖 398 · 
+- [@headroomAI](https://x.com/headroomAI) · [tweet](https://x.com/headroomAI/status/1930294065074983123) — Want to run fast like we do? Read below · 👁 9002 ❤ 301 🔖 79 · 
+- [@visualizevalue](https://x.com/visualizevalue) · [tweet](https://x.com/visualizevalue/status/1929872698143809693) — Perspective · 👁 33513 ❤ 603 🔖 127 · 
+- [@polarizz39](https://x.com/polarizz39) · [tweet](https://x.com/polarizz39/status/1932943326023737848) — Mimicking iOS 26's button styles turned out pretty nice. Currently getting ready for a new TestFlight release. · 👁 8549 ❤ 258 🔖 130 · 
+- [@usernametiago](https://x.com/usernametiago) · [tweet](https://x.com/usernametiago/status/1918726266955469242) — features in @framer · 👁 4597 ❤ 154 🔖 71 · 
+- [@rileyhennigh](https://x.com/rileyhennigh) · [tweet](https://x.com/rileyhennigh/status/1918430724761190746) — Propaganda for @oratorydesign · 👁 18458 ❤ 393 🔖 170 · 
+- [@byamine__](https://x.com/byamine__) · [tweet](https://x.com/byamine__/status/1918365746163339507) — Fav works from recent month · 👁 7903 ❤ 218 🔖 75 · 
+- [@orinfitzgerald](https://x.com/orinfitzgerald) · [tweet](https://x.com/orinfitzgerald/status/1933956097905512543) —  cute @framer template footer · 👁 645 ❤ 36 🔖 9 · 
+- [@hallo_saidur](https://x.com/hallo_saidur) · [tweet](https://x.com/hallo_saidur/status/1927651069808820280) — CODAI - Coding Logo & Branding Design · 👁 10865 ❤ 375 🔖 118 · 
+- [@seltugba_](https://x.com/seltugba_) · [tweet](https://x.com/seltugba_/status/2056643099602858424) — Sidebar navigation, two themes.  · 👁 1228 ❤ 63 🔖 17 · 
+- [@gadzinski_](https://x.com/gadzinski_) · [tweet](https://x.com/gadzinski_/status/2041156092789399729) — Early explorations for  Jigsaw · 👁 7716 ❤ 372 🔖 188 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1934378132175573212) — Paolo Barbieri · 👁 13553 ❤ 490 🔖 164 · 
+- [@aydaoz](https://x.com/aydaoz) · [tweet](https://x.com/aydaoz/status/2041090988156813357) — (no text) · 👁 705 ❤ 29 🔖 4 · 
+- [@AlexAperios](https://x.com/AlexAperios) · [tweet](https://x.com/AlexAperios/status/1916935597974851747) — More design tests for the new Snapshift website.  · 👁 12699 ❤ 333 🔖 128 · 
+- [@Osha_Lion](https://x.com/Osha_Lion) · [tweet](https://x.com/Osha_Lion/status/2056721462418153474) — Pulled from the archive  · 👁 464 ❤ 34 🔖 12 · 
+- [@CharlesPattson](https://x.com/CharlesPattson) · [tweet](https://x.com/CharlesPattson/status/1924535266393407594) — So cool...  · 👁 25448 ❤ 541 🔖 212 · 
+- [@dzineloop](https://x.com/dzineloop) · [tweet](https://x.com/dzineloop/status/1933530772759326815) — Orvior © Visual Identity // 02 · 👁 3333 ❤ 132 🔖 35 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1933573391790870534) — Tune out. #b3d · 👁 42725 ❤ 1701 🔖 372 · 
+- [@stephenkelman](https://x.com/stephenkelman) · [tweet](https://x.com/stephenkelman/status/1917578951796367604) — A4 Landscape · 👁 15556 ❤ 322 🔖 152 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1933471005034622997) — Recent Brand sprint for Habi  · 👁 11637 ❤ 413 🔖 174 · 
+- [@tejashinduja](https://x.com/tejashinduja) · [tweet](https://x.com/tejashinduja/status/1918674658062475597) — ▶︎ some minimal shapes · 👁 9174 ❤ 271 🔖 91 · 
+- [@the_red_designr](https://x.com/the_red_designr) · [tweet](https://x.com/the_red_designr/status/1930283275354026009) — Branding for a logistics company. · 👁 5102 ❤ 196 🔖 74 · 
+- [@narative](https://x.com/narative) · [tweet](https://x.com/narative/status/1920625448570040467) — (no text) · 👁 5388 ❤ 150 🔖 32 · 
+- [@nachiiiUI](https://x.com/nachiiiUI) · [tweet](https://x.com/nachiiiUI/status/1933883703576629485) — Blue or Orange? · 👁 706 ❤ 39 🔖 3 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1926700040208175270) — (no text) · 👁 39056 ❤ 593 🔖 163 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1926624005437497457) — From the archives.. · 👁 2893 ❤ 137 🔖 24 · 
+- [@gas_design_](https://x.com/gas_design_) · [tweet](https://x.com/gas_design_/status/1923000416964575540) — Color Palette. · 👁 15475 ❤ 231 🔖 139 · 
+- [@lucas__crespo](https://x.com/lucas__crespo) · [tweet](https://x.com/lucas__crespo/status/1927789207797334247) — Flora is now multiplayer. · 👁 13040 ❤ 69 🔖 23 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1918778719616778285) — Landman. #b3d · 👁 8927 ❤ 304 🔖 47 · 
+- [@pixsellz](https://x.com/pixsellz) · [tweet](https://x.com/pixsellz/status/1918962620385657027) — An oldie but a goodie from our earlier work  · 👁 23367 ❤ 374 🔖 240 · 
+- [@HoudayfaDesign](https://x.com/HoudayfaDesign) · [tweet](https://x.com/HoudayfaDesign/status/1929910200816779773) — I just designed this. · 👁 7355 ❤ 253 🔖 81 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1934313056625987889) — Schedule widget  · 👁 8746 ❤ 215 🔖 199 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1918269760057282915) — Advanced Logo Sprint at 999€ for Diversified Botanics  · 👁 15516 ❤ 364 🔖 141 · 
+- [@headroomAI](https://x.com/headroomAI) · [tweet](https://x.com/headroomAI/status/1932824826559017339) — Nice try, @Apple, but our logo was serving glass realness way before your liquid glass drip · 👁 59460 ❤ 755 🔖 182 · 
+- [@halil_works](https://x.com/halil_works) · [tweet](https://x.com/halil_works/status/2052436798014357984) — Transfer Detail page  · 👁 11537 ❤ 425 🔖 198 · 
+- [@frannyfx](https://x.com/frannyfx) · [tweet](https://x.com/frannyfx/status/1930283865198727645) — A fancy inline date picker component in SwiftUI  · 👁 59190 ❤ 1400 🔖 1088 · 
+- [@jamesm](https://x.com/jamesm) · [tweet](https://x.com/jamesm/status/1924393487480311978) — (no text) · 👁 12259 ❤ 292 🔖 115 · 
+- [@Designownow_](https://x.com/Designownow_) · [tweet](https://x.com/Designownow_/status/1931018782606245963) — What a fun and colorful collection · 👁 35703 ❤ 556 🔖 352 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1918293932787618047) — To-do widget  · 👁 8595 ❤ 176 🔖 83 · 
+- [@hero_ui](https://x.com/hero_ui) · [tweet](https://x.com/hero_ui/status/1918386045185409094) — HeroUI v3 - Menu  · 👁 23470 ❤ 284 🔖 158 · 
+- [@dereksieber](https://x.com/dereksieber) · [tweet](https://x.com/dereksieber/status/1917294999252918293) — Rejected branding ;) · 👁 53023 ❤ 999 🔖 411 · 
+- [@idariusdan](https://x.com/idariusdan) · [tweet](https://x.com/idariusdan/status/1926339162216517970) — THIN lamp, born of a collaboration between designer Peter Bristol and Juniper. · 👁 1775 ❤ 35 🔖 0 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1927701169415049592) — Animated social media designs. A little animation goes a long way. · 👁 10877 ❤ 342 🔖 186 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1916850437963092263) — Is dark mode suitable for minimal designs? · 👁 2747 ❤ 81 🔖 13 · 
+- [@saisatvik_](https://x.com/saisatvik_) · [tweet](https://x.com/saisatvik_/status/1923994964851376407) — Dark mode or light mode? · 👁 10965 ❤ 212 🔖 71 · 
+- [@streamlinehq](https://x.com/streamlinehq) · [tweet](https://x.com/streamlinehq/status/1917572898522276113) — Sparkles  · 👁 10123 ❤ 177 🔖 53 · 
+- [@srioz](https://x.com/srioz) · [tweet](https://x.com/srioz/status/2039265142827827233) — Happy to share a project we did with @thecosmos  - A full refresh of their icon system. Lots of fun · 👁 15798 ❤ 276 🔖 88 · 
+- [@ryolu_](https://x.com/ryolu_) · [tweet](https://x.com/ryolu_/status/1928851222980948290) — daddy hasn’t forgotten baby cursor · 👁 108254 ❤ 1014 🔖 333 · 
+- [@blankspac_e](https://x.com/blankspac_e) · [tweet](https://x.com/blankspac_e/status/1919909178585276846) — Various VHS Covers, via abduzeedo (2024) · 👁 369172 ❤ 12216 🔖 3323 · 
+- [@vanschneider](https://x.com/vanschneider) · [tweet](https://x.com/vanschneider/status/2051712903170994531) — Semplice v7 // various UI artifacts · 👁 7243 ❤ 134 🔖 64 · 
+- [@ivanovic_marco](https://x.com/ivanovic_marco) · [tweet](https://x.com/ivanovic_marco/status/1928171106340340206) — Some posters for 22nd birthday of WordPress.  · 👁 630 ❤ 29 🔖 3 · 
+- [@fedir_live](https://x.com/fedir_live) · [tweet](https://x.com/fedir_live/status/1933515662045155455) — New featured image for @contra · 👁 10492 ❤ 181 🔖 104 · 
+- [@cactusui](https://x.com/cactusui) · [tweet](https://x.com/cactusui/status/1918387713897648326) —  Style presets · 👁 23342 ❤ 326 🔖 263 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1930009379811799086) — Another day trying to get the JSONs to be more accurate from just text alone... · 👁 3117 ❤ 60 🔖 38 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1926163253886857319) — A · 👁 1645 ❤ 94 🔖 20 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1924437568797520223) — September (2020).  · 👁 4579 ❤ 209 🔖 16 · 
+- [@designbyaron](https://x.com/designbyaron) · [tweet](https://x.com/designbyaron/status/2059675982726853035) — variation v.2 · 👁 1527 ❤ 42 🔖 12 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1924362637304893750) — animation for website, all done in framer · 👁 6790 ❤ 148 🔖 53 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1929775578716017145) — /232 · 👁 13196 ❤ 393 🔖 154 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1924060439068991912) — (no text) · 👁 52278 ❤ 1759 🔖 503 · 
+- [@marcsox](https://x.com/marcsox) · [tweet](https://x.com/marcsox/status/2049484013073535211) — (no text) · 👁 1198 ❤ 25 🔖 12 · 
+- [@fahlevidesign](https://x.com/fahlevidesign) · [tweet](https://x.com/fahlevidesign/status/1932145511320224242) — WIP Work Section @framer · 👁 1982 ❤ 95 🔖 25 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1920734851969229003) — one year of simple things, my beloved · 👁 49450 ❤ 1235 🔖 654 · 
+- [@dmytro_kondakov](https://x.com/dmytro_kondakov) · [tweet](https://x.com/dmytro_kondakov/status/1933557179040346424) —  something for http://attio.com · 👁 5955 ❤ 156 🔖 88 · 
+- [@aamond97](https://x.com/aamond97) · [tweet](https://x.com/aamond97/status/1922618364721021296) — Smart animating with Noise and textures in @figma · 👁 15553 ❤ 721 🔖 177 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1924548132546744663) — This is what a perfect bento grid looks like: · 👁 75805 ❤ 959 🔖 1175 · 
+- [@nuevo_tokyo](https://x.com/nuevo_tokyo) · [tweet](https://x.com/nuevo_tokyo/status/1919617413030539508) — Cameras Don't Take Photos, You Do. · 👁 9383 ❤ 138 🔖 22 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1926921750568116261) — Dashboard in Dark Mode  · 👁 8131 ❤ 137 🔖 72 · 
+- [@MeschacIrung](https://x.com/MeschacIrung) · [tweet](https://x.com/MeschacIrung/status/1930305808958472396) — always better with social proof. · 👁 21529 ❤ 424 🔖 317 · 
+- [@marcofyi](https://x.com/marcofyi) · [tweet](https://x.com/marcofyi/status/1930278486671069494) — today is my last day at @vercel · 👁 42132 ❤ 927 🔖 98 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1918138467868877251) — (no text) · 👁 2637 ❤ 58 🔖 20 · 
+- [@thatguyDOR](https://x.com/thatguyDOR) · [tweet](https://x.com/thatguyDOR/status/1928028553959903606) — App design screen  · 👁 5318 ❤ 108 🔖 52 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1918403628752060502) — Not today, motherfucker. #b3d · 👁 4685 ❤ 174 🔖 23 · 
+- [@vanschneider](https://x.com/vanschneider) · [tweet](https://x.com/vanschneider/status/2052780628718788776) — mymind® brand artifacts (week 19/2026) · 👁 7477 ❤ 176 🔖 59 · 
+- [@maybepratikk](https://x.com/maybepratikk) · [tweet](https://x.com/maybepratikk/status/1927959141504434460) — closer shot  · 👁 2559 ❤ 69 🔖 26 · 
+- [@batukrskl](https://x.com/batukrskl) · [tweet](https://x.com/batukrskl/status/2047416781401194636) — (no text) · 👁 741 ❤ 23 🔖 13 · 
+- [@ilyamiskov](https://x.com/ilyamiskov) · [tweet](https://x.com/ilyamiskov/status/1917412832750231611) — I love working on these details in my free time. · 👁 33111 ❤ 716 🔖 354 · 
+- [@Tycreated](https://x.com/Tycreated) · [tweet](https://x.com/Tycreated/status/1934009383626866713) — Playing with some components generated in @variantui · 👁 1258 ❤ 30 🔖 21 · 
+- [@greensock](https://x.com/greensock) · [tweet](https://x.com/greensock/status/1930008967800856655) — The entries for the @Webflow x GSAP community challenge were absolutely immense. The quality was so much higher than we could have ever expected.  · 👁 11458 ❤ 156 🔖 42 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1930283651922886958) — Sometimes the real skill is in fast layouts and solid structure · 👁 56972 ❤ 1003 🔖 800 · 
+- [@aydaoz](https://x.com/aydaoz) · [tweet](https://x.com/aydaoz/status/1929878752860815670) — (no text) · 👁 4990 ❤ 75 🔖 41 · 
+- [@jordanphughes](https://x.com/jordanphughes) · [tweet](https://x.com/jordanphughes/status/1927745226338136541) — Day 963 · 👁 9135 ❤ 186 🔖 100 · 
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/1929520898652221550) — Quick actions · 👁 6005 ❤ 104 🔖 47 · 
+- [@VistCreates](https://x.com/VistCreates) · [tweet](https://x.com/VistCreates/status/1933164980494356805) — Some snippets from the Studio Three manual  · 👁 8743 ❤ 212 🔖 131 · 
+- [@jakelogancondon](https://x.com/jakelogancondon) · [tweet](https://x.com/jakelogancondon/status/1927732553743495376) — (no text) · 👁 7574 ❤ 315 🔖 115 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1926948948712870200) — Profile dropdown · 👁 10655 ❤ 160 🔖 100 · 
+- [@Tony_dsgn](https://x.com/Tony_dsgn) · [tweet](https://x.com/Tony_dsgn/status/2045377894688473274) — hero section · 👁 3888 ❤ 107 🔖 22 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1924783318597312860) — Enough minimalism? · 👁 5920 ❤ 162 🔖 60 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1927755242575221142) — Filters  · 👁 19572 ❤ 398 🔖 261 · 
+- [@UI_Farhan](https://x.com/UI_Farhan) · [tweet](https://x.com/UI_Farhan/status/1929817145405542892) — Pricing Plan Section  · 👁 7584 ❤ 170 🔖 78 · 
+- [@_hannahahn](https://x.com/_hannahahn) · [tweet](https://x.com/_hannahahn/status/1919811805297426785) — Crafting sunsets and magic  · 👁 9052 ❤ 247 🔖 106 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929312755364081719) — João Pestana · 👁 46442 ❤ 1732 🔖 504 · 
+- [@inkko44](https://x.com/inkko44) · [tweet](https://x.com/inkko44/status/1918421162234609997) — Messing around with GSAP + Bolt. · 👁 9864 ❤ 117 🔖 59 · 
+- [@tanbirDsgnDev](https://x.com/tanbirDsgnDev) · [tweet](https://x.com/tanbirDsgnDev/status/1923073435132961265) — i can also redesign the first two sections of your website  like these !! · 👁 19098 ❤ 390 🔖 284 · 
+- [@azharadev](https://x.com/azharadev) · [tweet](https://x.com/azharadev/status/1918350878760906823) — Client removed it, but I’m keeping it alive here!  · 👁 3672 ❤ 87 🔖 43 · 
+- [@nickbakeddesign](https://x.com/nickbakeddesign) · [tweet](https://x.com/nickbakeddesign/status/1933456884016754982) — Contextual actions within transcript · 👁 12423 ❤ 147 🔖 110 · 
+- [@barrettrmdesign](https://x.com/barrettrmdesign) · [tweet](https://x.com/barrettrmdesign/status/1928140718981230691) — Designed this @Pacers inspired serif typeface idea today! · 👁 80114 ❤ 2722 🔖 493 · 
+- [@eduardbodak](https://x.com/eduardbodak) · [tweet](https://x.com/eduardbodak/status/1923742283351896316) — Make the Button Feel Right  · 👁 12313 ❤ 267 🔖 230 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1925267292633342109) — LAST POST ON PIXEL ART I PROMISE! · 👁 4152 ❤ 65 🔖 25 · 
+- [@studio__aaa](https://x.com/studio__aaa) · [tweet](https://x.com/studio__aaa/status/1933186686197915935) — Dither Boy Posters · 👁 4549 ❤ 154 🔖 70 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/2058913132169289840) — Details  · 👁 4242 ❤ 180 🔖 86 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1920039143012528501) — branded poster [rejected] · 👁 7398 ❤ 206 🔖 59 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1923116554599760347) — Exploring V2 · 👁 64857 ❤ 1162 🔖 558 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1933376795358712295) — /242 · 👁 6782 ❤ 229 🔖 86 · 
+- [@MaxDrekker](https://x.com/MaxDrekker) · [tweet](https://x.com/MaxDrekker/status/1927098738746482917) — (no text) · 👁 45235 ❤ 2219 🔖 282 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1918337358295945436) — Minimal doesn’t mean boring — just check this one · 👁 54806 ❤ 1568 🔖 1560 · 
+- [@Peterpangfx](https://x.com/Peterpangfx) · [tweet](https://x.com/Peterpangfx/status/1929428609346772995) — Logo design for a solar energy brand... · 👁 8762 ❤ 279 🔖 85 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1933040194770362505) — I can officially say, we design better than Apple. · 👁 156832 ❤ 1420 🔖 996 · 
+- [@BasicAppleGuy](https://x.com/BasicAppleGuy) · [tweet](https://x.com/BasicAppleGuy/status/1933526618473181441) — Finder Icon History · 👁 178541 ❤ 2620 🔖 216 · 
+- [@chmielwork](https://x.com/chmielwork) · [tweet](https://x.com/chmielwork/status/1928533960239284722) — extra spicy story about designer who dreams about pixels · 👁 16857 ❤ 92 🔖 80 · 
+- [@creatoroly](https://x.com/creatoroly) · [tweet](https://x.com/creatoroly/status/1933572157617078641) — Just comment the word “fan” to become the world’s best editor in Apple-style editing  · 👁 69020 ❤ 1243 🔖 607 · 
+- [@radbar_1](https://x.com/radbar_1) · [tweet](https://x.com/radbar_1/status/1929866801233514829) — End-to-end Data Infrastructure for the Global South. · 👁 1300 ❤ 36 🔖 12 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1917911389588402401) — Range slider  · 👁 10105 ❤ 222 🔖 106 · 
+- [@adhiraj_OTW](https://x.com/adhiraj_OTW) · [tweet](https://x.com/adhiraj_OTW/status/1924819900960317832) — adding a tiny bit of motion to my skills · 👁 7331 ❤ 208 🔖 73 · 
+- [@jakelogancondon](https://x.com/jakelogancondon) · [tweet](https://x.com/jakelogancondon/status/1923812355625857057) — Wunder. #atoz · 👁 22565 ❤ 506 🔖 159 · 
+- [@ln_dev7](https://x.com/ln_dev7) · [tweet](https://x.com/ln_dev7/status/1928457950152077492) — Steps animation   · 👁 23157 ❤ 651 🔖 372 · 
+- [@streamlinehq](https://x.com/streamlinehq) · [tweet](https://x.com/streamlinehq/status/1917572898522276113) — Sparkles  · 👁 10123 ❤ 177 🔖 53 · 
+- [@maybepratikk](https://x.com/maybepratikk) · [tweet](https://x.com/maybepratikk/status/1921574885010075862) — This Week's Recap  · 👁 7631 ❤ 126 🔖 62 · 
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/1927341516776734912) — Simple - Clean - Minimal + Light mode! · 👁 7647 ❤ 223 🔖 64 · 
+- [@47thegreat_](https://x.com/47thegreat_) · [tweet](https://x.com/47thegreat_/status/1930300680033468523) — This Portfolio Presentation Template will be FREE for a few hours.  Fully Editable! · 👁 27007 ❤ 531 🔖 373 · 
+- [@DanPurdie16](https://x.com/DanPurdie16) · [tweet](https://x.com/DanPurdie16/status/1930670300359749984) — Experimenting. · 👁 69193 ❤ 877 🔖 520 · 
+- [@creatoroly](https://x.com/creatoroly) · [tweet](https://x.com/creatoroly/status/1919788946378084663) — I've been playing with widgets for the last few days....  · 👁 99606 ❤ 2515 🔖 1197 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1917460910328721648) — filters / time picker / price picker · 👁 39715 ❤ 613 🔖 373 · 
+- [@intrfacer](https://x.com/intrfacer) · [tweet](https://x.com/intrfacer/status/1929880018869428677) — (no text) · 👁 1221 ❤ 20 🔖 11 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1932840674727977465) — Teenage Engineering TP—7 Black illustrated in @figma · 👁 29913 ❤ 350 🔖 108 · 
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/1929520898652221550) — Quick actions · 👁 6005 ❤ 104 🔖 47 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1917918582022754812) — (no text) · 👁 4967 ❤ 87 🔖 34 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929659288706076889) — Theran by Outline Online · 👁 9459 ❤ 232 🔖 46 · 
+- [@Burak_elbu](https://x.com/Burak_elbu) · [tweet](https://x.com/Burak_elbu/status/1928367044677800105) — OrbitID – Brand Guidelines – 02 · 👁 4715 ❤ 176 🔖 60 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1928142356185838020) — rethinking some browser UI/UX · 👁 26229 ❤ 496 🔖 279 · 
+- [@Abstudiobrand](https://x.com/Abstudiobrand) · [tweet](https://x.com/Abstudiobrand/status/1925482686153449488) — Another Two marks, Two types! · 👁 12555 ❤ 285 🔖 112 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1929870040712528114) — Integrations Did I cook? · 👁 6113 ❤ 211 🔖 60 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1917610232135704674) — Amazon Rebrand by Studio Koto  · 👁 19396 ❤ 728 🔖 270 · 
+- [@dzineloop](https://x.com/dzineloop) · [tweet](https://x.com/dzineloop/status/1929539379166384365) — Business Cards // 01 · 👁 6801 ❤ 145 🔖 52 · 
+- [@xcyynical](https://x.com/xcyynical) · [tweet](https://x.com/xcyynical/status/1927363914565599389) — LYSA® — branding. · 👁 21378 ❤ 663 🔖 263 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1929794701831668140) — this is your daily reminder to set the correct HTML tag for elements on your @framer site. · 👁 2265 ❤ 34 🔖 11 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1933540111909540054) — Size Customisation  · 👁 518 ❤ 15 🔖 7 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1930159202476908760) — Brand Guidelines // StatiQ  · 👁 12668 ❤ 335 🔖 211 · 
+- [@mockupcloud](https://x.com/mockupcloud) · [tweet](https://x.com/mockupcloud/status/1925537138596356360) — MODU Brand Identity · 👁 9789 ❤ 164 🔖 91 · 
+- [@luke_netti](https://x.com/luke_netti) · [tweet](https://x.com/luke_netti/status/1933497654119404000) — Branding for a conceptual energy company. · 👁 340 ❤ 10 🔖 0 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1932367989028135325) — Orin - Logo & Branding · 👁 0 ❤ 0 🔖 0 · 
+- [@natkohasic](https://x.com/natkohasic) · [tweet](https://x.com/natkohasic/status/1928051878387925341) — (no text) · 👁 4898 ❤ 95 🔖 26 · 
+- [@visualizevalue](https://x.com/visualizevalue) · [tweet](https://x.com/visualizevalue/status/1929872698143809693) — Perspective · 👁 33513 ❤ 603 🔖 127 · 
+- [@TyraNTDZN](https://x.com/TyraNTDZN) · [tweet](https://x.com/TyraNTDZN/status/1927301554635223045) — Business Card Explorations · 👁 2474 ❤ 105 🔖 12 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1929493907001229407) — Marketing agencies deserves good Brandings too! · 👁 0 ❤ 0 🔖 0 · 
+- [@apostraphi](https://x.com/apostraphi) · [tweet](https://x.com/apostraphi/status/1929583945139576862) — stay curious · 👁 13017 ❤ 470 🔖 79 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1924834597285855353) — Simple Brand sprint at 450$ · 👁 7281 ❤ 177 🔖 79 · 
+- [@simonlind](https://x.com/simonlind) · [tweet](https://x.com/simonlind/status/2044675891037360464) — .@ryolu_ who's making the wallpapers for @cursor_ai cloud's desktop? they're fire. · 👁 30517 ❤ 319 🔖 195 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1927755242575221142) — Filters  · 👁 19572 ❤ 398 🔖 261 · 
+- [@halil_works](https://x.com/halil_works) · [tweet](https://x.com/halil_works/status/2053083038716731509) — Wallet Settings · 👁 277 ❤ 11 🔖 2 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1926319243496137211) — UXTools 2024 design tool survey mobile @intrfacer · 👁 7091 ❤ 174 🔖 51 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1933992846434193474) — Website development for Sable Rubber, an Australian regenerative rubber company. Design by Groundcrew · 👁 377 ❤ 27 🔖 7 · 
+- [@gas_design_](https://x.com/gas_design_) · [tweet](https://x.com/gas_design_/status/1920101320058376587) — Recent work for PlasticCredits(.org)  · 👁 32688 ❤ 255 🔖 95 · 
+- [@ensaktas](https://x.com/ensaktas) · [tweet](https://x.com/ensaktas/status/1917125242071249200) — Fresh look, same ambition. · 👁 3524 ❤ 58 🔖 13 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1927772606964404511) — Visual identity design for Krila Institute! · 👁 1720 ❤ 101 🔖 18 · 
+- [@matrixmurals](https://x.com/matrixmurals) · [tweet](https://x.com/matrixmurals/status/1929659291063005686) — A Warrior's Final Bow · 👁 114363 ❤ 2655 🔖 391 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1927587402110914770) — /226 · 👁 17589 ❤ 465 🔖 188 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1925267292633342109) — LAST POST ON PIXEL ART I PROMISE! · 👁 4152 ❤ 65 🔖 25 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1929601179891519650) — Shopify, but without the “template” feel · 👁 12258 ❤ 310 🔖 196 · 
+- [@Macbaconai](https://x.com/Macbaconai) · [tweet](https://x.com/Macbaconai/status/1929822884932813308) — (no text) · 👁 139392 ❤ 5039 🔖 911 · 
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/1931342882390090094) — Fire starter. #b3df · 👁 8312 ❤ 326 🔖 56 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1927729573988274207) — Did I cook? · 👁 8076 ❤ 215 🔖 76 · 
+- [@__o_state](https://x.com/__o_state) · [tweet](https://x.com/__o_state/status/1929481869373870215) — Orpetron(@orpetron)にて、Portfolio v7がSOTDを受賞しました · 👁 4374 ❤ 104 🔖 21 · 
+- [@lifeofmansoor](https://x.com/lifeofmansoor) · [tweet](https://x.com/lifeofmansoor/status/1930142475345375688) — Design is for the obsessed. · 👁 2673 ❤ 89 🔖 12 · 
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/2045149532485218378) — Physical time picker™ · 👁 26852 ❤ 289 🔖 121 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1922622926332833960) —  · 👁 6951 ❤ 204 🔖 58 · 
+- [@RikOostenbroek](https://x.com/RikOostenbroek) · [tweet](https://x.com/RikOostenbroek/status/1927368049742516334) — gm · 👁 18600 ❤ 470 🔖 70 · 
+- [@Salmaaboukarr](https://x.com/Salmaaboukarr) · [tweet](https://x.com/Salmaaboukarr/status/1929984033816985970) — There’s nothing like having full creative control to generate high-quality AI images for a brand like BERO · 👁 36467 ❤ 482 🔖 453 · 
+- [@AdamWhitcroft](https://x.com/AdamWhitcroft) · [tweet](https://x.com/AdamWhitcroft/status/1932507752234168391) — Still one of my favourites I've made. · 👁 90959 ❤ 1966 🔖 195 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1924813999389941898) — Building a new isometric component set in @figma · 👁 21561 ❤ 324 🔖 99 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1920039143012528501) — branded poster [rejected] · 👁 7398 ❤ 206 🔖 59 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1932452708390432907) — give me dither & pixels · 👁 17663 ❤ 412 🔖 284 · 
+- [@anu_pkrl](https://x.com/anu_pkrl) · [tweet](https://x.com/anu_pkrl/status/1927767222824395192) — Phoenix A* black hole made in @hiunicornstudio · 👁 371 ❤ 12 🔖 2 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1919784367167271285) — TVG Visual Identity by Nonstop  · 👁 11549 ❤ 393 🔖 155 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1923182536823279852) — What time is it? · 👁 1161 ❤ 18 🔖 3 · 
+- [@DmitryLepisov](https://x.com/DmitryLepisov) · [tweet](https://x.com/DmitryLepisov/status/1933494572447105159) — Would this logo suit this app?  · 👁 10557 ❤ 258 🔖 90 · 
+- [@unrootdesign](https://x.com/unrootdesign) · [tweet](https://x.com/unrootdesign/status/2038239888986849526) — Still love prev version of Dreamie we did in 2025 · 👁 1667 ❤ 40 🔖 12 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1926896067645210774) — subtle animations bring so much character · 👁 29378 ❤ 636 🔖 378 · 
+- [@nrybakov_](https://x.com/nrybakov_) · [tweet](https://x.com/nrybakov_/status/1931666447370960928) — Tiny bottom sheet interaction. It’s always feels good to add this extra touch. · 👁 28804 ❤ 660 🔖 401 · 
+- [@wickedmishra](https://x.com/wickedmishra) · [tweet](https://x.com/wickedmishra/status/1933193402084212996) — A compilation of my gooey, "liquid" work before Liquid Glass by Apple. · 👁 21931 ❤ 288 🔖 222 · 
+- [@lucas__crespo](https://x.com/lucas__crespo) · [tweet](https://x.com/lucas__crespo/status/1924548639529071009) — our pretty pixels · 👁 43164 ❤ 1088 🔖 429 · 
+- [@darel023](https://x.com/darel023) · [tweet](https://x.com/darel023/status/1919729266515968061) — Turn your @Figma designs into animations with AI. · 👁 160248 ❤ 2084 🔖 1713 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1920062358577144295) — Braun PVC—4 Record Player Illustrated in @figma · 👁 1776 ❤ 53 🔖 9 · 
+- [@benjitaylor](https://x.com/benjitaylor) · [tweet](https://x.com/benjitaylor/status/1920894031904600154) — This is a great breakdown of how our new onboarding approach works in @family, both for devs and users. Super simple. · 👁 47331 ❤ 630 🔖 533 · 
+- [@bruce_CQT](https://x.com/bruce_CQT) · [tweet](https://x.com/bruce_CQT/status/2040821526623392174) — undo → summon it back from the rocks  · 👁 28174 ❤ 589 🔖 227 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1928767662546362707) — Still one of the most referenced animation-heavy websites. · 👁 310 ❤ 9 🔖 2 · 
+- [@goo_vision](https://x.com/goo_vision) · [tweet](https://x.com/goo_vision/status/1919375217488539754) — Explore · 👁 487641 ❤ 16518 🔖 3141 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1933146649674596469) — Teenage Engineering TX-6 Black illustrated in @figma — that completes the set! · 👁 3899 ❤ 114 🔖 33 · 
+- [@sterlingand_co](https://x.com/sterlingand_co) · [tweet](https://x.com/sterlingand_co/status/1918355521586844134) — Zephyr x Neson Z1 keyboard with GMK Expo keycaps · 👁 8672 ❤ 199 🔖 17 · 
+- [@doctorbaytas](https://x.com/doctorbaytas) · [tweet](https://x.com/doctorbaytas/status/1917545443208356331) — I might be fired for releasing this... · 👁 153918 ❤ 1107 🔖 3109 · 
+- [@byamine__](https://x.com/byamine__) · [tweet](https://x.com/byamine__/status/1932035013307940967) — cypher look on mockups · 👁 20745 ❤ 399 🔖 150 · 
+- [@_mayweather](https://x.com/_mayweather) · [tweet](https://x.com/_mayweather/status/1928015613923848255) — Some more snippets from the 4th @framer template called Astra · 👁 3472 ❤ 98 🔖 22 · 
+- [@Amin__turki](https://x.com/Amin__turki) · [tweet](https://x.com/Amin__turki/status/1922878926549905806) — Portfolio landing page design  · 👁 52170 ❤ 958 🔖 606 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/1931090110231036139) — Supergrok Redesign  · 👁 10161 ❤ 182 🔖 72 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1933192350718927262) — Dimitris Koliadimas and Anja Lutz · 👁 12346 ❤ 428 🔖 83 · 
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/2043554776865185875) — workspace config panel · 👁 2601 ❤ 119 🔖 49 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1920868843267760612) — V1 Exploring for Art Input  · 👁 47545 ❤ 1309 🔖 651 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1917170910898913581) — Floating navbar · 👁 9286 ❤ 181 🔖 66 · 
+- [@virgil_pana](https://x.com/virgil_pana) · [tweet](https://x.com/virgil_pana/status/1932659468648521845) — Expandable Notification Toast with timer · 👁 15980 ❤ 470 🔖 379 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1929913232023785554) — 𝚐𝚘𝚘𝚍 𝚗𝚒𝚐𝚑𝚝, 𝚜𝚝𝚛𝚞𝚐𝚐𝚕𝚎𝚛𝚜. · 👁 50337 ❤ 2482 🔖 347 · 
+- [@natkohasic](https://x.com/natkohasic) · [tweet](https://x.com/natkohasic/status/1928384450469011822) — Build your ideas. Insist on your vision. Do not compromise. Design it exactly how you see it in your mind. · 👁 19705 ❤ 340 🔖 139 · 
+- [@logomultiply](https://x.com/logomultiply) · [tweet](https://x.com/logomultiply/status/1931917496640249891) — P for transport brand! · 👁 2311 ❤ 116 🔖 29 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1918269760057282915) — Advanced Logo Sprint at 999€ for Diversified Botanics  · 👁 15516 ❤ 364 🔖 141 · 
+- [@insank18](https://x.com/insank18) · [tweet](https://x.com/insank18/status/1930154620946645346) — Widgets Today · 👁 15084 ❤ 285 🔖 219 · 
+- [@saisatvik_](https://x.com/saisatvik_) · [tweet](https://x.com/saisatvik_/status/1929531972474319159) — Rejected piece, Designed for a course-selling platform a while ago in @figma · 👁 45807 ❤ 1040 🔖 503 · 
+- [@iamsahilvhora](https://x.com/iamsahilvhora) · [tweet](https://x.com/iamsahilvhora/status/2047551406505361550) — Designed these tabs for my fintech product. · 👁 1244 ❤ 58 🔖 18 · 
+- [@alexgilev1](https://x.com/alexgilev1) · [tweet](https://x.com/alexgilev1/status/1929549038128337006) — It’s easier than ever to build a product; it’s harder than ever to make it stick. · 👁 14866 ❤ 237 🔖 193 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1930231735343849961) — Navigating through the internal product pages of the FSCO website · 👁 3307 ❤ 171 🔖 78 · 
+- [@bnj](https://x.com/bnj) · [tweet](https://x.com/bnj/status/1914386344329293935) — 100% true...for now · 👁 153396 ❤ 1197 🔖 852 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1928802465228394817) — Finalising the default light & dark modes for Peony. Plan on having many more themes - but it's a good start. · 👁 27522 ❤ 447 🔖 401 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1919718702724915564) — Music Road · 👁 35116 ❤ 868 🔖 273 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1930263360802828564) — If you’re a solo founder building something in public and you need clean, fast product design: · 👁 8520 ❤ 254 🔖 187 · 
+- [@usrnk1](https://x.com/usrnk1) · [tweet](https://x.com/usrnk1/status/2057081048048038380) — cursdex · 👁 1414 ❤ 23 🔖 8 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929312755364081719) — João Pestana · 👁 46442 ❤ 1732 🔖 504 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1929841269301223811) — File upload block  · 👁 9896 ❤ 335 🔖 213 · 
+- [@kevintwohy](https://x.com/kevintwohy) · [tweet](https://x.com/kevintwohy/status/1933327387036692946) — website updates [coming soon] · 👁 3732 ❤ 120 🔖 35 · 
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/1919726012339786152) — Edit your preferences  · 👁 12631 ❤ 277 🔖 144 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1924465903774892306) — just recreated this smooth image before-after carousel in @framer — perfect for showcasing transformations. · 👁 4072 ❤ 103 🔖 54 · 
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/1902059561034641752) — Experimenting with dropdowns · 👁 24075 ❤ 486 🔖 318 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1927334108008452376) — 21 · 👁 39700 ❤ 234 🔖 119 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1919758884392128574) — Mobile onboard @intrfacer · 👁 23249 ❤ 754 🔖 417 · 
+- [@barthkosi](https://x.com/barthkosi) · [tweet](https://x.com/barthkosi/status/1931278899247304999) — Portfolio websites should feel more personal. · 👁 81265 ❤ 1515 🔖 1084 · 
+- [@brandarchivexyz](https://x.com/brandarchivexyz) · [tweet](https://x.com/brandarchivexyz/status/1928010956979708282) — Almost Pearfect by Zunder, 2025 · 👁 15285 ❤ 342 🔖 140 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1921627188048052530) — Is this the best showreel on the web? · 👁 32116 ❤ 812 🔖 537 · 
+- [@felixhhaas](https://x.com/felixhhaas) · [tweet](https://x.com/felixhhaas/status/1929452774023909544) — spread the love · 👁 46293 ❤ 806 🔖 540 · 
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/1932056672156995588) — Text Edit / AI Highlight · 👁 16974 ❤ 377 🔖 226 · 
+- [@dejvdesign](https://x.com/dejvdesign) · [tweet](https://x.com/dejvdesign/status/2052703587445170305) — Modal concept - light & dark mode · 👁 793 ❤ 35 🔖 11 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1927632193800827071) — Mega menu // SeamlessAI · 👁 16199 ❤ 247 🔖 149 · 
+- [@mrdavidfabiyi](https://x.com/mrdavidfabiyi) · [tweet](https://x.com/mrdavidfabiyi/status/1920101543165964459) — Card animation for a bento · 👁 13341 ❤ 384 🔖 132 · 
+- [@ItsAmmarHassan](https://x.com/ItsAmmarHassan) · [tweet](https://x.com/ItsAmmarHassan/status/1928056658946838650) — Finally cooked up a 99.8% pure batch  · 👁 3695 ❤ 90 🔖 14 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1927618625621418213) — hero sections that we love · 👁 44027 ❤ 1263 🔖 776 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1928062373950095537) — (no text) · 👁 2190 ❤ 52 🔖 21 · 
+- [@jordanphughes](https://x.com/jordanphughes) · [tweet](https://x.com/jordanphughes/status/1927745226338136541) — Day 963 · 👁 9135 ❤ 186 🔖 100 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1930575281334743528) — brand + web  · 👁 76174 ❤ 2344 🔖 1241 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1928451334375666041) — Solvent — Visual Identity                         · 👁 7502 ❤ 199 🔖 76 · 
+- [@yahyavision](https://x.com/yahyavision) · [tweet](https://x.com/yahyavision/status/1933197382507810907) — Visual Identity — Service Pros Hub® · 👁 4561 ❤ 151 🔖 61 · 
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/1930620891152736664) —  Send Asset Flow · 👁 32401 ❤ 438 🔖 321 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1927292946174382229) — Just designed the new cleanest sidebar ever  · 👁 29556 ❤ 196 🔖 188 · 
+- [@miniarchillect](https://x.com/miniarchillect) · [tweet](https://x.com/miniarchillect/status/1927271814176112648) — (no text) · 👁 97573 ❤ 4470 🔖 456 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1933554665523703994) — Recent design work! · 👁 4906 ❤ 161 🔖 54 · 
+- [@uiuxadrian](https://x.com/uiuxadrian) · [tweet](https://x.com/uiuxadrian/status/1929617775120818314) — Lead magnet page WIP  · 👁 10173 ❤ 132 🔖 46 · 
+- [@rightclickdead](https://x.com/rightclickdead) · [tweet](https://x.com/rightclickdead/status/1933456263095980530) — I just recieved an invitation to participate in the Museum of @GIPHY Artists, more updates will follow as things progress  · 👁 2906 ❤ 175 🔖 15 · 
+- [@MeschacIrung](https://x.com/MeschacIrung) · [tweet](https://x.com/MeschacIrung/status/1930989022999900670) — two tabs @serhii_be · 👁 5191 ❤ 146 🔖 56 · 
+- [@thomasauros](https://x.com/thomasauros) · [tweet](https://x.com/thomasauros/status/1932807057205588326) — Some isometric diagrams for the upcoming @evervault docs rebuild. · 👁 17804 ❤ 432 🔖 210 · 
+- [@Abstudiobrand](https://x.com/Abstudiobrand) · [tweet](https://x.com/Abstudiobrand/status/1926580806815715469) — Two marks, Two types collection! · 👁 7070 ❤ 236 🔖 95 · 
+- [@bedirhandogn](https://x.com/bedirhandogn) · [tweet](https://x.com/bedirhandogn/status/2047285309008695647) — Arciel. · 👁 1118 ❤ 48 🔖 10 · 
+- [@inkko44](https://x.com/inkko44) · [tweet](https://x.com/inkko44/status/1922749000291152315) — 10-minute landing page created with @lovable_dev and @hiunicornstudio · 👁 86459 ❤ 303 🔖 340 · 
+- [@athasdev](https://x.com/athasdev) · [tweet](https://x.com/athasdev/status/1933121091750252606) — Remote connections are coming soon! · 👁 19634 ❤ 410 🔖 94 · 
+- [@RamyWafaa](https://x.com/RamyWafaa) · [tweet](https://x.com/RamyWafaa/status/1922629857361514651) — Taking a short break from super realism and diving into a childish abstract mood with these illustrations, Bloomie is a new style of colorful illustrations set to release this week on Getillustrations · 👁 25824 ❤ 941 🔖 360 · 
+- [@kubadesign](https://x.com/kubadesign) · [tweet](https://x.com/kubadesign/status/1927995172861747378) — hero section 03 · 👁 105561 ❤ 844 🔖 465 · 
+- [@jakubzegzulka](https://x.com/jakubzegzulka) · [tweet](https://x.com/jakubzegzulka/status/1924477898897142243) — 3D User Interface · 👁 219688 ❤ 3279 🔖 1491 · 
+- [@v_serbulenko](https://x.com/v_serbulenko) · [tweet](https://x.com/v_serbulenko/status/1921897920065884352) — I continue to work on @googlechrome tabs screen. Gonna make it fully functional like the original one. · 👁 34751 ❤ 545 🔖 285 · 
+- [@_joshbendall](https://x.com/_joshbendall) · [tweet](https://x.com/_joshbendall/status/1921740626128707971) — EVERYTHING.04_G · 👁 12770 ❤ 390 🔖 106 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1923622448278405386) — rejected visual identity · 👁 8540 ❤ 151 🔖 69 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1925467037771673631) — recents \\ web, brand, print, socials · 👁 14035 ❤ 266 🔖 144 · 
+- [@posterlad](https://x.com/posterlad) · [tweet](https://x.com/posterlad/status/1927761293227769974) — All about abstractions in color.  · 👁 7061 ❤ 362 🔖 63 · 
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/1924863645965521157) — Floor Sweep · 👁 18495 ❤ 490 🔖 292 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1933434833587613902) — need more chips? · 👁 39094 ❤ 804 🔖 475 · 
+- [@pketh](https://x.com/pketh) · [tweet](https://x.com/pketh/status/1927812394106880501) — [New Blog Post] Saying Bye to Glitch ↓ · 👁 3609 ❤ 64 🔖 19 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1933141874522636385) — Rejected Logo :( · 👁 2792 ❤ 81 🔖 29 · 
+- [@scottyujan](https://x.com/scottyujan) · [tweet](https://x.com/scottyujan/status/1919817929170079751) — making a m4 mac mini iPhone dock  · 👁 33094 ❤ 788 🔖 169 · 
+- [@samstooff](https://x.com/samstooff) · [tweet](https://x.com/samstooff/status/1923350468115218850) — Part Seven. · 👁 59777 ❤ 502 🔖 218 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1928436307241439506) — Speech to text @intrfacer · 👁 4014 ❤ 105 🔖 39 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1927849390170952127) — (no text) · 👁 5265 ❤ 125 🔖 44 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1926624005437497457) — From the archives.. · 👁 2893 ❤ 137 🔖 24 · 
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/1927380372037263482) — No mockups. Just brand design, as it is  · 👁 11886 ❤ 316 🔖 141 · 
+- [@blac_ai](https://x.com/blac_ai) · [tweet](https://x.com/blac_ai/status/1923839188295876919) — death-song of a dying realm · 👁 13815 ❤ 635 🔖 60 · 
+- [@evilrabbit_](https://x.com/evilrabbit_) · [tweet](https://x.com/evilrabbit_/status/1933249719368888391) — The wizard @henryheffernan · 👁 10393 ❤ 235 🔖 155 · 
+- [@hewarsaber](https://x.com/hewarsaber) · [tweet](https://x.com/hewarsaber/status/1923121909836738651) — 369 sites, but only 9 got a 5/5 rating. · 👁 180976 ❤ 902 🔖 1224 · 
+- [@aessestudio](https://x.com/aessestudio) · [tweet](https://x.com/aessestudio/status/1920813844634440112) — Gentlee by We Want More on Visual Journal → https://visualjournal.it/gentlee · 👁 11167 ❤ 344 🔖 142 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/2052754141651537996) — Every sound, one place. · 👁 1374 ❤ 58 🔖 18 · 
+- [@Pixel0Symphony](https://x.com/Pixel0Symphony) · [tweet](https://x.com/Pixel0Symphony/status/1927743354688753665) — (no text) · 👁 3767 ❤ 184 🔖 29 · 
+- [@RalconStudio](https://x.com/RalconStudio) · [tweet](https://x.com/RalconStudio/status/1924405554132492744) — Services · 👁 46838 ❤ 1409 🔖 919 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1929403743042191554) — /231 · 👁 66972 ❤ 1908 🔖 899 · 
+- [@DavidMarkov](https://x.com/DavidMarkov) · [tweet](https://x.com/DavidMarkov/status/2044801506184962134) — Text editor - Light mode V2 · 👁 1335 ❤ 40 🔖 15 · 
+- [@pqoqubbw](https://x.com/pqoqubbw) · [tweet](https://x.com/pqoqubbw/status/1932869187476570140) — minimalistic table of contents · 👁 5201 ❤ 188 🔖 78 · 
+- [@Designownow_](https://x.com/Designownow_) · [tweet](https://x.com/Designownow_/status/1917687992082391338) — Angled button concept. I was getting board of looking at buttons from a front facing view... so... voilà, put it at an angle. What do you think? · 👁 19714 ❤ 419 🔖 200 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1925229830515413342) — Brand exploration. · 👁 16234 ❤ 507 🔖 220 · 
+- [@Aryana_Designs](https://x.com/Aryana_Designs) · [tweet](https://x.com/Aryana_Designs/status/1917494381000679896) — Type Scale — Design System  · 👁 5555 ❤ 104 🔖 68 · 
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2044087277840703884) — (no text) · 👁 2895 ❤ 123 🔖 59 · 
+- [@narative](https://x.com/narative) · [tweet](https://x.com/narative/status/1920625448570040467) — (no text) · 👁 5388 ❤ 150 🔖 32 · 
+- [@_heyrico](https://x.com/_heyrico) · [tweet](https://x.com/_heyrico/status/2053149786531127454) — recent work  · 👁 3732 ❤ 119 🔖 65 · 
+- [@awwwards](https://x.com/awwwards) · [tweet](https://x.com/awwwards/status/1931622878585164217) — Today’s #SOTD goes to @Holographikco for "Trawelt". · 👁 3330 ❤ 40 🔖 9 · 
+- [@TweetsByTBI](https://x.com/TweetsByTBI) · [tweet](https://x.com/TweetsByTBI/status/1932739718850228414) — Based on visuals of travel, @Holographikco’s identity and web refresh for @trawelt_com take off in style → http://t-bi.link/trawelt · 👁 9578 ❤ 251 🔖 124 · 
+- [@uiuxarih](https://x.com/uiuxarih) · [tweet](https://x.com/uiuxarih/status/1929133866666614890) — Cinematic for Hero Section - What you think?  · 👁 8411 ❤ 297 🔖 124 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1918984078524625223) — (no text) · 👁 5248 ❤ 78 🔖 25 · 
+- [@JCKHLRY](https://x.com/JCKHLRY) · [tweet](https://x.com/JCKHLRY/status/1923116554599760347) — Exploring V2 · 👁 64857 ❤ 1162 🔖 558 · 
+- [@marina_uiux](https://x.com/marina_uiux) · [tweet](https://x.com/marina_uiux/status/1918696552367092205) — input components, light mode  · 👁 7417 ❤ 193 🔖 81 · 
+- [@headroomAI](https://x.com/headroomAI) · [tweet](https://x.com/headroomAI/status/1927734140364894550) — Scrappy small business? · 👁 109205 ❤ 1436 🔖 530 · 
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/1922620459473875161) —  We're cooking w/@necatikcl at @LueStudio · 👁 8247 ❤ 213 🔖 95 · 
+- [@zielinskiwoj](https://x.com/zielinskiwoj) · [tweet](https://x.com/zielinskiwoj/status/1919756513318498707) — Create 3D orb gradients with @Figma · 👁 42298 ❤ 681 🔖 647 · 
+- [@driceroland](https://x.com/driceroland) · [tweet](https://x.com/driceroland/status/1918658431084380310) — Logo icons from http://logotype.org · 👁 10032 ❤ 205 🔖 100 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1926700040208175270) — (no text) · 👁 39056 ❤ 593 🔖 163 · 
+- [@Luis_Vask](https://x.com/Luis_Vask) · [tweet](https://x.com/Luis_Vask/status/1918341172415873234) — FLAIR™ — New project for a Barbershop. · 👁 13031 ❤ 280 🔖 104 · 
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/1924003617503097108) — (no text) · 👁 8704 ❤ 204 🔖 26 · 
+- [@bentenwoodring](https://x.com/bentenwoodring) · [tweet](https://x.com/bentenwoodring/status/1933169166153900366) — Exploration · 👁 787 ❤ 33 🔖 4 · 
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/1932392279592849657) — Editable table  · 👁 12349 ❤ 221 🔖 158 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1922668237226901571) — keep it minimal. · 👁 24225 ❤ 479 🔖 297 · 
+- [@pixsellz](https://x.com/pixsellz) · [tweet](https://x.com/pixsellz/status/1932390082486436091) — Avatars  · 👁 5772 ❤ 116 🔖 43 · 
+- [@benfryc](https://x.com/benfryc) · [tweet](https://x.com/benfryc/status/1919531652159602796) — clarity over quantity · 👁 13466 ❤ 427 🔖 44 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1924511367605911877) — Can Yang (IG: solxus) · 👁 21074 ❤ 559 🔖 219 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1929531732916642151) — Happy Monday! · 👁 20018 ❤ 601 🔖 408 · 
+- [@blankspac_e](https://x.com/blankspac_e) · [tweet](https://x.com/blankspac_e/status/1919909178585276846) — Various VHS Covers, via abduzeedo (2024) · 👁 369172 ❤ 12216 🔖 3323 · 
+- [@hunterthompson](https://x.com/hunterthompson) · [tweet](https://x.com/hunterthompson/status/1924510918651863138) — Webflow dev for IngredientAI · 👁 6238 ❤ 74 🔖 35 · 
+- [@dmiiiitrii](https://x.com/dmiiiitrii) · [tweet](https://x.com/dmiiiitrii/status/1931091694251848155) — Logo design for @zipper_trade · 👁 29930 ❤ 601 🔖 238 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1918950004187619579) — Eurovision 2025 Visual Identity by @notwk_ldn  · 👁 13346 ❤ 313 🔖 107 · 
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/1928929089974349904) — Task details view / dark mode  · 👁 24622 ❤ 273 🔖 187 · 
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/1921647942093443368) — wow.. this scroll effect with that incredible wiggle animation is crazy.. · 👁 77347 ❤ 1990 🔖 1084 · 
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/1929587940595831028) — Working on a general purpose toolbar component and also wrote a lil something about how I built it so far. · 👁 13055 ❤ 382 🔖 232 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1918051736989909319) — Launched our new studio site in one day using @framer — Really minimal one pager but aligns more to where we are today & gives us something to build on as we transition our studio name change. Link in · 👁 2800 ❤ 78 🔖 16 · 
+- [@choirulsyafril_](https://x.com/choirulsyafril_) · [tweet](https://x.com/choirulsyafril_/status/1918130465359458702) — Activity log · 👁 22970 ❤ 310 🔖 271 · 
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/1927020209119875124) — (no text) · 👁 3873 ❤ 123 🔖 18 · 
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/1927754355500884464) — Oshun Visual Identity by Boast Studio  · 👁 17099 ❤ 488 🔖 186 · 
+- [@keviduk](https://x.com/keviduk) · [tweet](https://x.com/keviduk/status/2044458735603499062) —  Workflow timeline · 👁 2154 ❤ 85 🔖 58 · 
+- [@Thedesigntool](https://x.com/Thedesigntool) · [tweet](https://x.com/Thedesigntool/status/1923448941904883864) — Added a flow to edit and  change your swiftmoji and your swift mate tag · 👁 12895 ❤ 279 🔖 173 · 
+- [@Praha37v](https://x.com/Praha37v) · [tweet](https://x.com/Praha37v/status/1933480525496529284) — Visitors hesitate to click CTAs when they don’t know what happens next. · 👁 5923 ❤ 173 🔖 141 · 
+- [@sucodeee](https://x.com/sucodeee) · [tweet](https://x.com/sucodeee/status/1928386806182986050) — SwiftUI Fixed Tab · 👁 7939 ❤ 209 🔖 149 · 
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/1921812136671793479) — Sweet icon hover animation on Supabase  · 👁 2544 ❤ 58 🔖 19 · 
+- [@bynneh](https://x.com/bynneh) · [tweet](https://x.com/bynneh/status/1929856327607603392) — No fancy preloaders this time, just silky-smooth page transitions. · 👁 17198 ❤ 651 🔖 377 · 
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/1926934772766376371) — Client page for an upcoming project — launching soon. Features a scrolling interactive list of companies with a preview of work for each. · 👁 2021 ❤ 84 🔖 30 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1922994675260027075) — moments · 👁 3020 ❤ 98 🔖 15 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1930146830844588451) — Out of the Dark Typefaces · 👁 11711 ❤ 327 🔖 95 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1931293055241552343) — Messing around. · 👁 32059 ❤ 1460 🔖 418 · 
+- [@arvsrn](https://x.com/arvsrn) · [tweet](https://x.com/arvsrn/status/1920048461543567494) — (no text) · 👁 4215 ❤ 86 🔖 46 · 
+- [@adehsanya](https://x.com/adehsanya) · [tweet](https://x.com/adehsanya/status/1918712996206932083) — (no text) · 👁 4649 ❤ 74 🔖 25 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1930253539114090936) — Secure Bento Box  · 👁 15288 ❤ 458 🔖 185 · 
+- [@nitishkmrk](https://x.com/nitishkmrk) · [tweet](https://x.com/nitishkmrk/status/1919279951033102707) — predictive text interaction ⎯⟡° · 👁 24287 ❤ 570 🔖 250 · 
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/2045514713753121231) — metallic buttons ❖ · 👁 909 ❤ 16 🔖 2 · 
+- [@thedesignermrym](https://x.com/thedesignermrym) · [tweet](https://x.com/thedesignermrym/status/1919319384444596401) — No purple no blue — time for butter yellow  something new  · 👁 8754279 ❤ 2088 🔖 881 · 
+- [@EllieExalt](https://x.com/EllieExalt) · [tweet](https://x.com/EllieExalt/status/1927387951903764852) — Very refined and very, very clean   · 👁 43094 ❤ 521 🔖 533 · 
+- [@_joshbendall](https://x.com/_joshbendall) · [tweet](https://x.com/_joshbendall/status/1919595657922322755) — FORMA.02_DSK · 👁 2758 ❤ 199 🔖 56 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1920734851969229003) — one year of simple things, my beloved · 👁 49450 ❤ 1235 🔖 654 · 
+- [@kubadesign](https://x.com/kubadesign) · [tweet](https://x.com/kubadesign/status/1928362650271989801) — that's your reminder to do your design warmup  · 👁 145067 ❤ 588 🔖 354 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1931683335006290095) — Mobile UI app design onboarding · 👁 32424 ❤ 699 🔖 292 · 
+- [@Iconlypro](https://x.com/Iconlypro) · [tweet](https://x.com/Iconlypro/status/1919036893657718802) — New motion icons, 60fps! · 👁 10335 ❤ 256 🔖 96 · 
+- [@bestdesignsonx](https://x.com/bestdesignsonx) · [tweet](https://x.com/bestdesignsonx/status/1930156283895918804) — Dashboard animation in Unicorn by @UXzadriel  · 👁 339 ❤ 7 🔖 5 · 
+- [@michaelmicasso](https://x.com/michaelmicasso) · [tweet](https://x.com/michaelmicasso/status/1921476952034095420) — 𝚝𝚑𝚎𝚛𝚎 𝚒𝚜 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚒𝚖𝚎 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐. · 👁 26719 ❤ 1319 🔖 162 · 
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/1928075074856190121) —  Interviews Dropdown · 👁 13945 ❤ 229 🔖 104 · 
+- [@seltugba_](https://x.com/seltugba_) · [tweet](https://x.com/seltugba_/status/2056643099602858424) — Sidebar navigation, two themes.  · 👁 1228 ❤ 63 🔖 17 · 
+- [@thestudiothree](https://x.com/thestudiothree) · [tweet](https://x.com/thestudiothree/status/1922716396808462563) — Make your Brand STAND OUT  · 👁 3087 ❤ 84 🔖 43 · 
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/1920828441647067347) — Domino Card Bento Box  · 👁 8328 ❤ 320 🔖 129 · 
+- [@welovedaily](https://x.com/welovedaily) · [tweet](https://x.com/welovedaily/status/1930311154623975652) — Ketone-IQ — · 👁 5628 ❤ 188 🔖 63 · 
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/1928062571464249447) — We love clean design layouts over here. · 👁 49935 ❤ 930 🔖 572 · 
+- [@JayDwivedi_](https://x.com/JayDwivedi_) · [tweet](https://x.com/JayDwivedi_/status/1927584339329495214) — I found the best shadows settings, steal it or save both appreciated  · 👁 72925 ❤ 1233 🔖 1680 · 
+- [@emilkowalski_](https://x.com/emilkowalski_) · [tweet](https://x.com/emilkowalski_/status/1928140156151775421) — Animated navigation at Linear with Radix's Navigation Menu · 👁 49293 ❤ 1014 🔖 442 · 
+- [@keilethh](https://x.com/keilethh) · [tweet](https://x.com/keilethh/status/1929568591508119964) — POLYXENA — Logo & Visual identity. · 👁 24800 ❤ 677 🔖 321 · 
+- [@fattahzuni](https://x.com/fattahzuni) · [tweet](https://x.com/fattahzuni/status/1917208352482038183) — (no text) · 👁 38731 ❤ 804 🔖 335 · 
+- [@Swaraj524](https://x.com/Swaraj524) · [tweet](https://x.com/Swaraj524/status/2055149957074886934) — Recent widgets I designed  · 👁 6567 ❤ 198 🔖 152 · 
+- [@tyka_dominik](https://x.com/tyka_dominik) · [tweet](https://x.com/tyka_dominik/status/1924890989371511038) — Design trend cycle: · 👁 18807 ❤ 271 🔖 113 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/2056640393488249221) — visual system concept · 👁 2285 ❤ 74 🔖 24 · 
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2054863877238562896) — the best Rich-Text UI inspo, · 👁 2785 ❤ 105 🔖 57 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929901006193864812) — Bendito Mockup · 👁 8703 ❤ 167 🔖 29 · 
+- [@pierluigifitt](https://x.com/pierluigifitt) · [tweet](https://x.com/pierluigifitt/status/1929509563843137575) — (no text) · 👁 4081 ❤ 84 🔖 50 · 
+- [@ty_kra_lab](https://x.com/ty_kra_lab) · [tweet](https://x.com/ty_kra_lab/status/1933625559260569977) — Managed to do the morphing · 👁 2039 ❤ 24 🔖 4 · 
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/1923008859385352386) — light mode for Method, my latest @framer template ☀︎ · 👁 5319 ❤ 211 🔖 97 · 
+- [@polarizz39](https://x.com/polarizz39) · [tweet](https://x.com/polarizz39/status/1932943326023737848) — Mimicking iOS 26's button styles turned out pretty nice. Currently getting ready for a new TestFlight release. · 👁 8549 ❤ 258 🔖 130 · 
+- [@ln_dev7](https://x.com/ln_dev7) · [tweet](https://x.com/ln_dev7/status/1929192039972819416) — Animated Counter  · 👁 11057 ❤ 377 🔖 183 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1926897102933618987) — oh yes, Praha pretty much cooked with this social proof animation. · 👁 14897 ❤ 389 🔖 170 · 
+- [@framer](https://x.com/framer) · [tweet](https://x.com/framer/status/1925231546942025907) —  See you in 15. Tune in now, join the live chat, and "stick" around for a special gift at the end. · 👁 14210 ❤ 66 🔖 7 · 
+- [@realvjy](https://x.com/realvjy) · [tweet](https://x.com/realvjy/status/1933829927058428334) — What about chaos button  · 👁 10003 ❤ 283 🔖 127 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1929485659410158072) — Offers  · 👁 18520 ❤ 279 🔖 158 · 
+- [@platonck1](https://x.com/platonck1) · [tweet](https://x.com/platonck1/status/1927799028286132540) — Redesigned my site — now it's the width of a regular phone · 👁 14362 ❤ 291 🔖 112 · 
+- [@dzzgnr](https://x.com/dzzgnr) · [tweet](https://x.com/dzzgnr/status/1917551540656824430) —  share wallet address · 👁 7686 ❤ 125 🔖 38 · 
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/1929539393909342633) — Drams Components made in @framer · 👁 17508 ❤ 336 🔖 153 · 
+- [@Shihab_Visuals](https://x.com/Shihab_Visuals) · [tweet](https://x.com/Shihab_Visuals/status/1925929671016751408) — Trying some new colors for Nate Cafeteria! · 👁 4386 ❤ 171 🔖 46 · 
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/1923019789498241534) — me: just ship this app, no time for details · 👁 2579 ❤ 34 🔖 5 · 
+- [@MarcelFromMimic](https://x.com/MarcelFromMimic) · [tweet](https://x.com/MarcelFromMimic/status/1927217951674970568) — Simple trick to design insanely clean UI buttons: · 👁 54297 ❤ 467 🔖 715 · 
+- [@DannPetty](https://x.com/DannPetty) · [tweet](https://x.com/DannPetty/status/1924831253313753223) — Every footer should have this · 👁 49415 ❤ 1200 🔖 521 · 
+- [@CedrikStephen](https://x.com/CedrikStephen) · [tweet](https://x.com/CedrikStephen/status/1926280832844435604) — 18 · 👁 25581 ❤ 200 🔖 90 · 
+- [@greeenyang](https://x.com/greeenyang) · [tweet](https://x.com/greeenyang/status/1918274270448484410) —  · 👁 12572 ❤ 412 🔖 146 · 
+- [@SinistaVision](https://x.com/SinistaVision) · [tweet](https://x.com/SinistaVision/status/1932939831400608224) — Some unused/scrapped projects · 👁 21945 ❤ 727 🔖 246 · 
+- [@Renz_Ward](https://x.com/Renz_Ward) · [tweet](https://x.com/Renz_Ward/status/1918350750058725704) — AURA© / Futuristic Logotype · 👁 15760 ❤ 558 🔖 151 · 
+- [@mortenpx](https://x.com/mortenpx) · [tweet](https://x.com/mortenpx/status/1932547783908864440) — Forget about liquid glass.... · 👁 2896 ❤ 53 🔖 15 · 
+- [@byamine__](https://x.com/byamine__) · [tweet](https://x.com/byamine__/status/1918365746163339507) — Fav works from recent month · 👁 7903 ❤ 218 🔖 75 · 
+- [@dzineloop](https://x.com/dzineloop) · [tweet](https://x.com/dzineloop/status/1933530772759326815) — Orvior © Visual Identity // 02 · 👁 3333 ❤ 132 🔖 35 · 
+- [@BreejeAnadkat](https://x.com/BreejeAnadkat) · [tweet](https://x.com/BreejeAnadkat/status/1922618423479001431) — I charged $999 for this site 6 months ago — guess how much it costs now? · 👁 11843 ❤ 89 🔖 98 · 
+- [@paulsoulhiard](https://x.com/paulsoulhiard) · [tweet](https://x.com/paulsoulhiard/status/1929910553000001877) — unused sketch from a generative motion study on AI language systems  · 👁 6817 ❤ 249 🔖 80 · 
+- [@kuipermarc](https://x.com/kuipermarc) · [tweet](https://x.com/kuipermarc/status/1933528612256559126) — The @framer marketplace just got an update  · 👁 506 ❤ 19 🔖 0 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1919621225732587911) — /204 · 👁 3517 ❤ 175 🔖 39 · 
+- [@MarcoPrizzy](https://x.com/MarcoPrizzy) · [tweet](https://x.com/MarcoPrizzy/status/1923034491263533466) —  Introducing my first @Framer template, Rowen · 👁 11115 ❤ 226 🔖 55 · 
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/1930988928137367973) — News app for genZ @intrfacer · 👁 34534 ❤ 952 🔖 639 · 
+- [@Velaskdzn](https://x.com/Velaskdzn) · [tweet](https://x.com/Velaskdzn/status/1921968524106285457) — Betec — Visual Identity                       · 👁 17267 ❤ 401 🔖 228 · 
+- [@istrdsgn](https://x.com/istrdsgn) · [tweet](https://x.com/istrdsgn/status/1924831378153083013) — chat imput - interaction states · 👁 16928 ❤ 301 🔖 180 · 
+- [@adieldesign](https://x.com/adieldesign) · [tweet](https://x.com/adieldesign/status/1929789149080375635) — hero design exploration · 👁 11772 ❤ 313 🔖 110 · 
+- [@Designownow_](https://x.com/Designownow_) · [tweet](https://x.com/Designownow_/status/1931018782606245963) — What a fun and colorful collection · 👁 35703 ❤ 556 🔖 352 · 
+- [@KumailNanji](https://x.com/KumailNanji) · [tweet](https://x.com/KumailNanji/status/1927739433136071086) — chatgpt model switcher  · 👁 13202 ❤ 253 🔖 120 · 
+- [@CJfromJBW](https://x.com/CJfromJBW) · [tweet](https://x.com/CJfromJBW/status/1928070990724006362) — Dark mode toggle made in @figma  · 👁 1023 ❤ 21 🔖 0 · 
+- [@mehekprabhakar](https://x.com/mehekprabhakar) · [tweet](https://x.com/mehekprabhakar/status/1933871093355319771) — vibrant, edgy and all things fun for @tizz_trade · 👁 6230 ❤ 168 🔖 64 · 
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/1920007931883397416) — Cannly reimagined · 👁 6517 ❤ 160 🔖 84 · 
+- [@RikOostenbroek](https://x.com/RikOostenbroek) · [tweet](https://x.com/RikOostenbroek/status/1926981506091598327) — LIS · 👁 21570 ❤ 586 🔖 62 · 
+- [@inkko44](https://x.com/inkko44) · [tweet](https://x.com/inkko44/status/1918421162234609997) — Messing around with GSAP + Bolt. · 👁 9864 ❤ 117 🔖 59 · 
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/1929583816693502200) — Exploring features card · 👁 6531 ❤ 145 🔖 52 · 
+- [@marcofyi](https://x.com/marcofyi) · [tweet](https://x.com/marcofyi/status/1930278486671069494) — today is my last day at @vercel · 👁 42132 ❤ 927 🔖 98 · 
+- [@onenguyenminh](https://x.com/onenguyenminh) · [tweet](https://x.com/onenguyenminh/status/1923422360910057800) — 1-hour sketchy brand concept. · 👁 48591 ❤ 1373 🔖 697 · 
+- [@ensaktas](https://x.com/ensaktas) · [tweet](https://x.com/ensaktas/status/1917126650090684728) — (no text) · 👁 405 ❤ 0 🔖 0 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1928813705707311195) — Did I cook? · 👁 13715 ❤ 407 🔖 156 · 
+- [@uialexk](https://x.com/uialexk) · [tweet](https://x.com/uialexk/status/1916850437963092263) — Is dark mode suitable for minimal designs? · 👁 2747 ❤ 81 🔖 13 · 
+- [@cactusui](https://x.com/cactusui) · [tweet](https://x.com/cactusui/status/1926312911363879289) —  Branding presets · 👁 125434 ❤ 979 🔖 978 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1932681200499597480) — add collaborators to the shopping list · 👁 22736 ❤ 431 🔖 155 · 
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/1897531816858509642) — brand assets · 👁 55225 ❤ 1051 🔖 354 · 
+- [@AlexAperios](https://x.com/AlexAperios) · [tweet](https://x.com/AlexAperios/status/1916935597974851747) — More design tests for the new Snapshift website.  · 👁 12699 ❤ 333 🔖 128 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1922670069177340090) — Card explorations · 👁 15457 ❤ 512 🔖 216 · 
+- [@bogdan_qclay](https://x.com/bogdan_qclay) · [tweet](https://x.com/bogdan_qclay/status/1930715955736494315) — You’ve probably seen the sneak peeks. · 👁 28086 ❤ 675 🔖 569 · 
+- [@learnframer](https://x.com/learnframer) · [tweet](https://x.com/learnframer/status/1927001595943788994) — just recreated this sick 3d icon hover animation in @framer. · 👁 20687 ❤ 419 🔖 330 · 
+- [@designmeagency](https://x.com/designmeagency) · [tweet](https://x.com/designmeagency/status/1906345727477022868) — (no text) · 👁 20295 ❤ 341 🔖 224 · 
+- [@HoudayfaDesign](https://x.com/HoudayfaDesign) · [tweet](https://x.com/HoudayfaDesign/status/1929910200816779773) — I just designed this. · 👁 7355 ❤ 253 🔖 81 · 
+- [@avstorm](https://x.com/avstorm) · [tweet](https://x.com/avstorm/status/1929794442011066733) — Excited to see what Apple has cooked up for the new WWDC25 introductions · 👁 88679 ❤ 1801 🔖 438 · 
+- [@UXzadriel](https://x.com/UXzadriel) · [tweet](https://x.com/UXzadriel/status/1932096077286539436) — Shine bright, rate it 1-10 · 👁 10317 ❤ 278 🔖 106 · 
+- [@ArtemiuLebedev](https://x.com/ArtemiuLebedev) · [tweet](https://x.com/ArtemiuLebedev/status/1918329977746886956) — Clean UI. Dirty beats. Mobile homepage from the newly launched OXI Instruments website. · 👁 1758 ❤ 62 🔖 24 · 
+- [@PanivMp](https://x.com/PanivMp) · [tweet](https://x.com/PanivMp/status/2040824770376143091) — Crafted by people #blender · 👁 15567 ❤ 707 🔖 198 · 
+- [@PeterTarka](https://x.com/PeterTarka) · [tweet](https://x.com/PeterTarka/status/1918680940093579311) — Shapes Studio  · 👁 10367 ❤ 321 🔖 86 · 
+- [@designcmmnty](https://x.com/designcmmnty) · [tweet](https://x.com/designcmmnty/status/1901575657923948829) — Design  By @MSchwaibold · 👁 17246 ❤ 503 🔖 284 · 
+- [@kuxshl](https://x.com/kuxshl) · [tweet](https://x.com/kuxshl/status/1922577416733462729) — ahh, black and white never misses! · 👁 28034 ❤ 415 🔖 157 · 
+- [@KomboMatt](https://x.com/KomboMatt) · [tweet](https://x.com/KomboMatt/status/1929799461376553136) — Book cover exploration in Blender and Cycles. · 👁 5580 ❤ 268 🔖 82 · 
+- [@dzineloop](https://x.com/dzineloop) · [tweet](https://x.com/dzineloop/status/1922650084858065360) — AST© Logo · 👁 8028 ❤ 249 🔖 98 · 
+- [@TweetsByTBI](https://x.com/TweetsByTBI) · [tweet](https://x.com/TweetsByTBI/status/1931924303408419121) — Breaking away from clinical aesthetics, Lettera7’s look for AM reveals the beauty in bacterial forms. · 👁 23091 ❤ 495 🔖 285 · 
+- [@remy_godet](https://x.com/remy_godet) · [tweet](https://x.com/remy_godet/status/1917572824560197941) — So many things to share! Anything you'd like to see me post? · 👁 45934 ❤ 1466 🔖 619 · 
+- [@rndr_realm](https://x.com/rndr_realm) · [tweet](https://x.com/rndr_realm/status/1932036825142395214) — Our latest 3D, motion & web projects in one reel. · 👁 7411 ❤ 213 🔖 110 · 
+- [@designbyaron](https://x.com/designbyaron) · [tweet](https://x.com/designbyaron/status/2059675982726853035) — variation v.2 · 👁 1527 ❤ 42 🔖 12 · 
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/1926946705380954561) — Here we go  · 👁 39575 ❤ 525 🔖 164 · 
+- [@hero_ui](https://x.com/hero_ui) · [tweet](https://x.com/hero_ui/status/1918386045185409094) — HeroUI v3 - Menu  · 👁 23470 ❤ 284 🔖 158 · 
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/1930644310342394221) — i’m not a robot / connect the numbers in order · 👁 214713 ❤ 1400 🔖 494 · 
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/1919088154428190924) — Watch · 👁 12558 ❤ 328 🔖 102 · 
+- [@AhmetKose571](https://x.com/AhmetKose571) · [tweet](https://x.com/AhmetKose571/status/1933567486143742344) — New @framer template loading…  · 👁 7039 ❤ 186 🔖 68 · 
+- [@idariusdan](https://x.com/idariusdan) · [tweet](https://x.com/idariusdan/status/1927370456438649081) — AI vs http://tiny.supply. · 👁 20325 ❤ 248 🔖 98 · 
+- [@bricksdept](https://x.com/bricksdept) · [tweet](https://x.com/bricksdept/status/1918357718319984710) — Intro to my latest YouTube tutorial  · 👁 71624 ❤ 1509 🔖 926 · 
+- [@AarzooAly](https://x.com/AarzooAly) · [tweet](https://x.com/AarzooAly/status/1926135447681466484) — /222 · 👁 16979 ❤ 442 🔖 172 · 
+- [@pqoqubbw](https://x.com/pqoqubbw) · [tweet](https://x.com/pqoqubbw/status/2042649416994074800) — make your slash menu beautiful · 👁 23028 ❤ 538 🔖 432 · 
+- [@pau_wee_](https://x.com/pau_wee_) · [tweet](https://x.com/pau_wee_/status/2042272468702773635) — personal site shennanigans · 👁 14141 ❤ 849 🔖 244 · 
+- [@BreejeAnadkat](https://x.com/BreejeAnadkat) · [tweet](https://x.com/BreejeAnadkat/status/1933485978074951903) — Footer shouldn't be overlooked (part 4)  · 👁 831 ❤ 23 🔖 2 · 
+- [@nonzeroexitcode](https://x.com/nonzeroexitcode) · [tweet](https://x.com/nonzeroexitcode/status/1923833027286663321) — learning a lot of german today · 👁 738 ❤ 15 🔖 4 · 
+- [@kartikhq](https://x.com/kartikhq) · [tweet](https://x.com/kartikhq/status/1929749882933596539) — Roland Concept · 👁 11973 ❤ 469 🔖 114 · 
+- [@Amin__turki](https://x.com/Amin__turki) · [tweet](https://x.com/Amin__turki/status/1922573151747055989) — Dark or light? · 👁 17466 ❤ 364 🔖 165 · 
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/1929615525602320739) — Another quick animation for when docs are scanned in Peony. Playing with a few options for this one. Made in @splinetool. · 👁 36604 ❤ 564 🔖 335 · 
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/1929946182354383221) — Bastian Muhr's website - Graphic design by Fabian Bremer. · 👁 23089 ❤ 647 🔖 252 · 
+- [@yasirbugra](https://x.com/yasirbugra) · [tweet](https://x.com/yasirbugra/status/1932145788601450932) — Liquid Glass  · 👁 1891 ❤ 31 🔖 7 · 
+- [@remy_godet](https://x.com/remy_godet) · [tweet](https://x.com/remy_godet/status/1924451272708522121) — Uncover the animations that turn my website into an experience. · 👁 10833 ❤ 291 🔖 119 · 
+- [@bedirhandogn](https://x.com/bedirhandogn) · [tweet](https://x.com/bedirhandogn/status/1933488267036447010) — Brand  · 👁 3681 ❤ 112 🔖 50 · 
+- [@hunterthompson](https://x.com/hunterthompson) · [tweet](https://x.com/hunterthompson/status/1917967078503727528) — oh, this is going to be fun · 👁 2947 ❤ 101 🔖 29 · 
+- [@yashwanth941v](https://x.com/yashwanth941v) · [tweet](https://x.com/yashwanth941v/status/1921301754680840621) — "About us" page redesign experiment for @zen_browser  · 👁 14876 ❤ 194 🔖 94 · 
+- [@Designownow_](https://x.com/Designownow_) · [tweet](https://x.com/Designownow_/status/1933064383552499980) — Little sneak peek at something Im working on · 👁 20303 ❤ 566 🔖 178 · 
+- [@joshuawolk](https://x.com/joshuawolk) · [tweet](https://x.com/joshuawolk/status/1917655301135950226) — $15M ARR app studio soft launch (we’re hiring, dms open) · 👁 0 ❤ 0 🔖 0 · 
+- [@me_Jahanvi](https://x.com/me_Jahanvi) · [tweet](https://x.com/me_Jahanvi/status/1918646726560190694) — Tooltips don't necessarily have to be boringly bound in a box, right?  · 👁 13954 ❤ 421 🔖 151 · 
+- [@vanschneider](https://x.com/vanschneider) · [tweet](https://x.com/vanschneider/status/2041180851996688654) — We had a ton of fun designing these mymind milestones. Many of them come as 3-level progressions. · 👁 12799 ❤ 116 🔖 39 · 
+- [@hxmzaehsan](https://x.com/hxmzaehsan) · [tweet](https://x.com/hxmzaehsan/status/1927687579278745619) — Micro-interactions in @framer are just beautiful. · 👁 21562 ❤ 431 🔖 207 · 
+- [@joan_verhulst](https://x.com/joan_verhulst) · [tweet](https://x.com/joan_verhulst/status/2059693888323854375) — recent ui designs and explorations · 👁 944 ❤ 48 🔖 20 · 2026-05-28
+- [@sashabirukoff](https://x.com/sashabirukoff) · [tweet](https://x.com/sashabirukoff/status/2058944178734731609) — recording iOS demos should be fun · 👁 13950 ❤ 360 🔖 192 · 2026-05-27
+- [@loficosmos1](https://x.com/loficosmos1) · [tweet](https://x.com/loficosmos1/status/2059417845549682705) — A progress update to my portfolio! http://billguo.me · 👁 2105 ❤ 50 🔖 39 · 2026-05-27
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2059527935829365209) — Recent interactions made w/ Claude · 👁 2719 ❤ 68 🔖 38 · 2026-05-27
+- [@michalmalewicz](https://x.com/michalmalewicz) · [tweet](https://x.com/michalmalewicz/status/2059298839215972592) — Writing an article on the future UI trends, and made a prototype of plasticity-type button - fully reactive to how hard and WHERE you press it.  · 👁 17349 ❤ 375 🔖 238 · 2026-05-27
+- [@ZaydenSaaSgtfs](https://x.com/ZaydenSaaSgtfs) · [tweet](https://x.com/ZaydenSaaSgtfs/status/2059182750691905747) — Thinking - Building - Ready · 👁 3943 ❤ 162 🔖 77 · 2026-05-27
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/2059284420599914974) — your Invoices, your style / interaction · 👁 17670 ❤ 515 🔖 320 · 2026-05-27
+- [@Oriku175](https://x.com/Oriku175) · [tweet](https://x.com/Oriku175/status/2058899636069265604) — Wildlife.exe corrupted successfully. · 👁 3972 ❤ 111 🔖 60 · 2026-05-26
+- [@AdityaSur11](https://x.com/AdityaSur11) · [tweet](https://x.com/AdityaSur11/status/2058616520645718402) — Folder animation · 👁 7772 ❤ 204 🔖 78 · 2026-05-26
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/2058925038930436576) — Sketching out some ideas for a logo animation. Made in @figma · 👁 3383 ❤ 95 🔖 28 · 2026-05-26
+- [@residentlab](https://x.com/residentlab) · [tweet](https://x.com/residentlab/status/2058964755176452408) — 50 followers in 6 days. thank you! · 👁 4070 ❤ 131 🔖 69 · 2026-05-26
+- [@growthflo](https://x.com/growthflo) · [tweet](https://x.com/growthflo/status/2058829660725682237) — Built with Claude Code · 👁 4142 ❤ 99 🔖 56 · 2026-05-26
+- [@bartuiux](https://x.com/bartuiux) · [tweet](https://x.com/bartuiux/status/2058895906582270206) — Subtle isometric still hits different in 2026. · 👁 5173 ❤ 180 🔖 92 · 2026-05-26
+- [@cameronsimony](https://x.com/cameronsimony) · [tweet](https://x.com/cameronsimony/status/2058562167847244245) — (no text) · 👁 35899 ❤ 616 🔖 405 · 2026-05-26
+- [@ol_dsn](https://x.com/ol_dsn) · [tweet](https://x.com/ol_dsn/status/2058698185636249966) — iOS 26 inspired UI to play with the morph animation. · 👁 36736 ❤ 393 🔖 398 · 2026-05-25
+- [@gabriell_lab](https://x.com/gabriell_lab) · [tweet](https://x.com/gabriell_lab/status/2058217175047901310) — If you struggle to describe UI transitions in Claude or Codex, these commonly used transition terms can help. Save this for later. · 👁 208683 ❤ 3821 🔖 6106 · 2026-05-25
+- [@ty_kra_lab](https://x.com/ty_kra_lab) · [tweet](https://x.com/ty_kra_lab/status/2058225636913660415) — I heard that you like shaders · 👁 43626 ❤ 742 🔖 507 · 2026-05-25
+- [@sitenley](https://x.com/sitenley) · [tweet](https://x.com/sitenley/status/2057872389036273697) — andCompute hero section.  · 👁 258 ❤ 4 🔖 2 · 2026-05-24
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/2057768370599006582) — 1042 Mono Grid · 👁 17255 ❤ 225 🔖 65 · 2026-05-24
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/2057863375443444028) — Made a fun little tool to explore 3D loader animations · 👁 2735 ❤ 45 🔖 24 · 2026-05-24
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2058171615578562850) — Currency Converter Component: digits rolls, flag flips and swap arrow spins · 👁 4110 ❤ 129 🔖 58 · 2026-05-24
+- [@jdreeves](https://x.com/jdreeves) · [tweet](https://x.com/jdreeves/status/2057824090962936134) — some internal lockups for Intercom GTM Enablement · 👁 4308 ❤ 167 🔖 62 · 2026-05-24
+- [@aaraalto](https://x.com/aaraalto) · [tweet](https://x.com/aaraalto/status/2058300456246419868) — still thinking about drawing with prompts · 👁 11338 ❤ 127 🔖 84 · 2026-05-24
+- [@SebCornelius](https://x.com/SebCornelius) · [tweet](https://x.com/SebCornelius/status/2057741520502165686) — Quick interactive experiment made in @figma · 👁 21311 ❤ 315 🔖 131 · 2026-05-24
+- [@nilseller](https://x.com/nilseller) · [tweet](https://x.com/nilseller/status/2057840230967718267) — Fun drawing toolbar · 👁 2986 ❤ 51 🔖 22 · 2026-05-24
+- [@fiof_25](https://x.com/fiof_25) · [tweet](https://x.com/fiof_25/status/2058242076773421376) — my new portfolio just dropped! come pay a visit - link below! · 👁 12000 ❤ 308 🔖 166 · 2026-05-24
+- [@growthflo](https://x.com/growthflo) · [tweet](https://x.com/growthflo/status/2058147170520318448) — Bento designed & built w/ Claude · 👁 10309 ❤ 243 🔖 230 · 2026-05-24
+- [@tomm_ui](https://x.com/tomm_ui) · [tweet](https://x.com/tomm_ui/status/2058210377478082853) — navigation menu with some animations  · 👁 1616 ❤ 44 🔖 26 · 2026-05-24
+- [@GrizzShutsDown](https://x.com/GrizzShutsDown) · [tweet](https://x.com/GrizzShutsDown/status/2057471244929282499) — Finally back with an updated site, · 👁 22075 ❤ 325 🔖 328 · 2026-05-22
+- [@shedsgns](https://x.com/shedsgns) · [tweet](https://x.com/shedsgns/status/2057144421775192493) — now my bot is taking project inquiries for me ~ https://shedsgns.me  · 👁 951 ❤ 25 🔖 5 · 2026-05-21
+- [@athasdev](https://x.com/athasdev) · [tweet](https://x.com/athasdev/status/2057238256740151693) — GitHub integration on Athas. Added actions tab, improved the sidebar UI. · 👁 6010 ❤ 75 🔖 37 · 2026-05-21
+- [@luizafurdui](https://x.com/luizafurdui) · [tweet](https://x.com/luizafurdui/status/2057203822896807955) — Did you catch this preview detail? · 👁 433 ❤ 31 🔖 9 · 2026-05-21
+- [@RasmusNielsen](https://x.com/RasmusNielsen) · [tweet](https://x.com/RasmusNielsen/status/2057180544492867810) — Working on a little animation this evening to showcase Tinker Premium a bit better  · 👁 2721 ❤ 58 🔖 37 · 2026-05-21
+- [@terkelg](https://x.com/terkelg) · [tweet](https://x.com/terkelg/status/2057155764402171933) — loading states that bleed outside the window · 👁 15591 ❤ 97 🔖 65 · 2026-05-21
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2057098181218025543) — Sprint planner agent: don’t create/move your tickets manually, let your agent take care of them · 👁 6724 ❤ 167 🔖 134 · 2026-05-21
+- [@AndrewPrifer](https://x.com/AndrewPrifer) · [tweet](https://x.com/AndrewPrifer/status/2056923983581446529) — Dear frontend devs and UI designers. I bring you Liquid DOM, a complete and faithful implementation of Liquid Glass on the Web. · 👁 336437 ❤ 5010 🔖 4804 · 2026-05-21
+- [@mnowakdesign](https://x.com/mnowakdesign) · [tweet](https://x.com/mnowakdesign/status/2057115954715435098) — Your demo shouldn’t be a lecture. It should be a trailer  · 👁 11028 ❤ 291 🔖 221 · 2026-05-21
+- [@aleksksaa](https://x.com/aleksksaa) · [tweet](https://x.com/aleksksaa/status/2056785422269698119) — clauded some more minimal loaders ✦ · 👁 1411 ❤ 56 🔖 19 · 2026-05-20
+- [@idosomthingcool](https://x.com/idosomthingcool) · [tweet](https://x.com/idosomthingcool/status/2056842404066365950) — motion for a conceptual fintech learning platform · 👁 6492 ❤ 105 🔖 84 · 2026-05-20
+- [@Oriku175](https://x.com/Oriku175) · [tweet](https://x.com/Oriku175/status/2056366697800777796) — Built this in @hiunicornstudio   · 👁 3651 ❤ 109 🔖 34 · 2026-05-19
+- [@tweetbylokki](https://x.com/tweetbylokki) · [tweet](https://x.com/tweetbylokki/status/2056315225348231338) — Hey! · 👁 46875 ❤ 504 🔖 380 · 2026-05-19
+- [@proskuaaa](https://x.com/proskuaaa) · [tweet](https://x.com/proskuaaa/status/2056633773668601868) — invite to your file team / island · 👁 11222 ❤ 265 🔖 142 · 2026-05-19
+- [@AdityaSur11](https://x.com/AdityaSur11) · [tweet](https://x.com/AdityaSur11/status/2056381797307420855) — Designed and animated in Framer. · 👁 3291 ❤ 87 🔖 32 · 2026-05-19
+- [@shiv_visual](https://x.com/shiv_visual) · [tweet](https://x.com/shiv_visual/status/2056645445292843042) — made a few more icons with motion · 👁 1777 ❤ 79 🔖 38 · 2026-05-19
+- [@__itu](https://x.com/__itu) · [tweet](https://x.com/__itu/status/2056370359197372686) — Supports more personalized experiences. Have fun! · 👁 16142 ❤ 350 🔖 279 · 2026-05-19
+- [@erdemkirmit](https://x.com/erdemkirmit) · [tweet](https://x.com/erdemkirmit/status/2056327484292137012) — Small prototype experiment for AI loaders. · 👁 0 ❤ 0 🔖 0 · 2026-05-18
+- [@rit3zh](https://x.com/rit3zh) · [tweet](https://x.com/rit3zh/status/2055991350336934000) — ✦ ⎯ • Motion tabs built using @expo · 👁 31130 ❤ 896 🔖 795 · 2026-05-18
+- [@helinvision](https://x.com/helinvision) · [tweet](https://x.com/helinvision/status/2056261759283888473) — gm, fresh updates on my website  https://helin.design · 👁 2450 ❤ 83 🔖 26 · 2026-05-18
+- [@bartek_marzec](https://x.com/bartek_marzec) · [tweet](https://x.com/bartek_marzec/status/2056166602744164815) — Portfolio reel. Product & Web. · 👁 11557 ❤ 372 🔖 315 · 2026-05-18
+- [@itsmaaz_](https://x.com/itsmaaz_) · [tweet](https://x.com/itsmaaz_/status/2056084513051041912) — are we underusing the bottom of the screen in AI apps? · 👁 43882 ❤ 460 🔖 410 · 2026-05-18
+- [@shaigexp](https://x.com/shaigexp) · [tweet](https://x.com/shaigexp/status/2055724969326178385) — Fora’s site is live now. Really appreciate the template, @stfnco  · 👁 38811 ❤ 557 🔖 667 · 2026-05-18
+- [@timothymaarv](https://x.com/timothymaarv) · [tweet](https://x.com/timothymaarv/status/2056086959177498836) — AI chat interaction  · 👁 3891 ❤ 94 🔖 66 · 2026-05-18
+- [@hamiltonulmer](https://x.com/hamiltonulmer) · [tweet](https://x.com/hamiltonulmer/status/2056027884457017765) — iterating on a fun little isometric paper airplane loading hero for a new feature I'm very excited about. Thinking about how to mitigate the ink trap problem while keeping the simplicity of three shap · 👁 29605 ❤ 635 🔖 401 · 2026-05-18
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2056007595400527987) — Print Receipt Component: was getting coffee this morning and got idea for this component · 👁 13058 ❤ 505 🔖 352 · 2026-05-18
+- [@nitishkmrk](https://x.com/nitishkmrk) · [tweet](https://x.com/nitishkmrk/status/2055628268200694053) — little blur & scale is all you need ⎯⟡° · 👁 28838 ❤ 884 🔖 409 · 2026-05-18
+- [@samgrosss](https://x.com/samgrosss) · [tweet](https://x.com/samgrosss/status/2055617543079870719) — The main visual direction for my next project, specifically designed for designers and creatives. · 👁 54173 ❤ 1681 🔖 763 · 2026-05-17
+- [@JaceThings](https://x.com/JaceThings) · [tweet](https://x.com/JaceThings/status/2055640327457837106) — True Highlighting · 👁 13054 ❤ 201 🔖 108 · 2026-05-17
+- [@aaronmahlke](https://x.com/aaronmahlke) · [tweet](https://x.com/aaronmahlke/status/2055667469142966314) — something is cooking  · 👁 4966 ❤ 127 🔖 54 · 2026-05-17
+- [@aydaoz](https://x.com/aydaoz) · [tweet](https://x.com/aydaoz/status/2052345849292714017) — Agent monitoring flow!  · 👁 6142 ❤ 103 🔖 84 · 2026-05-17
+- [@erdemkirmit](https://x.com/erdemkirmit) · [tweet](https://x.com/erdemkirmit/status/2055564690579947730) —  AI loaders: Build state.  · 👁 8 ❤ 0 🔖 0 · 2026-05-16
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/2054949055596204311) — Time picker block for @alignui  · 👁 24134 ❤ 517 🔖 459 · 2026-05-16
+- [@srotimi_ui](https://x.com/srotimi_ui) · [tweet](https://x.com/srotimi_ui/status/2055249906567168493) — Card component concept · 👁 8627 ❤ 254 🔖 174 · 2026-05-16
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2055279140874698815) — LLM Leaderboard Component: see how all the models stack up for different benchmarks · 👁 8432 ❤ 189 🔖 158 · 2026-05-16
+- [@saintdsgn](https://x.com/saintdsgn) · [tweet](https://x.com/saintdsgn/status/2055385453428105717) — Built a draggable 3D gallery with custom sounds in a few hours using ONLY Gemini 3.1 Pro. · 👁 817 ❤ 35 🔖 26 · 2026-05-16
+- [@marcelkargul](https://x.com/marcelkargul) · [tweet](https://x.com/marcelkargul/status/2055415582749581409) — Hire us to design your product/app! · 👁 3602 ❤ 71 🔖 38 · 2026-05-16
+- [@luizafurdui](https://x.com/luizafurdui) · [tweet](https://x.com/luizafurdui/status/2054897370677047619) — Motion gallery · 👁 5446 ❤ 192 🔖 76 · 2026-05-16
+- [@tranmautritam](https://x.com/tranmautritam) · [tweet](https://x.com/tranmautritam/status/2055196622435565884) — This folder has feelings. · 👁 5496 ❤ 111 🔖 35 · 2026-05-16
+- [@eduardbodak](https://x.com/eduardbodak) · [tweet](https://x.com/eduardbodak/status/2054857249428811959) — 010/100 Buttons. · 👁 4505 ❤ 104 🔖 47 · 2026-05-15
+- [@tranmautritam](https://x.com/tranmautritam) · [tweet](https://x.com/tranmautritam/status/2054911402528399498) — Folder icons with feelings [ > < ] · 👁 5335 ❤ 179 🔖 62 · 2026-05-15
+- [@datzeldave](https://x.com/datzeldave) · [tweet](https://x.com/datzeldave/status/2054971383877194174) — Finally got my first Framer template approved! · 👁 734 ❤ 24 🔖 2 · 2026-05-15
+- [@andrebutenko](https://x.com/andrebutenko) · [tweet](https://x.com/andrebutenko/status/2055186819973628088) — Designers, if you haven’t tried @MagicPathAI yet, you’re missing out. · 👁 415 ❤ 15 🔖 9 · 2026-05-15
+- [@Oriku175](https://x.com/Oriku175) · [tweet](https://x.com/Oriku175/status/2054547210100965730) — Dither motion and Japanese typography experiments for a more distinct website section. · 👁 112988 ❤ 3197 🔖 2129 · 2026-05-15
+- [@designspells_](https://x.com/designspells_) · [tweet](https://x.com/designspells_/status/2054921889014050848) — Animated launch screen when opening @sudokuaday · 👁 1926 ❤ 42 🔖 18 · 2026-05-15
+- [@jaezun_](https://x.com/jaezun_) · [tweet](https://x.com/jaezun_/status/2055011454500122999) — Day 5: introducing agent birthing · 👁 23510 ❤ 318 🔖 497 · 2026-05-15
+- [@Mike_Andreuzza](https://x.com/Mike_Andreuzza) · [tweet](https://x.com/Mike_Andreuzza/status/2054935955983720949) — Changed :-) · 👁 17161 ❤ 147 🔖 126 · 2026-05-15
+- [@thmawa](https://x.com/thmawa) · [tweet](https://x.com/thmawa/status/2054861376548442610) — polished the AI thinking state · 👁 17489 ❤ 271 🔖 277 · 2026-05-15
+- [@markproduct](https://x.com/markproduct) · [tweet](https://x.com/markproduct/status/2054761899812958458) — OMG   · 👁 22209 ❤ 460 🔖 414 · 2026-05-15
+- [@Emishonowayi](https://x.com/Emishonowayi) · [tweet](https://x.com/Emishonowayi/status/2054853871072166317) — Built and published the fictional design agency archive from day 12 using Claude Code + Figma MCP. · 👁 4934 ❤ 110 🔖 93 · 2026-05-15
+- [@_joshrg](https://x.com/_joshrg) · [tweet](https://x.com/_joshrg/status/2054965965230616628) — Soon @dawndotxyz · 👁 3994 ❤ 127 🔖 54 · 2026-05-15
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2054919716519751713) — Multi Agent Board Component, designed in @paper, animations with @motiondotdev · 👁 8863 ❤ 246 🔖 187 · 2026-05-15
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2054553218714378622) — Tipping calculator component, tap on a percent or turn the dial · 👁 2714 ❤ 76 🔖 35 · 2026-05-14
+- [@AdityaSur11](https://x.com/AdityaSur11) · [tweet](https://x.com/AdityaSur11/status/2054751049232380401) — Exploring some more folder animation in framer · 👁 768 ❤ 41 🔖 16 · 2026-05-14
+- [@hunterthompson](https://x.com/hunterthompson) · [tweet](https://x.com/hunterthompson/status/2054622972506497467) — I built a tool that turns your logo mark into a wispy cloud  (link in comments) · 👁 22996 ❤ 357 🔖 302 · 2026-05-14
+- [@afterimage](https://x.com/afterimage) · [tweet](https://x.com/afterimage/status/2054234732104417446) — Call for founders. · 👁 48924 ❤ 446 🔖 286 · 2026-05-14
+- [@alibey_10](https://x.com/alibey_10) · [tweet](https://x.com/alibey_10/status/2054510055320367281) — bottom tab bar with smooth animation by @leouiux · 👁 2587 ❤ 68 🔖 39 · 2026-05-14
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/2054586464667938880) — What if iMessage fixes your typos after you sent them? · 👁 532041 ❤ 3723 🔖 371 · 2026-05-14
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/2054588519100645717) — Introducing Interfaces · 👁 83721 ❤ 2080 🔖 2204 · 2026-05-14
+- [@parazar](https://x.com/parazar) · [tweet](https://x.com/parazar/status/2054508904109736361) — Ever wondered what the real women behind ancient Greek statues looked like? · 👁 29702 ❤ 585 🔖 488 · 2026-05-14
+- [@cambreedesigns](https://x.com/cambreedesigns) · [tweet](https://x.com/cambreedesigns/status/2054656411901235399) — library movement exploration inspired by stripe press · 👁 3174 ❤ 84 🔖 63 · 2026-05-14
+- [@AdamKPx](https://x.com/AdamKPx) · [tweet](https://x.com/AdamKPx/status/2054490535826497715) — What’s this design language called?  · 👁 11996 ❤ 144 🔖 126 · 2026-05-14
+- [@highpfloat](https://x.com/highpfloat) · [tweet](https://x.com/highpfloat/status/2054610298552644003) — New development work for Dipper ! · 👁 4382 ❤ 46 🔖 63 · 2026-05-14
+- [@DanielWhit21874](https://x.com/DanielWhit21874) · [tweet](https://x.com/DanielWhit21874/status/2054631626584256963) — Work case page looks a bit different now, added a bit more life to the website.  · 👁 503 ❤ 12 🔖 2 · 2026-05-14
+- [@wjyexb](https://x.com/wjyexb) · [tweet](https://x.com/wjyexb/status/2054527382816727085) — The designer portfolio hurdle is really high. · 👁 671563 ❤ 17769 🔖 9931 · 2026-05-14
+- [@mnowakdesign](https://x.com/mnowakdesign) · [tweet](https://x.com/mnowakdesign/status/2054578252778557792) — POV: Your dashboard just got a cinematic upgrade  · 👁 14770 ❤ 248 🔖 226 · 2026-05-14
+- [@S0LARIN](https://x.com/S0LARIN) · [tweet](https://x.com/S0LARIN/status/2053886645313626381) — morphing button group with @expo · 👁 119152 ❤ 1437 🔖 1123 · 2026-05-13
+- [@jahooma](https://x.com/jahooma) · [tweet](https://x.com/jahooma/status/2054055871240610027) — Introducing a 100% free coding agent with DeepSeek v4 Pro · 👁 220203 ❤ 3006 🔖 3783 · 2026-05-13
+- [@natkohasic](https://x.com/natkohasic) · [tweet](https://x.com/natkohasic/status/2054276435477471510) — Something I always liked in video games was developer commentary - little notes on the technical details, performance hacks, behind the scenes decisions. · 👁 5519 ❤ 86 🔖 86 · 2026-05-13
+- [@evilrabbit_](https://x.com/evilrabbit_) · [tweet](https://x.com/evilrabbit_/status/2054357421708202165) — Since I don’t have the final font file yet, I still wanted to keep playing with it a bit more. So I created this playground to see how it behaves, spot the issues more quickly, and move forward from t · 👁 35991 ❤ 654 🔖 231 · 2026-05-13
+- [@emirayaaz](https://x.com/emirayaaz) · [tweet](https://x.com/emirayaaz/status/2054574266205503500) — testimonials · 👁 287 ❤ 9 🔖 4 · 2026-05-13
+- [@joelbqz](https://x.com/joelbqz) · [tweet](https://x.com/joelbqz/status/2054319019226767419) — shipping a document index/reading indicator · 👁 5274 ❤ 129 🔖 98 · 2026-05-13
+- [@ggigiart](https://x.com/ggigiart) · [tweet](https://x.com/ggigiart/status/2053804229433929782) — Flip flip flip · 👁 185654 ❤ 6864 🔖 2047 · 2026-05-13
+- [@saintdsgn](https://x.com/saintdsgn) · [tweet](https://x.com/saintdsgn/status/2054294677352776104) — Tried recreating my favorite card animation ever (inspired by @joshpuckett ) with prompts only · 👁 2351 ❤ 58 🔖 51 · 2026-05-13
+- [@DenisJeliazkov](https://x.com/DenisJeliazkov) · [tweet](https://x.com/DenisJeliazkov/status/2054478443736117456) — Over engineering success states because every details matters · 👁 10932 ❤ 206 🔖 103 · 2026-05-13
+- [@leouiux](https://x.com/leouiux) · [tweet](https://x.com/leouiux/status/2054453965006258636) — Smart Animate Text. · 👁 1014 ❤ 23 🔖 23 · 2026-05-13
+- [@eduardbodak](https://x.com/eduardbodak) · [tweet](https://x.com/eduardbodak/status/2054137456681779682) — 009/100 Buttons. · 👁 4335 ❤ 112 🔖 46 · 2026-05-13
+- [@erdemkirmit](https://x.com/erdemkirmit) · [tweet](https://x.com/erdemkirmit/status/2054145942937628776) — Working on a tiny resource: · 👁 2 ❤ 0 🔖 0 · 2026-05-12
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/2053828089734467712) — data ✺ @intrfacer · 👁 3440 ❤ 134 🔖 51 · 2026-05-12
+- [@samgrosss](https://x.com/samgrosss) · [tweet](https://x.com/samgrosss/status/2053847563673981396) — Is this the cleanest feedback widget you've ever seen? · 👁 8593 ❤ 131 🔖 147 · 2026-05-12
+- [@reijowrites](https://x.com/reijowrites) · [tweet](https://x.com/reijowrites/status/2053841404065947924) — Made a neat little card animation for @framer's new AEO scanner.  · 👁 2404 ❤ 38 🔖 20 · 2026-05-12
+- [@azhassan_](https://x.com/azhassan_) · [tweet](https://x.com/azhassan_/status/2053856404088279368) — Portfolio update ˊ˗  · 👁 4355 ❤ 143 🔖 69 · 2026-05-12
+- [@emilwidlund](https://x.com/emilwidlund) · [tweet](https://x.com/emilwidlund/status/2053493876711641210) —   · 👁 11778 ❤ 176 🔖 111 · 2026-05-11
+- [@zzzzshawn](https://x.com/zzzzshawn) · [tweet](https://x.com/zzzzshawn/status/2053731255012020450) — Public sans is the goat font · 👁 5675 ❤ 68 🔖 28 · 2026-05-11
+- [@timothymaarv](https://x.com/timothymaarv) · [tweet](https://x.com/timothymaarv/status/2053600498607882703) — ‘Connect wallet’ interaction · 👁 1642 ❤ 57 🔖 25 · 2026-05-11
+- [@danielsun_ui](https://x.com/danielsun_ui) · [tweet](https://x.com/danielsun_ui/status/2053793578623676739) — Yo! I had the chance to help my friend @mordehaus  build http://hiartem.com his portfolio website in @framer . He’s currently actively looking for a job as an Account Manager, so I hope he finds his p · 👁 224 ❤ 14 🔖 0 · 2026-05-11
+- [@verycracked](https://x.com/verycracked) · [tweet](https://x.com/verycracked/status/2053700850695258370) — little sneak peek  · 👁 1424 ❤ 29 🔖 10 · 2026-05-11
+- [@tilljanek](https://x.com/tilljanek) · [tweet](https://x.com/tilljanek/status/2053505517235187874) — Service showcase exploration – built in Framer · 👁 3002 ❤ 56 🔖 32 · 2026-05-11
+- [@heynavtoor](https://x.com/heynavtoor) · [tweet](https://x.com/heynavtoor/status/2048036289367445941) — Adobe tried to buy Figma for $20 billion in 2022. · 👁 213313 ❤ 1907 🔖 3243 · 2026-05-11
+- [@leouiux](https://x.com/leouiux) · [tweet](https://x.com/leouiux/status/2053760602087010729) — this is peak interaction from @diabrowser · 👁 2894 ❤ 42 🔖 26 · 2026-05-11
+- [@JaceThings](https://x.com/JaceThings) · [tweet](https://x.com/JaceThings/status/2053219696250417640) — hello, I updated my site, · 👁 28948 ❤ 649 🔖 491 · 2026-05-10
+- [@halodhimas](https://x.com/halodhimas) · [tweet](https://x.com/halodhimas/status/2053056962922004644) — Have a great time to craft this reveal animation using @greensock  · 👁 2563 ❤ 66 🔖 36 · 2026-05-10
+- [@TheBookie0](https://x.com/TheBookie0) · [tweet](https://x.com/TheBookie0/status/2053185117917515922) — new portfolio website (version 17!!) in the works! · 👁 107 ❤ 7 🔖 0 · 2026-05-10
+- [@vansh1029](https://x.com/vansh1029) · [tweet](https://x.com/vansh1029/status/2053105205995343904) — Made this cool-looking text editor :) · 👁 1757 ❤ 47 🔖 19 · 2026-05-10
+- [@alexroyhe](https://x.com/alexroyhe) · [tweet](https://x.com/alexroyhe/status/2052926689651638522) — It’s cool  · 👁 7861 ❤ 164 🔖 76 · 2026-05-10
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/2052762430854369481) — Command menu block for @alignui  · 👁 8474 ❤ 209 🔖 143 · 2026-05-10
+- [@tilljanek](https://x.com/tilljanek) · [tweet](https://x.com/tilljanek/status/2052675439274181110) — Sidebar draft with nested submenus – built in Framer · 👁 10935 ❤ 247 🔖 163 · 2026-05-10
+- [@alex_barashkov](https://x.com/alex_barashkov) · [tweet](https://x.com/alex_barashkov/status/2052384224884215878) — I kept running into the same annoying problem: I needed to save a reference video from IG or X, but only a small part of it. · 👁 47549 ❤ 727 🔖 795 · 2026-05-09
+- [@uxkosta](https://x.com/uxkosta) · [tweet](https://x.com/uxkosta/status/2052795704179917163) — my friend said this will go viral so let's see · 👁 4234 ❤ 136 🔖 56 · 2026-05-09
+- [@guillaumebth](https://x.com/guillaumebth) · [tweet](https://x.com/guillaumebth/status/2053071783608094970) — Logo research.. · 👁 499 ❤ 31 🔖 8 · 2026-05-09
+- [@Ahmedcreatives](https://x.com/Ahmedcreatives) · [tweet](https://x.com/Ahmedcreatives/status/2053052358322749600) — a few logo marks, now with shaders in @Framer · 👁 387 ❤ 19 🔖 5 · 2026-05-09
+- [@uiNerd](https://x.com/uiNerd) · [tweet](https://x.com/uiNerd/status/2052668563962359854) — new component drop: signature pad sign with your mouse or touch. · 👁 966 ❤ 23 🔖 8 · 2026-05-09
+- [@bedirhandogn](https://x.com/bedirhandogn) · [tweet](https://x.com/bedirhandogn/status/2052690582615494971) — Radar Motion.  · 👁 600 ❤ 26 🔖 8 · 2026-05-09
+- [@alex_krasikau](https://x.com/alex_krasikau) · [tweet](https://x.com/alex_krasikau/status/2052391721745441179) —  The smoothest animation I built, just love the timings and how it all connects into a single flow  · 👁 38862 ❤ 471 🔖 322 · 2026-05-09
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2052736738527936733) — A component to enable/disable the tools that can be accessed by the Agent,  · 👁 6299 ❤ 237 🔖 179 · 2026-05-09
+- [@dannyjpwilliams](https://x.com/dannyjpwilliams) · [tweet](https://x.com/dannyjpwilliams/status/2052839676403237365) — A lil sidebar love · 👁 2382 ❤ 107 🔖 59 · 2026-05-09
+- [@keviduk](https://x.com/keviduk) · [tweet](https://x.com/keviduk/status/2052373899979964595) — tinkering with a few animations  · 👁 21187 ❤ 383 🔖 352 · 2026-05-09
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/2052399324286398760) — Filter details for @alignui  · 👁 5494 ❤ 115 🔖 53 · 2026-05-09
+- [@baothiento](https://x.com/baothiento) · [tweet](https://x.com/baothiento/status/2051766528618434843) — per popular demand, i made a pomodoro timer with my animal sims  · 👁 15941 ❤ 321 🔖 138 · 2026-05-07
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/2052016015047811403) — Accordion blocks for store setup  · 👁 11558 ❤ 305 🔖 306 · 2026-05-07
+- [@maherjilani](https://x.com/maherjilani) · [tweet](https://x.com/maherjilani/status/2051980442136625263) — Pure SVG. No libraries, no Lottie.  · 👁 30531 ❤ 671 🔖 488 · 2026-05-07
+- [@soggyburritowu](https://x.com/soggyburritowu) · [tweet](https://x.com/soggyburritowu/status/2051870124487987669) — mini project inspired by my pollen allergies . ꕤ ｡  ˚⋆ · 👁 131744 ❤ 3901 🔖 948 · 2026-05-07
+- [@uxkosta](https://x.com/uxkosta) · [tweet](https://x.com/uxkosta/status/2051647296530415772) — interactive hero · 👁 93977 ❤ 1315 🔖 1133 · 2026-05-07
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2051643988910973241) — Mini calendar component · 👁 72636 ❤ 1272 🔖 1161 · 2026-05-07
+- [@raunofreiberg](https://x.com/raunofreiberg) · [tweet](https://x.com/raunofreiberg/status/2051334922061729800) — I don't think the world is ready for Vercel Agent. · 👁 31659 ❤ 600 🔖 250 · 2026-05-05
+- [@willthomson__](https://x.com/willthomson__) · [tweet](https://x.com/willthomson__/status/2051062295548342518) — Improved the long overdue mobile experience for the OS site. · 👁 14539 ❤ 349 🔖 289 · 2026-05-05
+- [@pqoqubbw](https://x.com/pqoqubbw) · [tweet](https://x.com/pqoqubbw/status/2051332882258378936) — built a toast component based on @base_ui · 👁 8445 ❤ 196 🔖 93 · 2026-05-05
+- [@proccomputer](https://x.com/proccomputer) · [tweet](https://x.com/proccomputer/status/2051358715454919039) — http://procedural.computer · 👁 124982 ❤ 3850 🔖 1677 · 2026-05-05
+- [@imuratalpay](https://x.com/imuratalpay) · [tweet](https://x.com/imuratalpay/status/2050257108805775691) — I just shipped 38 AI loaders! · 👁 31095 ❤ 531 🔖 702 · 2026-05-03
+- [@uxkosta](https://x.com/uxkosta) · [tweet](https://x.com/uxkosta/status/2050542497051390308) — adding sounds to animations makes them just a tad bit more tactile and memorable. · 👁 7718 ❤ 195 🔖 106 · 2026-05-03
+- [@DawoodUI](https://x.com/DawoodUI) · [tweet](https://x.com/DawoodUI/status/2050228757944795520) — Microinteractions · 👁 14879 ❤ 324 🔖 245 · 2026-05-03
+- [@blanqspaceui](https://x.com/blanqspaceui) · [tweet](https://x.com/blanqspaceui/status/2049720679470084439) — Empty state and navigation by @kvnkld  · 👁 7517 ❤ 235 🔖 192 · 2026-05-01
+- [@sekachov](https://x.com/sekachov) · [tweet](https://x.com/sekachov/status/2049881639808053653) — so far, my favorite design element in markie · 👁 23888 ❤ 259 🔖 231 · 2026-05-01
+- [@joshpensky](https://x.com/joshpensky) · [tweet](https://x.com/joshpensky/status/2049827756842611067) — Started work on a new timeline component today  · 👁 14652 ❤ 357 🔖 344 · 2026-05-01
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2049502256975028288) — A component for getting things done with voice, designed in Figma, animated with @motiondotdev · 👁 3574 ❤ 73 🔖 47 · 2026-04-30
+- [@MoizArshi29](https://x.com/MoizArshi29) · [tweet](https://x.com/MoizArshi29/status/2049384712670748750) — Card interaction · 👁 1951 ❤ 58 🔖 24 · 2026-04-30
+- [@raunofreiberg](https://x.com/raunofreiberg) · [tweet](https://x.com/raunofreiberg/status/2049592715860447540) — The goal is to make all interfaces look as cool as debug interfaces. · 👁 15423 ❤ 627 🔖 367 · 2026-04-30
+- [@Nanuthefallen](https://x.com/Nanuthefallen) · [tweet](https://x.com/Nanuthefallen/status/2049002852887019650) — I love micro interaction libraries so I made one in my portfolio · 👁 16638 ❤ 485 🔖 338 · 2026-04-29
+- [@shrshhez](https://x.com/shrshhez) · [tweet](https://x.com/shrshhez/status/2049016404440219710) — Folders. Photos. Animation.  · 👁 16570 ❤ 434 🔖 279 · 2026-04-29
+- [@DawoodUI](https://x.com/DawoodUI) · [tweet](https://x.com/DawoodUI/status/2049141591001162038) — One of my fav cards section we made · 👁 4164 ❤ 176 🔖 86 · 2026-04-29
+- [@onyx__albert](https://x.com/onyx__albert) · [tweet](https://x.com/onyx__albert/status/2049016172742398022) — Thoughtful details  · 👁 14211 ❤ 412 🔖 207 · 2026-04-29
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2049115937677447621) — A component showing a coding agent in action, designed in Figma, animated with @motiondotdev · 👁 14408 ❤ 376 🔖 387 · 2026-04-29
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/2048788140849062241) — We’ve been spending way too much time on this sidebar with @paulfaivret . · 👁 62399 ❤ 1159 🔖 1184 · 2026-04-29
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/2049119441234153492) — Website section – animated entirely using Claude Code · 👁 13169 ❤ 298 🔖 249 · 2026-04-29
+- [@__itu](https://x.com/__itu) · [tweet](https://x.com/__itu/status/2049153878856437792) — Time for an update.  · 👁 21712 ❤ 619 🔖 403 · 2026-04-29
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/2049064474523713880) — a new brand system for sim · 👁 17298 ❤ 466 🔖 258 · 2026-04-29
+- [@terkelg](https://x.com/terkelg) · [tweet](https://x.com/terkelg/status/2048828974508171584) — resize handle transition based on enter/leave direction · 👁 154320 ❤ 1863 🔖 704 · 2026-04-29
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/2048448544231538959) — Generation Vibe Code Dashboard · 👁 36856 ❤ 612 🔖 385 · 2026-04-27
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/2048408736645960016) — empty states @intrfacer · 👁 5261 ❤ 187 🔖 105 · 2026-04-27
+- [@growthflo](https://x.com/growthflo) · [tweet](https://x.com/growthflo/status/2048662541451067636) — Updated the interactive portfolio – designed & built with Claude · 👁 4551 ❤ 95 🔖 52 · 2026-04-27
+- [@detaildotdesign](https://x.com/detaildotdesign) · [tweet](https://x.com/detaildotdesign/status/2048390387413442582) — Small trick to make the image loading feel better · 👁 8761 ❤ 312 🔖 275 · 2026-04-27
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2048453872247874027) — Recent interactions made with Claude · 👁 80865 ❤ 1170 🔖 900 · 2026-04-27
+- [@RakibullHassa13](https://x.com/RakibullHassa13) · [tweet](https://x.com/RakibullHassa13/status/2047994039728054385) — Calendar Lover · 👁 2121 ❤ 65 🔖 33 · 2026-04-26
+- [@reactiive_](https://x.com/reactiive_) · [tweet](https://x.com/reactiive_/status/2048117664149848426) — You can turn 10,000 photos into anything once you get access to the GPU. · 👁 127917 ❤ 2118 🔖 998 · 2026-04-26
+- [@jeetnirnejak](https://x.com/jeetnirnejak) · [tweet](https://x.com/jeetnirnejak/status/2048024404102467781) — Early UI explorations for an agent platform, animated with @motiondotdev · 👁 7051 ❤ 153 🔖 127 · 2026-04-26
+- [@alfarsmari](https://x.com/alfarsmari) · [tweet](https://x.com/alfarsmari/status/2048100670511649217) — Playing with card interaction using codex · 👁 9961 ❤ 235 🔖 173 · 2026-04-26
+- [@goncalotex](https://x.com/goncalotex) · [tweet](https://x.com/goncalotex/status/2047362417466786103) — Timezone viewer with interactive analog clocks  @omma_ai · 👁 3835 ❤ 16 🔖 9 · 2026-04-25
+- [@arronflashman](https://x.com/arronflashman) · [tweet](https://x.com/arronflashman/status/2047624090865795566) — this created some fun convos about when to toast vs when not to toast · 👁 6613 ❤ 34 🔖 34 · 2026-04-25
+- [@dompodwojski](https://x.com/dompodwojski) · [tweet](https://x.com/dompodwojski/status/2047659310335889409) — Autocomplete input interaction · 👁 1810 ❤ 43 🔖 23 · 2026-04-25
+- [@vansh1029](https://x.com/vansh1029) · [tweet](https://x.com/vansh1029/status/2047669386337730844) — Tried my best to replicate this hover animation in a different way. only 40 lines of code  · 👁 2183 ❤ 46 🔖 25 · 2026-04-25
+- [@zzzzshawn](https://x.com/zzzzshawn) · [tweet](https://x.com/zzzzshawn/status/2047737258170835450) — dot matrix animations. Coming soon... · 👁 11415 ❤ 458 🔖 277 · 2026-04-25
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/2047590939305336997) — that's the only right way to introduce your typeface · 👁 11169 ❤ 237 🔖 145 · 2026-04-25
+- [@fabianarbor](https://x.com/fabianarbor) · [tweet](https://x.com/fabianarbor/status/2047676944737849600) — Step by step. · 👁 6026 ❤ 229 🔖 139 · 2026-04-25
+- [@_zuji](https://x.com/_zuji) · [tweet](https://x.com/_zuji/status/2047785489458155938) — elements from zuji.zo · 👁 682 ❤ 41 🔖 12 · 2026-04-25
+- [@__itu](https://x.com/__itu) · [tweet](https://x.com/__itu/status/2047532071036551194) — Yes, I got the run receipt. · 👁 17190 ❤ 337 🔖 246 · 2026-04-25
+- [@nuevo_tokyo](https://x.com/nuevo_tokyo) · [tweet](https://x.com/nuevo_tokyo/status/2047471130475397387) — We built this using Spline — one of our most favourite tools to add 3D onto any website — So you can play with it. · 👁 3398 ❤ 79 🔖 41 · 2026-04-24
+- [@aaraalto](https://x.com/aaraalto) · [tweet](https://x.com/aaraalto/status/2047083588324118568) — working through the browsing and notes for my record app · 👁 17241 ❤ 422 🔖 299 · 2026-04-24
+- [@Jakubantalik](https://x.com/Jakubantalik) · [tweet](https://x.com/Jakubantalik/status/2047343992350904396) — Prepared and hand tweaked a couple of the most essential transitions for web apps · 👁 41816 ❤ 982 🔖 1264 · 2026-04-24
+- [@hashimovkanan](https://x.com/hashimovkanan) · [tweet](https://x.com/hashimovkanan/status/2047288495828574654) — logo shaders @framer · 👁 23 ❤ 0 🔖 0 · 2026-04-24
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2046774878469267883) — Exploring a lil delight when users land on the website after accepting the beta invite. · 👁 2583 ❤ 67 🔖 46 · 2026-04-23
+- [@DannPetty](https://x.com/DannPetty) · [tweet](https://x.com/DannPetty/status/2046992871866159472) — Framer shaders + QuiverAI svgs  · 👁 40421 ❤ 1168 🔖 584 · 2026-04-23
+- [@daniel__designs](https://x.com/daniel__designs) · [tweet](https://x.com/daniel__designs/status/2047039141955707031) — Playing with shaders and kaleidoscope effects · 👁 2797 ❤ 102 🔖 41 · 2026-04-23
+- [@benjaminakar](https://x.com/benjaminakar) · [tweet](https://x.com/benjaminakar/status/2046891156668301347) — drag to slam. · 👁 10617 ❤ 123 🔖 86 · 2026-04-23
+- [@alec_dilanchian](https://x.com/alec_dilanchian) · [tweet](https://x.com/alec_dilanchian/status/2046640714340028517) — Messing around with some new interactions  · 👁 15896 ❤ 293 🔖 147 · 2026-04-22
+- [@QuentinSaubadu](https://x.com/QuentinSaubadu) · [tweet](https://x.com/QuentinSaubadu/status/2046605374044697031) — I almost forgot about this cute button I made in @figma  for a personal project a while ago. · 👁 170 ❤ 4 🔖 2 · 2026-04-22
+- [@tranmautritam](https://x.com/tranmautritam) · [tweet](https://x.com/tranmautritam/status/2046522077247873254) — How to create a cool background in 30 seconds  · 👁 17347 ❤ 619 🔖 458 · 2026-04-22
+- [@realvjy](https://x.com/realvjy) · [tweet](https://x.com/realvjy/status/2046537227669586412) — Had some fun exploring @framer shaders over the weekend and made these posters! Here's a look at the BTS, and Remix link shared. · 👁 9496 ❤ 209 🔖 139 · 2026-04-22
+- [@daniel__designs](https://x.com/daniel__designs) · [tweet](https://x.com/daniel__designs/status/2046646615859978379) — Recent gradient work · 👁 3755 ❤ 125 🔖 41 · 2026-04-22
+- [@joelbqz](https://x.com/joelbqz) · [tweet](https://x.com/joelbqz/status/2046619650528518640) — latest iteration of my markdown editor, this one is made out of glass.  · 👁 20043 ❤ 273 🔖 237 · 2026-04-22
+- [@KMkota0](https://x.com/KMkota0) · [tweet](https://x.com/KMkota0/status/2046618674279162344) — pov: · 👁 36987 ❤ 1466 🔖 597 · 2026-04-22
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/2046225143492472860) — Frequency tuner @intrfacer · 👁 1862 ❤ 39 🔖 9 · 2026-04-22
+- [@morganlinton](https://x.com/morganlinton) · [tweet](https://x.com/morganlinton/status/2046419556424675677) — Whoa  · 👁 218645 ❤ 1137 🔖 764 · 2026-04-22
+- [@atlou_](https://x.com/atlou_) · [tweet](https://x.com/atlou_/status/2046653162447085955) — tabs · 👁 2746 ❤ 111 🔖 41 · 2026-04-22
+- [@muhraufan](https://x.com/muhraufan) · [tweet](https://x.com/muhraufan/status/2046513801168900340) — My new website got quite a lot of visits in the past few days!  · 👁 6122 ❤ 162 🔖 124 · 2026-04-22
+- [@shariar_design](https://x.com/shariar_design) · [tweet](https://x.com/shariar_design/status/2046252889447039253) — Scroll Island interaction  · 👁 14259 ❤ 369 🔖 312 · 2026-04-21
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/2045555987789009029) — Design/tech Bits /n Pieces · 👁 12760 ❤ 760 🔖 341 · 2026-04-19
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2045556931222511674) — This is called petro-aqua aesthetics · 👁 2161 ❤ 96 🔖 30 · 2026-04-19
+- [@kaolti](https://x.com/kaolti) · [tweet](https://x.com/kaolti/status/2045273106898407541) — Love these dot patterns, playing with hover and click transitions · 👁 28784 ❤ 771 🔖 639 · 2026-04-19
+- [@zzzzshawn](https://x.com/zzzzshawn) · [tweet](https://x.com/zzzzshawn/status/2045374209787146346) — loaders can be cool too · 👁 13789 ❤ 463 🔖 284 · 2026-04-19
+- [@uxkosta](https://x.com/uxkosta) · [tweet](https://x.com/uxkosta/status/2045475305016397977) — expanding · 👁 14261 ❤ 283 🔖 238 · 2026-04-19
+- [@sh17va](https://x.com/sh17va) · [tweet](https://x.com/sh17va/status/2044422652232974753) — Created a new 404 page with Threejs · 👁 24028 ❤ 613 🔖 325 · 2026-04-17
+- [@studiobakers](https://x.com/studiobakers) · [tweet](https://x.com/studiobakers/status/2044782378262909026) — And we had to animate it as well!  · 👁 5706 ❤ 175 🔖 75 · 2026-04-17
+- [@AdityaSur11](https://x.com/AdityaSur11) · [tweet](https://x.com/AdityaSur11/status/2044770283811487884) — 3D card flip animation · 👁 1115 ❤ 50 🔖 11 · 2026-04-17
+- [@heyirfanaziz](https://x.com/heyirfanaziz) · [tweet](https://x.com/heyirfanaziz/status/2044511396789162127) — Spinner in actions · 👁 374 ❤ 8 🔖 5 · 2026-04-17
+- [@Nacho_Gavilanes](https://x.com/Nacho_Gavilanes) · [tweet](https://x.com/Nacho_Gavilanes/status/2044771630153375942) — Only using this input overflow technique from now on · 👁 19101 ❤ 195 🔖 56 · 2026-04-17
+- [@orevbajohn_](https://x.com/orevbajohn_) · [tweet](https://x.com/orevbajohn_/status/2044682077233201612) — Print pay slip - built with Claude code  · 👁 279849 ❤ 2435 🔖 1977 · 2026-04-17
+- [@jameslevicf](https://x.com/jameslevicf) · [tweet](https://x.com/jameslevicf/status/2044555931456032821) — Love working on these fun and interactive details. · 👁 10497 ❤ 298 🔖 202 · 2026-04-17
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/2044700273721938017) — Bits /n Pieces · 👁 14745 ❤ 950 🔖 374 · 2026-04-17
+- [@michelletliu](https://x.com/michelletliu) · [tweet](https://x.com/michelletliu/status/2044470508641784033) — digital film diary  · 👁 30259 ❤ 959 🔖 594 · 2026-04-17
+- [@RobertLigthart_](https://x.com/RobertLigthart_) · [tweet](https://x.com/RobertLigthart_/status/2044352219424682256) — Onboarding Widget   · 👁 48590 ❤ 1022 🔖 1154 · 2026-04-16
+- [@terkelg](https://x.com/terkelg) · [tweet](https://x.com/terkelg/status/2044496259231174947) — Animating the native traffic lights in Ace · 👁 33563 ❤ 341 🔖 189 · 2026-04-16
+- [@heyirfanaziz](https://x.com/heyirfanaziz) · [tweet](https://x.com/heyirfanaziz/status/2044092673141944565) — Coming to @framer soon.. · 👁 10263 ❤ 382 🔖 173 · 2026-04-16
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/2044427776669757597) — Agent Usage Card - built with Claude Code · 👁 14811 ❤ 337 🔖 332 · 2026-04-16
+- [@azhassan_](https://x.com/azhassan_) · [tweet](https://x.com/azhassan_/status/2044434319868080607) — I'm so in love with this blur  · 👁 7549 ❤ 281 🔖 143 · 2026-04-16
+- [@uiNerd](https://x.com/uiNerd) · [tweet](https://x.com/uiNerd/status/2044381793386627287) — 3 companies · 👁 4724 ❤ 110 🔖 73 · 2026-04-16
+- [@uxkosta](https://x.com/uxkosta) · [tweet](https://x.com/uxkosta/status/2044182807044296831) — experiment 22 · 👁 2963 ❤ 84 🔖 22 · 2026-04-16
+- [@ersadwork](https://x.com/ersadwork) · [tweet](https://x.com/ersadwork/status/2044023572197154925) — Add tags component  · 👁 10123 ❤ 245 🔖 186 · 2026-04-15
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/2043738736538587378) — What's easy in Figma shouldn't be hard in production · 👁 12043 ❤ 159 🔖 130 · 2026-04-14
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/2043409177482232317) — This is what happens when we combine the luxury+minimalism+ASCII art into the landing page design. · 👁 25321 ❤ 498 🔖 360 · 2026-04-14
+- [@dejvdesign](https://x.com/dejvdesign) · [tweet](https://x.com/dejvdesign/status/2043705546725904687) — Resolved tickets - chart animation · 👁 7446 ❤ 201 🔖 214 · 2026-04-14
+- [@leouiux](https://x.com/leouiux) · [tweet](https://x.com/leouiux/status/2043413280987689074) — new interactive way to present your team.  · 👁 16753 ❤ 573 🔖 396 · 2026-04-14
+- [@fabianarbor](https://x.com/fabianarbor) · [tweet](https://x.com/fabianarbor/status/2043328286298685471) — Step by step. · 👁 79308 ❤ 1436 🔖 945 · 2026-04-14
+- [@tomjohndesign](https://x.com/tomjohndesign) · [tweet](https://x.com/tomjohndesign/status/2043777262793658751) — thinking · 👁 4657 ❤ 123 🔖 34 · 2026-04-14
+- [@Amjaddsn](https://x.com/Amjaddsn) · [tweet](https://x.com/Amjaddsn/status/2042989851289751882) — A week of sleepless nights to build a website. · 👁 19795 ❤ 428 🔖 435 · 2026-04-13
+- [@tbsrnstrm](https://x.com/tbsrnstrm) · [tweet](https://x.com/tbsrnstrm/status/2043275391087849957) — This turned out to be such a cozy color picker. Makes me smile inside every time I use it. · 👁 88548 ❤ 1975 🔖 1022 · 2026-04-13
+- [@Nacho_Gavilanes](https://x.com/Nacho_Gavilanes) · [tweet](https://x.com/Nacho_Gavilanes/status/2043010260785336662) — Text reveal animation & tooltip cards · 👁 11726 ❤ 436 🔖 321 · 2026-04-13
+- [@UIbyBiba](https://x.com/UIbyBiba) · [tweet](https://x.com/UIbyBiba/status/2043415947843695023) — Interaction you should see today! · 👁 4216 ❤ 101 🔖 43 · 2026-04-13
+- [@benjaminakar](https://x.com/benjaminakar) · [tweet](https://x.com/benjaminakar/status/2043100857802043638) — ⌘+K · 👁 8335 ❤ 156 🔖 107 · 2026-04-13
+- [@alyx_so](https://x.com/alyx_so) · [tweet](https://x.com/alyx_so/status/2043049871826149518) — we praise html-in-canvas  · 👁 44909 ❤ 862 🔖 501 · 2026-04-13
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/2042680151083712913) — the digital world needs more soul..  · 👁 8268 ❤ 373 🔖 147 · 2026-04-11
+- [@ikeacrisp](https://x.com/ikeacrisp) · [tweet](https://x.com/ikeacrisp/status/2042245984085004787) — been working on this since Jan,  · 👁 6862 ❤ 180 🔖 176 · 2026-04-11
+- [@Designownow_](https://x.com/Designownow_) · [tweet](https://x.com/Designownow_/status/2042377028864000170) — This is the first design that really got the ball rolling for me... literally. And it's still ballin' · 👁 34780 ❤ 431 🔖 244 · 2026-04-11
+- [@avstorm](https://x.com/avstorm) · [tweet](https://x.com/avstorm/status/2042145739543838753) — You can just build things. · 👁 39160 ❤ 779 🔖 180 · 2026-04-11
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/2042583693919650051) — web section @intrfacer · 👁 3723 ❤ 154 🔖 68 · 2026-04-11
+- [@_andresjasso](https://x.com/_andresjasso) · [tweet](https://x.com/_andresjasso/status/2042624350432514080) — designing out finance component UI modules in a natural earth tone aesthetic using @tenordesign  · 👁 5744 ❤ 102 🔖 132 · 2026-04-11
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/2042249935022612725) — Finally managed to build a coded version of this timeline concept  · 👁 54904 ❤ 939 🔖 952 · 2026-04-11
+- [@Ibelick](https://x.com/Ibelick) · [tweet](https://x.com/Ibelick/status/2042508446671499405) — introducing mesurer · 👁 160665 ❤ 2846 🔖 2336 · 2026-04-11
+- [@praveenisomer](https://x.com/praveenisomer) · [tweet](https://x.com/praveenisomer/status/2042565757171830902) — Dither Cards · 👁 12140 ❤ 610 🔖 281 · 2026-04-11
+- [@joshmillgate](https://x.com/joshmillgate) · [tweet](https://x.com/joshmillgate/status/2042627374546616371) — I've created a monster  · 👁 12198 ❤ 216 🔖 309 · 2026-04-11
+- [@sayansenguptaa](https://x.com/sayansenguptaa) · [tweet](https://x.com/sayansenguptaa/status/2041168298998440020) — Made an animation for clearing context where things goo woooosh  · 👁 5419 ❤ 186 🔖 96 · 2026-04-07
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2041211553584939469) — 2D slider - a wip · 👁 4262 ❤ 91 🔖 58 · 2026-04-07
+- [@tejashinduja](https://x.com/tejashinduja) · [tweet](https://x.com/tejashinduja/status/2040697950888951900) — Branding and Website for Safenet · 👁 16948 ❤ 466 🔖 300 · 2026-04-07
+- [@AdityaSur11](https://x.com/AdityaSur11) · [tweet](https://x.com/AdityaSur11/status/2041070907306004746) — To-Do List Widget Interaction · 👁 5712 ❤ 143 🔖 80 · 2026-04-07
+- [@adriankuleszo](https://x.com/adriankuleszo) · [tweet](https://x.com/adriankuleszo/status/2040829390855278689) — Components for N3XT  · 👁 14345 ❤ 494 🔖 197 · 2026-04-07
+- [@itsjessyin](https://x.com/itsjessyin) · [tweet](https://x.com/itsjessyin/status/2040885952193696093) — art eats the world · 👁 33693 ❤ 1269 🔖 543 · 2026-04-07
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2040633765345558853) — This is a smarter way to handle complex inputs · 👁 11270 ❤ 373 🔖 270 · 2026-04-07
+- [@praveenisomer](https://x.com/praveenisomer) · [tweet](https://x.com/praveenisomer/status/2040753817902326249) — Apple Intelligence motion design build with @paper shaders · 👁 10538 ❤ 322 🔖 114 · 2026-04-06
+- [@mattrothenberg](https://x.com/mattrothenberg) · [tweet](https://x.com/mattrothenberg/status/2040416074710102300) — the guy keeps saying "you can already do this with a canvas behind the element" so here is another gratuitous animation where the scanline physically distorts the form content as it passes (warping th · 👁 320079 ❤ 2368 🔖 1682 · 2026-04-06
+- [@Oriku175](https://x.com/Oriku175) · [tweet](https://x.com/Oriku175/status/2040510202374709463) — I turned a hummingbird into dot-matrix art using a free browser tool. · 👁 63344 ❤ 1059 🔖 1264 · 2026-04-06
+- [@muhraufan](https://x.com/muhraufan) · [tweet](https://x.com/muhraufan/status/2040679521473724673) — Rethink of how presenting my design decision of putting things in the screen, each of the sections has intentions. Now scrollable like a phone screen and has annotations  · 👁 29581 ❤ 892 🔖 823 · 2026-04-06
+- [@Oriku175](https://x.com/Oriku175) · [tweet](https://x.com/Oriku175/status/2040422064100982817) — Just experimenting… · 👁 79567 ❤ 677 🔖 464 · 2026-04-06
+- [@tomm_ui](https://x.com/tomm_ui) · [tweet](https://x.com/tomm_ui/status/2040799257494720642) — Published my new personal site! · 👁 21044 ❤ 451 🔖 380 · 2026-04-06
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2038264755446804766) — Further polishing the dynamic island.  · 👁 2735 ❤ 42 🔖 20 · 2026-03-30
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/2038264640438677848) — That's literally a great work by the people of @rejouice_  · 👁 6197 ❤ 162 🔖 88 · 2026-03-30
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2038283224741535876) — Animated backgrounds coming to http://backgrounds.supply next week · 👁 9461 ❤ 296 🔖 237 · 2026-03-30
+- [@cedric_design](https://x.com/cedric_design) · [tweet](https://x.com/cedric_design/status/2038240166683554211) — Built Dashfolio. It blew up. · 👁 3905 ❤ 56 🔖 18 · 2026-03-30
+- [@leouiux](https://x.com/leouiux) · [tweet](https://x.com/leouiux/status/2038292526256263375) — Pushing menus to the next level. · 👁 9232 ❤ 208 🔖 188 · 2026-03-30
+- [@fahlevidesign](https://x.com/fahlevidesign) · [tweet](https://x.com/fahlevidesign/status/2037995425807183907) — Synaptic is now live on the @framer Marketplace. · 👁 4760 ❤ 143 🔖 86 · 2026-03-30
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2038421197877084302) —  CSS shadows. depth that actually feels real. · 👁 2389 ❤ 45 🔖 34 · 2026-03-30
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/2038344175356121547) — the death of the "are you sure?" popup.. · 👁 4208 ❤ 91 🔖 51 · 2026-03-30
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2038333042574660055) — Tinkering with link hover animations · 👁 2631 ❤ 39 🔖 21 · 2026-03-30
+- [@kirillSRV](https://x.com/kirillSRV) · [tweet](https://x.com/kirillSRV/status/2037877417985851748) — Can't stop rewatching it  · 👁 1581 ❤ 43 🔖 21 · 2026-03-30
+- [@justin_schueler](https://x.com/justin_schueler) · [tweet](https://x.com/justin_schueler/status/2038362362634260578) — Play with omou.  · 👁 3551 ❤ 67 🔖 55 · 2026-03-30
+- [@gabrielvaldivia](https://x.com/gabrielvaldivia) · [tweet](https://x.com/gabrielvaldivia/status/1991543966412730789) — I updated my website to give folks the ability to consume my bio in prose, as a list, or as a timeline. You can also tweak how verbose it is and filter the timeline by projects, work experience, and t · 👁 115170 ❤ 885 🔖 795 · 2026-03-28
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/1991871710560448809) — really love when personal sites are built with different viewing options · 👁 2402 ❤ 8 🔖 10 · 2026-03-28
+- [@benjitaylor](https://x.com/benjitaylor) · [tweet](https://x.com/benjitaylor/status/2036497249589739870) — Introducing Layout Mode for Agentation, a new way to explore and wireframe directly on the page. Rearrange and resize existing elements, add new components, and generate structured design feedback for · 👁 334829 ❤ 3249 🔖 2115 · 2026-03-28
+- [@jrmyphlmn](https://x.com/jrmyphlmn) · [tweet](https://x.com/jrmyphlmn/status/2037229444767899969) — excited to share a tiny project I've been working on over the past few months called whoami wiki, it is a personal encyclopedia written by agents! · 👁 22902 ❤ 384 🔖 353 · 2026-03-28
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2034170010361598134) — Portfolio website design with ASCII aesthetic · 👁 79360 ❤ 1307 🔖 950 · 2026-03-28
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2036877161723027728) — Jelly scrub slider made using Claude · 👁 29923 ❤ 147 🔖 101 · 2026-03-28
+- [@creatoroly](https://x.com/creatoroly) · [tweet](https://x.com/creatoroly/status/2037144525441839239) — ok @Apple it‘s time to hire me fr now · 👁 902273 ❤ 11961 🔖 3028 · 2026-03-28
+- [@EHuanglu](https://x.com/EHuanglu) · [tweet](https://x.com/EHuanglu/status/2036949499898454344) — omg.. this is over for Hollywood studios · 👁 296503 ❤ 1967 🔖 2515 · 2026-03-27
+- [@Dianadotlu](https://x.com/Dianadotlu) · [tweet](https://x.com/Dianadotlu/status/2034321852970262627) — Been gone from internet for a bit! Hiii again!! · 👁 33092 ❤ 899 🔖 487 · 2026-03-27
+- [@ybhrdwj](https://x.com/ybhrdwj) · [tweet](https://x.com/ybhrdwj/status/2037110274696896687) — I love the retro airport terminal look, but didn't want to spend $3.5k on a vestaboard. I coded a fun tool that turns any tv into a vestaboard. · 👁 115160 ❤ 1166 🔖 1384 · 2026-03-27
+- [@lancedraws](https://x.com/lancedraws) · [tweet](https://x.com/lancedraws/status/2035736445470576835) — Playing around Composer 1.5 by @cursor_ai to build a fun client list for my portfolio redesign. Couldn't one shot it but the ceiling is high for designers who understand code and can fine tune the det · 👁 9082 ❤ 124 🔖 111 · 2026-03-27
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2035740349298270658) — Radial Menu interaction in @claudeai + @paper · 👁 18178 ❤ 346 🔖 234 · 2026-03-27
+- [@mannupaaji](https://x.com/mannupaaji) · [tweet](https://x.com/mannupaaji/status/2036056939000672341) — Create image reveal effects with CSS 𝚌𝚕𝚒𝚙-𝚙𝚊𝚝𝚑 · 👁 18692 ❤ 436 🔖 270 · 2026-03-27
+- [@pbakaus](https://x.com/pbakaus) · [tweet](https://x.com/pbakaus/status/2034410464424382824) — Introducing Radiant: 80+ production-ready shaders and visual effects for the web. 0 dependencies, MIT license. · 👁 15808 ❤ 375 🔖 491 · 2026-03-27
+- [@stitchbygoogle](https://x.com/stitchbygoogle) · [tweet](https://x.com/stitchbygoogle/status/2034332847893574080) — Meet the new Stitch, your vibe design partner. · 👁 4854421 ❤ 16567 🔖 17628 · 2026-03-27
+- [@HeyAliux](https://x.com/HeyAliux) · [tweet](https://x.com/heyaliux/status/2035625121231303027) — Expandable Tab Bar · 👁 57333 ❤ 1353 🔖 975 · 2026-03-27
+- [@Anushriya_UX](https://x.com/Anushriya_UX) · [tweet](https://x.com/anushriya_ux/status/2035506193158853082) — I agree, @OpenAI Codex can create 'ambitious' UI patterns. · 👁 374209 ❤ 1408 🔖 2726 · 2026-03-27
+- [@mihirtwt](https://x.com/mihirtwt) · [tweet](https://x.com/mihirtwt/status/2036024656428208437) — just added an on click animation on review history block, · 👁 9619 ❤ 114 🔖 67 · 2026-03-27
+- [@rtwlz](https://x.com/rtwlz) · [tweet](https://x.com/rtwlz/status/2036082537949434164) — made my computer dramatically play BBC news music before every meeting · 👁 2052517 ❤ 54762 🔖 11924 · 2026-03-27
+- [@creatoroly](https://x.com/creatoroly) · [tweet](https://x.com/creatoroly/status/2034269773744283695) — ah shi i forgot to add SFX · 👁 6650 ❤ 135 🔖 77 · 2026-03-27
+- [@zzzzshawn](https://x.com/zzzzshawn) · [tweet](https://x.com/zzzzshawn/status/2036047843841163403) — Profile menu component. · 👁 7538 ❤ 171 🔖 93 · 2026-03-27
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/2034314147077243358) — Details from the new @interfere_  website · 👁 11078 ❤ 257 🔖 158 · 2026-03-27
+- [@mbarvian](https://x.com/mbarvian) · [tweet](https://x.com/mbarvian/status/2036102812778770817) — Working on a mac app to help debug animations. Scrub frame-by-frame, measure durations, copy frames for your agents · 👁 42370 ❤ 799 🔖 460 · 2026-03-27
+- [@taydotfun](https://x.com/taydotfun) · [tweet](https://x.com/taydotfun/status/2037173278767243528) — youve seen light mode · 👁 223569 ❤ 6601 🔖 2456 · 2026-03-27
+- [@jamesm](https://x.com/jamesm) · [tweet](https://x.com/jamesm/status/2035700682758803728) — Spent last night playing around with a new idea for @wireframe · 👁 24416 ❤ 455 🔖 299 · 2026-03-27
+- [@Nacho_Gavilanes](https://x.com/Nacho_Gavilanes) · [tweet](https://x.com/nacho_gavilanes/status/2035738393884098845) — An interactive bit from my first blog, out tomorrow · 👁 13156 ❤ 354 🔖 292 · 2026-03-27
+- [@masonwenlaunch](https://x.com/masonwenlaunch) · [tweet](https://x.com/masonwenlaunch/status/2030828254769344831) — Shipped a new site over the weekend for my studio.  · 👁 1589 ❤ 48 🔖 11 · 2026-03-18
+- [@micka_design](https://x.com/micka_design) · [tweet](https://x.com/micka_design/status/2031191936607174755) — Stress testing the SubtleTab, Checkboxes and Table components on real use cases.  · 👁 3614 ❤ 70 🔖 61 · 2026-03-18
+- [@calebwu_](https://x.com/calebwu_) · [tweet](https://x.com/calebwu_/status/2028500586862354490) — New portfolio :)  Link is on my profile!  · 👁 43775 ❤ 1187 🔖 994 · 2026-03-18
+- [@raunofreiberg](https://x.com/raunofreiberg) · [tweet](https://x.com/raunofreiberg/status/2025298837062259127) — Form submissions with soul · 👁 30335 ❤ 577 🔖 230 · 2026-03-18
+- [@soltwagner](https://x.com/soltwagner) · [tweet](https://x.com/soltwagner/status/2023653721205600764) — Portfolio Home Page Template for Framer · 👁 2149 ❤ 62 🔖 21 · 2026-03-18
+- [@mlg27_](https://x.com/mlg27_) · [tweet](https://x.com/mlg27_/status/2028907900672877051) — The way we design hasn’t changed in 20 years. · 👁 889226 ❤ 2914 🔖 3476 · 2026-03-18
+- [@whereisalif](https://x.com/whereisalif) · [tweet](https://x.com/whereisalif/status/2031008998435291231) — I decided to make my Framer template, Stacked Pro completely free. · 👁 657 ❤ 23 🔖 11 · 2026-03-18
+- [@tomm_ui](https://x.com/tomm_ui) · [tweet](https://x.com/tomm_ui/status/2029502240709550311) — Introducing Spell UI · 👁 145563 ❤ 1664 🔖 2058 · 2026-03-18
+- [@kirillSRV](https://x.com/kirillSRV) · [tweet](https://x.com/kirillSRV/status/2031282476362973354) — AI designers are cooked, we just built an entire bento with actual humans  · 👁 388 ❤ 16 🔖 5 · 2026-03-18
+- [@Jakubantalik](https://x.com/Jakubantalik) · [tweet](https://x.com/Jakubantalik/status/2031024710419697680) — Playing with input amount prototype interactions, adding text morphing + text bending for the amount shortcut animation, and subtle directional blur for the switch animation · 👁 3037 ❤ 54 🔖 28 · 2026-03-18
+- [@poojasinhaha](https://x.com/poojasinhaha) · [tweet](https://x.com/poojasinhaha/status/2030245395314655236) — absolutely love the new yc website – who is the designer/agency? · 👁 48513 ❤ 393 🔖 291 · 2026-03-18
+- [@alex_krasikau](https://x.com/alex_krasikau) · [tweet](https://x.com/alex_krasikau/status/2029923324420030617) — Built a scroll-driven animation showcasing an app's full user flow · 👁 23962 ❤ 325 🔖 330 · 2026-03-18
+- [@Nacho_Gavilanes](https://x.com/Nacho_Gavilanes) · [tweet](https://x.com/Nacho_Gavilanes/status/2033223405466522064) — Swipe actions and layout animations · 👁 5629 ❤ 98 🔖 59 · 2026-03-18
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/2032797486138474759) — Synthetic Brand System · 👁 53659 ❤ 1636 🔖 1063 · 2026-03-17
+- [@krispuckett](https://x.com/krispuckett) · [tweet](https://x.com/krispuckett/status/2033374217845244160) — One of my favorite little pieces I made for http://heyneuma.com -> a little note feature with deep-linking, quoting, and editing. · 👁 1109 ❤ 22 🔖 13 · 2026-03-17
+- [@falcon_ide](https://x.com/falcon_ide) · [tweet](https://x.com/falcon_ide/status/2029320473729814735) — announcing FALCON GX · 👁 239573 ❤ 1179 🔖 1233 · 2026-03-17
+- [@byJWXN](https://x.com/byJWXN) · [tweet](https://x.com/byjwxn/status/2025681942793134352) — action first  · 👁 5394 ❤ 119 🔖 54 · 2026-03-17
+- [@okkshitij](https://x.com/okkshitij) · [tweet](https://x.com/okkshitij/status/2028896751386869868) — Introducing /playground: a design canvas for your code.  · 👁 67712 ❤ 666 🔖 1124 · 2026-03-17
+- [@shiri_shh](https://x.com/shiri_shh) · [tweet](https://x.com/shiri_shh/status/2028024517025788119) — can we get this for X article @elonmusk pls · 👁 97334 ❤ 1570 🔖 136 · 2026-03-17
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2030918908996358600) — Premium liquid glass buttons. · 👁 9849 ❤ 184 🔖 122 · 2026-03-17
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/2033269765666435323) — this burger menu hits differently..  · 👁 23901 ❤ 483 🔖 428 · 2026-03-17
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/2031017412334895177) — Creating Virtual Cards  Claude · 👁 14303 ❤ 265 🔖 200 · 2026-03-17
+- [@tdeser](https://x.com/tdeser) · [tweet](https://x.com/tdeser/status/2026860057564971410) — Continuing to explore the landing page design, sharing a few sections. Really liking how the sandy and swampy tones play with the orange. · 👁 68366 ❤ 854 🔖 804 · 2026-03-17
+- [@HeyAliux](https://x.com/HeyAliux) · [tweet](https://x.com/HeyAliux/status/2027138177534976349) — I really like these designs · 👁 220993 ❤ 2540 🔖 1178 · 2026-03-17
+- [@micka_design](https://x.com/micka_design) · [tweet](https://x.com/micka_design/status/2026692908783636636) — My latest side project · 👁 13286 ❤ 245 🔖 306 · 2026-03-17
+- [@socoloffalex](https://x.com/socoloffalex) · [tweet](https://x.com/socoloffalex/status/2025520179393007986) — Hey Grok, share this with people who love cool footers. · 👁 12197 ❤ 292 🔖 120 · 2026-03-17
+- [@dev_ya](https://x.com/dev_ya) · [tweet](https://x.com/dev_ya/status/2026297952931885521) — Nested menu animation  · 👁 14616 ❤ 390 🔖 253 · 2026-03-17
+- [@designsbycayo](https://x.com/designsbycayo) · [tweet](https://x.com/designsbycayo/status/2026335482800423348) — card interaction for @geniestudioapp  · 👁 6168 ❤ 163 🔖 68 · 2026-03-17
+- [@fayazara](https://x.com/fayazara) · [tweet](https://x.com/fayazara/status/2026269247241122230) — Kaze - open source voice dictation for mac, just talk instead of typing · 👁 13639 ❤ 165 🔖 156 · 2026-03-17
+- [@faydesignsstuff](https://x.com/faydesignsstuff) · [tweet](https://x.com/faydesignsstuff/status/2026315751825502377) — A dropdown with taste  · 👁 10736 ❤ 177 🔖 101 · 2026-03-17
+- [@aliszu](https://x.com/aliszu) · [tweet](https://x.com/aliszu/status/2026360502280999250) — new character set "GUY" ready to preview on the website! · 👁 24332 ❤ 364 🔖 273 · 2026-03-17
+- [@bruce_CQT](https://x.com/bruce_CQT) · [tweet](https://x.com/bruce_cqt/status/2026018127889502373) — co-building workflows on http://SIM.ai · 👁 7860 ❤ 166 🔖 120 · 2026-03-17
+- [@vamsibatchuk](https://x.com/vamsibatchuk) · [tweet](https://x.com/vamsibatchuk/status/2026083236187607483) — playing with some motion design for my portfolio website  · 👁 2248 ❤ 34 🔖 20 · 2026-03-17
+- [@Riyvir](https://x.com/Riyvir) · [tweet](https://x.com/Riyvir/status/2031934746511753508) — today’s experiment: chimera. a little tool that let’s you realtime morph through a design system matrix generated by 4 reference images. · 👁 2954 ❤ 68 🔖 56 · 2026-03-17
+- [@tranmautritam](https://x.com/tranmautritam) · [tweet](https://x.com/tranmautritam/status/2033069546006000109) — Notion is the most minimal app design I’ve known for years, until now one can beat it · 👁 30156 ❤ 315 🔖 254 · 2026-03-17
+- [@DanielWhit21874](https://x.com/DanielWhit21874) · [tweet](https://x.com/danielwhit21874/status/2025862959008797028) — What are we thinking about this roadmap section?  · 👁 1614 ❤ 32 🔖 11 · 2026-03-17
+- [@SebJVidal](https://x.com/SebJVidal) · [tweet](https://x.com/sebjvidal/status/2025821588432863422) — Little component I whipped up for an upcoming feature of @one_sec_app. An infinitely scrollable collection view displaying polaroids of the very talented folks working on the app (and me) · 👁 19774 ❤ 444 🔖 341 · 2026-03-17
+- [@JohnPhamous](https://x.com/JohnPhamous) · [tweet](https://x.com/johnphamous/status/2025270352042230111) — dog follows pointer + avoids collisions with no dependencies · 👁 48494 ❤ 581 🔖 281 · 2026-03-16
+- [@justin_schueler](https://x.com/justin_schueler) · [tweet](https://x.com/justin_schueler/status/2033166067904794848) — cuties  · 👁 108099 ❤ 1714 🔖 1396 · 2026-03-16
+- [@markoilico](https://x.com/markoilico) · [tweet](https://x.com/markoilico/status/2025571351143358672) — I just love making simple hover transitions in @figma. · 👁 23043 ❤ 535 🔖 418 · 2026-03-16
+- [@MoizArshi29](https://x.com/MoizArshi29) · [tweet](https://x.com/moizarshi29/status/2025460206424187249) — Experimenting with a dock-style menu with a collapsible feature. · 👁 7095 ❤ 133 🔖 71 · 2026-03-16
+- [@Suupercharged](https://x.com/Suupercharged) · [tweet](https://x.com/Suupercharged/status/2032884390905430195) — Rate this navbar · 👁 11899 ❤ 248 🔖 151 · 2026-03-16
+- [@dotta](https://x.com/dotta) · [tweet](https://x.com/dotta/status/2029239759428780116) — We just open-sourced Paperclip: the orchestration layer for zero-human companies · 👁 1708534 ❤ 6626 🔖 16059 · 2026-03-16
+- [@marcelkargul](https://x.com/marcelkargul) · [tweet](https://x.com/marcelkargul/status/2033184119958409616) — this wasn’t a prompt. · 👁 168617 ❤ 1390 🔖 1383 · 2026-03-16
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2033199790591185077) — Calendars shouldn’t navigate. · 👁 9291 ❤ 149 🔖 138 · 2026-03-16
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2033002433753002390) — Who knew Unicode Braille could animate UI like this? · 👁 13098 ❤ 280 🔖 227 · 2026-03-16
+- [@RasmusNielsen](https://x.com/RasmusNielsen) · [tweet](https://x.com/rasmusnielsen/status/2025671278196138151) — Love this calendar.  · 👁 17477 ❤ 566 🔖 136 · 2026-03-16
+- [@noise_xyz](https://x.com/noise_xyz) · [tweet](https://x.com/noise_xyz/status/2031790691890630749) — Soon. Join the waitlist. · 👁 151662 ❤ 1330 🔖 390 · 2026-03-16
+- [@FigsFromPlums](https://x.com/FigsFromPlums) · [tweet](https://x.com/FigsFromPlums/status/2031792393981157869) — Suvd Lkha · 👁 22565 ❤ 1807 🔖 366 · 2026-03-16
+- [@glauberxyz](https://x.com/glauberxyz) · [tweet](https://x.com/glauberxyz/status/2025660618393649330) — Rolled-out periodic summaries on http://curater.org – check out what the community is sharing and discussing! · 👁 11651 ❤ 275 🔖 272 · 2026-03-16
+- [@om_patel5](https://x.com/om_patel5) · [tweet](https://x.com/om_patel5/status/2033056646595850498) — HOW TO GET THOUSANDS OF VIEWS USING CLAUDE CODE AND REMOTION · 👁 91820 ❤ 939 🔖 2329 · 2026-03-16
+- [@uixmat](https://x.com/uixmat) · [tweet](https://x.com/uixmat/status/2025661070547820636) — Funnel charts added to Bklit UI  · 👁 20170 ❤ 409 🔖 379 · 2026-03-16
+- [@MoizArshi29](https://x.com/MoizArshi29) · [tweet](https://x.com/moizarshi29/status/2025613641916289311) — line minimap component for web · 👁 15869 ❤ 314 🔖 246 · 2026-03-16
+- [@lifeofraghav19](https://x.com/lifeofraghav19) · [tweet](https://x.com/lifeofraghav19/status/2025583823736680842) — My Design Portfolio is live  · 👁 20658 ❤ 423 🔖 212 · 2026-03-16
+- [@alikashifmr](https://x.com/alikashifmr) · [tweet](https://x.com/alikashifmr/status/2033148138429849719) — Just spent 30+ min re-creating this pricing section in @framer  · 👁 2741 ❤ 72 🔖 60 · 2026-03-16
+- [@seyii___](https://x.com/seyii___) · [tweet](https://x.com/seyii___/status/2025544080877408321) — Document signature validation flow which lets you to manually draw or type your signature. · 👁 14228 ❤ 311 🔖 229 · 2026-03-16
+- [@tfalexandrino](https://x.com/tfalexandrino) · [tweet](https://x.com/tfalexandrino/status/2031046263819379041) — Tables with media preview, using Claude  · 👁 5516 ❤ 108 🔖 88 · 2026-03-12
+- [@RalconStudio](https://x.com/RalconStudio) · [tweet](https://x.com/RalconStudio/status/2030935628930752854) — not boring nav hover interaction · 👁 12253 ❤ 308 🔖 161 · 2026-03-12
+- [@adii_kris](https://x.com/adii_kris) · [tweet](https://x.com/adii_kris/status/2030934393934823514) — another website that I saw this week and still not able to get over it and HOLY SHIT they actually MADE IT REAL · 👁 25430 ❤ 195 🔖 197 · 2026-03-12
+- [@dnyxstudios](https://x.com/dnyxstudios) · [tweet](https://x.com/dnyxstudios/status/2030877614269944208) — http://cal.com saas explainer  · 👁 3327 ❤ 99 🔖 49 · 2026-03-12
+- [@balintorosz](https://x.com/balintorosz) · [tweet](https://x.com/balintorosz/status/2031078786670776559) — One of the biggest area I’m working on right now is trying to bridge the gap between linear chat interfaces and the non-linear nature of human thinking. @benjitaylor’s Agentation already shows that ma · 👁 16580 ❤ 295 🔖 278 · 2026-03-10
+- [@alisamadi__](https://x.com/alisamadi__) · [tweet](https://x.com/alisamadi__/status/2031022326066938062) — Pin Items · 👁 12355 ❤ 284 🔖 225 · 2026-03-10
+- [@hrdktwt](https://x.com/hrdktwt) · [tweet](https://x.com/hrdktwt/status/2030996690262741196) — tired of outdated startup job boards? · 👁 18834 ❤ 401 🔖 339 · 2026-03-10
+- [@howells](https://x.com/howells) · [tweet](https://x.com/howells/status/2030979020507021656) — It's very amusing to me that http://wiretext.app started as a Funny Thing but is being used by 1000+ people, apparently. · 👁 8604 ❤ 67 🔖 76 · 2026-03-10
+- [@AlbiaHossain](https://x.com/AlbiaHossain) · [tweet](https://x.com/AlbiaHossain/status/2030939545215348784) — Some of the coolest gradient strips by @SannaGranqvistX · 👁 1186 ❤ 32 🔖 7 · 2026-03-10
+- [@actualTimWilson](https://x.com/actualTimWilson) · [tweet](https://x.com/actualTimWilson/status/2031092932628066632) — New little project: trying to get AI to write cool shaders. · 👁 13539 ❤ 177 🔖 226 · 2026-03-10
+- [@andriidesign1](https://x.com/andriidesign1) · [tweet](https://x.com/andriidesign1/status/2031033913070547369) — These page transitions and animations are so good. · 👁 1599 ❤ 55 🔖 19 · 2026-03-10
+- [@HamzaInstantly](https://x.com/HamzaInstantly) · [tweet](https://x.com/HamzaInstantly/status/2030756114157998111) — Website exploration for b2b client · 👁 5714 ❤ 210 🔖 115 · 2026-03-10
+- [@remvze](https://x.com/remvze) · [tweet](https://x.com/remvze/status/2031044789731237907) — Introducing DesEngs ✺ · 👁 19468 ❤ 568 🔖 777 · 2026-03-10
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/2030906259894100042) — scrolling through this site feels like watching a movie · 👁 54389 ❤ 489 🔖 469 · 2026-03-10
+- [@filipoviclazar_](https://x.com/filipoviclazar_) · [tweet](https://x.com/filipoviclazar_/status/2031031500418760943) — These scroll animations in the Renance template are sooo smooth. · 👁 6218 ❤ 159 🔖 129 · 2026-03-10
+- [@tojawuzik](https://x.com/tojawuzik) · [tweet](https://x.com/tojawuzik/status/2030958608112902316) — Details, details, details...  · 👁 4074 ❤ 213 🔖 95 · 2026-03-10
+- [@gorkemcetin](https://x.com/gorkemcetin) · [tweet](https://x.com/gorkemcetin/status/2030852807750771131) — Hafta sonu kendi ürünümüz için Claude Code ile animasyonlu ikonlar yapmaya başlamıştım, sonra dedim ki ben bunu daha da ileriye götüreyim. Derken konu büyüdü, dallandı, budaklandı. Bir kaç ikonla başl · 👁 19642 ❤ 292 🔖 297 · 2026-03-10
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/2030706556048658806) — show me a cooler pull to refresh than this one.. i’ll wait · 👁 149048 ❤ 1867 🔖 753 · 2026-03-09
+- [@firmaaanjp](https://x.com/firmaaanjp) · [tweet](https://x.com/firmaaanjp/status/2030791735371313637) — (no text) · 👁 1446 ❤ 106 🔖 30 · 2026-03-09
+- [@gaddafirusli](https://x.com/gaddafirusli) · [tweet](https://x.com/gaddafirusli/status/2030453913690972253) — It's been a while  · 👁 7489 ❤ 243 🔖 157 · 2026-03-09
+- [@ItsPeterDesign](https://x.com/ItsPeterDesign) · [tweet](https://x.com/ItsPeterDesign/status/2030630534347431981) — My latest light theme design · 👁 3257 ❤ 131 🔖 37 · 2026-03-09
+- [@madebyhex](https://x.com/madebyhex) · [tweet](https://x.com/madebyhex/status/2030611938535706979) — smooth · 👁 929 ❤ 21 🔖 12 · 2026-03-09
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/2030573801252225053) — footers don't need to be boring · 👁 5674 ❤ 111 🔖 76 · 2026-03-09
+- [@Nomandsign](https://x.com/Nomandsign) · [tweet](https://x.com/Nomandsign/status/2030380932117758306) — One of my favorite sites I built using Framer  · 👁 8572 ❤ 186 🔖 119 · 2026-03-09
+- [@emirayaaz](https://x.com/emirayaaz) · [tweet](https://x.com/emirayaaz/status/2030800140261343731) — i love creating sexy stuff · 👁 1564 ❤ 52 🔖 16 · 2026-03-09
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2030864356666441955) — Loading animation ideas for your next project. · 👁 5199 ❤ 176 🔖 130 · 2026-03-09
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2030501832745984349) — Hero section designed to calm you.  Grab the background from the link below · 👁 40274 ❤ 841 🔖 794 · 2026-03-09
+- [@piyushsphere](https://x.com/piyushsphere) · [tweet](https://x.com/piyushsphere/status/2030665859539382340) — Scroll animation made in Framer. · 👁 4009 ❤ 76 🔖 39 · 2026-03-09
+- [@dailywabi](https://x.com/dailywabi) · [tweet](https://x.com/dailywabi/status/2030438011394207779) — shader candy for your eyeballs. · 👁 10492 ❤ 236 🔖 150 · 2026-03-09
+- [@AliGrids](https://x.com/AliGrids) · [tweet](https://x.com/AliGrids/status/2030554653335986409) — Metallic version of this gold UI. · 👁 49350 ❤ 628 🔖 435 · 2026-03-09
+- [@ivanboroja](https://x.com/ivanboroja) · [tweet](https://x.com/ivanboroja/status/2030372642495119367) — One feature from our upcoming agency OS. · 👁 7273 ❤ 185 🔖 161 · 2026-03-09
+- [@emirayaaz](https://x.com/emirayaaz) · [tweet](https://x.com/emirayaaz/status/2030814501793120510) — I added the showreel on my site to my public components! · 👁 2820 ❤ 51 🔖 24 · 2026-03-09
+- [@amnxnet](https://x.com/amnxnet) · [tweet](https://x.com/amnxnet/status/2030826954740691018) — This is one of the best launch videos I’ve ever seen… · 👁 8760 ❤ 232 🔖 246 · 2026-03-09
+- [@justin_schueler](https://x.com/justin_schueler) · [tweet](https://x.com/justin_schueler/status/2030717002189246653) — Onboarding · 👁 15166 ❤ 371 🔖 339 · 2026-03-09
+- [@kapish_dima](https://x.com/kapish_dima) · [tweet](https://x.com/kapish_dima/status/2030354980394430579) — Introducing Fonttrio - the new shadcn/google-fonts :DDD · 👁 145246 ❤ 1057 🔖 1251 · 2026-03-09
+- [@Tony_dsgn](https://x.com/Tony_dsgn) · [tweet](https://x.com/Tony_dsgn/status/2030832905224593813) — Inverted color scheme · 👁 1529 ❤ 62 🔖 18 · 2026-03-09
+- [@ImDannydo](https://x.com/ImDannydo) · [tweet](https://x.com/ImDannydo/status/2030714497036394533) — Finally ready to submit my template to the @framer marketplace. · 👁 817 ❤ 39 🔖 14 · 2026-03-09
+- [@LexnLin](https://x.com/LexnLin) · [tweet](https://x.com/LexnLin/status/2030289612678025406) — Here is the prompt to create a liquid gold nav bar :) · 👁 62318 ❤ 788 🔖 1386 · 2026-03-08
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2028145311462416478) — February dump. · 👁 6236 ❤ 94 🔖 60 · 2026-03-02
+- [@benjitaylor](https://x.com/benjitaylor) · [tweet](https://x.com/benjitaylor/status/2027902450049708385) — Just pushed a cool update to Readout: session replays. Pick any past Claude Code session and scrub through the full timeline. Every prompt, tool call, file change. Files light up as edits land. Play b · 👁 241943 ❤ 2599 🔖 2743 · 2026-03-02
+- [@Abdulkabirrr](https://x.com/Abdulkabirrr) · [tweet](https://x.com/Abdulkabirrr/status/2028194218510786631) — more on last month · 👁 3065 ❤ 98 🔖 46 · 2026-03-02
+- [@sekhsoyebali](https://x.com/sekhsoyebali) · [tweet](https://x.com/sekhsoyebali/status/2027851816457933088) — I successfully recreated this effect 100% natively in @Framer  · 👁 12490 ❤ 326 🔖 210 · 2026-03-02
+- [@AdarshSingh_in](https://x.com/AdarshSingh_in) · [tweet](https://x.com/AdarshSingh_in/status/2028172568528904634) — Portfolio update  · 👁 1454 ❤ 40 🔖 28 · 2026-03-02
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/2028270047379026196) — Vibe Coding halp change the color of the app · 👁 3998 ❤ 84 🔖 66 · 2026-03-02
+- [@jh3yy](https://x.com/jh3yy) · [tweet](https://x.com/jh3yy/status/1981517286734274591) — liquid slider  · 👁 67674 ❤ 963 🔖 443 · 2026-03-02
+- [@justin_schueler](https://x.com/justin_schueler) · [tweet](https://x.com/justin_schueler/status/2028195312309805407) — Customization, but limited. · 👁 3320 ❤ 70 🔖 51 · 2026-03-02
+- [@AdityaSur11](https://x.com/AdityaSur11) · [tweet](https://x.com/AdityaSur11/status/2027677657585095017) — Quick Setup Card UI Animation · 👁 16299 ❤ 405 🔖 262 · 2026-03-02
+- [@alxui_ux](https://x.com/alxui_ux) · [tweet](https://x.com/alxui_ux/status/2027706467521004027) — Good UX Isn’t Loud — It’s This Clean · 👁 13310 ❤ 374 🔖 290 · 2026-03-02
+- [@raul_dronca](https://x.com/raul_dronca) · [tweet](https://x.com/raul_dronca/status/2027725039043322244) — Shader Reveal Interaction · 👁 28216 ❤ 675 🔖 515 · 2026-03-02
+- [@thenickpattison](https://x.com/thenickpattison) · [tweet](https://x.com/thenickpattison/status/2027747047072231550) — New brand for Relace. Americana adventure, but in the wild west of code. · 👁 52715 ❤ 1260 🔖 1337 · 2026-03-02
+- [@SannaGranqvistX](https://x.com/SannaGranqvistX) · [tweet](https://x.com/SannaGranqvistX/status/2027695019188990205) — Launched a @framer component, Gradient Strips, last week. · 👁 32393 ❤ 626 🔖 550 · 2026-03-02
+- [@olivierdesignr](https://x.com/olivierdesignr) · [tweet](https://x.com/olivierdesignr/status/2028086695179034879) — Not every website needs gradients to create the Halo effect · 👁 48499 ❤ 1598 🔖 1207 · 2026-03-02
+- [@itsandrewgao](https://x.com/itsandrewgao) · [tweet](https://x.com/itsandrewgao/status/2027579200635605058) — you can instantly 10x your vibecoded frontends by just learning what different ui components are called · 👁 1463351 ❤ 15344 🔖 25105 · 2026-03-02
+- [@onuro](https://x.com/onuro) · [tweet](https://x.com/onuro/status/2027989652305539272) — Just asked Claude to build me an internal Live Editing CMS too.   · 👁 77899 ❤ 736 🔖 1027 · 2026-03-02
+- [@itsnoahd](https://x.com/itsnoahd) · [tweet](https://x.com/itsnoahd/status/2025951246696231407) — Such a short domain deserves a simple website.  · 👁 57274 ❤ 723 🔖 586 · 2026-03-01
+- [@raul_dronca](https://x.com/raul_dronca) · [tweet](https://x.com/raul_dronca/status/2026306558821286300) — Settings · 👁 1911 ❤ 64 🔖 30 · 2026-03-01
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/2025936432603304425) — It’s all about the small interaction details that almost nobody will notice  · 👁 17828 ❤ 366 🔖 332 · 2026-03-01
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/Keviduk/status/2025935863650422847) — inline alerts  · 👁 12330 ❤ 383 🔖 281 · 2026-03-01
+- [@mehmetozsoyart](https://x.com/mehmetozsoyart) · [tweet](https://x.com/mehmetozsoyart/status/2026288725647360206) — Final touch.   · 👁 784 ❤ 23 🔖 9 · 2026-03-01
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/2025965589735305579) — perfect use of 3d scrollytelling.. · 👁 23442 ❤ 534 🔖 425 · 2026-03-01
+- [@thebuggeddev](https://x.com/thebuggeddev) · [tweet](https://x.com/thebuggeddev/status/2026255108464607328) — Can you believe Codex built this entire UI including those folder style cards and that smooth subtle stacked card animation  · 👁 2691 ❤ 41 🔖 34 · 2026-03-01
+- [@emblemo](https://x.com/emblemo) · [tweet](https://x.com/emblemo/status/2025909582116127111) — I'm trying to learn a completely new workflow outside of Figma.  · 👁 44657 ❤ 885 🔖 800 · 2026-03-01
+- [@faydesignsstuff](https://x.com/faydesignsstuff) · [tweet](https://x.com/faydesignsstuff/status/2026045265296212007) — Brightness shouldn't be the only variable, temperature matters just as much · 👁 11471 ❤ 183 🔖 138 · 2026-03-01
+- [@ArtemiuLebedev](https://x.com/ArtemiuLebedev) · [tweet](https://x.com/ArtemiuLebedev/status/2026280708486926565) — Our recent website for the Institute of Health, created for an Australian medical team, has been nominated for Site of the Day on Awwwards.  · 👁 1073 ❤ 51 🔖 31 · 2026-03-01
+- [@justin_schueler](https://x.com/justin_schueler) · [tweet](https://x.com/justin_schueler/status/2025890212748906782) — This is slowly feeling like something I could actually imagine using. · 👁 22843 ❤ 246 🔖 330 · 2026-03-01
+- [@flornkm](https://x.com/flornkm) · [tweet](https://x.com/flornkm/status/2025991708429979780) — What if your UI had physical mass? · 👁 421950 ❤ 3333 🔖 1359 · 2026-03-01
+- [@kianbazza](https://x.com/kianbazza) · [tweet](https://x.com/kianbazza/status/2026121225072701474) — Sometimes, less is more. · 👁 20854 ❤ 301 🔖 244 · 2026-03-01
+- [@MengTo](https://x.com/MengTo) · [tweet](https://x.com/MengTo/status/2026189291085607181) — Can we talk about how insane Gemini 3.1 Pro is at webgl · 👁 119987 ❤ 2503 🔖 2187 · 2026-03-01
+- [@DanielWhit21874](https://x.com/DanielWhit21874) · [tweet](https://x.com/DanielWhit21874/status/2024745252041400660) — Love adding little details to my website     · 👁 6138 ❤ 157 🔖 75 · 2026-02-21
+- [@LexnLin](https://x.com/LexnLin) · [tweet](https://x.com/LexnLin/status/2024852889428987924) — Gemini. Design. · 👁 19115 ❤ 214 🔖 169 · 2026-02-21
+- [@sorenblank](https://x.com/sorenblank) · [tweet](https://x.com/sorenblank/status/2024745061423214826) — do you click on `mailto` links? maybe some of you do. but i’ve seen many ( me included ) prefer to just copy the email address instead. · 👁 102012 ❤ 1166 🔖 627 · 2026-02-21
+- [@arronflashman](https://x.com/arronflashman) · [tweet](https://x.com/arronflashman/status/2024452555716055142) — designers should ship stuff imho · 👁 14869 ❤ 277 🔖 200 · 2026-02-21
+- [@rpavlini](https://x.com/rpavlini) · [tweet](https://x.com/rpavlini/status/2024964383785590837) — i hate cleaning up old bookmarks so we've made it a bit more fun in EchoTab · 👁 6478 ❤ 119 🔖 82 · 2026-02-21
+- [@raul_dronca](https://x.com/raul_dronca) · [tweet](https://x.com/raul_dronca/status/2024808466582286439) — Shader Slider · 👁 20029 ❤ 677 🔖 384 · 2026-02-21
+- [@osmosupply](https://x.com/osmosupply) · [tweet](https://x.com/osmosupply/status/2024508025239691539) — Meet the Draw SVG Page Transition Template. It animates an <svg> path with a smooth draw effect, then wipes it away to reveal the next page. Replace the path with your own and experiment freely. · 👁 36951 ❤ 922 🔖 818 · 2026-02-21
+- [@cerpow](https://x.com/cerpow) · [tweet](https://x.com/cerpow/status/2024792091264459133) — I built a smooth progressive blur generator for the web. · 👁 31934 ❤ 723 🔖 674 · 2026-02-21
+- [@emirayaaz](https://x.com/emirayaaz) · [tweet](https://x.com/emirayaaz/status/2024994312279212430) — February is the slowest month since I founded the studio.   · 👁 8058 ❤ 132 🔖 90 · 2026-02-21
+- [@cristicrtu](https://x.com/cristicrtu) · [tweet](https://x.com/cristicrtu/status/2024520788645237121) — inspired by @lochieaxon i built penflow - animate handwriting on the web, stroke by stroke  · 👁 29619 ❤ 551 🔖 518 · 2026-02-21
+- [@RomaTesla](https://x.com/RomaTesla) · [tweet](https://x.com/RomaTesla/status/2024123836321456392) — A bit of fun with @rive_app · 👁 436 ❤ 11 🔖 3 · 2026-02-18
+- [@ux_rahul](https://x.com/ux_rahul) · [tweet](https://x.com/ux_rahul/status/2024029790370717871) — Got a client via @framer Experts. Locked in this Hero layout on the first version! · 👁 1274 ❤ 45 🔖 15 · 2026-02-18
+- [@kvnkld](https://x.com/kvnkld) · [tweet](https://x.com/kvnkld/status/2023787893307883739) — design → code · 👁 33112 ❤ 559 🔖 332 · 2026-02-18
+- [@Chronicle_HQ](https://x.com/Chronicle_HQ) · [tweet](https://x.com/Chronicle_HQ/status/2023985361412866225) — A fresh, new look. · 👁 3884 ❤ 98 🔖 93 · 2026-02-18
+- [@lochieaxon](https://x.com/lochieaxon) · [tweet](https://x.com/lochieaxon/status/2023434902814003315) — effortlessly and seamlessly transition between text with <TextMorph/> · 👁 72105 ❤ 1744 🔖 1954 · 2026-02-18
+- [@kianbazza](https://x.com/kianbazza) · [tweet](https://x.com/kianbazza/status/2023881894920937728) — Morphing braille loader for async item creation · 👁 14597 ❤ 448 🔖 391 · 2026-02-18
+- [@AdamKPx](https://x.com/AdamKPx) · [tweet](https://x.com/AdamKPx/status/2023860452443459679) — Buttery smooth, dynamic action bar  · 👁 31538 ❤ 709 🔖 591 · 2026-02-18
+- [@MeschacIrung](https://x.com/MeschacIrung) · [tweet](https://x.com/MeschacIrung/status/2023713452813078700) —  Introducing expandable features : · 👁 37528 ❤ 889 🔖 1104 · 2026-02-18
+- [@nullbytes00](https://x.com/nullbytes00) · [tweet](https://x.com/nullbytes00/status/2023811950178955771) — We just shipped SuperCmd - The ultimate open-source alternative to @raycast  · 👁 20344 ❤ 350 🔖 312 · 2026-02-18
+- [@aidenybai](https://x.com/aidenybai) · [tweet](https://x.com/aidenybai/status/2023806825062449424) — Introducing React Doctor · 👁 486437 ❤ 7306 🔖 8095 · 2026-02-18
+- [@micka_design](https://x.com/micka_design) · [tweet](https://x.com/micka_design/status/2022359023467770050) — Liquid functionalism? Variable font weight and icon stroke + snappy BG hover · 👁 7957 ❤ 130 🔖 100 · 2026-02-18
+- [@JohnPhamous](https://x.com/JohnPhamous) · [tweet](https://x.com/johnphamous/status/2022734407967354927) — i added my dog to my website · 👁 31550 ❤ 716 🔖 292 · 2026-02-18
+- [@ammybuilds](https://x.com/ammybuilds) · [tweet](https://x.com/ammybuilds/status/2022726789035102247) — Scorewell now supports themes. I'm building something special. · 👁 568 ❤ 20 🔖 4 · 2026-02-18
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/keviduk/status/2022688290630177276) — (no text) · 👁 18324 ❤ 537 🔖 376 · 2026-02-18
+- [@akash_3444](https://x.com/akash_3444) · [tweet](https://x.com/akash_3444/status/2022732843550720504) — The @base_ui Drawer is now available in basecn  · 👁 20960 ❤ 276 🔖 161 · 2026-02-18
+- [@micka_design](https://x.com/micka_design) · [tweet](https://x.com/micka_design/status/2022386816452825445) — Dropdown , Tabs . Which component should I design next? · 👁 9876 ❤ 177 🔖 135 · 2026-02-18
+- [@helder_vilela](https://x.com/helder_vilela) · [tweet](https://x.com/helder_vilela/status/2022724041115627964) — Just submitted Cursor Dot Trail for review! A smooth trailing cursor effect plus hover transforms to bring interactions to life on your @framer site · 👁 80 ❤ 3 🔖 0 · 2026-02-18
+- [@ThominoDesign](https://x.com/ThominoDesign) · [tweet](https://x.com/thominodesign/status/2022662985509187922) — Animated Book Now Component from updated Marketplace Template.  · 👁 9491 ❤ 241 🔖 205 · 2026-02-18
+- [@guerriero_se](https://x.com/guerriero_se) · [tweet](https://x.com/guerriero_se/status/2022334196631388228) — This concept didn’t make the cut, but I still love it  · 👁 34875 ❤ 1056 🔖 776 · 2026-02-18
+- [@mattyp](https://x.com/mattyp) · [tweet](https://x.com/mattyp/status/2022867522433982692) — mobile bottom tab exploration with expo & react native · 👁 22561 ❤ 406 🔖 257 · 2026-02-18
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2023023255511278006) — How I Built This Social Proof Micro-Interaction · 👁 12158 ❤ 301 🔖 182 · 2026-02-18
+- [@Abstudiobrand](https://x.com/Abstudiobrand) · [tweet](https://x.com/abstudiobrand/status/2022943964089942276) — Neutron - Brand Identity! · 👁 11827 ❤ 437 🔖 251 · 2026-02-18
+- [@pau_wee_](https://x.com/pau_wee_) · [tweet](https://x.com/pau_wee_/status/2022393294886703596) — JUST IN: digibouquet v.2.14!! · 👁 136768 ❤ 4413 🔖 2959 · 2026-02-18
+- [@marcelojose_dev](https://x.com/marcelojose_dev) · [tweet](https://x.com/marcelojose_dev/status/2022800520671343092) — It’s finally out!  · 👁 8992 ❤ 61 🔖 103 · 2026-02-18
+- [@osmosupply](https://x.com/osmosupply) · [tweet](https://x.com/osmosupply/status/2022973790817267855) — Today featured in the Osmo Showcase: MoMoney, using 10 Osmo Resources. Created by @JordanGilroy. · 👁 7108 ❤ 226 🔖 152 · 2026-02-18
+- [@Keviduk](https://x.com/Keviduk) · [tweet](https://x.com/keviduk/status/2023035312440775156) — status--icons  · 👁 12745 ❤ 545 🔖 240 · 2026-02-18
+- [@alex_barashkov](https://x.com/alex_barashkov) · [tweet](https://x.com/alex_barashkov/status/2022282870178402606) — Introducing @primeuicom. Build sites fast. Fear no code. · 👁 62575 ❤ 694 🔖 739 · 2026-02-18
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/carlbeaverson/status/2022911969632883004) — Index view for upcoming photography portfolio website · 👁 4667 ❤ 202 🔖 100 · 2026-02-18
+- [@rizz_abh](https://x.com/rizz_abh) · [tweet](https://x.com/rizz_abh/status/2022996754069897385) — "The Last supper" inspired section. · 👁 18334 ❤ 529 🔖 279 · 2026-02-18
+- [@sej_here](https://x.com/sej_here) · [tweet](https://x.com/sej_here/status/2022705238772453614) — built something cute with @Sukriti2108 for y’all · 👁 4469 ❤ 100 🔖 40 · 2026-02-18
+- [@Star_Knight12](https://x.com/Star_Knight12) · [tweet](https://x.com/star_knight12/status/2023034619990516024) — created this liquid hover effect today, how's it :) · 👁 97260 ❤ 1513 🔖 833 · 2026-02-18
+- [@nitishkmrk](https://x.com/nitishkmrk) · [tweet](https://x.com/nitishkmrk/status/2022922824910823664) — macOS sidebar interaction ⎯⟡° · 👁 7254 ❤ 161 🔖 81 · 2026-02-18
+- [@HamzaInstantly](https://x.com/HamzaInstantly) · [tweet](https://x.com/hamzainstantly/status/2022680930012533214) — The level of quality we deliver @ http://instantly.design · 👁 1168 ❤ 49 🔖 12 · 2026-02-18
+- [@raul_dronca](https://x.com/raul_dronca) · [tweet](https://x.com/raul_dronca/status/2022596485934977058) — Shader Mixer · 👁 46767 ❤ 1156 🔖 636 · 2026-02-18
+- [@agispas](https://x.com/agispas) · [tweet](https://x.com/agispas/status/2023330084367835516) — working on my portfolio. designed with @cursor_ai · 👁 24316 ❤ 564 🔖 566 · 2026-02-18
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/2023523845525631245) — ScrollFolio is now live on the store. A full studio / freelancer portfolio built inside a single component. · 👁 971 ❤ 22 🔖 7 · 2026-02-18
+- [@samgrosss](https://x.com/samgrosss) · [tweet](https://x.com/samgrosss/status/2023379470783013005) — Super happy to finally introduce Audyr and officially open the waitlist! · 👁 4049 ❤ 58 🔖 70 · 2026-02-18
+- [@byJWXN](https://x.com/byJWXN) · [tweet](https://x.com/byJWXN/status/2022989282403811521) — exploring the liquid metal ui trend  · 👁 1206 ❤ 60 🔖 11 · 2026-02-16
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/2022911969632883004) — Index view for upcoming photography portfolio website · 👁 3040 ❤ 137 🔖 61 · 2026-02-16
+- [@akwaabaaa](https://x.com/akwaabaaa) · [tweet](https://x.com/akwaabaaa/status/2023082073268036002) — "Just because it looks good" is a valid design decision. · 👁 20644 ❤ 462 🔖 301 · 2026-02-16
+- [@_atilla1](https://x.com/_atilla1) · [tweet](https://x.com/_atilla1/status/2021949013877199089) — The Monochrome Collection. · 👁 28378 ❤ 348 🔖 163 · 2026-02-14
+- [@karaan_dev](https://x.com/karaan_dev) · [tweet](https://x.com/karaan_dev/status/2021916085315068295) — What if I tell you  · 👁 45083 ❤ 488 🔖 434 · 2026-02-14
+- [@suhaniashok](https://x.com/suhaniashok) · [tweet](https://x.com/suhaniashok/status/2022071550309281803) — clickity-click-click! · 👁 1790 ❤ 80 🔖 31 · 2026-02-14
+- [@jakubkrehel](https://x.com/jakubkrehel) · [tweet](https://x.com/jakubkrehel/status/2021978200360800669) — If you run into an issue where you can scroll past a navigation bar or other containers in your app, you can use `overscroll-behavior: none` to prevent it. · 👁 19689 ❤ 652 🔖 551 · 2026-02-14
+- [@henrikruscon](https://x.com/henrikruscon) · [tweet](https://x.com/henrikruscon/status/2020823971793350675) — Calendar in Alcove · 👁 136551 ❤ 1172 🔖 625 · 2026-02-13
+- [@ludoviclosco](https://x.com/ludoviclosco) · [tweet](https://x.com/ludoviclosco/status/2020865905429749960) — Currently working on my own text animator component in @framer · 👁 2911 ❤ 99 🔖 40 · 2026-02-13
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/2020758122399519212) — this designer built his portfolio as a working phone interface. · 👁 46041 ❤ 918 🔖 755 · 2026-02-13
+- [@sucodeee](https://x.com/sucodeee) · [tweet](https://x.com/sucodeee/status/2020574935794565247) — SwiftUI Apple Wallet Autofill Intro Animation · 👁 9129 ❤ 284 🔖 177 · 2026-02-13
+- [@jrgarciadev](https://x.com/jrgarciadev) · [tweet](https://x.com/jrgarciadev/status/2020582660159176945) — 3d holo card w/@hero_ui · 👁 12189 ❤ 261 🔖 160 · 2026-02-13
+- [@kumailnanji](https://x.com/kumailnanji) · [tweet](https://x.com/kumailnanji/status/2020858495206150642) — vibe coding micro interactions · 👁 13563 ❤ 427 🔖 214 · 2026-02-13
+- [@aidenybai](https://x.com/aidenybai) · [tweet](https://x.com/aidenybai/status/2020194850012852612) — improved toolbar open/close animation · 👁 9991 ❤ 212 🔖 76 · 2026-02-13
+- [@jessethanley](https://x.com/jessethanley) · [tweet](https://x.com/jessethanley/status/2019676268476989522) — opus 4.6 is pretty good at marketing UI  · 👁 89003 ❤ 1148 🔖 1067 · 2026-02-13
+- [@HypeopleStudio](https://x.com/HypeopleStudio) · [tweet](https://x.com/HypeopleStudio/status/2014323631032025591) — One language: clarity and focus.  · 👁 139608 ❤ 333 🔖 118 · 2026-02-13
+- [@robhope](https://x.com/robhope) · [tweet](https://x.com/robhope/status/2019772851876725070) — What an incredible reference to using AI to enhance website and story visuals (the family hero image, extracted into animated side profiles). · 👁 39872 ❤ 650 🔖 727 · 2026-02-13
+- [@marcelkargul](https://x.com/marcelkargul) · [tweet](https://x.com/marcelkargul/status/2014808820090847296) — they look even better animated btw · 👁 144838 ❤ 1104 🔖 848 · 2026-02-13
+- [@mihirtwt](https://x.com/mihirtwt) · [tweet](https://x.com/mihirtwt/status/2014720943634186736) — made this hover trail · 👁 6530 ❤ 148 🔖 60 · 2026-02-13
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/2014870093285536011) — Generated this landing page design + animation with one simple prompt in a minute. · 👁 31914 ❤ 279 🔖 225 · 2026-02-13
+- [@tar_uniqueee](https://x.com/tar_uniqueee) · [tweet](https://x.com/tar_uniqueee/status/2014634425431073099) — Exploring to establish new web standards · 👁 17895 ❤ 248 🔖 175 · 2026-02-13
+- [@mxxob10](https://x.com/mxxob10) · [tweet](https://x.com/mxxob10/status/2020747690611802259) — Animated in @LottielabHQ  WIP. · 👁 4630 ❤ 90 🔖 49 · 2026-02-13
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2020862874185273558) — If your accordion snaps, you shipped laziness. · 👁 7226 ❤ 123 🔖 68 · 2026-02-13
+- [@Matvej274](https://x.com/Matvej274) · [tweet](https://x.com/matvej274/status/2020910868301590595) — Unframed® is now live on Framer Marketplace. Portfolio template built for painters, photographers, and visual creatives. · 👁 6013 ❤ 222 🔖 117 · 2026-02-13
+- [@suhaniashok](https://x.com/suhaniashok) · [tweet](https://x.com/suhaniashok/status/2020890720165671080) — the superr design team is busy coooking  · 👁 8082 ❤ 247 🔖 89 · 2026-02-13
+- [@serc1n](https://x.com/serc1n) · [tweet](https://x.com/serc1n/status/2020838319056142608) — gm · 👁 85947 ❤ 2373 🔖 948 · 2026-02-13
+- [@lichinlin](https://x.com/lichinlin) · [tweet](https://x.com/lichinlin/status/2020026278271938987) —  Tiny details: color fading on slider dots, smooth width transitions on the toggle control · 👁 105582 ❤ 1211 🔖 1011 · 2026-02-13
+- [@ahmetkose571](https://x.com/ahmetkose571) · [tweet](https://x.com/ahmetkose571/status/2020782296635219978) — Services section is done too.  · 👁 1845 ❤ 89 🔖 28 · 2026-02-13
+- [@hey_yogini](https://x.com/hey_yogini) · [tweet](https://x.com/hey_yogini/status/2020869817067266129) — A user cancelled their subscription last week.  · 👁 7964 ❤ 83 🔖 23 · 2026-02-13
+- [@darel023](https://x.com/darel023) · [tweet](https://x.com/darel023/status/2020865191303377340) — 5 sections in a Bento, might turn it to 6 or 7... ⁶⁷ !!!! · 👁 1871 ❤ 15 🔖 7 · 2026-02-13
+- [@ayushsoni_io](https://x.com/ayushsoni_io) · [tweet](https://x.com/ayushsoni_io/status/2020438551327134035) — http://hex.inc/work/grafana · 👁 10758 ❤ 468 🔖 178 · 2026-02-12
+- [@drawsgood](https://x.com/drawsgood) · [tweet](https://x.com/drawsgood/status/2020725216947720195) — Got this loaded using the @rive_app Apple runtime! It utilizes scripting, cool to see it all working in the simulator. · 👁 11960 ❤ 249 🔖 105 · 2026-02-12
+- [@dakshpixelup](https://x.com/dakshpixelup) · [tweet](https://x.com/dakshpixelup/status/2020879109409099822) — elevenlabs just raised at $11B · 👁 20051 ❤ 250 🔖 257 · 2026-02-12
+- [@ksarme](https://x.com/ksarme) · [tweet](https://x.com/ksarme/status/2019060137583935600) — INTERNATIONAL ORANGE // LOGISTICS · 👁 20263 ❤ 160 🔖 125 · 2026-02-12
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/2020547068754870612) — More UI details · 👁 3562 ❤ 156 🔖 40 · 2026-02-12
+- [@moguzbulbul](https://x.com/moguzbulbul) · [tweet](https://x.com/moguzbulbul/status/2020853111032545788) — Product illustration @intrfacer · 👁 4948 ❤ 192 🔖 62 · 2026-02-12
+- [@faydesignsstuff](https://x.com/faydesignsstuff) · [tweet](https://x.com/faydesignsstuff/status/2020935375108309302) — Respecting people’s eyes, environments, and taste · 👁 50636 ❤ 986 🔖 545 · 2026-02-12
+- [@gunnargray](https://x.com/gunnargray) · [tweet](https://x.com/gunnargray/status/2021273849485005026) — Unicode braille animations ⠿ · 👁 115323 ❤ 2054 🔖 1744 · 2026-02-12
+- [@bnj](https://x.com/bnj) · [tweet](https://x.com/bnj/status/2021330958671380625) — We made a tool that lets you absorb the vibe of anything you point it at and apply it to your designs · 👁 2888290 ❤ 12793 🔖 16680 · 2026-02-12
+- [@mlfrg](https://x.com/mlfrg) · [tweet](https://x.com/mlfrg/status/2020800035009483054) — made a page on my website featuring personal homepages of friends and folks I admire. who should I add next? · 👁 36400 ❤ 872 🔖 726 · 2026-02-12
+- [@Tycreated](https://x.com/Tycreated) · [tweet](https://x.com/tycreated/status/2021671061440672082) — Designed an enneagram for vibe coders in @variantui  · 👁 4704 ❤ 89 🔖 68 · 2026-02-12
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/2021677766551478317) — overdue refresh to the portfolio · 👁 6525 ❤ 182 🔖 167 · 2026-02-12
+- [@robertvklinken](https://x.com/robertvklinken) · [tweet](https://x.com/robertvklinken/status/2021612219566276982) — Just discovered this little note taking app called Scratch. Local markdown notes, super simple, no accounts. 10/10.  · 👁 22796 ❤ 483 🔖 513 · 2026-02-12
+- [@hiaaryan](https://x.com/hiaaryan) · [tweet](https://x.com/hiaaryan/status/2021679842291511356) — new toast library dropping soon  · 👁 12155 ❤ 388 🔖 217 · 2026-02-12
+- [@steveschoger](https://x.com/steveschoger) · [tweet](https://x.com/steveschoger/status/2021689629087310082) — Here's a closer peek of the design  · 👁 3870 ❤ 31 🔖 10 · 2026-02-12
+- [@iPariola](https://x.com/iPariola) · [tweet](https://x.com/iPariola/status/2021533771372138610) — [See More Interaction] with a Contextual Last Read Tag  · 👁 2541 ❤ 69 🔖 24 · 2026-02-12
+- [@raul_dronca](https://x.com/raul_dronca) · [tweet](https://x.com/raul_dronca/status/2021603086398079246) — Draggable Curved Tabs · 👁 17493 ❤ 273 🔖 151 · 2026-02-12
+- [@joshmillgate](https://x.com/joshmillgate) · [tweet](https://x.com/joshmillgate/status/2021649230188929044) — Got around to shipping a lil refresh on my personal site, it has a fun lil orb component that reacts to interactions  · 👁 1410 ❤ 33 🔖 12 · 2026-02-12
+- [@steveschoger](https://x.com/steveschoger) · [tweet](https://x.com/steveschoger/status/2021689626004435047) — Having so much fun designing completely in Claude  · 👁 15306 ❤ 189 🔖 157 · 2026-02-12
+- [@areebadesigns](https://x.com/areebadesigns) · [tweet](https://x.com/areebadesigns/status/2019459299148226775) — Onto 2nd @framer template · 👁 8309 ❤ 248 🔖 137 · 2026-02-08
+- [@flowstated](https://x.com/flowstated) · [tweet](https://x.com/flowstated/status/2019882228512354729) — rewind anytime · 👁 1572 ❤ 24 🔖 17 · 2026-02-08
+- [@nandafyi](https://x.com/nandafyi) · [tweet](https://x.com/nandafyi/status/2019829782326984748) — found out about @seflless's slowmo package the other day, and it's so good for debugging animations · 👁 4288 ❤ 124 🔖 83 · 2026-02-08
+- [@ozenua_](https://x.com/ozenua_) · [tweet](https://x.com/ozenua_/status/2019693332562342146) — 10/10 website built for 10/10 clients · 👁 3399 ❤ 146 🔖 58 · 2026-02-07
+- [@cedric_design](https://x.com/cedric_design) · [tweet](https://x.com/cedric_design/status/2019455494516334605) — I love working with the @framer Workshop plugin and use it in nearly every project. · 👁 4943 ❤ 111 🔖 162 · 2026-02-07
+- [@adriankuleszo](https://x.com/adriankuleszo) · [tweet](https://x.com/adriankuleszo/status/2019776928908275845) — Droxy bento micro-animations. · 👁 15105 ❤ 315 🔖 282 · 2026-02-07
+- [@ammybuilds](https://x.com/ammybuilds) · [tweet](https://x.com/ammybuilds/status/2019934675515633747) — This font is so awesome. Instant download. · 👁 69 ❤ 3 🔖 0 · 2026-02-07
+- [@mikker](https://x.com/mikker) · [tweet](https://x.com/mikker/status/2019689268990595580) — I've built an entirely new, 100% native, extendable, themeable, modal cmd-space launcher for macOS. · 👁 95297 ❤ 1080 🔖 886 · 2026-02-07
+- [@kail_designs](https://x.com/kail_designs) · [tweet](https://x.com/kail_designs/status/2019702730613506409) — Can't believe this is a government website · 👁 33360 ❤ 167 🔖 94 · 2026-02-07
+- [@snigdha835731](https://x.com/snigdha835731) · [tweet](https://x.com/snigdha835731/status/2019811168463065428) — AI-Integrated saas home page. How is it? · 👁 726 ❤ 36 🔖 7 · 2026-02-07
+- [@vitalyframes](https://x.com/vitalyframes) · [tweet](https://x.com/vitalyframes/status/2019854163903938732) — Google Meet · 👁 1143 ❤ 53 🔖 19 · 2026-02-07
+- [@benjitaylor](https://x.com/benjitaylor) · [tweet](https://x.com/benjitaylor/status/2019853680556888215) — Had some fun making these animated diagrams for the Agentation site. Used @balintorosz's beautiful-mermaid package to render the diagrams, then figured out a simple prompt to animate them with Claude. · 👁 8800 ❤ 233 🔖 194 · 2026-02-07
+- [@biyified](https://x.com/biyified) · [tweet](https://x.com/biyified/status/2019499853059879314) — my new @Framer template is ready ... you can get it now   · 👁 4600 ❤ 143 🔖 87 · 2026-02-07
+- [@amnxnet](https://x.com/amnxnet) · [tweet](https://x.com/amnxnet/status/2019690489969365071) — Design is how it works… · 👁 15445 ❤ 298 🔖 288 · 2026-02-07
+- [@rolledpipe](https://x.com/rolledpipe) · [tweet](https://x.com/rolledpipe/status/2019485096487895074) — Recent AI states exploration with @rive_app · 👁 8967 ❤ 326 🔖 152 · 2026-02-07
+- [@aliszu](https://x.com/aliszu) · [tweet](https://x.com/aliszu/status/2019491036381196681) — system/light/dark · 👁 8505 ❤ 160 🔖 64 · 2026-02-07
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/2019414677575594350) — AI Create Alarm Application · 👁 64574 ❤ 1090 🔖 951 · 2026-02-07
+- [@diegohaz](https://x.com/diegohaz) · [tweet](https://x.com/diegohaz/status/2019386787244962256) — Some checkbox cards I’ve been working on. · 👁 20994 ❤ 570 🔖 329 · 2026-02-07
+- [@socoloffalex](https://x.com/socoloffalex) · [tweet](https://x.com/socoloffalex/status/2019789934610260441) — Hey algorithm, can you please share this with people who are really into beautiful design. · 👁 6747 ❤ 206 🔖 94 · 2026-02-07
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/2019415941545709959) — This is one of the best minimal Pseudo (animation) landing page design we built. · 👁 72258 ❤ 1003 🔖 855 · 2026-02-07
+- [@gaddafirusli](https://x.com/gaddafirusli) · [tweet](https://x.com/gaddafirusli/status/2019672561869812033) — Should the section title be aligned to the list item or the icon container? · 👁 66872 ❤ 405 🔖 212 · 2026-02-07
+- [@jh3yy](https://x.com/jh3yy) · [tweet](https://x.com/jh3yy/status/2019918728440283481) — one way w/ css  · 👁 16364 ❤ 394 🔖 264 · 2026-02-07
+- [@ux_rahul](https://x.com/ux_rahul) · [tweet](https://x.com/ux_rahul/status/2019685490182815898) — My latest template “ATHER” just landed on @framer marketplace. · 👁 1048 ❤ 52 🔖 15 · 2026-02-07
+- [@raphaelsalaja](https://x.com/raphaelsalaja) · [tweet](https://x.com/raphaelsalaja/status/2019406919975276724) — claude + web audio api = delightful sounds · 👁 18583 ❤ 394 🔖 306 · 2026-02-07
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/2019374470511882383) — Notification interaction · 👁 21676 ❤ 685 🔖 502 · 2026-02-06
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2019421779022987380) — Why are sliders still pretending pixels don’t exist? · 👁 25750 ❤ 264 🔖 187 · 2026-02-06
+- [@hunterthompson](https://x.com/hunterthompson) · [tweet](https://x.com/hunterthompson/status/2019094557640781924) — From day to  night on hover  · 👁 11093 ❤ 256 🔖 198 · 2026-02-06
+- [@DesignByMarso](https://x.com/DesignByMarso) · [tweet](https://x.com/designbymarso/status/2018722623069344228) — This is a giveaway of my @framer template Nocta (normally $69). · 👁 3573 ❤ 135 🔖 49 · 2026-02-06
+- [@Una](https://x.com/Una) · [tweet](https://x.com/Una/status/2019124694037983574) — My favorite part of @argyleink's customizable select is the sticky section headers  · 👁 7963 ❤ 187 🔖 95 · 2026-02-06
+- [@bakkenbaeck](https://x.com/bakkenbaeck) · [tweet](https://x.com/bakkenbaeck/status/2018997526393762071) — From the cutting room floor  During a web redesign for an arts+culture app, we explored turning geometric brand elements into bullets, micro-interactions, and hover states. Infinite carousels vs archi · 👁 3994 ❤ 81 🔖 58 · 2026-02-06
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2019037032178409798) — Destructive actions shouldn’t be instant. Press. Hold. Mean it. · 👁 5146 ❤ 123 🔖 54 · 2026-02-06
+- [@privetavdey](https://x.com/privetavdey) · [tweet](https://x.com/privetavdey/status/2019042394713530428) — Cute little details · 👁 2312 ❤ 102 🔖 51 · 2026-02-06
+- [@barlydesign](https://x.com/barlydesign) · [tweet](https://x.com/barlydesign/status/2019237080153686237) — Synchro - Project Management - Dashboard  · 👁 133 ❤ 6 🔖 2 · 2026-02-06
+- [@kubadesign](https://x.com/kubadesign) · [tweet](https://x.com/kubadesign/status/2019033489698607598) — there's more to it · 👁 28642 ❤ 462 🔖 280 · 2026-02-06
+- [@chunonline](https://x.com/chunonline) · [tweet](https://x.com/chunonline/status/2018766973417701649) — I’ve only used my human brain twice in product decisions since November. (Will write more about this later) · 👁 18512 ❤ 175 🔖 256 · 2026-02-06
+- [@raphaelsalaja](https://x.com/raphaelsalaja) · [tweet](https://x.com/raphaelsalaja/status/2019057022700863551) — demo component from my 12 principles of animations article · 👁 14766 ❤ 418 🔖 277 · 2026-02-06
+- [@forloopcodes](https://x.com/forloopcodes) · [tweet](https://x.com/forloopcodes/status/2019105534679622107) —  BREAKING: Claude Sonnet 5 is INSANE! · 👁 160616 ❤ 1085 🔖 1217 · 2026-02-06
+- [@lichinlin](https://x.com/lichinlin) · [tweet](https://x.com/lichinlin/status/2019084548072689980) —  Blossom Color Picker built with @motiondotdev · 👁 14532 ❤ 409 🔖 272 · 2026-02-06
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2018331152667312336) — If your carousel doesn’t have depth, it’s just a slider. · 👁 28256 ❤ 542 🔖 413 · 2026-02-06
+- [@ridd_design](https://x.com/ridd_design) · [tweet](https://x.com/ridd_design/status/2019191559200338312) — having fun with shaders for this preview component  · 👁 5397 ❤ 95 🔖 60 · 2026-02-06
+- [@Puran_designs](https://x.com/Puran_designs) · [tweet](https://x.com/puran_designs/status/2018318080045351026) — Sneak peek  · 👁 12295 ❤ 321 🔖 163 · 2026-02-06
+- [@wekodek](https://x.com/wekodek) · [tweet](https://x.com/wekodek/status/2018600959111242187) — designers, this is for you: · 👁 19548 ❤ 212 🔖 275 · 2026-02-06
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/2013931465742958710) — Custom Icons and hover animations for the new project · 👁 25368 ❤ 977 🔖 344 · 2026-02-06
+- [@oguzyagizkara](https://x.com/oguzyagizkara) · [tweet](https://x.com/oguzyagizkara/status/2019019517012140141) — WIP 2  · 👁 12730 ❤ 441 🔖 247 · 2026-02-06
+- [@joaopaulots](https://x.com/joaopaulots) · [tweet](https://x.com/joaopaulots/status/2019123435310596275) — Nothing is tougher for a designer than creating their own portfolio and refining every detail. · 👁 31388 ❤ 1049 🔖 730 · 2026-02-06
+- [@katarinabatina](https://x.com/katarinabatina) · [tweet](https://x.com/katarinabatina/status/2018734068536377426) — Shop's got a new feed  We've combined your shopping from across Shopify stores, making it easy to browse updates from brands you love and discover new ones to fall in love with while getting a real fe · 👁 30429 ❤ 227 🔖 112 · 2026-02-05
+- [@pontusab](https://x.com/pontusab) · [tweet](https://x.com/pontusab/status/2018646830897357185) — light mode · 👁 11618 ❤ 195 🔖 92 · 2026-02-05
+- [@konrad_designs](https://x.com/konrad_designs) · [tweet](https://x.com/konrad_designs/status/2018661427213697056) — Thanks for first 100 followers on x! On this occasion, a design with my latest favorite component made in Framer using the workshop! · 👁 1351 ❤ 43 🔖 6 · 2026-02-05
+- [@piyushsphere](https://x.com/piyushsphere) · [tweet](https://x.com/piyushsphere/status/2018930844262678832) — IDE exploration.  · 👁 553 ❤ 14 🔖 2 · 2026-02-05
+- [@BenjaminUIX](https://x.com/BenjaminUIX) · [tweet](https://x.com/BenjaminUIX/status/2018687701671608595) — Cooked something new!  · 👁 6428 ❤ 218 🔖 115 · 2026-02-05
+- [@yuhanglu](https://x.com/yuhanglu) · [tweet](https://x.com/yuhanglu/status/2018432835749560527) — archive. · 👁 18173 ❤ 720 🔖 213 · 2026-02-05
+- [@avstorm](https://x.com/avstorm) · [tweet](https://x.com/avstorm/status/2018757923950752105) — The Xcode intro animation is awesome · 👁 41458 ❤ 551 🔖 109 · 2026-02-05
+- [@swarnima_otw](https://x.com/swarnima_otw) · [tweet](https://x.com/swarnima_otw/status/2018659026712822249) — Interaction design from our recent project · 👁 2099 ❤ 95 🔖 34 · 2026-02-05
+- [@matthew_3701](https://x.com/matthew_3701) · [tweet](https://x.com/matthew_3701/status/2018335277673042041) — Molten metal borders with dynamic flow and lighting effects for React Native · 👁 3869 ❤ 95 🔖 83 · 2026-02-05
+- [@rebrandgallery](https://x.com/rebrandgallery) · [tweet](https://x.com/rebrandgallery/status/2018731527123972126) — Arena Rebrand by Made by Fern  · 👁 7994 ❤ 239 🔖 123 · 2026-02-05
+- [@vamsibatchuk](https://x.com/vamsibatchuk) · [tweet](https://x.com/vamsibatchuk/status/2018861119461372302) — i keep making map apps and it's so much fun. one another ai studio experiment that shows dinosaur fossil sites around the world.  · 👁 4777 ❤ 128 🔖 84 · 2026-02-05
+- [@ChallengesCss](https://x.com/ChallengesCss) · [tweet](https://x.com/ChallengesCss/status/2018627183292633517) — A CSS-only elastic hover effect, because why not? · 👁 14297 ❤ 199 🔖 126 · 2026-02-05
+- [@alex_krasikau](https://x.com/alex_krasikau) · [tweet](https://x.com/alex_krasikau/status/2018654541106106776) — Operate website has been nominated for the Awwwards Honors · 👁 3946 ❤ 80 🔖 20 · 2026-02-05
+- [@tranmautritam](https://x.com/tranmautritam) · [tweet](https://x.com/tranmautritam/status/2018328470011662778) — Speak louder · 👁 4888 ❤ 103 🔖 30 · 2026-02-05
+- [@pranathiperii](https://x.com/pranathiperii) · [tweet](https://x.com/pranathiperii/status/2018347695644057991) — onboarding · 👁 28758 ❤ 858 🔖 654 · 2026-02-05
+- [@kyleanthony](https://x.com/kyleanthony) · [tweet](https://x.com/kyleanthony/status/2018675476470915216) — Minimal type design · 👁 24964 ❤ 1109 🔖 522 · 2026-02-05
+- [@d__raptis](https://x.com/d__raptis) · [tweet](https://x.com/d__raptis/status/2018715677931282922) — found this team section where photos transform into videos on hover. · 👁 5269 ❤ 92 🔖 64 · 2026-02-05
+- [@FredWanders](https://x.com/FredWanders) · [tweet](https://x.com/FredWanders/status/2018242158071861365) — Footer we just shipped. · 👁 28777 ❤ 867 🔖 520 · 2026-02-05
+- [@staromlynski](https://x.com/staromlynski) · [tweet](https://x.com/staromlynski/status/2018613605420114404) — Request Latency card made in both light and dark mode without any excessive entrance animation · 👁 2924 ❤ 93 🔖 42 · 2026-02-05
+- [@kumailnanji](https://x.com/kumailnanji) · [tweet](https://x.com/kumailnanji/status/2018717083932967256) — millions of cursor tokens later... got a fully functioning backend/frontend pipeline · 👁 38034 ❤ 526 🔖 465 · 2026-02-05
+- [@jh3yy](https://x.com/jh3yy) · [tweet](https://x.com/jh3yy/status/1941272674464039232) — custom <select> with CSS  · 👁 209110 ❤ 4309 🔖 3063 · 2026-02-05
+- [@by__huy](https://x.com/by__huy) · [tweet](https://x.com/by__huy/status/2018443377591931061) — After 50+ discovery calls with founder-led brands scaling up-market, I keep seeing the same 3 problems: · 👁 3010 ❤ 82 🔖 58 · 2026-02-05
+- [@AndreaMontini](https://x.com/AndreaMontini) · [tweet](https://x.com/AndreaMontini/status/2018641406936449270) — Design collection worth sharing · 👁 2674 ❤ 135 🔖 80 · 2026-02-05
+- [@argyleink](https://x.com/argyleink) · [tweet](https://x.com/argyleink/status/2018737944622944378) — Wild how far you can push "customizable select" with just #CSS · 👁 35887 ❤ 614 🔖 448 · 2026-02-05
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2018686053368897878) — Most switches toggle. This one responds. · 👁 10743 ❤ 224 🔖 114 · 2026-02-04
+- [@ShadowedArts](https://x.com/ShadowedArts) · [tweet](https://x.com/ShadowedArts/status/2018368249759690875) — Brand Identity design for Verse Studio · 👁 9698 ❤ 473 🔖 171 · 2026-02-04
+- [@shiv_visual](https://x.com/shiv_visual) · [tweet](https://x.com/shiv_visual/status/2018612499625787881) — slider ui made with react and motion · 👁 49541 ❤ 1709 🔖 905 · 2026-02-04
+- [@azhassan_](https://x.com/azhassan_) · [tweet](https://x.com/azhassan_/status/2018342393410400408) — Experimenting with scroll effects using shaders  · 👁 52513 ❤ 1006 🔖 663 · 2026-02-04
+- [@andy_hooke](https://x.com/andy_hooke) · [tweet](https://x.com/andy_hooke/status/2018363784532729907) — A good week for new SaaS landing pages · 👁 25954 ❤ 491 🔖 452 · 2026-02-04
+- [@viktorhofte](https://x.com/viktorhofte) · [tweet](https://x.com/viktorhofte/status/2018725322712027255) — Midday onboarding · 👁 27049 ❤ 528 🔖 494 · 2026-02-04
+- [@filipoviclazar_](https://x.com/filipoviclazar_) · [tweet](https://x.com/filipoviclazar_/status/2018753928628719669) — We keep going with this super cool SaaS Framer template  · 👁 2190 ❤ 73 🔖 34 · 2026-02-04
+- [@ezDecode](https://x.com/ezDecode) · [tweet](https://x.com/ezDecode/status/2018360913905193181) — Smooth enough @motiondotdev @raphaelsalaja (Thanks for the easing lesson) · 👁 15572 ❤ 441 🔖 304 · 2026-02-04
+- [@rndr_realm](https://x.com/rndr_realm) · [tweet](https://x.com/rndr_realm/status/2018274138201235866) — Message dropdown with a gooey effect. · 👁 22894 ❤ 587 🔖 409 · 2026-02-04
+- [@diegohaz](https://x.com/diegohaz) · [tweet](https://x.com/diegohaz/status/2018569968514937305) — This border-radius transition  · 👁 163835 ❤ 2373 🔖 1487 · 2026-02-04
+- [@k_grajeda](https://x.com/k_grajeda) · [tweet](https://x.com/k_grajeda/status/2018769520547012702) — bloom + HDR on web · 👁 35677 ❤ 941 🔖 786 · 2026-02-04
+- [@basit_designs](https://x.com/basit_designs) · [tweet](https://x.com/basit_designs/status/2018287757076869566) — When design looks this sharp, investors assume the numbers are too. · 👁 477350 ❤ 5158 🔖 5300 · 2026-02-04
+- [@highpfloat](https://x.com/highpfloat) · [tweet](https://x.com/highpfloat/status/2018368822609342787) — I wrote a technical demo article explaining how you can build a seamless interactive web experience using the @greensock animation library alongside other techs like WebGL and page transitions. · 👁 30200 ❤ 851 🔖 910 · 2026-02-04
+- [@devxnuj](https://x.com/devxnuj) · [tweet](https://x.com/devxnuj/status/2016059982123585804) — Brand design done right for FollowUp Sun · 👁 6835 ❤ 333 🔖 121 · 2026-02-04
+- [@OsaurusAI](https://x.com/OsaurusAI) · [tweet](https://x.com/osaurusai/status/2016211421391159716) — Grok on your Mac. Native. Private. · 👁 48435 ❤ 464 🔖 301 · 2026-02-04
+- [@hugomercierooo](https://x.com/hugomercierooo) · [tweet](https://x.com/hugomercierooo/status/2016222038248083857) — 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗧𝘄𝗶𝗻 — 𝘁𝗵𝗲 𝗔𝗜 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗯𝘂𝗶𝗹𝗱𝗲𝗿. · 👁 3037791 ❤ 8292 🔖 10475 · 2026-02-04
+- [@vamsibatchuk](https://x.com/vamsibatchuk) · [tweet](https://x.com/vamsibatchuk/status/2016535471736721663) — next @GoogleAIStudio vibe experiment 'brewprint'  is live - search any drink and get its full story on a single card. old fashioned, guinness, champagne - and it generates a card with the history, fla · 👁 11928 ❤ 133 🔖 108 · 2026-02-04
+- [@figma](https://x.com/figma) · [tweet](https://x.com/figma/status/2016198567631978909) — Do more with Glass · 👁 1100105 ❤ 3604 🔖 1583 · 2026-02-04
+- [@vanschneider](https://x.com/vanschneider) · [tweet](https://x.com/vanschneider/status/2016585971446247669) — I'm still love this landing page for our mobile app. Keeps things simple and focuses on the use cases that matter most on mobile. · 👁 16918 ❤ 389 🔖 244 · 2026-02-04
+- [@nikitakoshi](https://x.com/nikitakoshi) · [tweet](https://x.com/nikitakoshi/status/2017464299854127266) — updated my site. · 👁 11154 ❤ 277 🔖 183 · 2026-02-04
+- [@k_grajeda](https://x.com/k_grajeda) · [tweet](https://x.com/k_grajeda/status/2017358045957759121) — funny thing, my original loader doesn’t use keyframes. it just loops opacity with a per‑pixel delay array + a duration param. less flexible than keyframes, but gives a different effect · 👁 122720 ❤ 1472 🔖 1560 · 2026-02-04
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/carlbeaverson/status/2017762315400331648) — Website for oil & gas tech innovation company. Live at https://onspecdaq.com · 👁 7351 ❤ 261 🔖 167 · 2026-02-04
+- [@_remusa](https://x.com/_remusa) · [tweet](https://x.com/_remusa/status/2018021467053596955) — Scada interface design for power grid operators. · 👁 60110 ❤ 1543 🔖 1001 · 2026-02-04
+- [@willking](https://x.com/willking) · [tweet](https://x.com/willking/status/2016562002676617632) — ASCII loaders are very underrated. · 👁 57481 ❤ 800 🔖 604 · 2026-02-04
+- [@AdamBartas](https://x.com/AdamBartas) · [tweet](https://x.com/adambartas/status/2018263939369631918) — Everyone can create a "good" design now · 👁 725 ❤ 24 🔖 5 · 2026-02-03
+- [@bartek_marzec](https://x.com/bartek_marzec) · [tweet](https://x.com/bartek_marzec/status/2016335417042219342) — Good micro-interactions work as clues inside the app. · 👁 17077 ❤ 471 🔖 376 · 2026-02-03
+- [@staromlynski](https://x.com/staromlynski) · [tweet](https://x.com/staromlynski/status/2018298382641488255) — Modal Exploration to share a custom view of your infrastructure selection in light and dark mode · 👁 4802 ❤ 150 🔖 87 · 2026-02-03
+- [@aidenybai](https://x.com/aidenybai) · [tweet](https://x.com/aidenybai/status/2018180446853779483) — what?? · 👁 6470 ❤ 122 🔖 28 · 2026-02-03
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/2018371415817249161) — Share project (dark mode) · 👁 1852 ❤ 80 🔖 34 · 2026-02-03
+- [@Satto_studio](https://x.com/Satto_studio) · [tweet](https://x.com/Satto_studio/status/2018034364181782660) — Oblica — minimal, focused, visual. · 👁 2030 ❤ 77 🔖 24 · 2026-02-03
+- [@lifeofmansoor](https://x.com/lifeofmansoor) · [tweet](https://x.com/lifeofmansoor/status/2018202725599650258) — January, 2026 · 👁 1759 ❤ 63 🔖 21 · 2026-02-03
+- [@GotinGeorgiG](https://x.com/GotinGeorgiG) · [tweet](https://x.com/GotinGeorgiG/status/2017626768773951844) — January design recap · 👁 9899 ❤ 364 🔖 192 · 2026-02-03
+- [@bashar_me1](https://x.com/bashar_me1) · [tweet](https://x.com/bashar_me1/status/2018151682996412428) — Services from our recently published @framer template.  · 👁 712 ❤ 27 🔖 10 · 2026-02-03
+- [@sajiburdesign](https://x.com/sajiburdesign) · [tweet](https://x.com/sajiburdesign/status/2017836530426122324) — Agrovia - Modern Farming Website · 👁 1885 ❤ 120 🔖 34 · 2026-02-03
+- [@ItsPeterDesign](https://x.com/ItsPeterDesign) · [tweet](https://x.com/ItsPeterDesign/status/2018222633939013855) — I just created this design. · 👁 1185 ❤ 67 🔖 22 · 2026-02-03
+- [@acorn_lee_](https://x.com/acorn_lee_) · [tweet](https://x.com/acorn_lee_/status/2017765051722305927) — "How calm are you today?" · 👁 15159 ❤ 322 🔖 181 · 2026-02-03
+- [@HeyAnsariUX](https://x.com/HeyAnsariUX) · [tweet](https://x.com/HeyAnsariUX/status/2017997439404491001) — Big fan of these widgets · 👁 9287 ❤ 420 🔖 171 · 2026-02-03
+- [@santu_design](https://x.com/santu_design) · [tweet](https://x.com/santu_design/status/2018012022496022693) — january design recap · 👁 2544 ❤ 133 🔖 44 · 2026-02-03
+- [@pierreeliottlal](https://x.com/pierreeliottlal) · [tweet](https://x.com/pierreeliottlal/status/2017873486052458832) — It’s crazy how one single video can change a business. · 👁 31895 ❤ 468 🔖 626 · 2026-02-03
+- [@Shorya_codes](https://x.com/Shorya_codes) · [tweet](https://x.com/Shorya_codes/status/2017947543494373545) — Scan receipt component built using react and framer motion · 👁 3910 ❤ 94 🔖 57 · 2026-02-03
+- [@ezDecode](https://x.com/ezDecode) · [tweet](https://x.com/ezDecode/status/2018044891377676517) — What a absolute progress this weekend! @motiondotdev AI is Killing!! · 👁 3409 ❤ 35 🔖 27 · 2026-02-03
+- [@slavakornilov](https://x.com/slavakornilov) · [tweet](https://x.com/slavakornilov/status/2017976241148846337) — Shamel · 👁 1944 ❤ 55 🔖 15 · 2026-02-03
+- [@bruce_CQT](https://x.com/bruce_CQT) · [tweet](https://x.com/bruce_CQT/status/2017702095437369707) — self-correcting agent from Tensorlake  project w/ @ayushsoni_io & http://hex.inc · 👁 222677 ❤ 1468 🔖 1447 · 2026-02-03
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/2018130209430438209) — Should I release this as a @framer template? · 👁 3693 ❤ 159 🔖 71 · 2026-02-03
+- [@shaigexp](https://x.com/shaigexp) · [tweet](https://x.com/shaigexp/status/2017649865459642377) — Nothing beats a weekend prototyping fresh ideas in @framer · 👁 6242 ❤ 218 🔖 118 · 2026-02-03
+- [@dnaijatechguy](https://x.com/dnaijatechguy) · [tweet](https://x.com/dnaijatechguy/status/2017646951492178202) — I've missed doing design explorations. Tried to do some cool stuff for Valentine's day.  So you can probably use this for page for your partner. · 👁 14308 ❤ 195 🔖 120 · 2026-02-03
+- [@AdarshSingh_in](https://x.com/AdarshSingh_in) · [tweet](https://x.com/AdarshSingh_in/status/2018020870401466509) — designed on @figma  · 👁 277 ❤ 11 🔖 3 · 2026-02-03
+- [@heyshihab](https://x.com/heyshihab) · [tweet](https://x.com/heyshihab/status/2017940929446113600) — Branding project for Osan, inspired by Greek aesthetics · 👁 18758 ❤ 633 🔖 365 · 2026-02-03
+- [@justinmfarrugia](https://x.com/justinmfarrugia) · [tweet](https://x.com/justinmfarrugia/status/2017675843833672089) — going to start sending a monthly recap for http://curated.supply · 👁 7443 ❤ 106 🔖 79 · 2026-02-02
+- [@HiTw93](https://x.com/HiTw93) · [tweet](https://x.com/HiTw93/status/2018109861201093052) — Tool UI is a React framework for conversation-native UIs. Tools return JSON, and Tool UI renders it as inline, narrated, referenceable surfaces inside messages, optimized for chat width and scroll. It · 👁 33586 ❤ 428 🔖 637 · 2026-02-02
+- [@GotinGeorgiG](https://x.com/GotinGeorgiG) · [tweet](https://x.com/GotinGeorgiG/status/2017991026640605599) — Blog section design exploration  · 👁 2597 ❤ 135 🔖 32 · 2026-02-02
+- [@disarto_max](https://x.com/disarto_max) · [tweet](https://x.com/disarto_max/status/2018011472173904307) — Podcast player (dark mode) · 👁 5614 ❤ 230 🔖 112 · 2026-02-02
+- [@Aurelien_Gz](https://x.com/Aurelien_Gz) · [tweet](https://x.com/Aurelien_Gz/status/2017567141847851102) — how to turn boring onboarding into a memorable experience.. · 👁 35583 ❤ 569 🔖 448 · 2026-02-02
+- [@bilal_limi](https://x.com/bilal_limi) · [tweet](https://x.com/bilal_limi/status/2018073589384147095) — I usually go full custom on components just so i can own every tiny detail and hit all the weird edge cases along the way. · 👁 3420 ❤ 55 🔖 41 · 2026-02-02
+- [@mihirtwt](https://x.com/mihirtwt) · [tweet](https://x.com/mihirtwt/status/2018135780963872885) — sneak peek of the new landing page of cozzy corner, · 👁 1269 ❤ 54 🔖 16 · 2026-02-02
+- [@CarlBeaverson](https://x.com/CarlBeaverson) · [tweet](https://x.com/CarlBeaverson/status/2017762315400331648) — Website for oil & gas tech innovation company. Live at https://onspecdaq.com · 👁 6408 ❤ 234 🔖 145 · 2026-02-02
+- [@praveenisomer](https://x.com/praveenisomer) · [tweet](https://x.com/praveenisomer/status/2017923384492134732) — Dither + ASCII + Motion = · 👁 90623 ❤ 3144 🔖 2147 · 2026-02-02
+- [@adamwathan](https://x.com/adamwathan) · [tweet](https://x.com/adamwathan/status/2017987681532207111) — Too excited to be more strategic about sharing — demos coming this week  · 👁 328528 ❤ 3940 🔖 2591 · 2026-02-02
+- [@joshpuckett](https://x.com/joshpuckett) · [tweet](https://x.com/joshpuckett/status/2017966334815109587) — Meet InterfaceKit, a design tool for working with agents. · 👁 54289 ❤ 788 🔖 896 · 2026-02-02
+- [@ludoviclosco](https://x.com/ludoviclosco) · [tweet](https://x.com/ludoviclosco/status/2018248025697874283) — Don’t bother manually linking to a section in @framer for a “Back to top” button. · 👁 248 ❤ 14 🔖 2 · 2026-02-02
+- [@bossadizenith](https://x.com/bossadizenith) · [tweet](https://x.com/bossadizenith/status/2018018745210532202) — January dump. · 👁 26266 ❤ 568 🔖 504 · 2026-02-02
+- [@dimitroweb](https://x.com/dimitroweb) · [tweet](https://x.com/dimitroweb/status/2016769783958581680) — Iterating on it since yesterday, 1st class ticket created · 👁 68761 ❤ 1323 🔖 835 · 2026-01-30
+- [@mrblackstudio](https://x.com/mrblackstudio) · [tweet](https://x.com/mrblackstudio/status/2016637158430331188) — First pass on a modern remake of my 2008 Flash portfolio. Made in @framer Workshop. · 👁 207 ❤ 4 🔖 0 · 2026-01-30
+- [@srotimi_ui](https://x.com/srotimi_ui) · [tweet](https://x.com/srotimi_ui/status/2016461997387182327) — I designed this website a few months ago for a product design project I was working on. · 👁 2442 ❤ 51 🔖 20 · 2026-01-30
+- [@tejashinduja](https://x.com/tejashinduja) · [tweet](https://x.com/tejashinduja/status/2016447097516728661) — ⎄ colorblock · 👁 1758 ❤ 106 🔖 26 · 2026-01-30
+- [@dnaijatechguy](https://x.com/dnaijatechguy) · [tweet](https://x.com/dnaijatechguy/status/2016466251682329014) — We’ve made some upgrades to Mistral Vibe. · 👁 2843 ❤ 83 🔖 23 · 2026-01-30
+- [@j_kyorov](https://x.com/j_kyorov) · [tweet](https://x.com/j_kyorov/status/2016512100722491894) — Tracking stats can be addictive especially if done right!  · 👁 2058 ❤ 97 🔖 41 · 2026-01-30
+- [@mikun_ux](https://x.com/mikun_ux) · [tweet](https://x.com/mikun_ux/status/2016446218377793626) — random old work. · 👁 896 ❤ 28 🔖 8 · 2026-01-30
+- [@ludoviclosco](https://x.com/ludoviclosco) · [tweet](https://x.com/ludoviclosco/status/2016147967468544399) —  These 3 @framer components are now FREE for 48H · 👁 4281 ❤ 146 🔖 62 · 2026-01-30
+- [@DrapzDZN](https://x.com/DrapzDZN) · [tweet](https://x.com/DrapzDZN/status/2016563111634047129) — Finest card design collection you'll ever see · 👁 2634 ❤ 149 🔖 47 · 2026-01-30
+- [@HamzaInstantly](https://x.com/HamzaInstantly) · [tweet](https://x.com/HamzaInstantly/status/2016640979135078848) — (no text) · 👁 65 ❤ 8 🔖 0 · 2026-01-30
+- [@pranathiperii](https://x.com/pranathiperii) · [tweet](https://x.com/pranathiperii/status/2016618814494982315) — in the next few days, we're slowly rolling a ton of changes that make it easier for you to use v0 in your existing projects and repos.  · 👁 2674 ❤ 69 🔖 32 · 2026-01-30
+- [@AndreaMontini](https://x.com/AndreaMontini) · [tweet](https://x.com/AndreaMontini/status/2016467115570610237) — AI companies are raising millions with design like this · 👁 4574 ❤ 145 🔖 89 · 2026-01-30
+- [@ShadowedArts](https://x.com/ShadowedArts) · [tweet](https://x.com/ShadowedArts/status/2016182887079629077) — a few cards · 👁 3100 ❤ 149 🔖 49 · 2026-01-30

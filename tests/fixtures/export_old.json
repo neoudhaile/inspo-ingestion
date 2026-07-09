@@ -1,0 +1,1204 @@
+[
+  {
+    "id": "2059270334470140061",
+    "created_at": "2026-05-26 09:48:01 -04:00",
+    "full_text": "Weird Folders has been featured in Site of Sites \ud83c\udf89 https://t.co/OIid4DauJg",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/OIid4DauJg",
+        "thumbnail": "https://pbs.twimg.com/media/HJP_aFGXEAApvIR?format=jpg&name=thumb",
+        "original": "https://pbs.twimg.com/media/HJP_aFGXEAApvIR?format=jpg&name=orig"
+      }
+    ],
+    "screen_name": "chusmargallo",
+    "name": "Chus \ud83d\udca2",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2016635984176115712/cseuOqy6_normal.jpg",
+    "user_id": "53686393",
+    "in_reply_to": null,
+    "retweeted_status": null,
+    "quoted_status": null,
+    "media_tags": [],
+    "favorite_count": 1125,
+    "retweet_count": 67,
+    "bookmark_count": 552,
+    "quote_count": 0,
+    "reply_count": 16,
+    "views_count": 22174,
+    "favorited": true,
+    "retweeted": false,
+    "bookmarked": true,
+    "url": "https://twitter.com/chusmargallo/status/2059270334470140061",
+    "metadata": {
+      "__typename": "Tweet",
+      "cashtag_attachments": [],
+      "core": {
+        "user_results": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2016635984176115712/cseuOqy6_normal.jpg"
+            },
+            "core": {
+              "created_at": "Sat Jul 04 15:04:09 +0000 2009",
+              "name": "Chus \ud83d\udca2",
+              "screen_name": "chusmargallo"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjo1MzY4NjM5Mw==",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Multidisciplinary designer mixing branding, web and illustration. I make weird retro internet sites people like. Last project: https://t.co/ryFL716gLL",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "weirdfolders.com",
+                      "expanded_url": "https://weirdfolders.com",
+                      "indices": [
+                        127,
+                        150
+                      ],
+                      "url": "https://t.co/ryFL716gLL"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "chusmargallo.space",
+                      "expanded_url": "https://chusmargallo.space/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/izlrDcRtzC"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 43464,
+              "follow_request_sent": false,
+              "followers_count": 1590,
+              "friends_count": 1189,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 106,
+              "media_count": 3535,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1590,
+              "notifications": false,
+              "pinned_tweet_ids_str": [
+                "2059646056808198328"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/53686393/1777071426",
+              "profile_interstitial_type": "",
+              "statuses_count": 21877,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/izlrDcRtzC",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "location": {
+              "location": "Barcelona, Espa\u00f1a"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "Multidisciplinary designer mixing branding, web and illustration. I make weird retro internet sites people like. Last project: https://t.co/ryFL716gLL"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "53686393",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "edit_control": {
+        "edit_tweet_ids": [
+          "2059270334470140061"
+        ],
+        "editable_until_msecs": "1779806881000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      },
+      "grok_analysis_button": true,
+      "grok_annotations": {
+        "is_image_editable_by_grok": true
+      },
+      "grok_translated_post_with_availability": {
+        "is_available": false
+      },
+      "is_translatable": false,
+      "legacy": {
+        "bookmark_count": 552,
+        "bookmarked": true,
+        "conversation_id_str": "2059270334470140061",
+        "created_at": "Tue May 26 13:48:01 +0000 2026",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "entities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/OIid4DauJg",
+              "expanded_url": "https://x.com/chusmargallo/status/2059270334470140061/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 956,
+                      "y": 838
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 57,
+                      "w": 57,
+                      "x": 570,
+                      "y": 499
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 956,
+                      "y": 838
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 32,
+                      "w": 32,
+                      "x": 323,
+                      "y": 283
+                    }
+                  ]
+                }
+              },
+              "id_str": "2059270278148984832",
+              "indices": [
+                51,
+                74
+              ],
+              "media_key": "3_2059270278148984832",
+              "media_results": {
+                "result": {
+                  "media_key": "3_2059270278148984832"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HJP_aFGXEAApvIR.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1127,
+                    "w": 2012,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 1508,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 1323,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 754,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 2012,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1508,
+                "width": 2012
+              },
+              "sizes": {
+                "large": {
+                  "h": 1508,
+                  "resize": "fit",
+                  "w": 2012
+                },
+                "medium": {
+                  "h": 899,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 510,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/OIid4DauJg"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/OIid4DauJg",
+              "expanded_url": "https://x.com/chusmargallo/status/2059270334470140061/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 956,
+                      "y": 838
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 57,
+                      "w": 57,
+                      "x": 570,
+                      "y": 499
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 956,
+                      "y": 838
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 32,
+                      "w": 32,
+                      "x": 323,
+                      "y": 283
+                    }
+                  ]
+                }
+              },
+              "id_str": "2059270278148984832",
+              "indices": [
+                51,
+                74
+              ],
+              "media_key": "3_2059270278148984832",
+              "media_results": {
+                "result": {
+                  "media_key": "3_2059270278148984832"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HJP_aFGXEAApvIR.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1127,
+                    "w": 2012,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 1508,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 1323,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 754,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1508,
+                    "w": 2012,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1508,
+                "width": 2012
+              },
+              "sizes": {
+                "large": {
+                  "h": 1508,
+                  "resize": "fit",
+                  "w": 2012
+                },
+                "medium": {
+                  "h": 899,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 510,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/OIid4DauJg"
+            }
+          ]
+        },
+        "favorite_count": 1125,
+        "favorited": true,
+        "full_text": "Weird Folders has been featured in Site of Sites \ud83c\udf89 https://t.co/OIid4DauJg",
+        "id_str": "2059270334470140061",
+        "is_quote_status": false,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "quote_count": 0,
+        "reply_count": 16,
+        "retweet_count": 67,
+        "retweeted": false,
+        "user_id_str": "53686393"
+      },
+      "rest_id": "2059270334470140061",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmention_data": {},
+      "views": {
+        "count": "22174",
+        "state": "EnabledWithCount"
+      },
+      "twe_private_fields": {
+        "created_at": 1779803281000,
+        "updated_at": 1779930218122,
+        "media_count": 1
+      }
+    }
+  },
+  {
+    "id": "2058899636069265604",
+    "created_at": "2026-05-25 09:15:00 -04:00",
+    "full_text": "Wildlife.exe corrupted successfully. https://t.co/ZEK8urQZb6",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://t.co/ZEK8urQZb6",
+        "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2058616432750104576/img/s26H-7jnE3mqZWKU.jpg?name=thumb",
+        "original": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/3752x2160/lAomgDWloUb07RsV.mp4?tag=27"
+      }
+    ],
+    "screen_name": "Oriku175",
+    "name": "Oriku",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2036525280035287040/f4OfDwZH_normal.jpg",
+    "user_id": "2036480505022128130",
+    "in_reply_to": null,
+    "retweeted_status": null,
+    "quoted_status": null,
+    "media_tags": [],
+    "favorite_count": 926,
+    "retweet_count": 55,
+    "bookmark_count": 503,
+    "quote_count": 1,
+    "reply_count": 28,
+    "views_count": 30930,
+    "favorited": false,
+    "retweeted": false,
+    "bookmarked": true,
+    "url": "https://twitter.com/Oriku175/status/2058899636069265604",
+    "metadata": {
+      "__typename": "Tweet",
+      "cashtag_attachments": [],
+      "core": {
+        "user_results": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/2036525280035287040/f4OfDwZH_normal.jpg"
+            },
+            "core": {
+              "created_at": "Tue Mar 24 16:29:36 +0000 2026",
+              "name": "Oriku",
+              "screen_name": "Oriku175"
+            },
+            "dm_permissions": {
+              "can_dm": true
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoyMDM2NDgwNTA1MDIyMTI4MTMw",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Product Designer crafting clean websites, apps & digital products with motion-driven experiences using @framer @hiunicornstudio",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "cal.com/oriku-designs/\u2026",
+                      "expanded_url": "https://cal.com/oriku-designs/15min",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ghX9LvcgF6"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 3133,
+              "follow_request_sent": false,
+              "followers_count": 1164,
+              "friends_count": 149,
+              "has_custom_timelines": false,
+              "is_translator": false,
+              "listed_count": 9,
+              "media_count": 91,
+              "needs_phone_verification": false,
+              "normal_followers_count": 1164,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036480505022128130/1778302830",
+              "profile_interstitial_type": "",
+              "statuses_count": 1025,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/ghX9LvcgF6",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "location": {
+              "location": "Book a Call \u27f6"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "icon_name": "IconBriefcaseStroke",
+                  "id": 1020,
+                  "name": "Product Designer"
+                }
+              ],
+              "professional_type": "Business",
+              "rest_id": "2041457880147103751"
+            },
+            "profile_bio": {
+              "description": "Product Designer crafting clean websites, apps & digital products with motion-driven experiences using @framer @hiunicornstudio"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "2036480505022128130",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "edit_control": {
+        "edit_tweet_ids": [
+          "2058899636069265604"
+        ],
+        "editable_until_msecs": "1779718500000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      },
+      "grok_analysis_button": true,
+      "grok_annotations": {
+        "is_image_editable_by_grok": false
+      },
+      "grok_translated_post_with_availability": {
+        "is_available": false
+      },
+      "is_translatable": false,
+      "legacy": {
+        "bookmark_count": 503,
+        "bookmarked": true,
+        "conversation_id_str": "2058899636069265604",
+        "created_at": "Mon May 25 13:15:00 +0000 2026",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": true
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/ZEK8urQZb6",
+              "expanded_url": "https://x.com/Oriku175/status/2058899636069265604/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "2058616432750104576",
+              "indices": [
+                37,
+                60
+              ],
+              "media_key": "13_2058616432750104576",
+              "media_results": {
+                "result": {
+                  "media_key": "13_2058616432750104576"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2058616432750104576/img/s26H-7jnE3mqZWKU.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 2160,
+                "width": 3752
+              },
+              "sizes": {
+                "large": {
+                  "h": 1179,
+                  "resize": "fit",
+                  "w": 2048
+                },
+                "medium": {
+                  "h": 691,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 391,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/ZEK8urQZb6",
+              "video_info": {
+                "aspect_ratio": [
+                  469,
+                  270
+                ],
+                "duration_millis": 30133,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/pl/CIY5sbUIHqewouD5.m3u8?tag=27"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/468x270/S_Q1jysHrVR4I4c9.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/624x360/NQ0PodFqEzHGeS_i.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/1250x720/voZ00EiPT2_F3zk3.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/1876x1080/QmmJklmeYEIVLAFe.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/3752x2160/lAomgDWloUb07RsV.mp4?tag=27"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": true
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/ZEK8urQZb6",
+              "expanded_url": "https://x.com/Oriku175/status/2058899636069265604/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "2058616432750104576",
+              "indices": [
+                37,
+                60
+              ],
+              "media_key": "13_2058616432750104576",
+              "media_results": {
+                "result": {
+                  "media_key": "13_2058616432750104576"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2058616432750104576/img/s26H-7jnE3mqZWKU.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 2160,
+                "width": 3752
+              },
+              "sizes": {
+                "large": {
+                  "h": 1179,
+                  "resize": "fit",
+                  "w": 2048
+                },
+                "medium": {
+                  "h": 691,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 391,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/ZEK8urQZb6",
+              "video_info": {
+                "aspect_ratio": [
+                  469,
+                  270
+                ],
+                "duration_millis": 30133,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/pl/CIY5sbUIHqewouD5.m3u8?tag=27"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/468x270/S_Q1jysHrVR4I4c9.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/624x360/NQ0PodFqEzHGeS_i.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/1250x720/voZ00EiPT2_F3zk3.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/1876x1080/QmmJklmeYEIVLAFe.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2058616432750104576/vid/avc1/3752x2160/lAomgDWloUb07RsV.mp4?tag=27"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favorite_count": 926,
+        "favorited": false,
+        "full_text": "Wildlife.exe corrupted successfully. https://t.co/ZEK8urQZb6",
+        "id_str": "2058899636069265604",
+        "is_quote_status": false,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "quote_count": 1,
+        "reply_count": 28,
+        "retweet_count": 55,
+        "retweeted": false,
+        "user_id_str": "2036480505022128130"
+      },
+      "rest_id": "2058899636069265604",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmention_data": {},
+      "views": {
+        "count": "30930",
+        "state": "EnabledWithCount"
+      },
+      "twe_private_fields": {
+        "created_at": 1779714900000,
+        "updated_at": 1779930218122,
+        "media_count": 1
+      }
+    }
+  },
+  {
+    "id": "2059074559672778779",
+    "created_at": "2026-05-25 20:50:05 -04:00",
+    "full_text": "Making my personal site more fun, part 1 https://t.co/pmje7dNuD4",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://t.co/pmje7dNuD4",
+        "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2059073913145933824/img/7hnSrAMxTzu1ardO.jpg?name=thumb",
+        "original": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/1728x1476/q2IC_9x_ipBxGrli.mp4?tag=27"
+      }
+    ],
+    "screen_name": "dakeenekid",
+    "name": "Davis Keene",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1965627879787536384/pRgnlRxy_normal.jpg",
+    "user_id": "2386644165",
+    "in_reply_to": null,
+    "retweeted_status": null,
+    "quoted_status": null,
+    "media_tags": [],
+    "favorite_count": 521,
+    "retweet_count": 8,
+    "bookmark_count": 284,
+    "quote_count": 1,
+    "reply_count": 30,
+    "views_count": 25172,
+    "favorited": true,
+    "retweeted": false,
+    "bookmarked": true,
+    "url": "https://twitter.com/dakeenekid/status/2059074559672778779",
+    "metadata": {
+      "__typename": "Tweet",
+      "cashtag_attachments": [],
+      "core": {
+        "user_results": {
+          "result": {
+            "__typename": "User",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1965627879787536384/pRgnlRxy_normal.jpg"
+            },
+            "core": {
+              "created_at": "Wed Mar 05 22:26:42 +0000 2014",
+              "name": "Davis Keene",
+              "screen_name": "dakeenekid"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "follow_request_sent": false,
+            "has_graduated_access": true,
+            "id": "VXNlcjoyMzg2NjQ0MTY1",
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "human data @ handshake ai \u2022 seek wonder in all that you do",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "daviskeene.com",
+                      "expanded_url": "http://www.daviskeene.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/QUqbdfrgJu"
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 41144,
+              "follow_request_sent": false,
+              "followers_count": 288,
+              "friends_count": 368,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 2,
+              "media_count": 51,
+              "needs_phone_verification": false,
+              "normal_followers_count": 288,
+              "notifications": false,
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2386644165/1779885811",
+              "profile_interstitial_type": "",
+              "statuses_count": 731,
+              "time_zone": "",
+              "translator_type": "none",
+              "url": "https://t.co/QUqbdfrgJu",
+              "utc_offset": 0,
+              "want_retweets": false,
+              "withheld_description": "",
+              "withheld_scope": ""
+            },
+            "location": {
+              "location": "New York, NY"
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "parody_commentary_fan_label": "None",
+            "privacy": {
+              "protected": false
+            },
+            "profile_bio": {
+              "description": "human data @ handshake ai \u2022 seek wonder in all that you do"
+            },
+            "profile_description_language": "en",
+            "profile_image_shape": "Circle",
+            "relationship_perspectives": {
+              "blocked_by": false,
+              "blocking": false,
+              "followed_by": false,
+              "following": false,
+              "muting": false
+            },
+            "rest_id": "2386644165",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "edit_control": {
+        "edit_tweet_ids": [
+          "2059074559672778779"
+        ],
+        "editable_until_msecs": "1779760205000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      },
+      "grok_analysis_button": true,
+      "grok_annotations": {
+        "is_image_editable_by_grok": false
+      },
+      "grok_translated_post_with_availability": {
+        "is_available": false
+      },
+      "is_translatable": false,
+      "legacy": {
+        "bookmark_count": 284,
+        "bookmarked": true,
+        "conversation_id_str": "2059074559672778779",
+        "created_at": "Tue May 26 00:50:05 +0000 2026",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": true
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/pmje7dNuD4",
+              "expanded_url": "https://x.com/dakeenekid/status/2059074559672778779/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "2059073913145933824",
+              "indices": [
+                41,
+                64
+              ],
+              "media_key": "13_2059073913145933824",
+              "media_results": {
+                "result": {
+                  "media_key": "13_2059073913145933824"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2059073913145933824/img/7hnSrAMxTzu1ardO.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1476,
+                "width": 1728
+              },
+              "sizes": {
+                "large": {
+                  "h": 1476,
+                  "resize": "fit",
+                  "w": 1728
+                },
+                "medium": {
+                  "h": 1025,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 581,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/pmje7dNuD4",
+              "video_info": {
+                "aspect_ratio": [
+                  48,
+                  41
+                ],
+                "duration_millis": 14466,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/pl/zgq2O_WbVOytPJgy.m3u8?tag=27"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/316x270/KCQrm1aQR_dycx2p.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/420x360/U2vK-gv8xVBvuqaC.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/842x720/4FsyXe0XlD883usj.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/1728x1476/q2IC_9x_ipBxGrli.mp4?tag=27"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": true
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/pmje7dNuD4",
+              "expanded_url": "https://x.com/dakeenekid/status/2059074559672778779/video/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "id_str": "2059073913145933824",
+              "indices": [
+                41,
+                64
+              ],
+              "media_key": "13_2059073913145933824",
+              "media_results": {
+                "result": {
+                  "media_key": "13_2059073913145933824"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2059073913145933824/img/7hnSrAMxTzu1ardO.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 1476,
+                "width": 1728
+              },
+              "sizes": {
+                "large": {
+                  "h": 1476,
+                  "resize": "fit",
+                  "w": 1728
+                },
+                "medium": {
+                  "h": 1025,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 581,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/pmje7dNuD4",
+              "video_info": {
+                "aspect_ratio": [
+                  48,
+                  41
+                ],
+                "duration_millis": 14466,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/pl/zgq2O_WbVOytPJgy.m3u8?tag=27"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/316x270/KCQrm1aQR_dycx2p.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/420x360/U2vK-gv8xVBvuqaC.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/842x720/4FsyXe0XlD883usj.mp4?tag=27"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2059073913145933824/vid/avc1/1728x1476/q2IC_9x_ipBxGrli.mp4?tag=27"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favorite_count": 521,
+        "favorited": true,
+        "full_text": "Making my personal site more fun, part 1 https://t.co/pmje7dNuD4",
+        "id_str": "2059074559672778779",
+        "is_quote_status": false,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "quote_count": 1,
+        "reply_count": 30,
+        "retweet_count": 8,
+        "retweeted": false,
+        "user_id_str": "2386644165"
+      },
+      "rest_id": "2059074559672778779",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmention_data": {},
+      "views": {
+        "count": "25172",
+        "state": "EnabledWithCount"
+      },
+      "twe_private_fields": {
+        "created_at": 1779756605000,
+        "updated_at": 1779930218122,
+        "media_count": 1
+      }
+    }
+  }
+]

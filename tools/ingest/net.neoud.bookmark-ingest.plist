@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>net.neoud.bookmark-ingest</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/neoudhaile/.local/bin/neoud-bash</string>
+    <string>/Users/neoudhaile/Documents/Projects/bookmark-ingestion/run.sh</string>
+  </array>
+  <key>WatchPaths</key>
+  <array><string>/Users/neoudhaile/Downloads</string></array>
+  <key>StandardOutPath</key><string>/tmp/neoud-ingest.log</string>
+  <key>StandardErrorPath</key><string>/tmp/neoud-ingest.err</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key><string>/Users/neoudhaile/.local/bin:/Users/neoudhaile/.nvm/versions/node/v18.20.8/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <key>HOME</key><string>/Users/neoudhaile</string>
+  </dict>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+# minimal
+_55 sites · hub type: aesthetics_
+
+- [[sites/alisawuffles.github.io|alisawuffles.github.io]] — PhD student at the University of Washington.
+- [[sites/amanml.com|amanml.com]] — Currently, exploring and building my curiosities.
+- [[sites/animations.dev|animations.dev]] — Learn the theory and practice behind great animations with this interactive learning experience.
+- [[sites/ankit-rai.com|ankit-rai.com]] — MOLESKINE — Observations in ink
+- [[sites/anyblockers.com|anyblockers.com]] — I'm Eric, currently working on the future of developer tooling at Cursor.
+- [[sites/apps.ankiweb.net|apps.ankiweb.net]] — Anki — a program which makes remembering things easy.
+- [[sites/are.na|are.na]] — A sample of my work with Nous Research.
+- [[sites/arneshbanerjee.github.io|arneshbanerjee.github.io]] — I like to train models, build agents, and tinker with multi-agent systems for autonomy and safety.
+- [[sites/asekachov.com|asekachov.com]] — Product designer with passion for turning good ideas into great looking products.
+- [[sites/ashpreetbedi.com|ashpreetbedi.com]] — Founder & CEO of Agno. I write about software, AI, and the systems we build around them.
+- [[sites/axiaisacat.indiehacker.bio|axiaisacat.indiehacker.bio]] — Hello, I AM AXIAISACAT — Independent Developer
+- [[sites/backdoorai.app|backdoorai.app]] — Land interviews with your dream startups, on autopilot.
+- [[sites/christophlocher.com|christophlocher.com]] — I am an Interaction Designer living and working in Hamburg, Europe. My goal is making complex problems manageable through accessible abstractions.
+- [[sites/conigma.com|conigma.com]] — Join our GTM Community on Slack
+- [[sites/daryl.cv|daryl.cv]] — A self-taught designer and developer from Australia.
+- [[sites/davidwinalda.com|davidwinalda.com]] — Personal site & blog — Articles, Blog, Quotes, Talks and the Terra Talks podcast.
+- [[sites/daviskeene.com|daviskeene.com]] — Davis Keene's personal website — engineer, software developer, creator
+- [[sites/designengineer.tools|designengineer.tools]] — A list of useful tools for web-focused design engineers.
+- [[sites/designrebuilds.vercel.app|designrebuilds.vercel.app]] — Watch my components — a numbered set of UI component rebuilds.
+- [[sites/drafts9.com|drafts9.com]] — Full stack design and dev partner for startups.
+- [[sites/emilkowal.ski|emilkowal.ski]] — For designers and engineers to help them build better user interfaces.
+- [[sites/farza.com|farza.com]] — hi im farza majeed.
+- [[sites/gaspardhedde.fr|gaspardhedde.fr]] — Gaspard Hedde — Creative Developer
+- [[sites/geniusmargins.com|geniusmargins.com]] — Simple ways to think better, do more, and find hidden chances.
+- [[sites/hex.inc|hex.inc]] — HEX is an experimental creative studio working on visually interesting identities, websites, and products. Led by Ayush Soni.
+- [[sites/hiivearts.com|hiivearts.com]] — 100+ Opportunities/mo — how we help B2B businesses implement multi-channel GTM systems.
+- [[sites/humanoid-index.com|humanoid-index.com]] — A comprehensive visual index of humanoid robots.
+- [[sites/jessyin.world|jessyin.world]] — Jess Yin — hey there
+- [[sites/joonasvirtanen.com|joonasvirtanen.com]] — Portfolio of a Finnish experience designer & creative director currently living in NYC.
+- [[sites/khairallah.xyz|khairallah.xyz]] — Hi, I'm Khairallah. I've been building software and digital products for years across blockchain, web3, and AI.
+- [[sites/lab01.dev|lab01.dev]] — Lab01 by Sebastiano Guerriero — a portfolio/lab of live front-end UI experiments (derived from the h1; the page ships no meta description).
+- [[sites/mercuryos.com|mercuryos.com]] — Mercury is a speculative reimagining of the operating system as a fluid experience driven by human intent.
+- [[sites/mrdoob.com|mrdoob.com]] — The personal homepage and running experiment-archive of Ricardo Cabello (Mr.doob), creator of Three.js — the newest demo plays live, the rest are one click away.
+- [[sites/nicelydone.club|nicelydone.club]] — Ship faster with proven UX flows from the world's best apps.
+- [[sites/nicolasbustamante.com|nicolasbustamante.com]] — AI Entrepreneur
+- [[sites/noahzender.com|noahzender.com]] — Drawn to the edges where disciplines collide and new things get made.
+- [[sites/northgarden.com|northgarden.com]] — NorthGarden is a design and development studio that specializes in creating digital products, websites, and interactive experiences used by millions around the world.
+- [[sites/objectives.md|objectives.md]] — # Objectives
+- [[sites/performance.dev|performance.dev]] — Essays on building fast, beautiful web apps and the craft behind them.
+- [[sites/ravalabs.com|ravalabs.com]] — Rava Labs is an independent design studio partnering with forward-thinking teams.
+- [[sites/richzou.com|richzou.com]] — 20 y/o Fuzhounese American. From New York, now based in SF.
+- [[sites/rork.com|rork.com]] — Be the next app founder
+- [[sites/rotimi.design|rotimi.design]] — Design Partner For Ambitious Tech Startups.
+- [[sites/rvivek.com|rvivek.com]] — Me · Writing · Speaking
+- [[sites/ryancarson.com|ryancarson.com]] — Founder, CEO and Developer with 25 years experience building developer communities and startups.
+- [[sites/shanemac.com|shanemac.com]] — Hi, I'm Shane Mac.
+- [[sites/siddz.com|siddz.com]] — Full-Stack Developer & Software Engineer based in India — React, Next.js, TypeScript, Node.js.
+- [[sites/templatoria.com|templatoria.com]] — Handcrafted, launch-ready Framer templates designed for fast setup, easy customization, and real-world websites.
+- [[sites/transitions.dev|transitions.dev]] — Collection of the most essential transitions for web apps that you can just copy and paste into any project.
+- [[sites/typatone.com|typatone.com]] — The act of writing has always been an art. Now, it can also be an act of music.
+- [[sites/type.lol|type.lol]] — Discover and explore independent type foundries from around the world. Browse 1,100+ foundries, 14,000+ typefaces, and 1,600+ designers.
+- [[sites/vanschneider.com|vanschneider.com]] — I create, therefore I am.
+- [[sites/vercel.com|vercel.com]] — Build and deploy on the AI Cloud.
+- [[sites/walkinglabs.github.io|walkinglabs.github.io]] — A project-based course on designing the environments, state, verification, and control systems that make Codex and Claude Code reliable.
+- [[sites/willmanidis.com|willmanidis.com]] — I live in New York. I founded ScienceIO, a language model provider, which we sold to a large EMR provider.
+
+**Related aesthetics:** [[aesthetics/editorial|editorial]] [[aesthetics/portfolio|portfolio]] [[aesthetics/light|light]] [[aesthetics/dark|dark]] [[aesthetics/developer-product|developer-product]]
