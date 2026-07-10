@@ -106,6 +106,14 @@ The 155 existing sites were backfilled by a chunked, text-only `claude -p` class
 - **Explicit human decision points.** The prose schema pivot, staying logged out of X, Opus→Sonnet, keeping the backup private — none of these were model decisions, and recording them as decisions is part of the design record.
 - **The `design-inspiration` skill.** A global skill in `~/.claude/skills` teaches any future agent how to traverse the vault (facet tags → notes → screenshots), so the corpus is consumable without knowing this project's internals.
 
+## Iteration 11 — Visibility and self-documentation (2026-07-10)
+
+**What we built.** Two operator-experience upgrades. First, the daemon now talks: `run.sh` posts macOS notifications (top-right, via `osascript`) when a run starts ("Started — N new bookmarks"), per chunk ("Parsing 5 websites… 10 done, 38 remaining"), on failure ("will resume next fire"), and on completion ("Done ✓ N processed — vault updated"). A background process that rewrites your data shouldn't be invisible. Second, the project became self-documenting: a global skill (`inspo-iterations-log`) plus a repo `CLAUDE.md` instruct any agent that changes the pipeline to append to this very file unprompted — the log stops depending on the owner remembering to ask.
+
+**What broke or what we learned.** The first real-world test arrived immediately: a fresh bookmark export downloaded as a 2-byte file containing `[]` (X produced an empty export). `newest_export()` picked files purely by mtime, so the corrupt newest file would have shadowed the valid 4.4 MB export behind it — the daemon would have reported "nothing to do" forever.
+
+**What replaced it and why.** `newest_export()` now walks candidates newest-first and returns the first that parses to a non-empty JSON list, logging `SKIPPING invalid/empty export` for the rest. A failed download can no longer wedge the pipeline; it degrades to the last good snapshot.
+
 ## Open threads
 
 - **Queued bookmarks:** the enrichment inbox (`inspo/_inbox/`) still holds items mid-flight; confirm the daemon fully drains the current backlog unattended, end to end.

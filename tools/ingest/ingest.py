@@ -34,8 +34,20 @@ def build_new_items(records, ledger, source_export):
     return {"source_export": source_export, "items": items}
 
 def newest_export(downloads=DOWNLOADS, pattern=EXPORT_GLOB):
-    matches = sorted(glob.glob(str(Path(downloads) / pattern)), key=lambda p: Path(p).stat().st_mtime)
-    return Path(matches[-1]) if matches else None
+    """Newest VALID export. Skips corrupt/empty files (e.g. a failed 2-byte
+    download) so a bad newest file can't shadow a good earlier one."""
+    matches = sorted(glob.glob(str(Path(downloads) / pattern)),
+                     key=lambda p: Path(p).stat().st_mtime, reverse=True)
+    for m in matches:
+        p = Path(m)
+        try:
+            data = json.loads(p.read_text())
+            if isinstance(data, list) and data:
+                return p
+        except (ValueError, OSError):
+            pass
+        print(f"SKIPPING invalid/empty export: {p.name}")
+    return None
 
 def main():
     ap = argparse.ArgumentParser()
