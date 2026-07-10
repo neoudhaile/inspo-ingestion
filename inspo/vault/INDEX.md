@@ -1,6 +1,8 @@
 # Inspiration Vault
 
-_155 websites, one note each. Sites connect through four controlled facets (see `tools/ingest/taxonomy.json`): **vertical** (what it is), **vibe** (how it feels), **topic** (what it's about — bridges clusters), **mode** (dark/light). In Obsidian: Graph view with **Tags** on. As an agent: `rg -l '#vertical/portfolio' inspo/vault` then read those notes; each note's Related sites lists its nearest neighbors with the shared facets._
+_167 websites, one note each. Sites connect through four controlled facets (see `tools/ingest/taxonomy.json`): **vertical** (what it is), **vibe** (how it feels), **topic** (what it's about — bridges clusters), **mode** (dark/light). In Obsidian: Graph view with **Tags** on. As an agent: `rg -l '#vertical/portfolio' inspo/vault` then read those notes; each note's Related sites lists its nearest neighbors with the shared facets._
+
+> 12 sites not yet classified (run `python -m tools.ingest.classify_facets`).
 
 ## vertical
 `#vertical/portfolio` (36) · `#vertical/startup-product` (28) · `#vertical/directory-gallery` (16) · `#vertical/studio-agency` (16) · `#vertical/tool-app` (15) · `#vertical/personal-blog` (12) · `#vertical/publication-newsletter` (10) · `#vertical/docs-resource` (7) · `#vertical/ecommerce` (7) · `#vertical/experiment-art` (7) · `#vertical/community-social` (1)

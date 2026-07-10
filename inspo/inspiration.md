@@ -3290,4 +3290,30 @@ _Appended automatically from X bookmark exports. Move into curated sections by h
 
 > https://t.co/pRisJzOFCB
 
+### Jonas (jonaasw1) — 'i like beautiful things pt. 3': a curated list of 'windows into elsewhere' generative/ambient sites (Silk's symmetrical drawing tool, Moss Garden's ambient field recordings, Sandspiel's falling-sand game, NYC Sky Color, Infinite Flowers' zooming painting, Radio Garden, Since You Arrived's memento mori, a broken 'one minute in a random park' link, and WindowSwap), plus design-reference bookmarks (Mackbooks, Printed Matter, IDEA, Letterform Archive, Awwwards, Fonts In Use) and his own generative Rothko tribute (rothko.joonas.wtf)
+
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2062601151049093453) · 2026-06-04  
+**Tags:** `design` `directory` `thread` `generative` `experimental` `art` `todo-find-url`  
+
+> i like beautiful things pt. 3  windows into elsewhere + generative sites:  https://t.co/nklaQ0OV8X - draw symmetrical generative https://t.co/tvXhkds4oD - ambient radio for focus https://t.co/RJcLHR6e…
+
+### Michelle Chiu (michelle__chiu) — PSA for NY Tech Week: Prada Mode New York takes over the city June 5–7, 2026 (Hotel Chelsea, Angelika Film Center, Prada Broadway, The Shack, Katz's Delicatessen) with film screenings and 'Satellites II,' a site-specific installation curated by Nicolas Winding Refn and Hideo Kojima (pradamodenewyork.eventbloomer.com)
+
+**Site:** [pradamodenewyork.eventbloomer.com](https://pradamodenewyork.eventbloomer.com/public/)  
+**Author:** [@michelle__chiu](https://twitter.com/michelle__chiu)  
+**Source:** [tweet](https://twitter.com/michelle__chiu/status/2062363875735941214) · 2026-06-03  
+**Tags:** `irl` `nyc` `art` `fashion`  
+
+> PSA for fashion lovers during NY Tech Week  @Prada is taking over NYC this weekend with events, film screenings, &amp; art installations across the city  https://t.co/Ckw9Fjuln8 https://t.co/fGB3V3mGy…
+
+### Tanvir (okaytanvir) — 'the new tanvir.io is live': his rebuilt EST.-2005-branded portfolio (Engineer / Designer, work at 24Labs / Pikzels / starryai) previewed in a scroll-through video, alongside his own product Inspicado ('see how top products design user flows that convert')
+
+**Site:** [tanvir.io](https://tanvir.io/)  
+**Author:** [@okaytanvir](https://twitter.com/okaytanvir)  
+**Source:** [tweet](https://twitter.com/okaytanvir/status/2062250560074690645) · 2026-06-03  
+**Tags:** `portfolio` `design` `product` `video` `startups`  
+
+> the new tanvir .io is live;) https://t.co/pNA3UHuP9Y
+
 <!-- AUTO-INGEST:END -->
