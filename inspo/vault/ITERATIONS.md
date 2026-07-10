@@ -114,6 +114,14 @@ The 155 existing sites were backfilled by a chunked, text-only `claude -p` class
 
 **What replaced it and why.** `newest_export()` now walks candidates newest-first and returns the first that parses to a non-empty JSON list, logging `SKIPPING invalid/empty export` for the rest. A failed download can no longer wedge the pipeline; it degrades to the last good snapshot.
 
+## Iteration 12 — Node 20, and a README for the front door (2026-07-10)
+
+**What we built.** A proper `README.md` — what the system is, the pipeline diagram, how the repo is organized, how to browse the vault (Obsidian + ripgrep-by-facet), and the actual usage loop: bookmark on X → export with [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) into `~/Downloads` → the daemon does the rest.
+
+**What broke or what we learned.** Teardowns had started *silently skipping*: `@playwright/mcp` requires **Node ≥ 20**, and the daemon's PATH pinned nvm's v18.20.8. The MCP server printed a version error and exited, so the enricher simply had no browser tools — no crash, no error in the run log, just quietly thinner output. The failure mode rhymes with the cmux-wrapper and profile-lock incidents: every dependency the daemon reaches through (interpreter, claude binary, node, browser profile) fails *silently* in headless contexts.
+
+**What replaced it and why.** `enrich.sh` and the plist now pin nvm's **v20.20.2** (overridable via `NEOUD_NODE_BIN`), with the requirement documented in both the script comment and the README's setup section.
+
 ## Open threads
 
 - **Queued bookmarks:** the enrichment inbox (`inspo/_inbox/`) still holds items mid-flight; confirm the daemon fully drains the current backlog unattended, end to end.

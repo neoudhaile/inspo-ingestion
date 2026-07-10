@@ -11,7 +11,9 @@ set -euo pipefail
 cd "$(dirname "$0")/../.."   # repo root
 
 # Put node/npx (nvm) on PATH for the MCP server launch.
-NODE_BIN="${NEOUD_NODE_BIN:-$HOME/.nvm/versions/node/v18.20.8/bin}"
+# @playwright/mcp requires Node >=20 (v18 makes it print a version error and exit,
+# so the server never connects and teardowns silently skip — see ITERATIONS.md).
+NODE_BIN="${NEOUD_NODE_BIN:-$HOME/.nvm/versions/node/v20.20.2/bin}"
 [ -d "$NODE_BIN" ] && export PATH="$NODE_BIN:$PATH"
 
 CLAUDE="${CLAUDE_BIN:-$HOME/.local/bin/claude}"
