@@ -2,28 +2,23 @@
 url: https://jessyin.world
 domain: jessyin.world
 title: "Jess Yin — hey there"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [playful, organic-warm]
+topics: []
 extracted_at: 2026-06-04
 tags:
-  - category/personal
-  - aesthetic/retro
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - aesthetic/light
-  - pattern/desktop-metaphor
-  - pattern/finder-window
-  - pattern/personal-homepage
-  - pattern/sidebar-nav
-  - pattern/no-scroll
-  - pattern/warm-minimal
-  - pattern/text-selection-highlight
-  - color/light
-  - color/warm
+  - vertical/portfolio
+  - vibe/playful
+  - vibe/organic-warm
+  - mode/light
 ---
 # Jess Yin — hey there
 >   ·  [jessyin.world](https://jessyin.world)
 
 ![jessyin.world](../../screenshots/jessyinworld.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/playful #vibe/organic-warm  ·  **Topics:** —  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site of Jess Yin (ex-finance, apparel founder, now building creative web experiences), explicitly styled as a macOS Finder window. It's an about/portfolio hub that frames her life and work inside a familiar desktop-file metaphor.
@@ -40,10 +35,13 @@ Soft, tactile, personal: a warm cream ground (#f5f0e8) with rose-pink highlights
 ## Design data
 - **Palette:** Warm cream ground (#f5f0e8), rose-pink highlights (#fce4ec / #e8b4bc), dark grey text (#333), muted grey secondary (#888).
 - **Fonts:** system UI (-apple-system / system-ui)
+- **Keywords:** desktop-metaphor, finder-window, personal-homepage, sidebar-nav, no-scroll, warm-minimal, text-selection-highlight
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[chusmargallo.space]] [[conigma.com]] [[daviskeene.com]] [[ditther.com]] [[gaspardhedde.fr]] [[nicolasbustamante.com]]
-
-## Tags
-#category/personal #aesthetic/retro #aesthetic/portfolio #aesthetic/minimal #aesthetic/light #pattern/desktop-metaphor #pattern/finder-window #pattern/personal-homepage #pattern/sidebar-nav #pattern/no-scroll #pattern/warm-minimal #pattern/text-selection-highlight #color/light #color/warm
+- [[jessa.art]] — shared: portfolio, playful, organic-warm, light
+- [[spencer.place]] — shared: portfolio, playful, organic-warm
+- [[chusmargallo.space]] — shared: portfolio, playful, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, playful, light
+- [[julian.ai]] — shared: portfolio, playful, light
+- [[kiira.in]] — shared: portfolio, organic-warm, light

@@ -2,30 +2,24 @@
 url: https://typatone.com/
 domain: typatone.com
 title: "Typatone — make music while you write"
-category: uncategorized
+vertical: experiment-art
+mode: light
+vibe: [minimal, playful]
+topics: [music]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/minimal
-  - aesthetic/experimental
-  - pattern/generative-music
-  - pattern/web-audio
-  - pattern/interactive
-  - pattern/minimalist
-  - pattern/canvas
-  - pattern/typography
-  - pattern/monochrome
-  - pattern/soft-sans
-  - tech/vanilla-js-web-audio-api
-  - tech/adobe-typekit
-  - tech/google-tag-manager
-  - color/monochrome
-  - font/proxima-nova-soft
+  - vertical/experiment-art
+  - vibe/minimal
+  - vibe/playful
+  - topic/music
+  - mode/light
 ---
 # Typatone — make music while you write
 > The act of writing has always been an art. Now, it can also be an act of music.  ·  [typatone.com](https://typatone.com/)
 
 ![typatone.com](../../screenshots/typatonecom.png)
+
+**Vertical:** #vertical/experiment-art  ·  **Vibe:** #vibe/minimal #vibe/playful  ·  **Topics:** #topic/music  ·  **Mode:** #mode/light
 
 ## What it is
 Typatone — a minimalist interactive instrument where 'each letter you type corresponds to a specific musical note,' turning writing into generative melody (by Jono Brandel with Lullatone). It's the 'turns text into a generative melody' entry from Jonas's list.
@@ -45,6 +39,7 @@ Serene, Muji-like minimalism. From getComputedStyle the canvas is light grey (bo
 - **Fonts:** Proxima Nova Soft (a rounded geometric sans, via Adobe Typekit) for the wordmark and UI.
 - **Fonts loaded:** Proxima Nova Soft 400
 - **Tech stack:** Vanilla JS + Web Audio API, Adobe Typekit, Google Tag Manager
+- **Keywords:** generative-music, web-audio, interactive, minimalist, canvas, typography, monochrome, soft-sans
 - **Media mix:** canvas 2 · iframe 3
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single-screen instrument (scrollHeight 0) with the two canvas layers intact; the typing/visual field simply scales to the narrower width.
@@ -52,7 +47,9 @@ Serene, Muji-like minimalism. From getComputedStyle the canvas is light grey (bo
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[daviskeene.com]] [[designengineer.tools]] [[hiivearts.com]] [[humanoid-index.com]] [[nicolasbustamante.com]]
-
-## Tags
-#category/uncategorized #aesthetic/minimal #aesthetic/experimental #pattern/generative-music #pattern/web-audio #pattern/interactive #pattern/minimalist #pattern/canvas #pattern/typography #pattern/monochrome #pattern/soft-sans #tech/vanilla-js-web-audio-api #tech/adobe-typekit #tech/google-tag-manager #color/monochrome #font/proxima-nova-soft
+- [[poolsuite.net]] — shared: experiment-art, playful, music, light
+- [[mercuryos.com]] — shared: experiment-art, minimal, light
+- [[designrebuilds.vercel.app]] — shared: minimal, playful, light
+- [[julian.ai]] — shared: minimal, playful, light
+- [[kmk0.com]] — shared: minimal, playful, light
+- [[mo1.app]] — shared: minimal, playful, light

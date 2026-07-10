@@ -1,0 +1,57 @@
+{
+  "_about": "Controlled vocabulary for relating inspiration sites to each other. These four dimensions are the ONLY graph-forming tags in the vault. Single source of truth for the enricher (classifies new sites), the backfill classifier, and render_vault. Values may be added sparingly, only when nothing fits; every value should plausibly apply to several sites.",
+  "vertical": {
+    "_rule": "What the site IS. Pick exactly ONE (the closest).",
+    "portfolio": "personal portfolio / creative-developer showcase; the person's work is the content",
+    "personal-blog": "writing-first personal site; essays, notes, a person's thinking",
+    "startup-product": "company or product marketing site: SaaS landing, app launch, startup homepage",
+    "tool-app": "an interactive tool or utility you USE in the browser (editor, generator, dashboard)",
+    "studio-agency": "design/dev studio or agency site selling services",
+    "ecommerce": "storefront selling physical or digital goods",
+    "publication-newsletter": "editorial publication, magazine, or newsletter home",
+    "directory-gallery": "curated collection of other things: inspiration galleries, link directories, moodboards",
+    "docs-resource": "documentation, course, tutorial hub, or reference resource",
+    "experiment-art": "art piece, interactive toy, generative experiment; exists to be experienced",
+    "community-social": "community, forum, social platform, or event site"
+  },
+  "vibe": {
+    "_rule": "How the site FEELS. Pick 1-3 that genuinely dominate.",
+    "minimal": "restrained, whitespace-led, few elements, quiet type",
+    "editorial": "magazine/print sensibility: serif display, columns, article-like rhythm",
+    "playful": "toy-like, rounded, animated personality, humor, delight details",
+    "brutalist": "raw, unpolished-on-purpose, default-ish HTML, harsh contrasts",
+    "retro": "nostalgic: old-OS chrome, pixel art, vaporwave, y2k, print-era artifacts",
+    "luxury": "expensive, cinematic, full-bleed photography, fashion-house restraint",
+    "experimental": "WebGL/canvas-driven, spatial, unconventional navigation, demo-of-craft",
+    "corporate-clean": "polished conventional SaaS/product look: tidy grid, gradient accents, safe",
+    "organic-warm": "cream/paper textures, hand-made feel, soft warm palettes, human touch",
+    "technical": "dev-tool aesthetic: monospace, terminal vibes, dense information, dark IDE energy"
+  },
+  "topic": {
+    "_rule": "What the site is ABOUT (subject matter). 0-3 values; this bridges clusters (a personal blog ABOUT startups links to the startup world). Omit if no clear subject.",
+    "startups": "startup life, founding, venture, indie hacking",
+    "ai": "AI/ML products, agents, LLMs",
+    "design": "design itself: UI/UX, typography, design tools and writing about design",
+    "engineering": "software engineering, systems, code craft",
+    "photography": "photography and photographers",
+    "art": "art, illustration, generative art",
+    "music": "music, audio, artists, radio",
+    "fashion": "fashion, apparel, streetwear",
+    "food-drink": "food, restaurants, cafes, beverages",
+    "finance": "money, investing, fintech, crypto",
+    "writing": "writing, reading, books, essays as a subject",
+    "productivity": "productivity, tools-for-thought, note-taking",
+    "marketing": "marketing, growth, sales, branding",
+    "education": "learning, courses, teaching",
+    "film-video": "film, video, motion media",
+    "gaming": "games and gaming culture",
+    "travel-places": "travel, cities, physical places",
+    "health": "health, fitness, wellness"
+  },
+  "mode": {
+    "_rule": "Dominant color mode. Pick ONE (or 'mixed' if genuinely split).",
+    "dark": "dark ground dominates",
+    "light": "light ground dominates",
+    "mixed": "substantial dark AND light sections"
+  }
+}

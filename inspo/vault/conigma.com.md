@@ -2,29 +2,25 @@
 url: https://www.conigma.com/community
 domain: conigma.com
 title: "Join the Conigma GTM Community"
-category: tutorial
+vertical: community-social
+mode: light
+vibe: [minimal, corporate-clean]
+topics: [marketing, startups]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - aesthetic/minimal
-  - pattern/webflow
-  - pattern/lead-capture
-  - pattern/single-screen
-  - pattern/community-signup
-  - pattern/turnstile-gated
-  - pattern/warm-minimal
-  - tech/webflow
-  - tech/ahrefs-analytics
-  - tech/cloudflare-turnstile
-  - tech/jquery-cloudfront
-  - color/warm
-  - font/mona-sans
-  - font/inter
+  - vertical/community-social
+  - vibe/minimal
+  - vibe/corporate-clean
+  - topic/marketing
+  - topic/startups
+  - mode/light
 ---
 # Join the Conigma GTM Community
 > Join our GTM Community on Slack  ·  [conigma.com](https://www.conigma.com/community)
 
 ![conigma.com](../../screenshots/conigmacom.png)
+
+**Vertical:** #vertical/community-social  ·  **Vibe:** #vibe/minimal #vibe/corporate-clean  ·  **Topics:** #topic/marketing #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 This is the signup gate for Conigma's go-to-market (GTM) Slack community — the landing the tweet's free Claude Co-work course routes to. The <h1> is the whole ask: "Join our GTM Community on Slack", behind a short form asking for "Your LinkedIn URL."
@@ -44,6 +40,7 @@ A clean, warm, conversion-first look: a cream/off-white canvas (rgb(250,247,235)
 - **Fonts:** Mona Sans 600 (heading) + Inter 400/500/600 (body & form).
 - **Fonts loaded:** Mona Sans 600, Inter 400, Inter 500, Inter 600
 - **Tech stack:** Webflow, Ahrefs Analytics, Cloudflare Turnstile, jQuery (CloudFront)
+- **Keywords:** webflow, lead-capture, single-screen, community-signup, turnstile-gated, warm-minimal
 - **Media mix:** img 2
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390px the page stays effectively single-screen (scrollHeight ~855px); the form column simply narrows to viewport width.
@@ -52,7 +49,9 @@ A clean, warm, conversion-first look: a cream/off-white canvas (rgb(250,247,235)
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[gatheros.co]] [[shanemac.com]] [[akira.sachi.dev]] [[axiaisacat.indiehacker.bio]] [[b150.ai]] [[badmarketing.com]]
-
-## Tags
-#category/tutorial #aesthetic/minimal #pattern/webflow #pattern/lead-capture #pattern/single-screen #pattern/community-signup #pattern/turnstile-gated #pattern/warm-minimal #tech/webflow #tech/ahrefs-analytics #tech/cloudflare-turnstile #tech/jquery-cloudfront #color/warm #font/mona-sans #font/inter
+- [[crsanchez.es]] — shared: minimal, corporate-clean, marketing, light
+- [[drafts9.com]] — shared: minimal, corporate-clean, startups, light
+- [[bigplayers.co]] — shared: minimal, marketing, startups
+- [[axiaisacat.indiehacker.bio]] — shared: minimal, startups, light
+- [[backdoorai.app]] — shared: minimal, startups, light
+- [[bigideasdb.com]] — shared: corporate-clean, startups, light

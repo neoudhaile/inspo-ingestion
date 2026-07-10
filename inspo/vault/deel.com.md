@@ -2,36 +2,22 @@
 url: https://www.deel.com/
 domain: deel.com
 title: "Deel | Global Payroll, Compliance, HR Solutions | HRIS"
-category: uncategorized
+vertical: startup-product
+mode: light
+vibe: [corporate-clean]
+topics: []
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - pattern/saas-landing
-  - pattern/logo-wall
-  - pattern/product-tour
-  - pattern/stat-proof-points
-  - pattern/testimonial-grid
-  - pattern/hover-mega-nav
-  - pattern/custom-display-type
-  - pattern/interactive-demo-embed
-  - tech/hubspot-forms-analytics
-  - tech/amplitude
-  - tech/google-tag-manager
-  - tech/cookiebot
-  - tech/navattic
-  - tech/cloudflare
-  - color/cool
-  - font/inter-100-900
-  - font/bagosscondensedfont
-  - font/bagossstandardfont
-  - font/bagossextendedfont
-  - font/bagossstandardvf
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - mode/light
 ---
 # Deel | Global Payroll, Compliance, HR Solutions | HRIS
 > Hire, manage, pay, & equip anyone, anywhere.  ·  [deel.com](https://www.deel.com/)
 
 ![deel.com](../../screenshots/deelcom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean  ·  **Topics:** —  ·  **Mode:** #mode/light
 
 ## What it is
 The marketing homepage for Deel, the all-in-one global HR platform — its own pitch is the h1 "Hire, manage, pay, & equip anyone, anywhere." and the meta line "Hire, pay, and manage teams in 150+ countries." It sells global payroll, compliance, EOR, contractor management and HRIS as a single product.
@@ -51,6 +37,7 @@ Confident SaaS brand system: a violet hero anchors an otherwise white, near-blac
 - **Fonts:** Bagoss Condensed/Standard/Extended (custom display) for headlines; Inter for body
 - **Fonts loaded:** Inter 100-900, BagossCondensedFont 500, BagossStandardFont 500, BagossExtendedFont 600, BagossStandardVF
 - **Tech stack:** HubSpot (forms/analytics), Amplitude, Google Tag Manager, Cookiebot, Navattic, Cloudflare
+- **Keywords:** saas-landing, logo-wall, product-tour, stat-proof-points, testimonial-grid, hover-mega-nav, custom-display-type, interactive-demo-embed
 - **Media mix:** img 129 · canvas 6 · svg 495 · iframe 3
 - **Page height:** 7691px (single-screen: False)
 - **Responsive:** At 390x844 the mega-nav collapses to a hamburger, the page reflows to a single column (scrollHeight grows to ~10,700px) and the display h1 drops from 60px to 42px.
@@ -59,7 +46,9 @@ Confident SaaS brand system: a violet hero anchors an otherwise white, near-blac
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[badmarketing.com]] [[bigideasdb.com]] [[contralabs.com]] [[creao.ai]] [[jenni.ai]] [[linkeddit.com]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #pattern/saas-landing #pattern/logo-wall #pattern/product-tour #pattern/stat-proof-points #pattern/testimonial-grid #pattern/hover-mega-nav #pattern/custom-display-type #pattern/interactive-demo-embed #tech/hubspot-forms-analytics #tech/amplitude #tech/google-tag-manager #tech/cookiebot #tech/navattic #tech/cloudflare #color/cool #font/inter-100-900 #font/bagosscondensedfont #font/bagossstandardfont #font/bagossextendedfont #font/bagossstandardvf
+- [[bigideasdb.com]] — shared: startup-product, corporate-clean, light
+- [[creao.ai]] — shared: startup-product, corporate-clean, light
+- [[gatheros.co]] — shared: startup-product, corporate-clean, light
+- [[jenni.ai]] — shared: startup-product, corporate-clean, light
+- [[linkeddit.com]] — shared: startup-product, corporate-clean, light
+- [[photon.codes]] — shared: startup-product, corporate-clean, light

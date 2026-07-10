@@ -2,31 +2,24 @@
 url: https://willmanidis.com/
 domain: willmanidis.com
 title: "Will Manidis"
-category: uncategorized
+vertical: portfolio
+mode: light
+vibe: [minimal, organic-warm]
+topics: [startups]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/minimal
-  - pattern/personal-site
-  - pattern/single-screen
-  - pattern/minimalist
-  - pattern/bio-card
-  - pattern/squarespace
-  - pattern/understated
-  - pattern/founder-page
-  - pattern/text-first
-  - tech/squarespace
-  - tech/adobe-typekit
-  - color/warm
-  - color/cool
-  - font/futura-pt
-  - font/proxima-nova
-  - font/adobe-garamond-pro
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/organic-warm
+  - topic/startups
+  - mode/light
 ---
 # Will Manidis
 > I live in New York. I founded ScienceIO, a language model provider, which we sold to a large EMR provider.  ·  [willmanidis.com](https://willmanidis.com/)
 
 ![willmanidis.com](../../screenshots/willmanidiscom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/organic-warm  ·  **Topics:** #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 A deliberately minimal single-screen personal homepage for Will Manidis, founder of ScienceIO (sold to a large EMR provider) and now an angel investor. The whole site is one quiet bio card; the only heading is his name.
@@ -46,6 +39,7 @@ Classic understated personal-site restraint, built on Squarespace (assets.square
 - **Fonts:** Futura PT (name/wordmark), Helvetica Neue (body), with Proxima Nova and Adobe Garamond Pro also loaded from Adobe Typekit.
 - **Fonts loaded:** futura-pt 300, futura-pt 400, futura-pt 700, proxima-nova 100, proxima-nova 300, proxima-nova 400, proxima-nova 700, adobe-garamond-pro 400, adobe-garamond-pro 700
 - **Tech stack:** Squarespace, Adobe Typekit
+- **Keywords:** personal-site, single-screen, minimalist, bio-card, squarespace, understated, founder-page, text-first
 - **Media mix:** img 1 · svg 2
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single screen (scrollHeight 844) — the centered bio simply reflows to a narrower column and the Futura PT wordmark holds at 42px.
@@ -54,7 +48,9 @@ Classic understated personal-site restraint, built on Squarespace (assets.square
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 + 390x844 mobile, logged_out:true
 
 ## Related sites
-[[farza.com]] [[richzou.com]] [[alisawuffles.github.io]] [[axiaisacat.indiehacker.bio]] [[daryl.cv]] [[davidwinalda.com]]
-
-## Tags
-#category/uncategorized #aesthetic/minimal #pattern/personal-site #pattern/single-screen #pattern/minimalist #pattern/bio-card #pattern/squarespace #pattern/understated #pattern/founder-page #pattern/text-first #tech/squarespace #tech/adobe-typekit #color/warm #color/cool #font/futura-pt #font/proxima-nova #font/adobe-garamond-pro
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups, light
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
+- [[farza.com]] — shared: portfolio, minimal, startups, light
+- [[julian.ai]] — shared: portfolio, minimal, startups, light
+- [[ryancarson.com]] — shared: portfolio, minimal, startups, light
+- [[shanemac.com]] — shared: portfolio, minimal, startups, light

@@ -2,31 +2,25 @@
 url: https://zendex.spyrosigma.in/
 domain: zendex.spyrosigma.in
 title: "Zendex"
-category: uncategorized
+vertical: tool-app
+mode: dark
+vibe: [minimal, technical]
+topics: [productivity, writing]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - pattern/dark-mode
-  - pattern/dashboard
-  - pattern/sidebar-filter
-  - pattern/search
-  - pattern/card-grid
-  - pattern/auth-gated
-  - pattern/index-directory
-  - pattern/second-brain
-  - pattern/tailwind
-  - tech/tailwind-css-v4-oklch-tokens
-  - tech/geist-self-hosted
-  - color/dark
-  - color/cool
-  - font/geist
+  - vertical/tool-app
+  - vibe/minimal
+  - vibe/technical
+  - topic/productivity
+  - topic/writing
+  - mode/dark
 ---
 # Zendex
 > Mental models, patterns, and frameworks on thinking clearly, building well, and living with intention.  ·  [zendex.spyrosigma.in](https://zendex.spyrosigma.in/)
 
 ![zendex.spyrosigma.in](../../screenshots/zendexspyrosigmain.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/productivity #topic/writing  ·  **Mode:** #mode/dark
 
 ## What it is
 A searchable index of Noah Zender's open-sourced ideas, built by Satyam Namdev (@Spyrosigma): "@noahzender open sourced 468 ideas on mental models, startups, psychology, and life. So, I built Zendex — his entire mind, indexed." The header bills it as "Zendex — by spyrosigma · ideas from Noah Zender." You can search it, browse it, ask it, and get a daily idea on Telegram.
@@ -46,6 +40,7 @@ A clean dark utility built on Tailwind v4 design tokens: a near-black background
 - **Fonts:** Geist (UI) + Geist Mono (mono); only Geist 400 actually loaded.
 - **Fonts loaded:** Geist 400
 - **Tech stack:** Tailwind CSS v4 (oklch tokens), Geist (self-hosted)
+- **Keywords:** dark-mode, dashboard, sidebar-filter, search, card-grid, auth-gated, index-directory, second-brain, tailwind
 - **Media mix:** img 1 · svg 2
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the idea grid collapses to a single ~342px column and total height grows to ~1,878px; the categories sidebar and inline nav (Browse/Ask/Dashboard/Sign in) persist.
@@ -54,7 +49,9 @@ A clean dark utility built on Tailwind v4 design tokens: a near-black background
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 + mobile 390x844, logged_out: true
 
 ## Related sites
-[[khairallah.xyz]] [[ashpreetbedi.com]] [[backgrounds.supply]] [[badmarketing.com]] [[bigideasdb.com]] [[colf.dev]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #aesthetic/developer-product #pattern/dark-mode #pattern/dashboard #pattern/sidebar-filter #pattern/search #pattern/card-grid #pattern/auth-gated #pattern/index-directory #pattern/second-brain #pattern/tailwind #tech/tailwind-css-v4-oklch-tokens #tech/geist-self-hosted #color/dark #color/cool #font/geist
+- [[ditther.com]] — shared: tool-app, minimal, technical, dark
+- [[tryponcho.com]] — shared: tool-app, technical, productivity, dark
+- [[akira.sachi.dev]] — shared: tool-app, minimal, technical
+- [[itshover.com]] — shared: tool-app, minimal, technical
+- [[serif.sh]] — shared: tool-app, minimal, writing
+- [[cafe.endofday.studio]] — shared: tool-app, productivity, dark

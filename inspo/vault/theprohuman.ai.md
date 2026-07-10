@@ -2,31 +2,23 @@
 url: https://www.theprohuman.ai/
 domain: theprohuman.ai
 title: "The Prohuman"
-category: tutorial
+vertical: publication-newsletter
+mode: light
+vibe: [editorial]
+topics: [ai]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - aesthetic/light
-  - aesthetic/editorial
-  - pattern/newsletter
-  - pattern/ai-news
-  - pattern/beehiiv
-  - pattern/content-feed
-  - pattern/light-theme
-  - pattern/editorial
-  - tech/beehiiv
-  - tech/google-fonts-open-sans
-  - tech/google-tag-manager
-  - tech/perimeterx
-  - tech/birdie
-  - tech/cloudflare-insights
-  - color/light
-  - font/open-sans
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - topic/ai
+  - mode/light
 ---
 # The Prohuman
 > Get AI tools and insights in minutes. Trusted by 700,000+ readers.  ·  [theprohuman.ai](https://www.theprohuman.ai/)
 
 ![theprohuman.ai](../../screenshots/theprohumanai.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial  ·  **Topics:** #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 The beehiiv home/archive of 'The Prohuman,' a daily AI newsletter (bylines include Hasan Toor and Rimsha Bhardwaj) — pitched in meta as 'Get AI tools and insights in minutes. Trusted by 700,000+ readers from Google, Amazon, NVIDIA, Adobe, and OpenAI.' Ihtesham Ali's tweet about a 'First Principles Breakdown' Claude prompt links here.
@@ -46,6 +38,7 @@ A bright editorial light theme: a pure-white background with dark-grey body text
 - **Fonts:** Open Sans (Google Fonts) — the only loaded webfont
 - **Fonts loaded:** Open Sans 400
 - **Tech stack:** beehiiv, Google Fonts (Open Sans), Google Tag Manager, PerimeterX, Birdie, Cloudflare Insights
+- **Keywords:** newsletter, ai-news, beehiiv, content-feed, light-theme, editorial
 - **Media mix:** img 51 · svg 19 · iframe 1
 - **Page height:** 2809px (single-screen: False)
 - **Responsive:** At 390x844 a hamburger menu appears, the issue feed stacks to a single column, the page grows from ~2809px to ~6258px, and the h1 scales from 48px down to 36px.
@@ -54,7 +47,9 @@ A bright editorial light theme: a pure-white background with dark-grey body text
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[bigplayers.co]] [[performance.dev]] [[12matcha.com]] [[animations.dev]] [[asekachov.com]] [[bigideasdb.com]]
-
-## Tags
-#category/tutorial #aesthetic/light #aesthetic/editorial #pattern/newsletter #pattern/ai-news #pattern/beehiiv #pattern/content-feed #pattern/light-theme #pattern/editorial #tech/beehiiv #tech/google-fonts-open-sans #tech/google-tag-manager #tech/perimeterx #tech/birdie #tech/cloudflare-insights #color/light #font/open-sans
+- [[claude.com]] — shared: publication-newsletter, editorial, ai, light
+- [[geniusmargins.com]] — shared: publication-newsletter, editorial, light
+- [[gregisenberg.com]] — shared: publication-newsletter, editorial, light
+- [[interfaces.dev]] — shared: publication-newsletter, editorial, light
+- [[21st.dev]] — shared: editorial, ai, light
+- [[are.na]] — shared: editorial, ai, light

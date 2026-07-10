@@ -2,41 +2,25 @@
 url: https://www.hex.inc/
 domain: hex.inc
 title: "HEX Studio - Web, Marketing, Product & Brand Studio"
-category: design
+vertical: studio-agency
+mode: dark
+vibe: [luxury, minimal]
+topics: [design, marketing]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/dark
-  - aesthetic/minimal
-  - pattern/creative-studio
-  - pattern/portfolio
-  - pattern/dark
-  - pattern/teal-green
-  - pattern/neon-mint
-  - pattern/case-study-reels
-  - pattern/webflow
-  - pattern/lausanne
-  - pattern/video-heavy
-  - pattern/monochrome-frame
-  - tech/webflow
-  - tech/jquery
-  - tech/cloudflare-r2-video
-  - tech/vimeo
-  - tech/posthog
-  - tech/google-tag-manager-ga4
-  - tech/meta-pixel
-  - tech/visitors-now
-  - tech/recaptcha
-  - color/dark
-  - color/monochrome
-  - color/cool
-  - font/lausanne
+  - vertical/studio-agency
+  - vibe/luxury
+  - vibe/minimal
+  - topic/design
+  - topic/marketing
+  - mode/dark
 ---
 # HEX Studio - Web, Marketing, Product & Brand Studio
 > HEX is an experimental creative studio working on visually interesting identities, websites, and products. Led by Ayush Soni.  ·  [hex.inc](https://www.hex.inc/)
 
 ![hex.inc](../../screenshots/hexinc.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/luxury #vibe/minimal  ·  **Topics:** #topic/design #topic/marketing  ·  **Mode:** #mode/dark
 
 ## What it is
 The site of HEX Studio, whose h1 reads 'HEX is a full-cycle creative studio for technology companies.' and whose meta description is 'HEX is an experimental creative studio working on visually interesting identities, websites, and products. Led by Ayush Soni.' Ayush Soni — the tweet's author — runs the studio; the tweet's 'Unsigned' brand study is a taste of the work this site collects.
@@ -56,6 +40,7 @@ A confident dark, near-monochrome frame that lets the colourful client reels pop
 - **Fonts:** TWK Lausanne (loaded 300/400/500/700) as the workhorse sans; GT Alpina declared as a display serif but unloaded on the homepage; Webflow's Open Sans / Oswald / Changa One defaults declared but unloaded.
 - **Fonts loaded:** Lausanne 300, Lausanne 400, Lausanne 500, Lausanne 700
 - **Tech stack:** Webflow, jQuery, Cloudflare R2 (video), Vimeo, PostHog, Google Tag Manager / GA4, Meta Pixel, Visitors.now, reCAPTCHA
+- **Keywords:** creative-studio, portfolio, dark, teal-green, neon-mint, case-study-reels, webflow, lausanne, video-heavy, monochrome-frame
 - **Media mix:** img 86 · video 19 · svg 2
 - **Page height:** 14683px (single-screen: False)
 - **Responsive:** At 390x844 Webflow swaps in its burger nav (w-nav-button) and the case-study / stats / writings grid reflows to a single column (scrollHeight 14,683 -> 9,539px).
@@ -65,7 +50,9 @@ A confident dark, near-monochrome frame that lets the colourful client reels pop
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[ankit-rai.com]] [[jasonyuan.design]] [[joonasvirtanen.com]] [[lab01.dev]] [[nyk.dev]] [[objectives.md]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/dark #aesthetic/minimal #pattern/creative-studio #pattern/portfolio #pattern/dark #pattern/teal-green #pattern/neon-mint #pattern/case-study-reels #pattern/webflow #pattern/lausanne #pattern/video-heavy #pattern/monochrome-frame #tech/webflow #tech/jquery #tech/cloudflare-r2-video #tech/vimeo #tech/posthog #tech/google-tag-manager-ga4 #tech/meta-pixel #tech/visitors-now #tech/recaptcha #color/dark #color/monochrome #color/cool #font/lausanne
+- [[ddlabstudio.com]] — shared: studio-agency, luxury, design, marketing, dark
+- [[vanschneider.com]] — shared: studio-agency, luxury, design, dark
+- [[coldiq.com]] — shared: studio-agency, luxury, marketing
+- [[drafts9.com]] — shared: studio-agency, minimal, design
+- [[hiivearts.com]] — shared: studio-agency, minimal, marketing
+- [[northgarden.com]] — shared: studio-agency, minimal, design

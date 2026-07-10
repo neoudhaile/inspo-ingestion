@@ -2,34 +2,23 @@
 url: https://everynoise.com/
 domain: everynoise.com
 title: "Every Noise at Once"
-category: favorites
+vertical: tool-app
+mode: light
+vibe: [technical]
+topics: [music]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/editorial
-  - pattern/data-visualization
-  - pattern/scatter-plot
-  - pattern/word-cloud
-  - pattern/music-map
-  - pattern/interactive-audio
-  - pattern/information-dense
-  - pattern/static-html
-  - pattern/no-framework
-  - pattern/color-encodes-data
-  - pattern/archived
-  - tech/static-html-vanilla-javascript
-  - tech/no-framework-no-react-vue-next-nuxt-jquery-detected
-  - tech/inline-onclick-handlers
-  - tech/embedded-spotify-audio-previews
-  - tech/no-webfonts-no-css-variables
-  - color/warm
-  - color/cool
-  - font/system-fonts
+  - vertical/tool-app
+  - vibe/technical
+  - topic/music
+  - mode/light
 ---
 # Every Noise at Once
 > An algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.  ·  [everynoise.com](https://everynoise.com/)
 
 ![everynoise.com](../../screenshots/everynoisecom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/technical  ·  **Topics:** #topic/music  ·  **Mode:** #mode/light
 
 ## What it is
 Glenn McDonald's Every Noise at Once (everynoise.com) — in the page's own words, "a long-running attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 6,291 genre-shaped distinctions at Spotify through 2023-11-19." The copy is now past-tense: the project was frozen after the author's Spotify data access ended, so the map is a preserved snapshot.
@@ -49,6 +38,7 @@ Function over decoration: a plain white background with each genre label colored
 - **Fonts:** Gill Sans only (GillSansRegular, with Gill Sans MT / Gill Sans / Trebuchet MS fallbacks) — no webfont loaded, system/local font
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** static HTML + vanilla JavaScript, no framework (no React/Vue/Next/Nuxt/jQuery detected), inline onclick handlers, embedded Spotify audio previews, no webfonts, no CSS variables
+- **Keywords:** data-visualization, scatter-plot, word-cloud, music-map, interactive-audio, information-dense, static-html, no-framework, color-encodes-data, archived
 - **Media mix:** img 5 · iframe 1
 - **Page height:** 24729px (single-screen: False)
 - **Responsive:** Not responsive: the map keeps its fixed ~1,618px-wide absolutely-positioned layout at 390x844, overflowing the viewport horizontally so mobile users must pinch-zoom and pan rather than getting a reflowed column.
@@ -57,7 +47,9 @@ Function over decoration: a plain white background with each genre label colored
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[arneshbanerjee.github.io]] [[debarghyadas.com]] [[jessa.art]] [[millermanintelligence.com]] [[mrdoob.com]]
-
-## Tags
-#category/favorites #aesthetic/editorial #pattern/data-visualization #pattern/scatter-plot #pattern/word-cloud #pattern/music-map #pattern/interactive-audio #pattern/information-dense #pattern/static-html #pattern/no-framework #pattern/color-encodes-data #pattern/archived #tech/static-html-vanilla-javascript #tech/no-framework-no-react-vue-next-nuxt-jquery-detected #tech/inline-onclick-handlers #tech/embedded-spotify-audio-previews #tech/no-webfonts-no-css-variables #color/warm #color/cool #font/system-fonts
+- [[akira.sachi.dev]] — shared: tool-app, technical, light
+- [[colf.dev]] — shared: tool-app, technical, light
+- [[itshover.com]] — shared: tool-app, technical, light
+- [[spacetypegenerator.com]] — shared: tool-app, technical, light
+- [[cafe.endofday.studio]] — shared: tool-app, music
+- [[ditther.com]] — shared: tool-app, technical

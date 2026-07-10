@@ -2,43 +2,25 @@
 url: https://photon.codes/
 domain: photon.codes
 title: "Spectrum by Photon — open-source framework to bring agents to iMessage, WhatsApp, Telegram, Slack & more"
-category: tools-build
+vertical: startup-product
+mode: light
+vibe: [corporate-clean, playful]
+topics: [ai, engineering]
 extracted_at: 2026-07-05
 tags:
-  - category/tools-build
-  - aesthetic/light
-  - aesthetic/playful
-  - pattern/light
-  - pattern/apple-adjacent
-  - pattern/gradient
-  - pattern/spectrum
-  - pattern/prism
-  - pattern/long-scroll
-  - pattern/framer
-  - pattern/developer-marketing
-  - pattern/code-blocks
-  - pattern/chat-mockups
-  - pattern/bento-features
-  - pattern/variable-font
-  - tech/framer
-  - tech/posthog
-  - tech/google-tag-manager
-  - tech/facebook-pixel
-  - tech/apollo-io
-  - tech/google-ads-doubleclick
-  - tech/cloudfront
-  - color/light
-  - font/polysans-arabic-vf-variable-slim
-  - font/aspekta
-  - font/azeret-mono
-  - font/photon-symbol-regular
-  - font/polysans-arabic-trial-neutral
-  - font/inter
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - vibe/playful
+  - topic/ai
+  - topic/engineering
+  - mode/light
 ---
 # Spectrum by Photon — open-source framework to bring agents to iMessage, WhatsApp, Telegram, Slack & more
 > Bring Agents to the Interfaces Millions Already Use.  ·  [photon.codes](https://photon.codes/)
 
 ![photon.codes](../../screenshots/photoncodes.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean #vibe/playful  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The landing page for 'Spectrum by Photon' — in its own meta description, 'an open-source framework that connects your agents to iMessage, Telegram, WhatsApp, X, Discord, Instagram, and other interfaces people use every day.' It is the site Daniel Tian's 'world's 1st iMessage App API for agents' tweet links (metadata resolves the t.co to photon.codes); the tweet's video ends on the CTA 'Available today at tryphoton.ai'. The framework is open-source on GitHub (photon-hq/spectrum-ts, ~3.2k stars).
@@ -58,6 +40,7 @@ Clean, Apple-adjacent light design built around a rainbow-'spectrum' brand motif
 - **Fonts:** PolySans Arabic VF Variable Slim (Light 300) for display, Aspekta (400 / 550) for body & UI, Azeret Mono for code / labels, plus a custom Photon_Symbol icon font and Inter; Instrument Serif, Petrona, Geist Mono, Fragment Mono and IBM Plex Mono declared but unloaded.
 - **Fonts loaded:** PolySans Arabic VF Variable Slim 300, Aspekta 400, Aspekta 550, Azeret Mono 400, Azeret Mono 500, Photon_Symbol Regular 400, PolySans Arabic Trial Neutral 400, Inter 400, Inter 500, Inter 600
 - **Tech stack:** Framer, PostHog, Google Tag Manager, Facebook Pixel, Apollo.io, Google Ads / DoubleClick, CloudFront
+- **Keywords:** light, apple-adjacent, gradient, spectrum, prism, long-scroll, framer, developer-marketing, code-blocks, chat-mockups, bento-features, variable-font
 - **Media mix:** img 99 · svg 135
 - **Page height:** 12882px (single-screen: False)
 - **Responsive:** At 390x844 the hero headline scales down (48px → 32px) and the multi-column feature / testimonial grids reflow to a single column; total height stays ~12.7k px (Framer serves a dedicated mobile breakpoint).
@@ -67,7 +50,9 @@ Clean, Apple-adjacent light design built around a rainbow-'spectrum' brand motif
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true
 
 ## Related sites
-[[ankit-rai.com]] [[asekachov.com]] [[21st.dev]] [[affiliatenetwork.com]] [[animations.dev]] [[backgrounds.supply]]
-
-## Tags
-#category/tools-build #aesthetic/light #aesthetic/playful #pattern/light #pattern/apple-adjacent #pattern/gradient #pattern/spectrum #pattern/prism #pattern/long-scroll #pattern/framer #pattern/developer-marketing #pattern/code-blocks #pattern/chat-mockups #pattern/bento-features #pattern/variable-font #tech/framer #tech/posthog #tech/google-tag-manager #tech/facebook-pixel #tech/apollo-io #tech/google-ads-doubleclick #tech/cloudfront #color/light #font/polysans-arabic-vf-variable-slim #font/aspekta #font/azeret-mono #font/photon-symbol-regular #font/polysans-arabic-trial-neutral #font/inter
+- [[shipper.now]] — shared: startup-product, corporate-clean, playful, ai, light
+- [[daytona.io]] — shared: startup-product, corporate-clean, ai, engineering
+- [[langchain.com]] — shared: startup-product, corporate-clean, ai, engineering
+- [[b150.ai]] — shared: startup-product, playful, ai, light
+- [[creao.ai]] — shared: startup-product, corporate-clean, ai, light
+- [[jenni.ai]] — shared: startup-product, corporate-clean, ai, light

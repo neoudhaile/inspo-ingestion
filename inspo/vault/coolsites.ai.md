@@ -2,28 +2,25 @@
 url: https://www.coolsites.ai/
 domain: coolsites.ai
 title: "CoolSites — Website prompts"
-category: uncategorized
+vertical: directory-gallery
+mode: light
+vibe: [playful, organic-warm]
+topics: [design, ai]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/playful
-  - pattern/directory
-  - pattern/gallery
-  - pattern/ai-prompts
-  - pattern/live-iframe-previews
-  - pattern/warm-palette
-  - pattern/playful-display-type
-  - pattern/tailwind
-  - tech/tailwind-css-v4
-  - tech/clerk-auth
-  - color/warm
-  - font/dynapuff
-  - font/google-sans
+  - vertical/directory-gallery
+  - vibe/playful
+  - vibe/organic-warm
+  - topic/design
+  - topic/ai
+  - mode/light
 ---
 # CoolSites — Website prompts
 > Cause everyone deserves a good Fu*king Website  ·  [coolsites.ai](https://www.coolsites.ai/)
 
 ![coolsites.ai](../../screenshots/coolsitesai.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/playful #vibe/organic-warm  ·  **Topics:** #topic/design #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 A curated gallery of website design ideas where every entry ships with a copy-pasteable AI build prompt. The pitch is blunt and self-aware — the real <h1> reads “Cause everyone deserves a good Fu*king Website” — and a Clerk sign-in gates the full prompts.
@@ -43,6 +40,7 @@ A warm, almost analog palette — cream canvas (#efdec8) carrying bold cherry-re
 - **Fonts:** DynaPuff (playful display <h1>) + Google Sans (body/UI) + Geist Mono (mono)
 - **Fonts loaded:** DynaPuff 700, Google Sans 400, Google Sans 500, Google Sans 600, Google Sans 700
 - **Tech stack:** Tailwind CSS v4, Clerk (auth)
+- **Keywords:** directory, gallery, ai-prompts, live-iframe-previews, warm-palette, playful-display-type, tailwind
 - **Media mix:** img 3 · svg 7 · iframe 7
 - **Page height:** 2286px (single-screen: False)
 - **Responsive:** At 390px the preview grid collapses to a single full-width column (~358px), the DynaPuff <h1> scales from 72px to 48px, and the page grows to ~3565px tall (iframe previews lazy-load out of view, so the count reads 0 on first paint).
@@ -50,7 +48,9 @@ A warm, almost analog palette — cream canvas (#efdec8) carrying bold cherry-re
 - **Extracted:** 2026-06-05 · Playwright Chromium @ 1440×900 + 390×844 mobile pass; logged_out: true
 
 ## Related sites
-[[21st.dev]] [[ashpreetbedi.com]] [[backgrounds.supply]] [[bigideasdb.com]] [[colf.dev]] [[designengineer.tools]]
-
-## Tags
-#category/uncategorized #aesthetic/playful #pattern/directory #pattern/gallery #pattern/ai-prompts #pattern/live-iframe-previews #pattern/warm-palette #pattern/playful-display-type #pattern/tailwind #tech/tailwind-css-v4 #tech/clerk-auth #color/warm #font/dynapuff #font/google-sans
+- [[21st.dev]] — shared: directory-gallery, design, ai, light
+- [[jessa.art]] — shared: playful, organic-warm, design, light
+- [[lelezhang.design]] — shared: playful, organic-warm, ai, light
+- [[motionsites.ai]] — shared: directory-gallery, design, ai
+- [[nehasharma.dev]] — shared: playful, organic-warm, ai, light
+- [[sceneai.art]] — shared: directory-gallery, design, ai

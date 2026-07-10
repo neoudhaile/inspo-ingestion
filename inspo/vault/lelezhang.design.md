@@ -2,33 +2,25 @@
 url: https://lelezhang.design/draw
 domain: lelezhang.design
 title: "draw — let's draw together (send your sketch to Claude)"
-category: uncategorized
+vertical: tool-app
+mode: light
+vibe: [playful, organic-warm]
+topics: [ai, art]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/playful
-  - pattern/drawing-tool
-  - pattern/ai-collab
-  - pattern/claude-api
-  - pattern/glassmorphism
-  - pattern/paper
-  - pattern/slate-blue
-  - pattern/handwriting-font
-  - pattern/playful
-  - pattern/design-system
-  - tech/static-site-no-framework-global
-  - tech/adobe-typekit
-  - tech/google-fonts
-  - tech/anthropic-claude-api
-  - color/warm
-  - color/cool
-  - font/untitledsans
-  - font/caveat
+  - vertical/tool-app
+  - vibe/playful
+  - vibe/organic-warm
+  - topic/ai
+  - topic/art
+  - mode/light
 ---
 # draw — let's draw together (send your sketch to Claude)
 > Interactive drawing experiments and demos.  ·  [lelezhang.design](https://lelezhang.design/draw)
 
 ![lelezhang.design](../../screenshots/lelezhangdesign-draw.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/playful #vibe/organic-warm  ·  **Topics:** #topic/ai #topic/art  ·  **Mode:** #mode/light
 
 ## What it is
 'draw' — an interactive drawing playground on designer Lele Zhang's personal site where you sketch on screen and 'Send to Claude' to collaborate with AI. It's the 'finger paint on screen' from Jonas's list (surfaced via a quote of @itsjessyin, resolved to lelezhang.design/draw).
@@ -48,13 +40,16 @@ Soft, papery, glassmorphic. From :root tokens the page is warm off-white (--draw
 - **Fonts:** untitledSans (UI grotesque) with Caveat (handwriting script) for the playful voice.
 - **Fonts loaded:** untitledSans 400, Caveat 400
 - **Tech stack:** Static site (no framework global), Adobe Typekit, Google Fonts, Anthropic Claude API
+- **Keywords:** drawing-tool, ai-collab, claude-api, glassmorphism, paper, slate-blue, handwriting-font, playful, design-system
 - **Media mix:** img 8 · svg 13
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single screen; the floating toolbar sheds a few controls (13 → 10 svg icons) to fit the narrow viewport.
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[cafe.endofday.studio]] [[chusmargallo.space]] [[heyneuma.com]] [[humanoid-index.com]] [[jessa.art]] [[kmk0.com]]
-
-## Tags
-#category/uncategorized #aesthetic/playful #pattern/drawing-tool #pattern/ai-collab #pattern/claude-api #pattern/glassmorphism #pattern/paper #pattern/slate-blue #pattern/handwriting-font #pattern/playful #pattern/design-system #tech/static-site-no-framework-global #tech/adobe-typekit #tech/google-fonts #tech/anthropic-claude-api #color/warm #color/cool #font/untitledsans #font/caveat
+- [[cafe.endofday.studio]] — shared: tool-app, playful, organic-warm
+- [[coolsites.ai]] — shared: playful, organic-warm, ai, light
+- [[nehasharma.dev]] — shared: playful, organic-warm, ai, light
+- [[colf.dev]] — shared: tool-app, ai, light
+- [[spencer.place]] — shared: playful, organic-warm, art
+- [[are.na]] — shared: ai, art, light

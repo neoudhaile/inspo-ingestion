@@ -2,32 +2,24 @@
 url: https://fey.com
 domain: fey.com
 title: "Fey: Make better investments."
-category: uncategorized
+vertical: startup-product
+mode: dark
+vibe: [luxury, experimental]
+topics: [finance]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - aesthetic/luxury
-  - pattern/dark-theme
-  - pattern/product-landing
-  - pattern/scroll-story
-  - pattern/cinematic
-  - pattern/ghost-headline
-  - pattern/self-hosted-fonts
-  - pattern/nextjs
-  - pattern/fintech
-  - tech/next-js-react
-  - tech/self-hosted-fonts
-  - tech/no-third-party-analytics-detected
-  - color/dark
-  - color/warm
-  - font/calibre
+  - vertical/startup-product
+  - vibe/luxury
+  - vibe/experimental
+  - topic/finance
+  - mode/dark
 ---
 # Fey: Make better investments.
 > Make better investments.  ·  [fey.com](https://fey.com)
 
 ![fey.com](../../screenshots/feycom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/luxury #vibe/experimental  ·  **Topics:** #topic/finance  ·  **Mode:** #mode/dark
 
 ## What it is
 The marketing landing page for Fey, a desktop/web finance-research terminal pitched at the modern retail investor. Its own <h1> states the promise plainly: "Make better investments." — and the meta description frames it as "a new era of effortless financial research at your fingertips ... real-time market intelligence."
@@ -47,6 +39,7 @@ Pure dark theme: a true-black body (rgb(0,0,0)) with white text, accented by nea
 - **Fonts:** Calibre (custom grotesque, 400/600) for UI; Financier serif (500) declared for accents; self-hosted, no font CDN.
 - **Fonts loaded:** Calibre 400, Calibre 600
 - **Tech stack:** Next.js / React, self-hosted fonts, no third-party analytics detected
+- **Keywords:** dark-theme, product-landing, scroll-story, cinematic, ghost-headline, self-hosted-fonts, nextjs, fintech
 - **Media mix:** img 43 · video 2 · svg 46
 - **Page height:** 9926px (single-screen: False)
 - **Responsive:** At 390x844 the hero <h1> drops 54px to 36px and the page reflows much shorter (9,926px to 7,734px); the nav stays a flex bar (no hamburger element detected).
@@ -54,7 +47,7 @@ Pure dark theme: a true-black body (rgb(0,0,0)) with white text, accented by nea
 - **Extracted:** 2026-06-06 · Playwright Chromium, 1440x900 desktop + 390x844 mobile pass; logged_out: true
 
 ## Related sites
-[[hofai.io]] [[vercel.com]] [[affiliatenetwork.com]] [[animations.dev]] [[apps.ankiweb.net]] [[ashpreetbedi.com]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #aesthetic/developer-product #aesthetic/luxury #pattern/dark-theme #pattern/product-landing #pattern/scroll-story #pattern/cinematic #pattern/ghost-headline #pattern/self-hosted-fonts #pattern/nextjs #pattern/fintech #tech/next-js-react #tech/self-hosted-fonts #tech/no-third-party-analytics-detected #color/dark #color/warm #font/calibre
+- [[crustdata.com]] — shared: startup-product, experimental, dark
+- [[eko.lumaris.works]] — shared: startup-product, luxury, dark
+- [[b150.ai]] — shared: startup-product, experimental
+- [[contralabs.com]] — shared: startup-product, luxury

@@ -2,26 +2,24 @@
 url: https://daryl.cv/
 domain: daryl.cv
 title: "Daryl Ginn — designer & developer"
-category: uncategorized
+vertical: portfolio
+mode: light
+vibe: [brutalist, minimal]
+topics: [design]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/minimal
-  - pattern/minimalist
-  - pattern/text-only
-  - pattern/system-fonts
-  - pattern/single-screen
-  - pattern/personal-index
-  - pattern/anti-design
-  - tech/static-html-css
-  - tech/visitors-now-analytics
-  - color/cool
-  - font/system-fonts
+  - vertical/portfolio
+  - vibe/brutalist
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Daryl Ginn — designer & developer
 > A self-taught designer and developer from Australia.  ·  [daryl.cv](https://daryl.cv/)
 
 ![daryl.cv](../../screenshots/darylcv.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/brutalist #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 daryl.cv is the personal index of Daryl Ginn — the tweet's author — 'a self-taught designer and developer' with ~20 years in the industry. It's the author-portfolio hub that lists the products and studios he's launched, of which Recent.design is the current one.
@@ -41,6 +39,7 @@ Radical restraint, used as a designer's flex. From the DOM the page uses the sys
 - **Fonts:** System fonts only (system-ui / -apple-system) — no webfont payload; document.fonts is empty.
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Static HTML/CSS, visitors.now (analytics)
+- **Keywords:** minimalist, text-only, system-fonts, single-screen, personal-index, anti-design
 - **Media mix:** 
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single screen (844px); the content just reflows to a narrower column at the same 14px text size.
@@ -49,7 +48,9 @@ Radical restraint, used as a designer's flex. From the DOM the page uses the sys
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[axiaisacat.indiehacker.bio]] [[richzou.com]] [[amanml.com]] [[anyblockers.com]] [[bird.onethreenine.net]] [[drafts9.com]]
-
-## Tags
-#category/uncategorized #aesthetic/minimal #pattern/minimalist #pattern/text-only #pattern/system-fonts #pattern/single-screen #pattern/personal-index #pattern/anti-design #tech/static-html-css #tech/visitors-now-analytics #color/cool #font/system-fonts
+- [[arneshbanerjee.github.io]] — shared: portfolio, brutalist, minimal, light
+- [[asekachov.com]] — shared: portfolio, minimal, design, light
+- [[christophlocher.com]] — shared: portfolio, minimal, design, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
+- [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light
+- [[joonasvirtanen.com]] — shared: portfolio, minimal, design, light

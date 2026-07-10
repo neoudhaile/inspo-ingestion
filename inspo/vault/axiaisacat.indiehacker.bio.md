@@ -2,32 +2,24 @@
 url: https://axiaisacat.indiehacker.bio/
 domain: axiaisacat.indiehacker.bio
 title: "AXIA"
-category: product
+vertical: portfolio
+mode: light
+vibe: [minimal]
+topics: [startups, engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - aesthetic/dark
-  - pattern/link-in-bio
-  - pattern/personal-portfolio
-  - pattern/minimalist
-  - pattern/single-screen
-  - pattern/dark-mode-toggle
-  - pattern/text-only
-  - pattern/project-list
-  - tech/geist-sans-self-hosted
-  - tech/no-analytics-detected
-  - tech/self-hosted-on-indiehacker-bio
-  - color/dark
-  - color/monochrome
-  - color/cool
-  - font/geistsans-100-900
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/startups
+  - topic/engineering
+  - mode/light
 ---
 # AXIA
 > Hello, I AM AXIAISACAT — Independent Developer  ·  [axiaisacat.indiehacker.bio](https://axiaisacat.indiehacker.bio/)
 
 ![axiaisacat.indiehacker.bio](../../screenshots/axiaisacatindiehackerbio.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/startups #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 A hosted link-in-bio / mini-portfolio page on the indiehacker.bio platform for the indie developer 'axiaisacat' — the builder the Roundtable tweet credits with a viral Claude Code permanent-memory tool. It is a single static page that introduces the developer and lists their shipped products.
@@ -47,6 +39,7 @@ Deliberately minimal, document-like layout: near-white background (hsl(220 14% 9
 - **Fonts:** Geist Sans throughout (body + bold headings); no serif or accent webfont.
 - **Fonts loaded:** GeistSans 100-900
 - **Tech stack:** Geist Sans (self-hosted), no analytics detected, self-hosted on indiehacker.bio
+- **Keywords:** link-in-bio, personal-portfolio, minimalist, single-screen, dark-mode-toggle, text-only, project-list
 - **Media mix:** svg 1
 - **Page height:** 1017px (single-screen: False)
 - **Responsive:** At 390x844 it stays a single text column (no horizontal overflow, bodyW 374px); the same blocks simply stack taller (1221px).
@@ -55,7 +48,9 @@ Deliberately minimal, document-like layout: near-white background (hsl(220 14% 9
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[daryl.cv]] [[richzou.com]] [[amanml.com]] [[anyblockers.com]] [[daviskeene.com]] [[farza.com]]
-
-## Tags
-#category/product #aesthetic/portfolio #aesthetic/minimal #aesthetic/dark #pattern/link-in-bio #pattern/personal-portfolio #pattern/minimalist #pattern/single-screen #pattern/dark-mode-toggle #pattern/text-only #pattern/project-list #tech/geist-sans-self-hosted #tech/no-analytics-detected #tech/self-hosted-on-indiehacker-bio #color/dark #color/monochrome #color/cool #font/geistsans-100-900
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
+- [[daviskeene.com]] — shared: portfolio, minimal, engineering, light
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, engineering, light
+- [[farza.com]] — shared: portfolio, minimal, startups, light
+- [[julian.ai]] — shared: portfolio, minimal, startups, light

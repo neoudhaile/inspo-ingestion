@@ -2,32 +2,25 @@
 url: https://midu.dev
 domain: midu.dev
 title: "midu.dev - Cursos de Programación y Desarrollo Web"
-category: design
+vertical: docs-resource
+mode: light
+vibe: [corporate-clean, playful]
+topics: [education, engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/design
-  - aesthetic/light
-  - aesthetic/developer-product
-  - pattern/course-catalogue
-  - pattern/light-theme
-  - pattern/card-grid
-  - pattern/saas-landing
-  - pattern/pricing-cta
-  - pattern/inter
-  - pattern/astro-islands
-  - pattern/badge-chrome
-  - pattern/stripe-checkout
-  - tech/astro-astro-island
-  - tech/ahrefs-analytics
-  - tech/self-hosted-js-css
-  - tech/stripe-checkout
-  - color/light
-  - font/inter-variable-100-900
+  - vertical/docs-resource
+  - vibe/corporate-clean
+  - vibe/playful
+  - topic/education
+  - topic/engineering
+  - mode/light
 ---
 # midu.dev - Cursos de Programación y Desarrollo Web
 > Aprende IA y { Programación } sin saltar entre mil recursos  ·  [midu.dev](https://midu.dev)
 
 ![midu.dev](../../screenshots/midudev.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/corporate-clean #vibe/playful  ·  **Topics:** #topic/education #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 midu.dev is the Spanish-language programming academy of Miguel Ángel Durán (midudev). Its h1 pitch is 'Aprende IA y { Programación } sin saltar entre mil recursos' ('Learn AI and programming without jumping between a thousand resources'). NOTE: the bookmark itself is a teaser thread about mind-blowing Japanese ThreeJS sites — those sites weren't linked in the tweet body, so midu.dev is captured here only as the author's own (and only resolvable) destination.
@@ -47,6 +40,7 @@ A clean, high-contrast light theme — white ground rgb(255,255,255) with deep s
 - **Fonts:** Inter Variable (loaded) for all text, with an 'Inter Prevent Layout Shift' fallback; no serif or mono.
 - **Fonts loaded:** Inter Variable 100-900
 - **Tech stack:** Astro (astro-island), Ahrefs Analytics, self-hosted JS/CSS, Stripe (checkout)
+- **Keywords:** course-catalogue, light-theme, card-grid, saas-landing, pricing-cta, inter, astro-islands, badge-chrome, stripe-checkout
 - **Media mix:** img 36 · svg 75
 - **Page height:** 5419px (single-screen: False)
 - **Responsive:** At 390x844 a hamburger menu appears (nav collapses to Cursos/Retos/Recursos/Bugs), the course grid stacks to a single column (scrollHeight ~5419px to ~10001px) and the hero h1 shrinks from 68px to 48px.
@@ -55,7 +49,9 @@ A clean, high-contrast light theme — white ground rgb(255,255,255) with deep s
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[bigideasdb.com]] [[jenni.ai]] [[linkeddit.com]] [[varickagents.com]] [[animations.dev]] [[creao.ai]]
-
-## Tags
-#category/design #aesthetic/light #aesthetic/developer-product #pattern/course-catalogue #pattern/light-theme #pattern/card-grid #pattern/saas-landing #pattern/pricing-cta #pattern/inter #pattern/astro-islands #pattern/badge-chrome #pattern/stripe-checkout #tech/astro-astro-island #tech/ahrefs-analytics #tech/self-hosted-js-css #tech/stripe-checkout #color/light #font/inter-variable-100-900
+- [[walkinglabs.github.io]] — shared: docs-resource, education, engineering, light
+- [[hofai.io]] — shared: docs-resource, playful, education
+- [[photon.codes]] — shared: corporate-clean, playful, engineering, light
+- [[animations.dev]] — shared: docs-resource, engineering, light
+- [[heyneuma.com]] — shared: docs-resource, education, light
+- [[makingsoftware.com]] — shared: docs-resource, engineering, light

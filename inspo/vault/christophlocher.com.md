@@ -2,35 +2,24 @@
 url: https://christophlocher.com/
 domain: christophlocher.com
 title: "Christoph Locher — Interaction Designer (a bold split-screen editorial portfolio)"
-category: product
+vertical: portfolio
+mode: light
+vibe: [editorial, minimal]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/product
-  - aesthetic/portfolio
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - aesthetic/developer-product
-  - pattern/portfolio
-  - pattern/interaction-designer
-  - pattern/editorial
-  - pattern/swiss
-  - pattern/split-screen
-  - pattern/chartreuse
-  - pattern/monospace-accent
-  - pattern/self-hosted
-  - pattern/no-tracking
-  - pattern/minimalist
-  - tech/self-hosted-static-no-js-framework-detected
-  - tech/no-analytics-no-tracking
-  - color/warm
-  - color/cool
-  - font/untitled-sans
-  - font/ia-writer-duospace
+  - vertical/portfolio
+  - vibe/editorial
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Christoph Locher — Interaction Designer (a bold split-screen editorial portfolio)
 > I am an Interaction Designer living and working in Hamburg, Europe. My goal is making complex problems manageable through accessible abstractions.  ·  [christophlocher.com](https://christophlocher.com/)
 
 ![christophlocher.com](../../screenshots/christophlochercom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site of Christoph Locher, an interaction designer based in Hamburg — the destination this design-inspiration-app tweet's export metadata resolves to (his own hub). The rendered h1 reads 'Christoph Locher / Interaction Designer', and the site is where his work, notes and the file-system-based inspiration app shown in the video presumably live. It is deliberately un-instrumented: the footer literally reads '2026 — No tracking.'
@@ -50,6 +39,7 @@ Crisp Swiss/editorial layout with an unusually confident colour block. The palet
 - **Fonts:** Untitled Sans (display & body) + iA Writer Duospace (mono labels) — both self-hosted and loaded; no icon font.
 - **Fonts loaded:** Untitled Sans 400, iA Writer Duospace 400
 - **Tech stack:** Self-hosted static (no JS framework detected), No analytics / no tracking
+- **Keywords:** portfolio, interaction-designer, editorial, swiss, split-screen, chartreuse, monospace-accent, self-hosted, no-tracking, minimalist
 - **Media mix:** svg 4
 - **Page height:** 1336px (single-screen: False)
 - **Responsive:** At 390x844 the split-screen hero stacks vertically, the h1 scales 63px → 23.6px, and the page reflows to a single column (scrollHeight ~1,429px); the top nav (About / Projects / Notes) stays visible.
@@ -57,7 +47,9 @@ Crisp Swiss/editorial layout with an unusually confident colour block. The palet
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[ravalabs.com]] [[ryancarson.com]] [[daviskeene.com]] [[designengineer.tools]] [[joonasvirtanen.com]]
-
-## Tags
-#category/product #aesthetic/portfolio #aesthetic/editorial #aesthetic/minimal #aesthetic/developer-product #pattern/portfolio #pattern/interaction-designer #pattern/editorial #pattern/swiss #pattern/split-screen #pattern/chartreuse #pattern/monospace-accent #pattern/self-hosted #pattern/no-tracking #pattern/minimalist #tech/self-hosted-static-no-js-framework-detected #tech/no-analytics-no-tracking #color/warm #color/cool #font/untitled-sans #font/ia-writer-duospace
+- [[asekachov.com]] — shared: portfolio, editorial, minimal, design, light
+- [[joonasvirtanen.com]] — shared: portfolio, editorial, minimal, design, light
+- [[daryl.cv]] — shared: portfolio, minimal, design, light
+- [[daviskeene.com]] — shared: portfolio, editorial, minimal, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
+- [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light

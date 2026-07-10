@@ -2,29 +2,24 @@
 url: https://ditther.com
 domain: ditther.com
 title: "Ditther — Browser-based Image Editor with Dither Effects"
-category: tools-build
+vertical: tool-app
+mode: dark
+vibe: [technical, minimal]
+topics: [art]
 extracted_at: 2026-06-04
 tags:
-  - category/tools-build
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - aesthetic/experimental
-  - pattern/dark-mode
-  - pattern/tool-app
-  - pattern/live-canvas
-  - pattern/control-panel
-  - pattern/preset-grid
-  - pattern/no-scroll
-  - pattern/no-signup
-  - pattern/monospace-ui
-  - pattern/single-accent
-  - color/dark
-  - color/cool
+  - vertical/tool-app
+  - vibe/technical
+  - vibe/minimal
+  - topic/art
+  - mode/dark
 ---
 # Ditther — Browser-based Image Editor with Dither Effects
 >   ·  [ditther.com](https://ditther.com)
 
 ![ditther.com](../../screenshots/ditthercom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/technical #vibe/minimal  ·  **Topics:** #topic/art  ·  **Mode:** #mode/dark
 
 ## What it is
 A free, no-account browser image editor built around retro/cinematic effects — dither, halftone, bayer matrix, lego, pixel, plus film-style color filters. You drop in an image (or pick a generated background) and restyle it live in the browser.
@@ -41,10 +36,13 @@ Confident dark-app aesthetic: near-black panels (#0d0d0f / #141417) with crisp o
 ## Design data
 - **Palette:** Near-black panels (#0d0d0f / #141417), off-white text (#f8f8f8), muted grey labels (#8d8d95), single mint-teal accent (#3aedc9).
 - **Fonts:** Geist (UI), Geist Mono (labels/values)
+- **Keywords:** dark-mode, tool-app, live-canvas, control-panel, preset-grid, no-scroll, no-signup, monospace-ui, single-accent
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[colf.dev]] [[spacetypegenerator.com]] [[backgrounds.supply]] [[badmarketing.com]] [[chusmargallo.space]] [[davekrugman.com]]
-
-## Tags
-#category/tools-build #aesthetic/dark #aesthetic/developer-product #aesthetic/experimental #pattern/dark-mode #pattern/tool-app #pattern/live-canvas #pattern/control-panel #pattern/preset-grid #pattern/no-scroll #pattern/no-signup #pattern/monospace-ui #pattern/single-accent #color/dark #color/cool
+- [[zendex.spyrosigma.in]] — shared: tool-app, technical, minimal, dark
+- [[akira.sachi.dev]] — shared: tool-app, technical, minimal
+- [[itshover.com]] — shared: tool-app, technical, minimal
+- [[stitch.withgoogle.com]] — shared: tool-app, technical, dark
+- [[tryponcho.com]] — shared: tool-app, technical, dark
+- [[ankit-rai.com]] — shared: minimal, art, dark

@@ -117,5 +117,16 @@ pattern_keywords[]`.
 - `links_out: [{label, href}]` — notable CTA/social/outbound links (optional)
 - `weight: {requests, hosts[]}` — optional, from network requests
 
+…plus RELATEDNESS FACETS (MANDATORY — this is how sites connect in the knowledge graph):
+Read `tools/ingest/taxonomy.json` (small file; the controlled vocabulary) and classify the
+site using ONLY its values:
+- `facets: { "vertical": <exactly one taxonomy.vertical key — what the site IS>,
+             "mode": <exactly one taxonomy.mode key — dominant color mode>,
+             "vibe": [1-3 taxonomy.vibe keys — how it genuinely feels],
+             "topics": [0-3 taxonomy.topic keys — what it's ABOUT; empty list if unclear] }`
+Do not invent values outside the taxonomy. Topics create the cross-cluster bridges
+(e.g. a personal blog ABOUT startups gets `"topics": ["startups"]`), so classify them
+from the site's actual subject matter, not its aesthetics.
+
 Write ONLY the file. Do not modify `inspiration.json` or `inspiration.md` — the
 deterministic writer does that.

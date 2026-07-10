@@ -2,33 +2,25 @@
 url: https://lab01.dev/
 domain: lab01.dev
 title: "Lab01 - Sebastiano Guerriero's portfolio"
-category: design
+vertical: portfolio
+mode: dark
+vibe: [minimal, technical]
+topics: [design, engineering]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - aesthetic/minimal
-  - pattern/experiments-lab
-  - pattern/portfolio
-  - pattern/dark
-  - pattern/monospace
-  - pattern/geist-mono
-  - pattern/iframe-demos
-  - pattern/ui-experiments
-  - pattern/minimal
-  - tech/static-site-no-meta-framework-global
-  - tech/umami-analytics
-  - tech/cloudflare-web-analytics-cdn
-  - color/dark
-  - color/monochrome
-  - font/geist-mono-variable-100-900
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/technical
+  - topic/design
+  - topic/engineering
+  - mode/dark
 ---
 # Lab01 - Sebastiano Guerriero's portfolio
 > Lab01 by Sebastiano Guerriero — a portfolio/lab of live front-end UI experiments (derived from the h1; the page ships no meta description).  ·  [lab01.dev](https://lab01.dev/)
 
 ![lab01.dev](../../screenshots/lab01dev.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/design #topic/engineering  ·  **Mode:** #mode/dark
 
 ## What it is
 Sebastiano Guerriero's experiments lab and the home of the tweet's demo. The h1 reads 'Lab01 by Sebastiano Guerriero'; the page ships no meta description. It is a running index of numbered front-end UI experiments (the drag-to-collapse sidebar is one of them).
@@ -48,6 +40,7 @@ A monochrome dark 'lab' aesthetic driven by a single monospace typeface. getComp
 - **Fonts:** One typeface everywhere: the variable monospace 'Geist Mono' (100–900), including headings.
 - **Fonts loaded:** Geist Mono (variable 100-900)
 - **Tech stack:** Static site (no meta-framework global), Umami analytics, Cloudflare (Web Analytics + CDN)
+- **Keywords:** experiments-lab, portfolio, dark, monospace, geist-mono, iframe-demos, ui-experiments, minimal
 - **Media mix:** img 3 · svg 15 · iframe 9
 - **Page height:** 9568px (single-screen: False)
 - **Responsive:** At 390x844 there is no burger nav (the layout is a minimal single column); the experiment stack reflows to a centered column (24px / 342px / 24px gutters) and the page shortens from 9,568 to 7,397px with no horizontal overflow.
@@ -56,7 +49,9 @@ A monochrome dark 'lab' aesthetic driven by a single monospace typeface. getComp
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[objectives.md]] [[ankit-rai.com]] [[hex.inc]] [[jasonyuan.design]] [[killedbyopenai.com]] [[nyk.dev]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/dark #aesthetic/developer-product #aesthetic/minimal #pattern/experiments-lab #pattern/portfolio #pattern/dark #pattern/monospace #pattern/geist-mono #pattern/iframe-demos #pattern/ui-experiments #pattern/minimal #tech/static-site-no-meta-framework-global #tech/umami-analytics #tech/cloudflare-web-analytics-cdn #color/dark #color/monochrome #font/geist-mono-variable-100-900
+- [[khairallah.xyz]] — shared: portfolio, minimal, technical, engineering, dark
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, engineering
+- [[kmk0.com]] — shared: portfolio, minimal, design, engineering
+- [[siddz.com]] — shared: portfolio, minimal, technical, engineering
+- [[spyrosigma.in]] — shared: portfolio, minimal, technical, engineering
+- [[designengineer.tools]] — shared: minimal, technical, design, engineering

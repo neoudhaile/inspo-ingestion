@@ -2,35 +2,25 @@
 url: https://www.langchain.com/careers
 domain: langchain.com
 title: "LangChain Careers"
-category: uncategorized
+vertical: startup-product
+mode: dark
+vibe: [corporate-clean, technical]
+topics: [ai, engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - pattern/careers-page
-  - pattern/dark-navy
-  - pattern/webflow
-  - pattern/generative-line-art
-  - pattern/operating-principles-grid
-  - pattern/investor-logos
-  - pattern/ashby-embed
-  - pattern/agent-infra
-  - tech/webflow
-  - tech/ashby-job-board
-  - tech/hubspot
-  - tech/segment
-  - tech/plausible
-  - tech/google-tag-manager
-  - tech/linkedin-reddit-twitter-facebook-pixels
-  - color/dark
-  - color/cool
-  - font/twklausanne
-  - font/aeonik
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - vibe/technical
+  - topic/ai
+  - topic/engineering
+  - mode/dark
 ---
 # LangChain Careers
 > We're a growing team of builders making an outsized impact in our industry  ·  [langchain.com](https://www.langchain.com/careers)
 
 ![langchain.com](../../screenshots/langchaincom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean #vibe/technical  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/dark
 
 ## What it is
 The careers page of LangChain, the company behind the widely-used LangChain / LangGraph agent-building frameworks. It is a recruiting landing page that sells the team and culture, then embeds the live job board.
@@ -50,6 +40,7 @@ Deep-navy near-black canvas (rgb(3,7,16)) with pale-blue text (rgb(204,233,255))
 - **Fonts:** TWK Lausanne (display H1) + Aeonik (body), with JetBrains Mono for technical accents.
 - **Fonts loaded:** Twklausanne 300, Aeonik 400
 - **Tech stack:** Webflow, Ashby (job board), HubSpot, Segment, Plausible, Google Tag Manager, LinkedIn/Reddit/Twitter/Facebook pixels
+- **Keywords:** careers-page, dark-navy, webflow, generative-line-art, operating-principles-grid, investor-logos, ashby-embed, agent-infra
 - **Media mix:** img 17 · svg 18 · iframe 3
 - **Page height:** 5730px (single-screen: False)
 - **Responsive:** At 390x844 the Webflow nav collapses to a hamburger (.w-nav-button), content stacks to a single column with no overflow (bodyW 390px), and the page grows to ~6.3k px.
@@ -58,7 +49,9 @@ Deep-navy near-black canvas (rgb(3,7,16)) with pale-blue text (rgb(204,233,255))
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[b150.ai]] [[badmarketing.com]] [[claude.com]] [[coldiq.com]] [[conigma.com]] [[gatheros.co]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #pattern/careers-page #pattern/dark-navy #pattern/webflow #pattern/generative-line-art #pattern/operating-principles-grid #pattern/investor-logos #pattern/ashby-embed #pattern/agent-infra #tech/webflow #tech/ashby-job-board #tech/hubspot #tech/segment #tech/plausible #tech/google-tag-manager #tech/linkedin-reddit-twitter-facebook-pixels #color/dark #color/cool #font/twklausanne #font/aeonik
+- [[daytona.io]] — shared: startup-product, corporate-clean, technical, ai, engineering, dark
+- [[crustdata.com]] — shared: startup-product, technical, ai, engineering, dark
+- [[photon.codes]] — shared: startup-product, corporate-clean, ai, engineering
+- [[printingpress.dev]] — shared: startup-product, technical, ai, engineering
+- [[hw.cafe]] — shared: startup-product, technical, engineering, dark
+- [[ashpreetbedi.com]] — shared: technical, ai, engineering, dark

@@ -8604,7 +8604,18 @@
         "dark-mode",
         "tactile-3d",
         "product-is-the-page"
-      ]
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "dark",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "chusmargallo.space": {
       "url": "https://chusmargallo.space/",
@@ -8630,7 +8641,18 @@
         "no-scroll",
         "nostalgia",
         "playful"
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "retro",
+          "playful"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "daviskeene.com": {
       "url": "https://daviskeene.com/",
@@ -8656,7 +8678,18 @@
         "glitch-portrait",
         "personal-homepage",
         "monochrome"
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "ditther.com": {
       "url": "https://ditther.com",
@@ -8680,7 +8713,18 @@
         "no-signup",
         "monospace-ui",
         "single-accent"
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "minimal"
+        ],
+        "topics": [
+          "art"
+        ]
+      }
     },
     "12matcha.com": {
       "url": "https://12matcha.com",
@@ -8703,7 +8747,19 @@
         "ecommerce",
         "monospace-serif",
         "negative-space"
-      ]
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "light",
+        "vibe": [
+          "luxury",
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "food-drink"
+        ]
+      }
     },
     "jessyin.world": {
       "url": "https://jessyin.world",
@@ -8725,7 +8781,16 @@
         "no-scroll",
         "warm-minimal",
         "text-selection-highlight"
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "organic-warm"
+        ],
+        "topics": []
+      }
     },
     "offthewall.studio": {
       "url": "https://offthewall.studio",
@@ -8748,7 +8813,18 @@
         "long-scroll",
         "retro-blue-links",
         "metadata-labels"
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "gaspardhedde.fr": {
       "url": "https://gaspardhedde.fr",
@@ -8772,7 +8848,18 @@
         "image-stack",
         "live-clock",
         "view-toggle"
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "experimental"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "are.na": {
       "url": "https://www.are.na/john-galt/nous-research-john-galt",
@@ -8858,7 +8945,19 @@
           "label": "John Galt (profile)",
           "href": "https://www.are.na/john-galt"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "ai",
+          "art"
+        ]
+      }
     },
     "davekrugman.com": {
       "url": "https://www.davekrugman.com/",
@@ -8986,7 +9085,19 @@
           "label": "Press: New York Times",
           "href": "https://www.nytimes.com/2014/06/18/arts/design/sharing-cultural-jewels-via-instagram.html"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "editorial"
+        ],
+        "topics": [
+          "photography",
+          "art"
+        ]
+      }
     },
     "mo1.app": {
       "url": "https://mo1.app/",
@@ -9090,7 +9201,18 @@
           "label": "terms and privacy",
           "href": "https://mo1.app/terms-privacy"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "kmk0.com": {
       "url": "https://kmk0.com/",
@@ -9193,7 +9315,19 @@
           "label": "YouTube",
           "href": "https://www.youtube.com/@KMkota0"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      }
     },
     "flowstate.com": {
       "url": "https://flowstate.com/",
@@ -9277,7 +9411,18 @@
         "FLOW TRIGGER",
         "Meet Rían"
       ],
-      "responsive_note": "At 390x844 the layout reflows to a single column and the h1 drops to 30px; scrollHeight grows to ~3,089px and the header stays a simple flex bar (no burger menu)."
+      "responsive_note": "At 390x844 the layout reflows to a single column and the h1 drops to 30px; scrollHeight grows to ~3,089px and the header stays a simple flex bar (no burger menu).",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean",
+          "minimal"
+        ],
+        "topics": [
+          "productivity"
+        ]
+      }
     },
     "siddz.com": {
       "url": "https://siddz.com/",
@@ -9372,7 +9517,18 @@
           "label": "Wittyr",
           "href": "https://wittyr.com/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "transitions.dev": {
       "url": "https://transitions.dev/",
@@ -9474,7 +9630,19 @@
           "label": "Jakub Antalik",
           "href": "https://x.com/jakubantalik"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      }
     },
     "serif.sh": {
       "url": "https://www.serif.sh/",
@@ -9548,7 +9716,19 @@
           "label": "Ticketping (maker's other product)",
           "href": "https://ticketping.com/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "writing",
+          "design"
+        ]
+      }
     },
     "backgrounds.supply": {
       "url": "https://www.backgrounds.supply/",
@@ -9637,7 +9817,19 @@
           "label": "Instagram (@kail.designs)",
           "href": "https://www.instagram.com/kail.designs/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "art"
+        ]
+      }
     },
     "joonasvirtanen.com": {
       "url": "https://www.joonasvirtanen.com/",
@@ -9722,7 +9914,18 @@
           "label": "Dribbble",
           "href": "https://dribbble.com/joonasvirtanen"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "ribbit.dk": {
       "url": "https://ribbit.dk/",
@@ -9835,7 +10038,19 @@
           "label": "howdy@ribbit.dk",
           "href": "mailto:howdy@ribbit.dk"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "experimental"
+        ],
+        "topics": [
+          "design",
+          "film-video"
+        ]
+      }
     },
     "akira.sachi.dev": {
       "url": "https://akira.sachi.dev/",
@@ -9930,7 +10145,18 @@
           "label": "sachi (author)",
           "href": "https://sachi.dev/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "technical",
+          "minimal"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "designrebuilds.vercel.app": {
       "url": "https://designrebuilds.vercel.app/",
@@ -10006,7 +10232,19 @@
           "label": "8 Aceternity Keyboard (demo route)",
           "href": "https://designrebuilds.vercel.app/keyboard"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
     },
     "patterncraft.fun": {
       "url": "https://patterncraft.fun/",
@@ -10094,7 +10332,19 @@
           "label": "Vercel OSS Program feature",
           "href": "https://vercel.com/blog/vercel-open-source-program-fall-2025-cohort#pattern-craft"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "corporate-clean"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
     },
     "itshover.com": {
       "url": "https://www.itshover.com/",
@@ -10189,7 +10439,19 @@
           "label": "Abhijit (@abhijitwt)",
           "href": "https://x.com/abhijitwt"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
     },
     "sensory-ui.com": {
       "url": "https://www.sensory-ui.com/",
@@ -10280,7 +10542,19 @@
           "label": "Material Design — About Sound",
           "href": "https://m2.material.io/design/sound/about-sound.html"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      }
     },
     "colf.dev": {
       "url": "https://colf.dev/",
@@ -10381,7 +10655,19 @@
           "label": "Cursor",
           "href": "https://cursor.com/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "technical",
+          "retro"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "zendex.spyrosigma.in": {
       "url": "https://zendex.spyrosigma.in/",
@@ -10482,7 +10768,19 @@
           "label": "Noah Zender (source)",
           "href": "https://www.noahzender.com/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "productivity",
+          "writing"
+        ]
+      }
     },
     "anyblockers.com": {
       "url": "https://anyblockers.com/",
@@ -10574,7 +10872,19 @@
           "label": "LinkedIn",
           "href": "https://www.linkedin.com/in/ericzakariasson"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "engineering",
+          "writing"
+        ]
+      }
     },
     "spyrosigma.in": {
       "url": "https://spyrosigma.in",
@@ -10686,7 +10996,19 @@
           "label": "MedMitra (Live)",
           "href": "https://medmitra.vercel.app/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "technical",
+          "minimal"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "midu.dev": {
       "url": "https://midu.dev",
@@ -10768,7 +11090,19 @@
           "label": "Probar curso gratis",
           "href": "https://midu.dev/curso/astro-cms-headless"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "playful"
+        ],
+        "topics": [
+          "education",
+          "engineering"
+        ]
+      }
     },
     "gregisenberg.com": {
       "url": "http://gregisenberg.com/",
@@ -10852,7 +11186,18 @@
           "label": "Where It Happens (Spotify)",
           "href": "https://open.spotify.com/show/6aB0v6amo3a8hgTCjlTlvh"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "editorial"
+        ],
+        "topics": [
+          "startups",
+          "marketing"
+        ]
+      }
     },
     "varickagents.com": {
       "url": "https://www.varickagents.com/",
@@ -10968,7 +11313,19 @@
           "label": "LINKEDIN",
           "href": "https://www.linkedin.com/company/varick-agents/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
     },
     "noahzender.com": {
       "url": "https://www.noahzender.com/",
@@ -11075,7 +11432,19 @@
           "label": "Genius Thrives in the Margins",
           "href": "https://www.noahzender.com/genius-margins"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "organic-warm"
+        ],
+        "topics": [
+          "writing",
+          "productivity"
+        ]
+      }
     },
     "jenni.ai": {
       "url": "https://jenni.ai/",
@@ -11170,7 +11539,19 @@
         "Make progress on your greatest work, today"
       ],
       "responsive_note": "At 390x844 the layout collapses to a single column and the hero <h1> shrinks from 62px to 46px; total scrollHeight grows from ~13,200px to ~19,200px as sections stack vertically.",
-      "tech_note": "No SPA framework global detected (__NEXT_DATA__/__NUXT__/SvelteKit/Vue all absent) — consistent with a statically exported Framer site."
+      "tech_note": "No SPA framework global detected (__NEXT_DATA__/__NUXT__/SvelteKit/Vue all absent) — consistent with a statically exported Framer site.",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean"
+        ],
+        "topics": [
+          "ai",
+          "education",
+          "writing"
+        ]
+      }
     },
     "willmanidis.com": {
       "url": "https://willmanidis.com/",
@@ -11265,7 +11646,18 @@
           "label": "LinkedIn",
           "href": "http://www.linkedin.com/in/willmanidis"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "organic-warm"
+        ],
+        "topics": [
+          "startups"
+        ]
+      }
     },
     "coolsites.ai": {
       "url": "https://www.coolsites.ai/",
@@ -11377,7 +11769,19 @@
         "Cause everyone deserves a good Fu*king Website",
         "Website ideas"
       ],
-      "responsive_note": "At 390px the preview grid collapses to a single full-width column (~358px), the DynaPuff <h1> scales from 72px to 48px, and the page grows to ~3565px tall (iframe previews lazy-load out of view, so the count reads 0 on first paint)."
+      "responsive_note": "At 390px the preview grid collapses to a single full-width column (~358px), the DynaPuff <h1> scales from 72px to 48px, and the page grows to ~3565px tall (iframe previews lazy-load out of view, so the count reads 0 on first paint).",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "organic-warm"
+        ],
+        "topics": [
+          "design",
+          "ai"
+        ]
+      }
     },
     "claude.com": {
       "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
@@ -11490,7 +11894,18 @@
         "Related posts",
         "Transform how your organization operates with Claude"
       ],
-      "responsive_note": "At 390px the top navigation collapses to a hamburger menu, the fluid serif <h1> scales from 52px down to ~35px, and the article reflows to a single column (~25k px tall)."
+      "responsive_note": "At 390px the top navigation collapses to a hamburger menu, the fluid serif <h1> scales from 52px down to ~35px, and the article reflows to a single column (~25k px tall).",
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "editorial"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "b150.ai": {
       "url": "https://b150.ai/",
@@ -11633,7 +12048,19 @@
           "label": "Contact us",
           "href": "mailto:support@b150.ai"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "experimental",
+          "playful"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
     },
     "the-cafelist.com": {
       "url": "https://the-cafelist.com/nyc/",
@@ -11738,7 +12165,19 @@
         "NYC Cafes"
       ],
       "responsive_note": "At 390px the two-pane layout collapses to a single full-height list view with a 'Full map' toggle button; filter chips (Open / Rating / Filter) and a 'Nominate' CTA remain.",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "editorial"
+        ],
+        "topics": [
+          "food-drink",
+          "travel-places"
+        ]
+      }
     },
     "ignytlabs.com": {
       "url": "https://www.ignytlabs.com/",
@@ -11839,7 +12278,18 @@
           "label": "Book a slot",
           "href": "https://cal.com/prajwal-tomar/book"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean"
+        ],
+        "topics": [
+          "startups",
+          "design"
+        ]
+      }
     },
     "debarghyadas.com": {
       "url": "https://debarghyadas.com/",
@@ -11922,7 +12372,19 @@
           "label": "SuperDM (contact)",
           "href": "https://superdm.com/deedy"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "startups",
+          "finance",
+          "ai"
+        ]
+      }
     },
     "addyosmani.com": {
       "url": "https://addyosmani.com/",
@@ -12050,7 +12512,19 @@
           "label": "LinkedIn",
           "href": "https://www.linkedin.com/in/addyosmani/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "mixed",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "engineering",
+          "ai"
+        ]
+      }
     },
     "walkinglabs.github.io": {
       "url": "https://walkinglabs.github.io/learn-harness-engineering/en/",
@@ -12148,7 +12622,20 @@
           "label": "Lecture 01: Why Capable Agents Still Fail",
           "href": "https://walkinglabs.github.io/learn-harness-engineering/en/lectures/lecture-01-why-capable-agents-still-fail/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "organic-warm"
+        ],
+        "topics": [
+          "engineering",
+          "ai",
+          "education"
+        ]
+      }
     },
     "motionsites.ai": {
       "url": "https://motionsites.ai/",
@@ -12246,7 +12733,19 @@
           "label": "Explore the Full Library",
           "href": "https://designrocket.io/?utm_source=motionsites&utm_medium=site&utm_campaign=promo"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "ai"
+        ]
+      }
     },
     "backdoorai.app": {
       "url": "https://backdoorai.app",
@@ -12351,7 +12850,19 @@
           "label": "Message Backdoor (SMS deep link)",
           "href": "sms:+13123666518?&body=Hey%20Backdoor%2C%20I%20want%20to%20work%20at%20a%20startup."
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "organic-warm"
+        ],
+        "topics": [
+          "startups",
+          "ai"
+        ]
+      }
     },
     "thinkwithmark.com": {
       "url": "https://www.thinkwithmark.com/",
@@ -12445,7 +12956,20 @@
           "label": "Gizmodo coverage",
           "href": "https://gizmodo.com/this-ai-bookmark-might-actually-help-you-finish-reading-books-2000569596"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "mixed",
+        "vibe": [
+          "luxury",
+          "organic-warm",
+          "editorial"
+        ],
+        "topics": [
+          "productivity",
+          "writing"
+        ]
+      }
     },
     "hofai.io": {
       "url": "https://www.hofai.io/",
@@ -12546,7 +13070,19 @@
         "Aklındaki her şey.",
         "AI ile yeniden başla."
       ],
-      "responsive_note": "At 390x844 the hero h1 drops 88px→48px and the page reflows to a single column (scrollHeight 10912→16876); no hamburger detected, the nav stays block-level."
+      "responsive_note": "At 390x844 the hero h1 drops 88px→48px and the page reflows to a single column (scrollHeight 10912→16876); no hamburger detected, the nav stays block-level.",
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "mixed",
+        "vibe": [
+          "technical",
+          "playful"
+        ],
+        "topics": [
+          "ai",
+          "education"
+        ]
+      }
     },
     "cofounder.co": {
       "url": "https://cofounder.co/",
@@ -12668,7 +13204,20 @@
           "label": "Built by Altalogy",
           "href": "https://www.altalogy.com/?rel=gic-cofounder"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "mixed",
+        "vibe": [
+          "organic-warm",
+          "editorial",
+          "technical"
+        ],
+        "topics": [
+          "startups",
+          "ai"
+        ]
+      }
     },
     "todesktop.com": {
       "url": "https://www.todesktop.com/",
@@ -12771,7 +13320,18 @@
           "label": "Migrate from electron-forge (docs)",
           "href": "https://docs.todesktop.com/guides/electron-forge"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "printingpress.dev": {
       "url": "https://printingpress.dev/",
@@ -12888,7 +13448,20 @@
           "label": "Trevin Chow",
           "href": "https://x.com/trevin"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "organic-warm",
+          "technical"
+        ],
+        "topics": [
+          "engineering",
+          "ai"
+        ]
+      }
     },
     "juneoven.com": {
       "url": "https://juneoven.com/",
@@ -13015,7 +13588,18 @@
           "label": "FAQ (Weber consumer care)",
           "href": "https://consumer-care.weber.com/s/june-oven-page?language=en_US"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "corporate-clean"
+        ],
+        "topics": [
+          "food-drink"
+        ]
+      }
     },
     "nehasharma.dev": {
       "url": "https://nehasharma.dev",
@@ -13111,7 +13695,19 @@
         "System Design Roadmap for Beginners"
       ],
       "responsive_note": "At 390px the multi-column layout collapses to a single stacked column — the pinned-card row and category sidebar reflow vertically and the page nearly doubles in height (1716px → 3740px).",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "playful"
+        ],
+        "topics": [
+          "engineering",
+          "ai"
+        ]
+      }
     },
     "millermanintelligence.com": {
       "url": "https://millermanintelligence.com/",
@@ -13261,7 +13857,19 @@
           "label": "Contact",
           "href": "mailto:private@millermanschool.com"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "organic-warm"
+        ],
+        "topics": [
+          "finance",
+          "writing"
+        ]
+      }
     },
     "hiivearts.com": {
       "url": "https://hiivearts.com/x",
@@ -13345,7 +13953,17 @@
           "label": "Email",
           "href": "mailto:hello@hiivearts.com"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "marketing"
+        ]
+      }
     },
     "creao.ai": {
       "url": "https://creao.ai/",
@@ -13432,7 +14050,19 @@
         "Frequently asked questions"
       ],
       "responsive_note": "At 390px the multi-column sections collapse to one stacked column — the h1 scales from 80px to 44px and the page roughly redoubles in height (8986px → 14370px).",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "editorial"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
     },
     "coldiq.com": {
       "url": "https://coldiq.com/",
@@ -13549,7 +14179,19 @@
         "Let's Get Started!"
       ],
       "responsive_note": "At 390px the Webflow nav collapses to a hamburger (.w-nav-button), the h1 scales from 64px to 36px, and the page restacks taller (14499px → 16435px).",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "luxury",
+          "organic-warm",
+          "editorial"
+        ],
+        "topics": [
+          "marketing"
+        ]
+      }
     },
     "farza.com": {
       "url": "https://farza.com/",
@@ -13644,7 +14286,18 @@
           "label": "contact",
           "href": "mailto:farza@humansongs.so"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "startups",
+          "ai"
+        ]
+      }
     },
     "badmarketing.com": {
       "url": "https://www.badmarketing.com/home-x",
@@ -13770,6 +14423,16 @@
           "hubspot",
           "clarity.ms"
         ]
+      },
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "dark",
+        "vibe": [
+          "playful"
+        ],
+        "topics": [
+          "marketing"
+        ]
       }
     },
     "khairallah.xyz": {
@@ -13877,7 +14540,18 @@
           "label": "email",
           "href": "mailto:khairallah@web3arabs.com"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "rvivek.com": {
       "url": "https://www.rvivek.com/",
@@ -13952,7 +14626,18 @@
           "label": "Speaking",
           "href": "http://www.rvivek.com/speaking"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "writing"
+        ]
+      }
     },
     "amanml.com": {
       "url": "https://amanml.com/",
@@ -14021,7 +14706,18 @@
           "label": "Mirage",
           "href": "https://twitter.com/mirage_ml"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "daytona.io": {
       "url": "https://www.daytona.io/",
@@ -14114,7 +14810,19 @@
       "headings": [
         "Run AI Code on Daytona"
       ],
-      "responsive_note": "At 390px the layout stacks into a single column (scrollHeight grows from ~11.5k to ~19k px); the header nav stays flex with no hamburger toggle."
+      "responsive_note": "At 390px the layout stacks into a single column (scrollHeight grows from ~11.5k to ~19k px); the header nav stays flex with no hamburger toggle.",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "corporate-clean"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "stitch.withgoogle.com": {
       "url": "https://stitch.withgoogle.com/",
@@ -14198,7 +14906,19 @@
           "label": "Privacy Notice",
           "href": "https://stitch.withgoogle.com/privacy"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean",
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "design"
+        ]
+      }
     },
     "sinceerly.com": {
       "url": "https://sinceerly.com/",
@@ -14303,7 +15023,19 @@
           "label": "LMK (X)",
           "href": "https://x.com/horwitzben"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "organic-warm"
+        ],
+        "topics": [
+          "ai",
+          "writing"
+        ]
+      }
     },
     "conigma.com": {
       "url": "https://www.conigma.com/community",
@@ -14387,6 +15119,18 @@
           "analytics.ahrefs.com",
           "challenges.cloudflare.com",
           "d3e54v103j8qbb.cloudfront.net"
+        ]
+      },
+      "facets": {
+        "vertical": "community-social",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "corporate-clean"
+        ],
+        "topics": [
+          "marketing",
+          "startups"
         ]
       }
     },
@@ -14483,7 +15227,18 @@
         "Finance made effortless."
       ],
       "responsive_note": "At 390x844 the hero <h1> drops 54px to 36px and the page reflows much shorter (9,926px to 7,734px); the nav stays a flex bar (no hamburger element detected).",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "luxury",
+          "experimental"
+        ],
+        "topics": [
+          "finance"
+        ]
+      }
     },
     "performance.dev": {
       "url": "https://performance.dev",
@@ -14580,7 +15335,18 @@
           "label": "Dennis Brotzky",
           "href": "https://x.com/brotzky"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "vercel.com": {
       "url": "https://vercel.com/",
@@ -14680,6 +15446,17 @@
           "vercel.com",
           "assets.vercel.com"
         ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "corporate-clean"
+        ],
+        "topics": [
+          "engineering"
+        ]
       }
     },
     "ryancarson.com": {
@@ -14763,6 +15540,16 @@
         "hosts": [
           "www.ryancarson.com",
           "www.googletagmanager.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "startups"
         ]
       }
     },
@@ -14875,6 +15662,17 @@
           "www.julian.ai",
           "us-assets.i.posthog.com",
           "fonts.googleapis.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful"
+        ],
+        "topics": [
+          "startups"
         ]
       }
     },
@@ -15000,6 +15798,17 @@
         "hosts": [
           "objectives.md"
         ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "minimal"
+        ],
+        "topics": [
+          "startups"
+        ]
       }
     },
     "axiaisacat.indiehacker.bio": {
@@ -15115,7 +15924,18 @@
           "label": "X / Twitter",
           "href": "https://x.com/axiaisacat"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "startups",
+          "engineering"
+        ]
+      }
     },
     "crustdata.com": {
       "url": "https://crustdata.com/",
@@ -15213,6 +16033,18 @@
           "widget.intercom.io",
           "googleads.g.doubleclick.net",
           "px.midbound.ai"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "experimental"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
         ]
       }
     },
@@ -15314,6 +16146,18 @@
           "cdn.segment.com",
           "plausible.io",
           "snap.licdn.com"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean",
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
         ]
       }
     },
@@ -15425,7 +16269,17 @@
           "label": "Email",
           "href": "mailto:dimitar.a@synergyaisolutions.net"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean"
+        ],
+        "topics": [
+          "marketing"
+        ]
+      }
     },
     "shanemac.com": {
       "url": "https://www.shanemac.com/",
@@ -15525,7 +16379,17 @@
           "label": "News",
           "href": "https://www.shanemac.com/news"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "startups"
+        ]
+      }
     },
     "ashpreetbedi.com": {
       "url": "https://www.ashpreetbedi.com/",
@@ -15616,7 +16480,19 @@
           "label": "All writing",
           "href": "https://www.ashpreetbedi.com/writing"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "dark",
+        "vibe": [
+          "organic-warm",
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "shipper.now": {
       "url": "https://shipper.now/",
@@ -15732,7 +16608,19 @@
           "label": "Get Started",
           "href": "https://shipper.now/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "corporate-clean"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
     },
     "bigideasdb.com": {
       "url": "https://bigideasdb.com/",
@@ -15846,7 +16734,17 @@
           "label": "Sign up",
           "href": "https://bigideasdb.com/signup"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean"
+        ],
+        "topics": [
+          "startups"
+        ]
+      }
     },
     "linkeddit.com": {
       "url": "https://linkeddit.com/",
@@ -15953,7 +16851,18 @@
           "label": "Sign Up",
           "href": "https://linkeddit.com/signup"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "playful"
+        ],
+        "topics": [
+          "marketing"
+        ]
+      }
     },
     "sceneai.art": {
       "url": "https://sceneai.art/",
@@ -16048,7 +16957,19 @@
       "is_single_screen": false,
       "headings": [],
       "responsive_note": "At 390x844 the masonry collapses to a single 358px column (grid-template-columns: 358px), the top nav becomes a hamburger, there is no horizontal overflow, and the stacked cards stretch the page to ~18.8k px.",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "ai"
+        ]
+      }
     },
     "davidwinalda.com": {
       "url": "https://davidwinalda.com/",
@@ -16144,7 +17065,17 @@
           "label": "Theme: Anders Norén",
           "href": "https://andersnoren.se/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "writing"
+        ]
+      }
     },
     "bigplayers.co": {
       "url": "https://www.bigplayers.co/subscribe",
@@ -16237,7 +17168,18 @@
           "label": "Terms of use",
           "href": "https://beehiiv.com/tou?utm_source=big_players"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "dark",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "marketing",
+          "startups"
+        ]
+      }
     },
     "theprohuman.ai": {
       "url": "https://www.theprohuman.ai/",
@@ -16341,7 +17283,17 @@
           "label": "Sponsor",
           "href": "https://www.passionfroot.me/the-prohuman-ai"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "editorial"
+        ],
+        "topics": [
+          "ai"
+        ]
+      }
     },
     "affiliatenetwork.com": {
       "url": "https://affiliatenetwork.com/",
@@ -16453,7 +17405,17 @@
           "label": "Privacy policy",
           "href": "https://brands.affiliatenetwork.com/privacy"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean"
+        ],
+        "topics": [
+          "marketing"
+        ]
+      }
     },
     "rork.com": {
       "url": "https://rork.com/",
@@ -16531,7 +17493,18 @@
       "headings": [
         "Be the next Nikita Bier"
       ],
-      "responsive_note": "At 390x844 the layout stays a single centered column with no hamburger (nav buttons remain visible); content reflows tighter, shrinking the page to ~1207px."
+      "responsive_note": "At 390x844 the layout stays a single centered column with no hamburger (nav buttons remain visible); content reflows tighter, shrinking the page to ~1207px.",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
     },
     "nyk.dev": {
       "url": "https://www.nyk.dev/",
@@ -16629,7 +17602,19 @@
           "label": "Telegram",
           "href": "https://t.me/+GJ-FEpzcZrtmMTky"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "engineering",
+          "finance"
+        ]
+      }
     },
     "deel.com": {
       "url": "https://www.deel.com/",
@@ -16721,6 +17706,14 @@
           "js.navattic.com",
           "static.cloudflareinsights.com"
         ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean"
+        ],
+        "topics": []
       }
     },
     "letters.thedankoe.com": {
@@ -16813,6 +17806,17 @@
           "datadoghq-browser-agent.com",
           "googletagmanager.com"
         ]
+      },
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "dark",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "writing"
+        ]
       }
     },
     "systematiclongshort.com": {
@@ -16904,6 +17908,16 @@
           "browser.sentry-cdn.com",
           "datadoghq-browser-agent.com",
           "googletagmanager.com"
+        ]
+      },
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "dark",
+        "vibe": [
+          "editorial"
+        ],
+        "topics": [
+          "finance"
         ]
       }
     },
@@ -17033,6 +18047,18 @@
         "hosts": [
           "hw.cafe"
         ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "editorial"
+        ],
+        "topics": [
+          "engineering",
+          "food-drink"
+        ]
       }
     },
     "northgarden.com": {
@@ -17138,6 +18164,17 @@
         "hosts": [
           "www.northgarden.com"
         ]
+      },
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "experimental"
+        ],
+        "topics": [
+          "design"
+        ]
       }
     },
     "everynoise.com": {
@@ -17237,6 +18274,16 @@
         "hosts": [
           "everynoise.com"
         ]
+      },
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "technical"
+        ],
+        "topics": [
+          "music"
+        ]
       }
     },
     "mrdoob.com": {
@@ -17313,6 +18360,18 @@
           "mrdoob.com",
           "web3dsurvey.com"
         ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "brutalist",
+          "experimental"
+        ],
+        "topics": [
+          "art",
+          "engineering"
+        ]
       }
     },
     "iacopoapps.appspot.com": {
@@ -17387,6 +18446,17 @@
           "ssl.google-analytics.com",
           "www.googletagmanager.com",
           "platform.twitter.com"
+        ]
+      },
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "technical"
+        ],
+        "topics": [
+          "art"
         ]
       }
     },
@@ -17484,6 +18554,17 @@
           "www.google-analytics.com",
           "www.googletagmanager.com",
           "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "experimental",
+          "technical"
+        ],
+        "topics": [
+          "design"
         ]
       }
     },
@@ -17598,7 +18679,18 @@
         "Start building your Notion website for free"
       ],
       "responsive_note": "At 390px the page reflows to a single column, grows to ~21.6k px, and the top nav collapses behind a hamburger menu.",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "playful"
+        ],
+        "topics": [
+          "productivity"
+        ]
+      }
     },
     "apps.ankiweb.net": {
       "url": "https://apps.ankiweb.net/",
@@ -17697,7 +18789,18 @@
           "label": "AnkiDroid (Android)",
           "href": "https://play.google.com/store/apps/details?id=com.ichi2.anki"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "productivity",
+          "education"
+        ]
+      }
     },
     "ytch.tv": {
       "url": "https://ytch.tv/",
@@ -17768,7 +18871,18 @@
       "is_single_screen": true,
       "headings": [],
       "responsive_note": "At 390px it stays a single fixed screen (no scroll); the centered video frame shrinks to ~234px wide and the remote/keypad reflow to fit.",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "dark",
+        "vibe": [
+          "retro",
+          "playful"
+        ],
+        "topics": [
+          "film-video"
+        ]
+      }
     },
     "poolsuite.net": {
       "url": "https://poolsuite.net/",
@@ -17876,7 +18990,18 @@
         "Mixtapes"
       ],
       "responsive_note": "At 390px it stays a single fixed screen (844px, no scroll), reflowing to a mobile player UI showing the live channel ('Poolsuite: ON AIR'), the current track and a Player / Newsroom / Mixtapes / Members / Events tab bar.",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "retro",
+          "playful"
+        ],
+        "topics": [
+          "music"
+        ]
+      }
     },
     "rotimi.design": {
       "url": "https://www.rotimi.design/",
@@ -17942,7 +19067,17 @@
         "Stephen is a great design partner who works with you to understand & deliver your brand vision. He has a sharp eye for detail, thinks about the bigger picture, and both elevates and strengthens the overall brand experience."
       ],
       "responsive_note": "At 390px the project grid collapses to a single column and the page roughly doubles to ~22.5k px.",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "outlandermag.com": {
       "url": "https://outlandermag.com/",
@@ -18022,7 +19157,18 @@
         "Inside Diadora's Italian factory, where JW Anderson's collaboration finds its shape"
       ],
       "responsive_note": "At 390px it reflows to a single column and the top nav collapses behind a hamburger (~4.7k px).",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "dark",
+        "vibe": [
+          "editorial",
+          "luxury"
+        ],
+        "topics": [
+          "fashion"
+        ]
+      }
     },
     "geniusmargins.com": {
       "url": "https://www.geniusmargins.com/",
@@ -18090,7 +19236,19 @@
         "Genius Margins"
       ],
       "responsive_note": "At 390px the centered subscribe card and the post list stack into a single column (~3.9k px).",
-      "links_out": []
+      "links_out": [],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "productivity",
+          "writing"
+        ]
+      }
     },
     "ankit-rai.com": {
       "url": "https://www.ankit-rai.com/moleskine",
@@ -18203,6 +19361,18 @@
           "events.framer.com",
           "smartarget.online"
         ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "art",
+          "travel-places"
+        ]
       }
     },
     "nicolasbustamante.com": {
@@ -18311,7 +19481,19 @@
           "label": "Fintool",
           "href": "https://fintool.com/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
     },
     "spencer.place": {
       "url": "https://spencer.place/",
@@ -18431,6 +19613,17 @@
           "unpkg.com",
           "sharingan.spencerc99.workers.dev",
           "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "organic-warm",
+          "playful"
+        ],
+        "topics": [
+          "art"
         ]
       }
     },
@@ -18559,6 +19752,19 @@
           "events.framer.com",
           "cdn.jsdelivr.net"
         ]
+      },
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "dark",
+        "vibe": [
+          "luxury",
+          "editorial"
+        ],
+        "topics": [
+          "startups",
+          "marketing",
+          "design"
+        ]
       }
     },
     "gatheros.co": {
@@ -18644,7 +19850,19 @@
       "headings": [
         "The Mac app for design inspiration."
       ],
-      "responsive_note": "At 390x844 the single-screen desktop layout stacks into one column and scrollHeight grows to ~2,450px; the hero copy and app preview reflow vertically (no hamburger menu detected)."
+      "responsive_note": "At 390x844 the single-screen desktop layout stacks into one column and scrollHeight grows to ~2,450px; the hero copy and app preview reflow vertically (no hamburger menu detected).",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "productivity"
+        ]
+      }
     },
     "roam.neesh.page": {
       "url": "https://roam.neesh.page/",
@@ -18714,7 +19932,18 @@
       "page_height_px": 900,
       "is_single_screen": true,
       "headings": [],
-      "responsive_note": "At 390x844 it stays a full-screen fixed canvas (scrollHeight = viewport, body overflow:hidden) — fewer tiles are visible and you pan rather than scroll, so the infinite-canvas interaction is preserved on mobile."
+      "responsive_note": "At 390x844 it stays a full-screen fixed canvas (scrollHeight = viewport, body overflow:hidden) — fewer tiles are visible and you pan rather than scroll, so the infinite-canvas interaction is preserved on mobile.",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "experimental"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "shedsgns.me": {
       "url": "https://shedsgns.me/taste",
@@ -18805,7 +20034,18 @@
           "label": "shedsgns.me (home)",
           "href": "https://shedsgns.me/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "editorial"
+        ],
+        "topics": [
+          "ai",
+          "design"
+        ]
+      }
     },
     "crsanchez.es": {
       "url": "https://www.crsanchez.es/",
@@ -18880,7 +20120,18 @@
           "label": "Powered by Systeme.io",
           "href": "https://systeme.io/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "minimal"
+        ],
+        "topics": [
+          "marketing"
+        ]
+      }
     },
     "interfaces.dev": {
       "url": "https://interfaces.dev/",
@@ -18951,7 +20202,19 @@
         "About Interfaces",
         "How It Works"
       ],
-      "responsive_note": "At 390x844 the layout stacks into a single column and the page grows taller (scrollHeight 7931 → 11331); the 60px h1 size is unchanged."
+      "responsive_note": "At 390x844 the layout stacks into a single column and the page grows taller (scrollHeight 7931 → 11331); the 60px h1 size is unchanged.",
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
     },
     "kiira.in": {
       "url": "https://kiira.in/",
@@ -19065,7 +20328,18 @@
           "label": "Book a call",
           "href": "https://calendly.com/keerthi1512g/30min"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "retro"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "bird.onethreenine.net": {
       "url": "https://bird.onethreenine.net",
@@ -19165,7 +20439,17 @@
           "label": "Source",
           "href": "https://github.com/Twarner491/AvianVisitors"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "organic-warm"
+        ],
+        "topics": [
+          "art"
+        ]
+      }
     },
     "maximin.design": {
       "url": "https://www.maximin.design/",
@@ -19238,7 +20522,17 @@
           "label": "View source on GitHub",
           "href": "https://github.com/MVXMXM/mxmlln"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "playful"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "drafts9.com": {
       "url": "https://www.drafts9.com/",
@@ -19389,6 +20683,18 @@
           "fonts.googleapis.com",
           "fonts.gstatic.com"
         ]
+      },
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "startups"
+        ]
       }
     },
     "contralabs.com": {
@@ -19468,7 +20774,19 @@
         "Execution is free.",
         "Now, judgment is everything."
       ],
-      "responsive_note": "At 390x844 the layout reflows to a single column (height stays ~13,640px) and the hero h1 scales from 50px to 36px; no separate hamburger element was detected (Framer breakpoint variant)."
+      "responsive_note": "At 390x844 the layout reflows to a single column (height stays ~13,640px) and the hero h1 scales from 50px to 36px; no separate hamburger element was detected (Framer breakpoint variant).",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "luxury"
+        ],
+        "topics": [
+          "ai",
+          "art"
+        ]
+      }
     },
     "eko.lumaris.works": {
       "url": "https://eko.lumaris.works/",
@@ -19559,7 +20877,18 @@
         "Frequently asked questions",
         "Save hours every day. Never write a typo again."
       ],
-      "responsive_note": "At 390x844 the top nav collapses behind a hamburger (Shortcuts/Pricing/FAQ links hidden), the hero h1 scales from 60px to 36px, and the page reflows to a single column (~15,860px tall)."
+      "responsive_note": "At 390x844 the top nav collapses behind a hamburger (Shortcuts/Pricing/FAQ links hidden), the hero h1 scales from 60px to 36px, and the page reflows to a single column (~15,860px tall).",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "editorial",
+          "luxury"
+        ],
+        "topics": [
+          "productivity"
+        ]
+      }
     },
     "ravalabs.com": {
       "url": "https://www.ravalabs.com/",
@@ -19645,7 +20974,17 @@
           "label": "Mail",
           "href": "mailto:gabrielobholz@gmail.com"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "recent.design": {
       "url": "https://recent.design/",
@@ -19737,7 +21076,17 @@
         "Subscribe to the Recent digest",
         "Stay ahead of trends"
       ],
-      "responsive_note": "At 390x844 the masonry gallery collapses to 2 columns, a hamburger menu appears, and the lazy-loaded grid grows to ~21,200px."
+      "responsive_note": "At 390x844 the masonry gallery collapses to 2 columns, a hamburger menu appears, and the lazy-loaded grid grows to ~21,200px.",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "daryl.cv": {
       "url": "https://daryl.cv/",
@@ -19824,7 +21173,18 @@
           "label": "@darylginn",
           "href": "https://x.com/darylginn"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "brutalist",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "alisawuffles.github.io": {
       "url": "https://alisawuffles.github.io/",
@@ -19918,7 +21278,18 @@
         "Publications",
         "Blog"
       ],
-      "responsive_note": "At 390x844 the single column reflows and stacks (page grows to ~4,013px); the 40px h1 is retained."
+      "responsive_note": "At 390x844 the single column reflows and stacks (page grows to ~4,013px); the 40px h1 is retained.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "ai",
+          "education"
+        ]
+      }
     },
     "arneshbanerjee.github.io": {
       "url": "https://arneshbanerjee.github.io/",
@@ -19988,7 +21359,19 @@
         "Blogs",
         "Achievements"
       ],
-      "responsive_note": "At 390x844 the 800px reading column fills the width and text rewraps (page grows to ~5,836px); the 34px serif h1 is unchanged."
+      "responsive_note": "At 390x844 the 800px reading column fills the width and text rewraps (page grows to ~5,836px); the 34px serif h1 is unchanged.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "brutalist",
+          "minimal"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "typo.love": {
       "url": "https://www.typo.love/",
@@ -20059,7 +21442,18 @@
       "headings": [
         "typo.love"
       ],
-      "responsive_note": "At 390x844 it stays a full-viewport pannable canvas (scrollHeight 0) with the same [INFO]/[SUBMISSIONS CLOSED] chrome; touch pan/pinch-zoom simply replaces mouse drag — no hamburger."
+      "responsive_note": "At 390x844 it stays a full-viewport pannable canvas (scrollHeight 0) with the same [INFO]/[SUBMISSIONS CLOSED] chrome; touch pan/pinch-zoom simply replaces mouse drag — no hamburger.",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "retro"
+        ],
+        "topics": [
+          "writing"
+        ]
+      }
     },
     "cafe.endofday.studio": {
       "url": "https://cafe.endofday.studio/",
@@ -20124,7 +21518,19 @@
       "page_height_px": 900,
       "is_single_screen": true,
       "headings": [],
-      "responsive_note": "At 390x844 it stays a single full-viewport café scene (scrollHeight 0); the illustration scales to fit rather than reflowing."
+      "responsive_note": "At 390x844 it stays a single full-viewport café scene (scrollHeight 0); the illustration scales to fit rather than reflowing.",
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "dark",
+        "vibe": [
+          "organic-warm",
+          "playful"
+        ],
+        "topics": [
+          "productivity",
+          "music"
+        ]
+      }
     },
     "zzz.zoomquilt.org": {
       "url": "https://zzz.zoomquilt.org/",
@@ -20195,7 +21601,18 @@
         "The Zoomquilt",
         "About the Zoomquilt"
       ],
-      "responsive_note": "At 390x844 the <canvas> scales fluidly to the viewport width and stays a full-screen zoom; the 'Up and down keys' hint gives way to touch/scroll."
+      "responsive_note": "At 390x844 the <canvas> scales fluidly to the viewport width and stays a full-screen zoom; the 'Up and down keys' hint gives way to touch/scroll.",
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "retro"
+        ],
+        "topics": [
+          "art"
+        ]
+      }
     },
     "lelezhang.design": {
       "url": "https://lelezhang.design/draw",
@@ -20280,7 +21697,19 @@
       "page_height_px": 900,
       "is_single_screen": true,
       "headings": [],
-      "responsive_note": "At 390x844 it stays a single screen; the floating toolbar sheds a few controls (13 → 10 svg icons) to fit the narrow viewport."
+      "responsive_note": "At 390x844 it stays a single screen; the floating toolbar sheds a few controls (13 → 10 svg icons) to fit the narrow viewport.",
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "organic-warm"
+        ],
+        "topics": [
+          "ai",
+          "art"
+        ]
+      }
     },
     "typatone.com": {
       "url": "https://typatone.com/",
@@ -20349,7 +21778,18 @@
       "headings": [
         "Typatone"
       ],
-      "responsive_note": "At 390x844 it stays a single-screen instrument (scrollHeight 0) with the two canvas layers intact; the typing/visual field simply scales to the narrower width."
+      "responsive_note": "At 390x844 it stays a single-screen instrument (scrollHeight 0) with the two canvas layers intact; the typing/visual field simply scales to the narrower width.",
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful"
+        ],
+        "topics": [
+          "music"
+        ]
+      }
     },
     "humanoid-index.com": {
       "url": "https://humanoid-index.com/",
@@ -20427,7 +21867,18 @@
       "page_height_px": 1150,
       "is_single_screen": false,
       "headings": [],
-      "responsive_note": "At 390x844 it deliberately replaces the whole index with a 'Mobile experience coming soon — open on desktop for the full thing' gate (offering a 'Send to my computer' option) rather than reflowing."
+      "responsive_note": "At 390x844 it deliberately replaces the whole index with a 'Mobile experience coming soon — open on desktop for the full thing' gate (offering a 'Send to my computer' option) rather than reflowing.",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
     },
     "nicelydone.club": {
       "url": "https://nicelydone.club/",
@@ -20541,6 +21992,17 @@
           "static.cloudflareinsights.com",
           "cdn.jsdelivr.net"
         ]
+      },
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "corporate-clean"
+        ],
+        "topics": [
+          "design"
+        ]
       }
     },
     "maxibestof.one": {
@@ -20584,7 +22046,17 @@
       "page_height_px": null,
       "is_single_screen": null,
       "headings": [],
-      "responsive_note": "Not captured (Cloudflare challenge)."
+      "responsive_note": "Not captured (Cloudflare challenge).",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "animations.dev": {
       "url": "https://animations.dev/",
@@ -20663,7 +22135,19 @@
         "Walkthroughs",
         "You’ll also get…"
       ],
-      "responsive_note": "At 390x844 the nav collapses to a hamburger, the hero h1 scales 48 → 40px, and the page stacks to a single column (~14,266 → 15,746px)."
+      "responsive_note": "At 390x844 the nav collapses to a hamburger, the hero h1 scales 48 → 40px, and the page stacks to a single column (~14,266 → 15,746px).",
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
     },
     "emilkowal.ski": {
       "url": "https://emilkowal.ski/skill",
@@ -20735,7 +22219,19 @@
         "Related readings",
         "Tip of the Iceberg"
       ],
-      "responsive_note": "At 390x844 it stays a single reading column (grows ~1,223 → 1,325px); the narrow measure just fills the width — no nav collapse needed."
+      "responsive_note": "At 390x844 it stays a single reading column (grows ~1,223 → 1,325px); the narrow measure just fills the width — no nav collapse needed.",
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "ai",
+          "engineering"
+        ]
+      }
     },
     "richzou.com": {
       "url": "https://richzou.com/",
@@ -20802,7 +22298,18 @@
       "page_height_px": 900,
       "is_single_screen": true,
       "headings": [],
-      "responsive_note": "At 390x844 the one-column bio simply rewraps to a slightly taller single screen (~900 → 1,068px); no nav change."
+      "responsive_note": "At 390x844 the one-column bio simply rewraps to a slightly taller single screen (~900 → 1,068px); no nav change.",
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "writing",
+          "startups"
+        ]
+      }
     },
     "vanschneider.com": {
       "url": "https://vanschneider.com/",
@@ -20921,6 +22428,17 @@
           "www.googletagmanager.com",
           "fonts.googleapis.com"
         ]
+      },
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "dark",
+        "vibe": [
+          "editorial",
+          "luxury"
+        ],
+        "topics": [
+          "design"
+        ]
       }
     },
     "asekachov.com": {
@@ -20995,7 +22513,18 @@
         "Product designer with passion for turning good ideas into great looking products. Focused on interaction design and mobile interfaces. Founder at Joi Software. Previously Senior Product Designer at WeTransfer and Lead Product Designer at Must.",
         "Experience"
       ],
-      "responsive_note": "At 390x844 the hero headline scales down (42px → 32px) and the desktop's side-by-side Experience/Links columns stack into one; the page also reflows much shorter (42,037 → 18,735px) as Framer serves a compact mobile breakpoint."
+      "responsive_note": "At 390x844 the hero headline scales down (42px → 32px) and the desktop's side-by-side Experience/Links columns stack into one; the page also reflows much shorter (42,037 → 18,735px) as Framer serves a compact mobile breakpoint.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "killedbyopenai.com": {
       "url": "https://killedbyopenai.com/",
@@ -21132,7 +22661,17 @@
           "label": "Powered by Raindrop.ai",
           "href": "https://raindrop.ai/"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "dark",
+        "vibe": [
+          "technical"
+        ],
+        "topics": [
+          "ai"
+        ]
+      }
     },
     "photon.codes": {
       "url": "https://photon.codes/",
@@ -21260,6 +22799,18 @@
           "googleads.g.doubleclick.net",
           "ddwl4m2hdecbv.cloudfront.net"
         ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "corporate-clean",
+          "playful"
+        ],
+        "topics": [
+          "ai",
+          "engineering"
+        ]
       }
     },
     "christophlocher.com": {
@@ -21352,7 +22903,18 @@
         "Christoph Locher Interaction Designer",
         "Recent Notes / See all Notes"
       ],
-      "responsive_note": "At 390x844 the split-screen hero stacks vertically, the h1 scales 63px → 23.6px, and the page reflows to a single column (scrollHeight ~1,429px); the top nav (About / Projects / Notes) stays visible."
+      "responsive_note": "At 390x844 the split-screen hero stacks vertically, the h1 scales 63px → 23.6px, and the page reflows to a single column (scrollHeight ~1,429px); the top nav (About / Projects / Notes) stays visible.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "jasonyuan.design": {
       "url": "https://jasonyuan.design/",
@@ -21434,7 +22996,18 @@
         "Mercury OS",
         "The Future Mono 0.2"
       ],
-      "responsive_note": "At 390x844 the desktop multi-column tile grid collapses to a single full-width column of project tiles (page ~3,206px); it stays image/video-led with no separate mobile nav chrome."
+      "responsive_note": "At 390x844 the desktop multi-column tile grid collapses to a single full-width column of project tiles (page ~3,206px); it stays image/video-led with no separate mobile nav chrome.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "mercuryos.com": {
       "url": "https://www.mercuryos.com/",
@@ -21501,7 +23074,18 @@
         "Architecture",
         "Art Direction"
       ],
-      "responsive_note": "At 390x844 the top nav stays a simple inline text list (Overview / Architecture / Art Direction / Credits) and the four-column principle rows and wide iPad triptychs reflow/compress to a single column (measured page ~5,515px)."
+      "responsive_note": "At 390x844 the top nav stays a simple inline text list (Overview / Architecture / Art Direction / Credits) and the four-column principle rows and wide iPad triptychs reflow/compress to a single column (measured page ~5,515px).",
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
     },
     "heyneuma.com": {
       "url": "https://heyneuma.com/",
@@ -21610,7 +23194,18 @@
           "label": "Epilogue — Ambient Reading (iOS)",
           "href": "https://apps.apple.com/us/app/epilogue-ambient-reading/id6751764862"
         }
-      ]
+      ],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "organic-warm"
+        ],
+        "topics": [
+          "ai",
+          "education"
+        ]
+      }
     },
     "designengineer.tools": {
       "url": "https://designengineer.tools/",
@@ -21722,6 +23317,18 @@
           "designengineer.tools",
           "static.cloudflareinsights.com"
         ]
+      },
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
       }
     },
     "designtools.fyi": {
@@ -21814,6 +23421,17 @@
           "fonts.googleapis.com",
           "cdn.usefathom.com",
           "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "design"
         ]
       }
     },
@@ -21921,6 +23539,17 @@
           "www.googletagmanager.com",
           "www.dubcdn.com"
         ]
+      },
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "dark",
+        "vibe": [
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "productivity"
+        ]
       }
     },
     "templatoria.com": {
@@ -22011,6 +23640,16 @@
           "www.googletagmanager.com",
           "unpkg.com"
         ]
+      },
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
       }
     },
     "tyronec.com": {
@@ -22089,6 +23728,16 @@
           "www.tyronec.com",
           "framerusercontent.com",
           "events.framer.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": [
+          "design"
         ]
       }
     },
@@ -22185,6 +23834,18 @@
           "definitions.sqspcdn.com",
           "use.typekit.net",
           "fonts.googleapis.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "experimental"
+        ],
+        "topics": [
+          "art",
+          "design"
         ]
       }
     },
@@ -22324,6 +23985,18 @@
           "fonts.googleapis.com",
           "d3e54v103j8qbb.cloudfront.net",
           "www.google.com (reCAPTCHA)"
+        ]
+      },
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "dark",
+        "vibe": [
+          "luxury",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "marketing"
         ]
       }
     },
@@ -22481,6 +24154,17 @@
           "analytics.twitter.com",
           "e.visitors.now"
         ]
+      },
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "mixed",
+        "vibe": [
+          "editorial",
+          "corporate-clean"
+        ],
+        "topics": [
+          "ai"
+        ]
       }
     },
     "21st.dev": {
@@ -22572,6 +24256,19 @@
           "www.googletagmanager.com",
           "static.ads-twitter.com"
         ]
+      },
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "engineering",
+          "ai"
+        ]
       }
     },
     "type.lol": {
@@ -22646,6 +24343,17 @@
       "weight": {
         "hosts": [
           "type.lol"
+        ]
+      },
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design"
         ]
       }
     },
@@ -22735,6 +24443,18 @@
           "lab01.dev",
           "cloud.umami.is",
           "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "engineering"
         ]
       }
     },
@@ -22834,6 +24554,17 @@
           "cloud.umami.is",
           "static.cloudflareinsights.com"
         ]
+      },
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "corporate-clean"
+        ],
+        "topics": [
+          "design"
+        ]
       }
     },
     "makingsoftware.com": {
@@ -22924,6 +24655,18 @@
       "weight": {
         "hosts": [
           "www.makingsoftware.com"
+        ]
+      },
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "technical"
+        ],
+        "topics": [
+          "engineering",
+          "design"
         ]
       }
     },
@@ -23033,6 +24776,17 @@
         "hosts": [
           "jessa.art",
           "fonts.googleapis.com"
+        ]
+      },
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "playful"
+        ],
+        "topics": [
+          "design"
         ]
       }
     }

@@ -2,32 +2,24 @@
 url: https://www.typo.love/
 domain: typo.love
 title: "typo.love — a digital library of lost love letters"
-category: uncategorized
+vertical: directory-gallery
+mode: light
+vibe: [organic-warm, retro]
+topics: [writing]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/experimental
-  - pattern/infinite-canvas
-  - pattern/pan-zoom
-  - pattern/stationery
-  - pattern/love-letters
-  - pattern/serif
-  - pattern/mono-ui
-  - pattern/nextjs
-  - pattern/lofi
-  - pattern/interactive-art
-  - tech/next-js-app-router-next-font
-  - tech/self-hosted
-  - color/warm
-  - color/cool
-  - font/oldnewspaper
-  - font/fragment-mono
-  - font/libre-baskerville
+  - vertical/directory-gallery
+  - vibe/organic-warm
+  - vibe/retro
+  - topic/writing
+  - mode/light
 ---
 # typo.love — a digital library of lost love letters
 > For all the words left unsaid.  ·  [typo.love](https://www.typo.love/)
 
 ![typo.love](../../screenshots/typolove.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/organic-warm #vibe/retro  ·  **Topics:** #topic/writing  ·  **Mode:** #mode/light
 
 ## What it is
 typo.love — 'a digital library of love letters … for all the words left unsaid,' a project by @lychkel. It's the 'library of love letters' from Jonas's list.
@@ -47,6 +39,7 @@ A tender, analog-stationery aesthetic. From getComputedStyle the html/body backg
 - **Fonts:** OldNewspaper (vintage serif wordmark), Fragment Mono (UI/labels) and Libre Baskerville (letters); Instrument Serif declared but unloaded.
 - **Fonts loaded:** OldNewspaper 400, Fragment Mono 400, Libre Baskerville 400
 - **Tech stack:** Next.js (App Router, next/font), self-hosted
+- **Keywords:** infinite-canvas, pan-zoom, stationery, love-letters, serif, mono-ui, nextjs, lofi, interactive-art
 - **Media mix:** img 23 · canvas 1 · svg 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a full-viewport pannable canvas (scrollHeight 0) with the same [INFO]/[SUBMISSIONS CLOSED] chrome; touch pan/pinch-zoom simply replaces mouse drag — no hamburger.
@@ -54,7 +47,9 @@ A tender, analog-stationery aesthetic. From getComputedStyle the html/body backg
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[animations.dev]] [[cafe.endofday.studio]] [[emilkowal.ski]] [[fey.com]] [[humanoid-index.com]] [[noahzender.com]]
-
-## Tags
-#category/uncategorized #aesthetic/experimental #pattern/infinite-canvas #pattern/pan-zoom #pattern/stationery #pattern/love-letters #pattern/serif #pattern/mono-ui #pattern/nextjs #pattern/lofi #pattern/interactive-art #tech/next-js-app-router-next-font #tech/self-hosted #color/warm #color/cool #font/oldnewspaper #font/fragment-mono #font/libre-baskerville
+- [[coolsites.ai]] — shared: directory-gallery, organic-warm, light
+- [[the-cafelist.com]] — shared: directory-gallery, organic-warm, light
+- [[kiira.in]] — shared: organic-warm, retro, light
+- [[millermanintelligence.com]] — shared: organic-warm, writing, light
+- [[noahzender.com]] — shared: organic-warm, writing, light
+- [[sinceerly.com]] — shared: organic-warm, writing, light

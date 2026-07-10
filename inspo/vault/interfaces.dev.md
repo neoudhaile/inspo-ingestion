@@ -2,28 +2,25 @@
 url: https://interfaces.dev/
 domain: interfaces.dev
 title: "Interfaces › Design Engineering Magazine"
-category: tools-build
+vertical: publication-newsletter
+mode: light
+vibe: [editorial, minimal]
+topics: [design, engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/tools-build
-  - aesthetic/editorial
-  - pattern/editorial
-  - pattern/long-scroll
-  - pattern/typographic
-  - pattern/svg-illustration
-  - pattern/design-engineering
-  - pattern/magazine
-  - tech/static-ssg-no-client-framework-global
-  - tech/vercel-blob-storage
-  - color/neutral
-  - font/inter-variable-100-900
-  - font/libre-baskerville
-  - font/berkeley-mono
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - vibe/minimal
+  - topic/design
+  - topic/engineering
+  - mode/light
 ---
 # Interfaces › Design Engineering Magazine
 > Interfaces  ·  [interfaces.dev](https://interfaces.dev/)
 
 ![interfaces.dev](../../screenshots/interfacesdev.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/design #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 A design engineering magazine — its own meta describes it as 'a design engineering magazine about building great interfaces that covers topics such as animation, typography, layout and color.' It is the showcased subject of Jakub Krehel's tweet, where the animated app icon is the brand mark.
@@ -43,6 +40,7 @@ Near-white paper (body background rgb(252,252,252)) with near-black ink, set in 
 - **Fonts:** Inter Variable (body + headings); Libre Baskerville and Berkeley Mono as loaded accent families
 - **Fonts loaded:** Inter Variable 100-900, Libre Baskerville 400, Berkeley Mono 400
 - **Tech stack:** Static/SSG (no client framework global), Vercel (blob storage)
+- **Keywords:** editorial, long-scroll, typographic, svg-illustration, design-engineering, magazine
 - **Media mix:** img 11 · svg 62
 - **Page height:** 7931px (single-screen: False)
 - **Responsive:** At 390x844 the layout stacks into a single column and the page grows taller (scrollHeight 7931 → 11331); the 60px h1 size is unchanged.
@@ -50,7 +48,9 @@ Near-white paper (body background rgb(252,252,252)) with near-black ink, set in 
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[designengineer.tools]] [[mercuryos.com]] [[offthewall.studio]] [[shedsgns.me]] [[vanschneider.com]]
-
-## Tags
-#category/tools-build #aesthetic/editorial #pattern/editorial #pattern/long-scroll #pattern/typographic #pattern/svg-illustration #pattern/design-engineering #pattern/magazine #tech/static-ssg-no-client-framework-global #tech/vercel-blob-storage #color/neutral #font/inter-variable-100-900 #font/libre-baskerville #font/berkeley-mono
+- [[21st.dev]] — shared: editorial, minimal, design, engineering, light
+- [[animations.dev]] — shared: editorial, minimal, design, engineering, light
+- [[sensory-ui.com]] — shared: editorial, minimal, design, engineering, light
+- [[claude.com]] — shared: publication-newsletter, editorial, engineering, light
+- [[geniusmargins.com]] — shared: publication-newsletter, editorial, minimal, light
+- [[anyblockers.com]] — shared: editorial, minimal, engineering, light

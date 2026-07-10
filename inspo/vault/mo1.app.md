@@ -2,33 +2,24 @@
 url: https://mo1.app/
 domain: mo1.app
 title: "mo¹"
-category: product
+vertical: startup-product
+mode: light
+vibe: [playful, minimal]
+topics: [design]
 extracted_at: 2026-06-05
 tags:
-  - category/product
-  - aesthetic/developer-product
-  - aesthetic/playful
-  - aesthetic/light
-  - pattern/product-landing
-  - pattern/single-screen
-  - pattern/hero-demo-video
-  - pattern/interactive-mock
-  - pattern/sidebar-cta
-  - pattern/playful
-  - pattern/system-fonts
-  - pattern/orange-highlight
-  - pattern/beta
-  - tech/nuxt-vue
-  - tech/cloudflare-insights
-  - tech/desktop-fm-analytics-e-dkp-fm
-  - color/light
-  - color/warm
-  - font/system-fonts
+  - vertical/startup-product
+  - vibe/playful
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # mo¹
 > like after effects, but it's fun  ·  [mo1.app](https://mo1.app/)
 
 ![mo1.app](../../screenshots/mo1app.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/playful #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The landing page for mo¹ (mo1), a browser-based motion-graphics app pitched as 'like after effects, but it's fun.' It is in beta 0.1, made by xavier (jack) — the tweet's author, @KMkota0 — under the desktop.fm umbrella.
@@ -48,6 +39,7 @@ Light, Apple-ish and playful: a cream/white ground with a soft warm-peach radial
 - **Fonts:** SF Pro (system sans, primary) + EB Garamond (serif accent) — system-only, no webfont payload.
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Nuxt / Vue, Cloudflare (insights), desktop.fm analytics (e.dkp.fm)
+- **Keywords:** product-landing, single-screen, hero-demo-video, interactive-mock, sidebar-cta, playful, system-fonts, orange-highlight, beta
 - **Media mix:** img 7 · video 1 · svg 5
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the sidebar stacks above the hero and the three feature columns collapse into a single column; the single screen becomes scrollable (~1,744px).
@@ -56,7 +48,9 @@ Light, Apple-ish and playful: a cream/white ground with a soft warm-peach radial
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
-[[kmk0.com]] [[bird.onethreenine.net]] [[daryl.cv]] [[gatheros.co]] [[addyosmani.com]] [[akira.sachi.dev]]
-
-## Tags
-#category/product #aesthetic/developer-product #aesthetic/playful #aesthetic/light #pattern/product-landing #pattern/single-screen #pattern/hero-demo-video #pattern/interactive-mock #pattern/sidebar-cta #pattern/playful #pattern/system-fonts #pattern/orange-highlight #pattern/beta #tech/nuxt-vue #tech/cloudflare-insights #tech/desktop-fm-analytics-e-dkp-fm #color/light #color/warm #font/system-fonts
+- [[gatheros.co]] — shared: startup-product, minimal, design, light
+- [[designrebuilds.vercel.app]] — shared: playful, minimal, design, light
+- [[kmk0.com]] — shared: playful, minimal, design, light
+- [[apps.ankiweb.net]] — shared: startup-product, minimal, light
+- [[b150.ai]] — shared: startup-product, playful, light
+- [[backdoorai.app]] — shared: startup-product, minimal, light

@@ -2,37 +2,24 @@
 url: https://jessa.art/
 domain: jessa.art
 title: "Jessa Wolfe — Design Leader"
-category: design
+vertical: portfolio
+mode: light
+vibe: [organic-warm, playful]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/playful
-  - pattern/portfolio
-  - pattern/personal-site
-  - pattern/hand-illustrated
-  - pattern/cream-paper
-  - pattern/doodle-accents
-  - pattern/animated-character
-  - pattern/case-study-grid
-  - pattern/static-site
-  - pattern/no-framework
-  - pattern/playful
-  - tech/hand-built-static-site-no-meta-framework-global-detected
-  - tech/google-fonts
-  - tech/no-analytics-detected
-  - color/warm
-  - color/cool
-  - font/dm-sans
-  - font/plus-jakarta-sans
-  - font/caveat
-  - font/fraunces
-  - font/fraunces-400-italic
+  - vertical/portfolio
+  - vibe/organic-warm
+  - vibe/playful
+  - topic/design
+  - mode/light
 ---
 # Jessa Wolfe — Design Leader
 > Hi, I'm Jessa. I architect delightful experiences, build and grow design teams, and chase problems worth solving. (from the h1; the page ships no meta description)  ·  [jessa.art](https://jessa.art/)
 
 ![jessa.art](../../screenshots/jessaart.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/organic-warm #vibe/playful  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The 'delightful portfolio' the tweet praises: the personal site of product design leader Jessa Wolfe. The page title is 'Jessa Wolfe — Design Leader'; the h1 is 'Hi, I'm Jessa.' followed by 'I architect delightful experiences, build and grow design teams, and chase problems worth solving.' She is 'a low-ego, high-impact Design Leader based in Charlotte, NC' and is 'currently designing @ ACV Auctions'.
@@ -52,6 +39,7 @@ A soft, editorial-illustrative system driven by CSS variables. getComputedStyle 
 - **Fonts:** 'DM Sans' (loaded 400/700) for the display hero, 'Plus Jakarta Sans' (400/500/600/700) for body/UI, 'Caveat' (600/700) for handwritten doodle labels, and 'Fraunces' (400 roman + italic) as a serif accent — all via Google Fonts.
 - **Fonts loaded:** DM Sans 400, DM Sans 700, Plus Jakarta Sans 400, Plus Jakarta Sans 500, Plus Jakarta Sans 600, Plus Jakarta Sans 700, Caveat 600, Caveat 700, Fraunces 400, Fraunces 400 italic
 - **Tech stack:** Hand-built static site (no meta-framework global detected), Google Fonts, No analytics detected
+- **Keywords:** portfolio, personal-site, hand-illustrated, cream-paper, doodle-accents, animated-character, case-study-grid, static-site, no-framework, playful
 - **Media mix:** img 31 · video 15 · svg 12
 - **Page height:** 6820px (single-screen: False)
 - **Responsive:** At 390x844 the DM Sans h1 scales from 66px to 31px, a burger menu appears, the two-column hero and work grid reflow to a single column and the page shortens from 6,820 to 5,270px with no horizontal overflow.
@@ -60,7 +48,9 @@ A soft, editorial-illustrative system driven by CSS variables. getComputedStyle 
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true. The page ships no meta description / og:image / canonical.
 
 ## Related sites
-[[kmk0.com]] [[maximin.design]] [[addyosmani.com]] [[alisawuffles.github.io]] [[ankit-rai.com]] [[arneshbanerjee.github.io]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/playful #pattern/portfolio #pattern/personal-site #pattern/hand-illustrated #pattern/cream-paper #pattern/doodle-accents #pattern/animated-character #pattern/case-study-grid #pattern/static-site #pattern/no-framework #pattern/playful #tech/hand-built-static-site-no-meta-framework-global-detected #tech/google-fonts #tech/no-analytics-detected #color/warm #color/cool #font/dm-sans #font/plus-jakarta-sans #font/caveat #font/fraunces #font/fraunces-400-italic
+- [[chusmargallo.space]] — shared: portfolio, playful, design, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, playful, design, light
+- [[jessyin.world]] — shared: portfolio, organic-warm, playful, light
+- [[kiira.in]] — shared: portfolio, organic-warm, design, light
+- [[kmk0.com]] — shared: portfolio, playful, design, light
+- [[maximin.design]] — shared: portfolio, playful, design, light

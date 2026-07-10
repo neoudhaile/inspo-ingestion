@@ -2,33 +2,23 @@
 url: https://www.tyronec.com/
 domain: tyronec.com
 title: "Tyrone C. | Product Designer for Startups & Agencies"
-category: design
+vertical: portfolio
+mode: dark
+vibe: [minimal]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/dark
-  - aesthetic/retro
-  - pattern/portfolio
-  - pattern/product-design
-  - pattern/dark
-  - pattern/black
-  - pattern/inter
-  - pattern/app-mockups
-  - pattern/gradient-cards
-  - pattern/sidebar
-  - pattern/framer
-  - pattern/retro-blue-links
-  - tech/framer
-  - color/dark
-  - color/cool
-  - font/inter
-  - font/inter-variable
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/design
+  - mode/dark
 ---
 # Tyrone C. | Product Designer for Startups & Agencies
 > Germany-based product designer helping startups and agencies ship polished mobile apps and Framer websites.  ·  [tyronec.com](https://www.tyronec.com/)
 
 ![tyronec.com](../../screenshots/tyroneccom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 The dark portfolio of Tyrone C., whose h1 reads 'Hi, i'm Tyrone, a product designer based in germany partnering with startups and agencies to turn products into unforgettable experiences.' The tweet showcases client brand explorations rather than this site directly; the site is his portfolio and the primary link surfaced from the tweet metadata.
@@ -48,6 +38,7 @@ A confident all-dark, product-first layout. getComputedStyle reports a pure-blac
 - **Fonts:** Inter / Inter Variable (loaded, 400) for everything; Geist declared but unloaded — no other webfont payload.
 - **Fonts loaded:** Inter 400, Inter Variable 400
 - **Tech stack:** Framer
+- **Keywords:** portfolio, product-design, dark, black, inter, app-mockups, gradient-cards, sidebar, framer, retro-blue-links
 - **Media mix:** img 9 · svg 4 · iframe 1
 - **Page height:** 5242px (single-screen: False)
 - **Responsive:** At 390x844 the page swaps to Framer's phone breakpoint and becomes markedly more compact (scrollHeight 5,242 -> 2,747px), stacking the sidebar and work gallery into a single column.
@@ -56,7 +47,9 @@ A confident all-dark, product-first layout. getComputedStyle reports a pure-blac
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[ankit-rai.com]] [[asekachov.com]] [[ddlabstudio.com]] [[hex.inc]] [[jasonyuan.design]] [[kiira.in]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/dark #aesthetic/retro #pattern/portfolio #pattern/product-design #pattern/dark #pattern/black #pattern/inter #pattern/app-mockups #pattern/gradient-cards #pattern/sidebar #pattern/framer #pattern/retro-blue-links #tech/framer #color/dark #color/cool #font/inter #font/inter-variable
+- [[jasonyuan.design]] — shared: portfolio, minimal, design, dark
+- [[lab01.dev]] — shared: portfolio, minimal, design, dark
+- [[asekachov.com]] — shared: portfolio, minimal, design
+- [[christophlocher.com]] — shared: portfolio, minimal, design
+- [[daryl.cv]] — shared: portfolio, minimal, design
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design

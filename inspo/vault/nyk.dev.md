@@ -2,36 +2,25 @@
 url: https://www.nyk.dev/
 domain: nyk.dev
 title: "nyk — Builder, Shipper, Architect"
-category: uncategorized
+vertical: portfolio
+mode: dark
+vibe: [technical]
+topics: [ai, engineering, finance]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - aesthetic/experimental
-  - aesthetic/developer-product
-  - aesthetic/portfolio
-  - pattern/dark
-  - pattern/terminal
-  - pattern/dev-aesthetic
-  - pattern/ai-chat
-  - pattern/generative-canvas
-  - pattern/monospace-labels
-  - pattern/single-page
-  - pattern/purple-accent
-  - pattern/portfolio
-  - tech/next-js-app-router-inferred
-  - tech/google-tag-manager
-  - tech/canvas-svg-animation
-  - tech/self-hosted
-  - color/dark
-  - color/cool
-  - font/jetbrains-mono-100-800-variable
-  - font/inter-100-900-variable-declared
+  - vertical/portfolio
+  - vibe/technical
+  - topic/ai
+  - topic/engineering
+  - topic/finance
+  - mode/dark
 ---
 # nyk — Builder, Shipper, Architect
 > Builder, Shipper, Architect — Co-Founder & CEO @ Builderz  ·  [nyk.dev](https://www.nyk.dev/)
 
 ![nyk.dev](../../screenshots/nykdev.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/technical  ·  **Topics:** #topic/ai #topic/engineering #topic/finance  ·  **Mode:** #mode/dark
 
 ## What it is
 The personal site of Nyk (@nyk_builderz), Co-Founder & CEO of Builderz — a builder/shipper portfolio centered on AI-agent infrastructure, Solana/DeFi systems and developer tooling. The meta pitch: "Shipping Solana infra, AI agents, trading systems, and client products. 155+ repos, 32+ products, 15 countries."
@@ -51,6 +40,7 @@ A very dark, dev/terminal aesthetic: body background rgb(5,5,7), light-grey text
 - **Fonts:** Inter (variable sans) for body + JetBrains Mono for terminal prompt and section labels.
 - **Fonts loaded:** JetBrains Mono 100-800 (variable), Inter 100-900 (variable, declared)
 - **Tech stack:** Next.js (App Router, inferred), Google Tag Manager, Canvas/SVG animation, self-hosted
+- **Keywords:** dark, terminal, dev-aesthetic, ai-chat, generative-canvas, monospace-labels, single-page, purple-accent, portfolio
 - **Media mix:** img 17 · canvas 17 · svg 81
 - **Page height:** 8157px (single-screen: False)
 - **Responsive:** At 390x844 the top nav collapses to a hamburger (visible nav links drop to one) and the columns stack into a single flow, growing the page to ~12,346px.
@@ -59,7 +49,9 @@ A very dark, dev/terminal aesthetic: body background rgb(5,5,7), light-grey text
 - **Extracted:** 2026-06-06 · {'viewports': ['1440x900', '390x844'], 'logged_out': True}
 
 ## Related sites
-[[ankit-rai.com]] [[hex.inc]] [[jasonyuan.design]] [[killedbyopenai.com]] [[lab01.dev]] [[objectives.md]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #aesthetic/experimental #aesthetic/developer-product #aesthetic/portfolio #pattern/dark #pattern/terminal #pattern/dev-aesthetic #pattern/ai-chat #pattern/generative-canvas #pattern/monospace-labels #pattern/single-page #pattern/purple-accent #pattern/portfolio #tech/next-js-app-router-inferred #tech/google-tag-manager #tech/canvas-svg-animation #tech/self-hosted #color/dark #color/cool #font/jetbrains-mono-100-800-variable #font/inter-100-900-variable-declared
+- [[spyrosigma.in]] — shared: portfolio, technical, ai, engineering
+- [[khairallah.xyz]] — shared: portfolio, technical, engineering, dark
+- [[lab01.dev]] — shared: portfolio, technical, engineering, dark
+- [[addyosmani.com]] — shared: portfolio, ai, engineering
+- [[arneshbanerjee.github.io]] — shared: portfolio, ai, engineering
+- [[ashpreetbedi.com]] — shared: technical, ai, engineering, dark

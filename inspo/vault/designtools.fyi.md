@@ -2,36 +2,24 @@
 url: https://designtools.fyi/
 domain: designtools.fyi
 title: "designtools.fyi — 'Explore and compare every design tool', a role-ranked design-tool comparison directory"
-category: tools-build
+vertical: directory-gallery
+mode: light
+vibe: [editorial, minimal]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/tools-build
-  - aesthetic/editorial
-  - aesthetic/playful
-  - pattern/directory
-  - pattern/comparison
-  - pattern/role-ranked
-  - pattern/editorial
-  - pattern/pixel-type
-  - pattern/typewriter
-  - pattern/halftone
-  - pattern/dither
-  - pattern/white
-  - pattern/geist
-  - tech/geist-geist-pixel-square-self-hosted
-  - tech/tailwind-style-oklch-color-system
-  - tech/fathom-analytics
-  - tech/cloudflare
-  - tech/google-fonts
-  - color/monochrome
-  - color/warm
-  - font/geist
-  - font/geist-pixel-square-100-900
+  - vertical/directory-gallery
+  - vibe/editorial
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # designtools.fyi — 'Explore and compare every design tool', a role-ranked design-tool comparison directory
 > Find the right tool for your role, ranked by what actually matters.  ·  [designtools.fyi](https://designtools.fyi/)
 
 ![designtools.fyi](../../screenshots/designtoolsfyi.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A curated, opinionated comparison directory whose h1 is 'Explore and compare every design tool' and whose meta description reads 'Compare design tools across different capabilities. Find the best tools for designers, design engineers, and non-designers.' It positions itself as a place to 'Browse all 85 tools', read editorial 'dispatches', and find the right tool for your role rather than a flat link dump.
@@ -51,6 +39,7 @@ A crisp editorial 'zine' look on white with a retro pixel-typewriter headline. g
 - **Fonts:** Geist (400/500/600, loaded) for body + 'Geist Pixel Square' (loaded, 100-900) as the pixel/typewriter display face used in the hero h1.
 - **Fonts loaded:** Geist 400, Geist 500, Geist 600, Geist Pixel Square 100-900
 - **Tech stack:** Geist + Geist Pixel Square (self-hosted), Tailwind-style oklch color system, Fathom Analytics, Cloudflare, Google Fonts
+- **Keywords:** directory, comparison, role-ranked, editorial, pixel-type, typewriter, halftone, dither, white, geist
 - **Media mix:** img 56 · canvas 5 · svg 6 · iframe 1
 - **Page height:** 3839px (single-screen: False)
 - **Responsive:** At 390x844 the h1 scales 48px -> 30px, the desktop nav collapses behind a hamburger menu, and the tool/role grids reflow to a single column (scrollHeight 3,839px -> 4,524px).
@@ -59,7 +48,9 @@ A crisp editorial 'zine' look on white with a retro pixel-typewriter headline. g
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true
 
 ## Related sites
-[[designengineer.tools]] [[humanoid-index.com]] [[killedbyopenai.com]] [[sensory-ui.com]] [[12matcha.com]] [[21st.dev]]
-
-## Tags
-#category/tools-build #aesthetic/editorial #aesthetic/playful #pattern/directory #pattern/comparison #pattern/role-ranked #pattern/editorial #pattern/pixel-type #pattern/typewriter #pattern/halftone #pattern/dither #pattern/white #pattern/geist #tech/geist-geist-pixel-square-self-hosted #tech/tailwind-style-oklch-color-system #tech/fathom-analytics #tech/cloudflare #tech/google-fonts #color/monochrome #color/warm #font/geist #font/geist-pixel-square-100-900
+- [[21st.dev]] — shared: directory-gallery, editorial, minimal, design, light
+- [[type.lol]] — shared: directory-gallery, editorial, minimal, design, light
+- [[are.na]] — shared: directory-gallery, editorial, minimal, light
+- [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
+- [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
+- [[nicelydone.club]] — shared: directory-gallery, minimal, design, light

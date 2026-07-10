@@ -2,34 +2,25 @@
 url: https://www.drafts9.com/
 domain: drafts9.com
 title: "Drafts9 — Full stack design and dev partner for startups"
-category: tools-build
+vertical: studio-agency
+mode: light
+vibe: [corporate-clean, minimal]
+topics: [design, startups]
 extracted_at: 2026-06-06
 tags:
-  - category/tools-build
-  - aesthetic/minimal
-  - pattern/apple-style
-  - pattern/studio
-  - pattern/agency-landing
-  - pattern/scroll-reveal
-  - pattern/carousel
-  - pattern/video-testimonials
-  - pattern/pricing-tiers
-  - pattern/faq
-  - pattern/system-fonts
-  - pattern/minimalist
-  - tech/static-html-css-js-no-framework-detected
-  - tech/google-fonts
-  - tech/self-hosted-mp4-video
-  - tech/calendly
-  - tech/whatsapp
-  - tech/figma-work-prototype
-  - color/cool
-  - font/instrument-serif
+  - vertical/studio-agency
+  - vibe/corporate-clean
+  - vibe/minimal
+  - topic/design
+  - topic/startups
+  - mode/light
 ---
 # Drafts9 — Full stack design and dev partner for startups
 > Full stack design and dev partner for startups.  ·  [drafts9.com](https://www.drafts9.com/)
 
 ![drafts9.com](../../screenshots/drafts9com.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/corporate-clean #vibe/minimal  ·  **Topics:** #topic/design #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 Drafts9 is the studio site of designer/developer Ahmed Hassan (@uihssn) — a 'full stack design and dev partner for startups' that ships premium websites, landing pages, brands, products, and no-code experiences on monthly plans. It's the home base behind the 'Dreamblur Gradients' background library the bookmarked tweet is promoting.
@@ -49,6 +40,7 @@ Unapologetically Apple-flavored. The palette is built on Apple's own system: par
 - **Fonts:** Renders in the Apple system stack (-apple-system / SF Pro Text / SF Pro Display) for body + hero; Instrument Serif is the one webfont actually loaded; Inter, Archivo Black and DM Mono are declared via Google Fonts but report unloaded on the home page.
 - **Fonts loaded:** Instrument Serif 400
 - **Tech stack:** Static HTML/CSS/JS (no framework detected), Google Fonts, self-hosted MP4 video, Calendly, WhatsApp, Figma (work prototype)
+- **Keywords:** apple-style, studio, agency-landing, scroll-reveal, carousel, video-testimonials, pricing-tiers, faq, system-fonts, minimalist
 - **Media mix:** img 20 · video 3 · svg 22
 - **Page height:** 6268px (single-screen: False)
 - **Responsive:** At 390x844 the layout stacks to a single column (page grows to ~7674px), the hero h1 scales down from 56px to 40px, and the minimal nav stays inline (logo + 'Recent work', no hamburger).
@@ -58,7 +50,9 @@ Unapologetically Apple-flavored. The palette is built on Apple's own system: par
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[daryl.cv]] [[ravalabs.com]] [[ryancarson.com]] [[templatoria.com]] [[addyosmani.com]] [[alisawuffles.github.io]]
-
-## Tags
-#category/tools-build #aesthetic/minimal #pattern/apple-style #pattern/studio #pattern/agency-landing #pattern/scroll-reveal #pattern/carousel #pattern/video-testimonials #pattern/pricing-tiers #pattern/faq #pattern/system-fonts #pattern/minimalist #tech/static-html-css-js-no-framework-detected #tech/google-fonts #tech/self-hosted-mp4-video #tech/calendly #tech/whatsapp #tech/figma-work-prototype #color/cool #font/instrument-serif
+- [[ignytlabs.com]] — shared: studio-agency, corporate-clean, design, startups, light
+- [[northgarden.com]] — shared: studio-agency, minimal, design, light
+- [[offthewall.studio]] — shared: studio-agency, minimal, design, light
+- [[ravalabs.com]] — shared: studio-agency, minimal, design, light
+- [[rotimi.design]] — shared: studio-agency, minimal, design, light
+- [[varickagents.com]] — shared: studio-agency, corporate-clean, startups, light

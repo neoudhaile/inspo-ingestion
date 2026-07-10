@@ -2,34 +2,25 @@
 url: https://anyblockers.com/
 domain: anyblockers.com
 title: "anyblockers"
-category: tutorial
+vertical: personal-blog
+mode: light
+vibe: [editorial, minimal]
+topics: [engineering, writing]
 extracted_at: 2026-06-05
 tags:
-  - category/tutorial
-  - aesthetic/editorial
-  - aesthetic/light
-  - aesthetic/minimal
-  - pattern/personal-blog
-  - pattern/digital-garden
-  - pattern/serif-editorial
-  - pattern/chronological-index
-  - pattern/read-time-labels
-  - pattern/light-mode
-  - pattern/minimalist
-  - pattern/text-only
-  - pattern/newsletter-embed
-  - tech/tailwind-css
-  - tech/shiki-code-highlighting
-  - tech/posthog
-  - tech/beehiiv-newsletter-embed
-  - color/light
-  - color/warm
-  - font/new-york
+  - vertical/personal-blog
+  - vibe/editorial
+  - vibe/minimal
+  - topic/engineering
+  - topic/writing
+  - mode/light
 ---
 # anyblockers
 > I'm Eric, currently working on the future of developer tooling at Cursor.  ·  [anyblockers.com](https://anyblockers.com/)
 
 ![anyblockers.com](../../screenshots/anyblockerscom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/engineering #topic/writing  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site / writing blog of eric zakariasson, the author of the tweet — a developer at Cursor. The opening line is the whole identity: 'I'm Eric, currently working on the future of developer tooling at Cursor. My days are spent thinking about how developer experience evolves in an AI-native world.' This is the author's portfolio, not the subject of the bookmark; it's a reverse-chronological essay index.
@@ -49,6 +40,7 @@ An intentionally bookish, almost-no-chrome reading layout: a warm off-white pape
 - **Fonts:** Apple 'New York' serif (system-served) for everything; no display face.
 - **Fonts loaded:** New York 400
 - **Tech stack:** Tailwind CSS, Shiki (code highlighting), PostHog, beehiiv (newsletter embed)
+- **Keywords:** personal-blog, digital-garden, serif-editorial, chronological-index, read-time-labels, light-mode, minimalist, text-only, newsletter-embed
 - **Media mix:** svg 6
 - **Page height:** 1252px (single-screen: False)
 - **Responsive:** At 390x844 the already-narrow centered column simply fills the 390px width (single column throughout); scrollHeight grows to ~1,722px.
@@ -56,7 +48,9 @@ An intentionally bookish, almost-no-chrome reading layout: a warm off-white pape
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (+390x844 mobile pass), logged_out: true
 
 ## Related sites
-[[amanml.com]] [[axiaisacat.indiehacker.bio]] [[daryl.cv]] [[designrebuilds.vercel.app]] [[noahzender.com]] [[richzou.com]]
-
-## Tags
-#category/tutorial #aesthetic/editorial #aesthetic/light #aesthetic/minimal #pattern/personal-blog #pattern/digital-garden #pattern/serif-editorial #pattern/chronological-index #pattern/read-time-labels #pattern/light-mode #pattern/minimalist #pattern/text-only #pattern/newsletter-embed #tech/tailwind-css #tech/shiki-code-highlighting #tech/posthog #tech/beehiiv-newsletter-embed #color/light #color/warm #font/new-york
+- [[performance.dev]] — shared: personal-blog, editorial, minimal, engineering, light
+- [[rvivek.com]] — shared: personal-blog, editorial, minimal, writing, light
+- [[amanml.com]] — shared: personal-blog, minimal, engineering, light
+- [[davidwinalda.com]] — shared: personal-blog, minimal, writing, light
+- [[emilkowal.ski]] — shared: personal-blog, minimal, engineering, light
+- [[noahzender.com]] — shared: personal-blog, minimal, writing, light

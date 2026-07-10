@@ -2,36 +2,24 @@
 url: https://eko.lumaris.works/
 domain: eko.lumaris.works
 title: "Eko — tiny tasks done in seconds (Mac shortcut app)"
-category: uncategorized
+vertical: startup-product
+mode: dark
+vibe: [editorial, luxury]
+topics: [productivity]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - aesthetic/editorial
-  - aesthetic/developer-product
-  - pattern/dark
-  - pattern/serif-display
-  - pattern/playfair
-  - pattern/editorial
-  - pattern/product-landing
-  - pattern/tailwind
-  - pattern/react
-  - pattern/one-time-pricing
-  - tech/react
-  - tech/tailwind-css
-  - tech/google-fonts
-  - tech/posthog
-  - tech/google-tag-manager
-  - tech/cloudflare
-  - color/dark
-  - color/cool
-  - font/inter
-  - font/playfair-display
+  - vertical/startup-product
+  - vibe/editorial
+  - vibe/luxury
+  - topic/productivity
+  - mode/dark
 ---
 # Eko — tiny tasks done in seconds (Mac shortcut app)
 > All the tiny tasks that eat your day, done in seconds.  ·  [eko.lumaris.works](https://eko.lumaris.works/)
 
 ![eko.lumaris.works](../../screenshots/ekolumarisworks.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/editorial #vibe/luxury  ·  **Topics:** #topic/productivity  ·  **Mode:** #mode/dark
 
 ## What it is
 Eko is a $39 one-time Mac utility that dictates, translates, fixes and rewrites text 'in any app, from one shortcut.' It's the second site in the tweet, shared alongside Contra Labs for sharing the same classical-serif 'renaissance' aesthetic.
@@ -51,6 +39,7 @@ Dark, high-contrast editorial. From the DOM the body background is pure black (r
 - **Fonts:** Playfair Display (Didone display serif, the 'renaissance' headline face) plus Cormorant SC declared, paired with Inter 200–800 for body and UI.
 - **Fonts loaded:** Inter 200, Inter 300, Inter 400, Inter 600, Inter 800, Playfair Display 400, Playfair Display 500
 - **Tech stack:** React, Tailwind CSS, Google Fonts, PostHog, Google Tag Manager, Cloudflare
+- **Keywords:** dark, serif-display, playfair, editorial, product-landing, tailwind, react, one-time-pricing
 - **Media mix:** img 3 · video 1 · svg 45
 - **Page height:** 14787px (single-screen: False)
 - **Responsive:** At 390x844 the top nav collapses behind a hamburger (Shortcuts/Pricing/FAQ links hidden), the hero h1 scales from 60px to 36px, and the page reflows to a single column (~15,860px tall).
@@ -58,7 +47,9 @@ Dark, high-contrast editorial. From the DOM the body background is pure black (r
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[21st.dev]] [[contralabs.com]] [[fantasypresidentcareer.com]] [[joonasvirtanen.com]] [[ryancarson.com]] [[sinceerly.com]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #aesthetic/editorial #aesthetic/developer-product #pattern/dark #pattern/serif-display #pattern/playfair #pattern/editorial #pattern/product-landing #pattern/tailwind #pattern/react #pattern/one-time-pricing #tech/react #tech/tailwind-css #tech/google-fonts #tech/posthog #tech/google-tag-manager #tech/cloudflare #color/dark #color/cool #font/inter #font/playfair-display
+- [[contralabs.com]] — shared: startup-product, editorial, luxury
+- [[fey.com]] — shared: startup-product, luxury, dark
+- [[flowstate.com]] — shared: startup-product, productivity, dark
+- [[hw.cafe]] — shared: startup-product, editorial, dark
+- [[thinkwithmark.com]] — shared: editorial, luxury, productivity
+- [[apps.ankiweb.net]] — shared: startup-product, productivity

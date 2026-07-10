@@ -2,32 +2,25 @@
 url: https://designrebuilds.vercel.app/
 domain: designrebuilds.vercel.app
 title: "Design Rebuilds"
-category: uncategorized
+vertical: portfolio
+mode: light
+vibe: [minimal, playful]
+topics: [design, engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/minimal
-  - aesthetic/light
-  - pattern/component-gallery
-  - pattern/playground
-  - pattern/rebuilds
-  - pattern/minimalist
-  - pattern/light-mode
-  - pattern/handwritten-display
-  - pattern/react
-  - pattern/index-list
-  - tech/react
-  - tech/vite
-  - tech/vercel
-  - tech/no-analytics-detected
-  - color/light
-  - color/monochrome
-  - font/mclaren
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/playful
+  - topic/design
+  - topic/engineering
+  - mode/light
 ---
 # Design Rebuilds
 > Watch my components — a numbered set of UI component rebuilds.  ·  [designrebuilds.vercel.app](https://designrebuilds.vercel.app/)
 
 ![designrebuilds.vercel.app](../../screenshots/designrebuildsvercelapp.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/playful  ·  **Topics:** #topic/design #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 A small personal playground of UI component rebuilds (h1: 'Watch my components.') — Devster's own collection where he reconstructs interesting micro-interactions. One of the links in his inspo dump.
@@ -47,6 +40,7 @@ Stripped-back and friendly: a white page with near-black text (rgb(17,17,17)) an
 - **Fonts:** McLaren (rounded handwritten display, the title) is the only webfont that loads on the index; a long list of others (Iosevka Charon Mono, Saira Stencil, Libre Bodoni, Peralta, Quando, Skranji, Roboto Condensed) is declared but unused here.
 - **Fonts loaded:** McLaren 400
 - **Tech stack:** React, Vite, Vercel, no analytics detected
+- **Keywords:** component-gallery, playground, rebuilds, minimalist, light-mode, handwritten-display, react, index-list
 - **Media mix:** svg 4
 - **Page height:** 1111px (single-screen: False)
 - **Responsive:** At 390x844 the list stays a single column and the title drops from 40px to 30px; scrollHeight is ~1,058px (no nav collapse — the header is just text links and social icons).
@@ -55,7 +49,9 @@ Stripped-back and friendly: a white page with near-black text (rgb(17,17,17)) an
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
-[[anyblockers.com]] [[siddz.com]] [[21st.dev]] [[akira.sachi.dev]] [[alisawuffles.github.io]] [[amanml.com]]
-
-## Tags
-#category/uncategorized #aesthetic/minimal #aesthetic/light #pattern/component-gallery #pattern/playground #pattern/rebuilds #pattern/minimalist #pattern/light-mode #pattern/handwritten-display #pattern/react #pattern/index-list #tech/react #tech/vite #tech/vercel #tech/no-analytics-detected #color/light #color/monochrome #font/mclaren
+- [[kmk0.com]] — shared: portfolio, minimal, playful, design, engineering, light
+- [[lab01.dev]] — shared: portfolio, minimal, design, engineering
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
+- [[asekachov.com]] — shared: portfolio, minimal, design, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
+- [[christophlocher.com]] — shared: portfolio, minimal, design, light

@@ -2,32 +2,24 @@
 url: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
 domain: claude.com
 title: "How Claude Code works in large codebases: Best practices and where to start | Claude"
-category: tutorial
+vertical: publication-newsletter
+mode: light
+vibe: [editorial]
+topics: [ai, engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/tutorial
-  - aesthetic/editorial
-  - pattern/editorial
-  - pattern/long-form-article
-  - pattern/serif-headings
-  - pattern/clay-accent
-  - pattern/webflow
-  - pattern/fluid-clamp-type
-  - pattern/12-col-grid
-  - tech/webflow
-  - tech/google-tag-manager
-  - tech/amplitude
-  - tech/meta-pixel
-  - tech/cloudfront-jsdelivr-cdn
-  - color/warm
-  - font/anthropic-sans-300-800
-  - font/anthropic-serif-300-800
-  - font/anthropic-mono-300-800
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - topic/ai
+  - topic/engineering
+  - mode/light
 ---
 # How Claude Code works in large codebases: Best practices and where to start | Claude
 > How Claude Code works in large codebases: Best practices and where to start  ·  [claude.com](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
 
 ![claude.com](../../screenshots/claudecom.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 A long-form best-practices article on Anthropic's claude.com blog, part of the “Claude Code at scale” series, about how successful engineering orgs deploy Claude Code across multi-million-line monorepos, legacy systems, and microservices.
@@ -47,6 +39,7 @@ Anthropic's house brand system: an oat/cream canvas (#faf9f5) with near-black in
 - **Fonts:** Anthropic Serif (headings) + Anthropic Sans (body/UI) + Anthropic Mono (code)
 - **Fonts loaded:** Anthropic Sans 300–800, Anthropic Serif 300–800, Anthropic Mono 300–800
 - **Tech stack:** Webflow, Google Tag Manager, Amplitude, Meta Pixel, CloudFront/jsDelivr CDN
+- **Keywords:** editorial, long-form-article, serif-headings, clay-accent, webflow, fluid-clamp-type, 12-col-grid
 - **Media mix:** img 11 · video 1 · svg 155
 - **Page height:** 15286px (single-screen: False)
 - **Responsive:** At 390px the top navigation collapses to a hamburger menu, the fluid serif <h1> scales from 52px down to ~35px, and the article reflows to a single column (~25k px tall).
@@ -54,7 +47,9 @@ Anthropic's house brand system: an oat/cream canvas (#faf9f5) with near-black in
 - **Extracted:** 2026-06-05 · Playwright Chromium @ 1440×900 + 390×844 mobile pass; logged_out: true
 
 ## Related sites
-[[joonasvirtanen.com]] [[12matcha.com]] [[animations.dev]] [[asekachov.com]] [[b150.ai]] [[badmarketing.com]]
-
-## Tags
-#category/tutorial #aesthetic/editorial #pattern/editorial #pattern/long-form-article #pattern/serif-headings #pattern/clay-accent #pattern/webflow #pattern/fluid-clamp-type #pattern/12-col-grid #tech/webflow #tech/google-tag-manager #tech/amplitude #tech/meta-pixel #tech/cloudfront-jsdelivr-cdn #color/warm #font/anthropic-sans-300-800 #font/anthropic-serif-300-800 #font/anthropic-mono-300-800
+- [[interfaces.dev]] — shared: publication-newsletter, editorial, engineering, light
+- [[theprohuman.ai]] — shared: publication-newsletter, editorial, ai, light
+- [[21st.dev]] — shared: editorial, ai, engineering, light
+- [[printingpress.dev]] — shared: editorial, ai, engineering, light
+- [[walkinglabs.github.io]] — shared: editorial, ai, engineering, light
+- [[addyosmani.com]] — shared: editorial, ai, engineering

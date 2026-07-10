@@ -2,31 +2,24 @@
 url: https://www.crsanchez.es/
 domain: crsanchez.es
 title: "CR Sanchez Newsletter"
-category: product
+vertical: publication-newsletter
+mode: light
+vibe: [corporate-clean, minimal]
+topics: [marketing]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/light
-  - pattern/newsletter-landing
-  - pattern/email-capture
-  - pattern/squeeze-page
-  - pattern/systeme-io
-  - pattern/funnel
-  - pattern/light-mode
-  - pattern/spanish
-  - tech/systeme-io
-  - tech/cloudfront
-  - tech/montserrat
-  - tech/font-awesome
-  - color/light
-  - color/monochrome
-  - font/montserrat
-  - font/font-awesome-7-duotone
+  - vertical/publication-newsletter
+  - vibe/corporate-clean
+  - vibe/minimal
+  - topic/marketing
+  - mode/light
 ---
 # CR Sanchez Newsletter
 > Es imposible no triunfar en esta vida.  ·  [crsanchez.es](https://www.crsanchez.es/)
 
 ![crsanchez.es](../../screenshots/crsanchezes.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/corporate-clean #vibe/minimal  ·  **Topics:** #topic/marketing  ·  **Mode:** #mode/light
 
 ## What it is
 CR Sanchez's Spanish-language newsletter landing page — the only link in the tweet, and the author's own email-capture page rather than the AI parking-design tool the video shows (that tool isn't linked). It's a marketing/squeeze page built on Systeme.io.
@@ -46,6 +39,7 @@ Plain and conversion-first: a white background with black body text and solid-bl
 - **Fonts:** Montserrat (400/700); Font Awesome icon set
 - **Fonts loaded:** Montserrat 400, Montserrat 700, Font Awesome 7 Duotone 900
 - **Tech stack:** Systeme.io, Cloudfront, Montserrat, Font Awesome
+- **Keywords:** newsletter-landing, email-capture, squeeze-page, systeme-io, funnel, light-mode, spanish
 - **Media mix:** img 3
 - **Page height:** 2028px (single-screen: False)
 - **Responsive:** At 390x844 it collapses to a single column with full-width inputs and CTA buttons (scrollHeight ~1,634px).
@@ -53,7 +47,9 @@ Plain and conversion-first: a white background with black body text and solid-bl
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile pass), logged_out: true
 
 ## Related sites
-[[gregisenberg.com]] [[akira.sachi.dev]] [[anyblockers.com]] [[bigplayers.co]] [[colf.dev]] [[designrebuilds.vercel.app]]
-
-## Tags
-#category/product #aesthetic/light #pattern/newsletter-landing #pattern/email-capture #pattern/squeeze-page #pattern/systeme-io #pattern/funnel #pattern/light-mode #pattern/spanish #tech/systeme-io #tech/cloudfront #tech/montserrat #tech/font-awesome #color/light #color/monochrome #font/montserrat #font/font-awesome-7-duotone
+- [[bigplayers.co]] — shared: publication-newsletter, minimal, marketing
+- [[conigma.com]] — shared: corporate-clean, minimal, marketing, light
+- [[geniusmargins.com]] — shared: publication-newsletter, minimal, light
+- [[gregisenberg.com]] — shared: publication-newsletter, marketing, light
+- [[interfaces.dev]] — shared: publication-newsletter, minimal, light
+- [[drafts9.com]] — shared: corporate-clean, minimal, light

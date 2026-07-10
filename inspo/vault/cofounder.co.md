@@ -2,35 +2,26 @@
 url: https://cofounder.co/
 domain: cofounder.co
 title: "Cofounder lets you run an entire company with agents"
-category: uncategorized
+vertical: startup-product
+mode: mixed
+vibe: [organic-warm, editorial, technical]
+topics: [startups, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - pattern/product-landing
-  - pattern/agent-orchestration
-  - pattern/warm-paper
-  - pattern/custom-sans
-  - pattern/mono-accent
-  - pattern/icon-heavy
-  - pattern/single-scroll
-  - pattern/tailwind-v4
-  - pattern/startups
-  - tech/tailwind-v4
-  - tech/posthog
-  - tech/meta-pixel
-  - tech/google-tag-manager
-  - tech/vercel
-  - color/warm
-  - color/cool
-  - font/neoris
-  - font/departuremono
-  - font/ibm-plex-mono
+  - vertical/startup-product
+  - vibe/organic-warm
+  - vibe/editorial
+  - vibe/technical
+  - topic/startups
+  - topic/ai
+  - mode/mixed
 ---
 # Cofounder lets you run an entire company with agents
 > Run an entire company with AI agents.  ·  [cofounder.co](https://cofounder.co/)
 
 ![cofounder.co](../../screenshots/cofounderco.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/organic-warm #vibe/editorial #vibe/technical  ·  **Topics:** #topic/startups #topic/ai  ·  **Mode:** #mode/mixed
 
 ## What it is
 The product site for Cofounder, by the General Intelligence Company of New York — “an agent orchestration platform designed to help you run an entire business” across engineering, sales, marketing, design, finance and ops (meta description: “Run engineering, sales, marketing, design, finance, and ops.”). The bookmark (andrew pignanelli) singles out its new section — the h2 “Learn how to start a company” — as “literally a step-by-step guide on how to start a company… written by experts and u can download it.”
@@ -50,6 +41,7 @@ An editorial-tech aesthetic on warm paper #f5f5f2 with ink text (rendered body r
 - **Fonts:** Custom 'neoris' sans for display + body (h1 46px), 'departureMono' and IBM Plex Mono for mono/code (all loaded); Inter in the fallback stack.
 - **Fonts loaded:** neoris, departureMono, IBM Plex Mono 400, IBM Plex Mono 500
 - **Tech stack:** Tailwind v4, PostHog, Meta Pixel, Google Tag Manager, Vercel
+- **Keywords:** product-landing, agent-orchestration, warm-paper, custom-sans, mono-accent, icon-heavy, single-scroll, tailwind-v4, startups
 - **Media mix:** img 49 · canvas 1 · svg 144
 - **Page height:** 8653px (single-screen: False)
 - **Responsive:** At 390x844 the h1 drops 46px→34px, a hamburger appears, and the layout collapses to one column (scrollHeight 8653→11619).
@@ -58,7 +50,9 @@ An editorial-tech aesthetic on warm paper #f5f5f2 with ink text (rendered body r
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[hofai.io]] [[printingpress.dev]] [[recent.design]] [[todesktop.com]] [[eko.lumaris.works]] [[fantasypresidentcareer.com]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #pattern/product-landing #pattern/agent-orchestration #pattern/warm-paper #pattern/custom-sans #pattern/mono-accent #pattern/icon-heavy #pattern/single-scroll #pattern/tailwind-v4 #pattern/startups #tech/tailwind-v4 #tech/posthog #tech/meta-pixel #tech/google-tag-manager #tech/vercel #color/warm #color/cool #font/neoris #font/departuremono #font/ibm-plex-mono
+- [[printingpress.dev]] — shared: startup-product, organic-warm, editorial, technical, ai
+- [[backdoorai.app]] — shared: startup-product, organic-warm, startups, ai
+- [[creao.ai]] — shared: startup-product, editorial, startups, ai
+- [[sinceerly.com]] — shared: startup-product, organic-warm, editorial, ai
+- [[b150.ai]] — shared: startup-product, startups, ai
+- [[contralabs.com]] — shared: startup-product, editorial, ai

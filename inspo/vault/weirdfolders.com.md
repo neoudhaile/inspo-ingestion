@@ -2,30 +2,24 @@
 url: https://weirdfolders.com
 domain: weirdfolders.com
 title: "Weird Folders — Custom Folder Icons for Mac & PC"
-category: uncategorized
+vertical: ecommerce
+mode: dark
+vibe: [playful, minimal]
+topics: [design]
 extracted_at: 2026-06-04
 tags:
-  - category/uncategorized
-  - aesthetic/experimental
-  - aesthetic/playful
-  - aesthetic/dark
-  - pattern/infinite-grid
-  - pattern/canvas-gallery
-  - pattern/draggable-canvas
-  - pattern/gamified-unlock
-  - pattern/freemium-storefront
-  - pattern/density-toggle
-  - pattern/interstitial-modal
-  - pattern/dark-mode
-  - pattern/tactile-3d
-  - pattern/product-is-the-page
-  - color/dark
-  - color/warm
+  - vertical/ecommerce
+  - vibe/playful
+  - vibe/minimal
+  - topic/design
+  - mode/dark
 ---
 # Weird Folders — Custom Folder Icons for Mac & PC
 > Custom Folder Icons for your Operative System, download a free pack or learn to make them yourself  ·  [weirdfolders.com](https://weirdfolders.com)
 
 ![weirdfolders.com](../../screenshots/weirdfolders-top.png)
+
+**Vertical:** #vertical/ecommerce  ·  **Vibe:** #vibe/playful #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 A freemium storefront selling custom folder icons for Mac and PC, disguised as a playful collection you browse. There's no marketing preamble — you land directly inside the product. The whole pitch is 'here are ~100 weird little folder icons; pick a few free, or buy the full pack for €9.'
@@ -42,10 +36,13 @@ A near-black ground makes the colorful icon renders pop like objects laid out on
 ## Design data
 - **Palette:** Near-black ground (#131211 / #252422), warm off-white text (#edebe8), muted taupe for secondary (#9f9a93); all real color comes from the per-icon renders, plus a light pill for the buy CTA.
 - **Fonts:** Inter Tight (body/UI), Fraunces (serif accents)
+- **Keywords:** infinite-grid, canvas-gallery, draggable-canvas, gamified-unlock, freemium-storefront, density-toggle, interstitial-modal, dark-mode, tactile-3d, product-is-the-page
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[roam.neesh.page]] [[backgrounds.supply]] [[badmarketing.com]] [[davekrugman.com]] [[daytona.io]] [[ditther.com]]
-
-## Tags
-#category/uncategorized #aesthetic/experimental #aesthetic/playful #aesthetic/dark #pattern/infinite-grid #pattern/canvas-gallery #pattern/draggable-canvas #pattern/gamified-unlock #pattern/freemium-storefront #pattern/density-toggle #pattern/interstitial-modal #pattern/dark-mode #pattern/tactile-3d #pattern/product-is-the-page #color/dark #color/warm
+- [[backgrounds.supply]] — shared: ecommerce, minimal, design, dark
+- [[nucleoapp.com]] — shared: ecommerce, minimal, design
+- [[templatoria.com]] — shared: ecommerce, minimal, design
+- [[designrebuilds.vercel.app]] — shared: playful, minimal, design
+- [[kmk0.com]] — shared: playful, minimal, design
+- [[mo1.app]] — shared: playful, minimal, design

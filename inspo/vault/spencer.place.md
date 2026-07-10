@@ -2,41 +2,24 @@
 url: https://spencer.place/
 domain: spencer.place
 title: "ꜱᴘᴇɴᴄᴇʀ ᴄʜᴀɴɢ"
-category: product
+vertical: portfolio
+mode: dark
+vibe: [organic-warm, playful]
+topics: [art]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/portfolio
-  - aesthetic/retro
-  - aesthetic/dark
-  - pattern/personal-homepage
-  - pattern/multiplayer
-  - pattern/collaborative
-  - pattern/playhtml
-  - pattern/living-space
-  - pattern/cozy-web
-  - pattern/indie-web
-  - pattern/emoji-nav
-  - pattern/retro
-  - pattern/dark
-  - pattern/astro
-  - tech/astro
-  - tech/playhtml-multiplayer-state
-  - tech/cloudflare-workers-analytics
-  - tech/unpkg
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/vulf-sans
-  - font/cooper
-  - font/sono
-  - font/vt323
-  - font/unicons-line-icon-font
+  - vertical/portfolio
+  - vibe/organic-warm
+  - vibe/playful
+  - topic/art
+  - mode/dark
 ---
 # ꜱᴘᴇɴᴄᴇʀ ᴄʜᴀɴɢ
 > Welcome to my internet home — a living space shaped by visitors  ·  [spencer.place](https://spencer.place/)
 
 ![spencer.place](../../screenshots/spencerplace.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/organic-warm #vibe/playful  ·  **Topics:** #topic/art  ·  **Mode:** #mode/dark
 
 ## What it is
 The personal 'internet home' of Spencer Chang — artist, engineer and toymaker in San Francisco who makes 'technology that cultivates interdependence and human agency.' He is the maker behind the Wikipedia-multiplayer extension this bookmark is about, and the site itself is a living, collaboratively-editable room.
@@ -56,6 +39,7 @@ A cozy, lo-fi 'soft internet' aesthetic: a charcoal/teal ground (rgb(47,51,54)) 
 - **Fonts:** Vulf Sans + Cooper (display/body), Sono & VT323 (retro mono)
 - **Fonts loaded:** Vulf Sans 400, Vulf Sans 500, Vulf Sans 700, Cooper 400, Cooper 700, Sono 400, VT323 400, unicons-line (icon font)
 - **Tech stack:** Astro, playhtml (multiplayer state), Cloudflare Workers + Analytics, unpkg
+- **Keywords:** personal-homepage, multiplayer, collaborative, playhtml, living-space, cozy-web, indie-web, emoji-nav, retro, dark, astro
 - **Media mix:** img 46 · video 8 · svg 10 · iframe 1
 - **Page height:** 5210px (single-screen: False)
 - **Responsive:** At 390px the text nav labels collapse to emoji-only icons and the sections stack (~5,210 → ~7,736px); overflow-x is hidden.
@@ -64,7 +48,9 @@ A cozy, lo-fi 'soft internet' aesthetic: a charcoal/teal ground (rgb(47,51,54)) 
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+390x844 mobile), logged_out: true
 
 ## Related sites
-[[alisawuffles.github.io]] [[ankit-rai.com]] [[daviskeene.com]] [[ddlabstudio.com]] [[eko.lumaris.works]] [[hex.inc]]
-
-## Tags
-#category/product #aesthetic/portfolio #aesthetic/retro #aesthetic/dark #pattern/personal-homepage #pattern/multiplayer #pattern/collaborative #pattern/playhtml #pattern/living-space #pattern/cozy-web #pattern/indie-web #pattern/emoji-nav #pattern/retro #pattern/dark #pattern/astro #tech/astro #tech/playhtml-multiplayer-state #tech/cloudflare-workers-analytics #tech/unpkg #color/dark #color/warm #color/cool #font/vulf-sans #font/cooper #font/sono #font/vt323 #font/unicons-line-icon-font
+- [[jessa.art]] — shared: portfolio, organic-warm, playful
+- [[jessyin.world]] — shared: portfolio, organic-warm, playful
+- [[ankit-rai.com]] — shared: portfolio, art, dark
+- [[davekrugman.com]] — shared: portfolio, art, dark
+- [[lelezhang.design]] — shared: organic-warm, playful, art
+- [[mrdoob.com]] — shared: portfolio, art, dark

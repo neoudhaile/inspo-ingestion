@@ -2,33 +2,25 @@
 url: https://www.geniusmargins.com/
 domain: geniusmargins.com
 title: "Genius Margins | Noah Zender | Substack"
-category: personal
+vertical: publication-newsletter
+mode: light
+vibe: [minimal, editorial]
+topics: [productivity, writing]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - pattern/substack
-  - pattern/newsletter
-  - pattern/subscribe-splash
-  - pattern/serif-editorial
-  - pattern/custom-domain
-  - pattern/minimal
-  - tech/substack
-  - tech/sentry
-  - tech/datadog-rum
-  - tech/google-tag-manager
-  - tech/google-ads
-  - tech/cloudflare
-  - color/monochrome
-  - color/warm
-  - color/cool
-  - font/lora
+  - vertical/publication-newsletter
+  - vibe/minimal
+  - vibe/editorial
+  - topic/productivity
+  - topic/writing
+  - mode/light
 ---
 # Genius Margins | Noah Zender | Substack
 > Simple ways to think better, do more, and find hidden chances.  ·  [geniusmargins.com](https://www.geniusmargins.com/)
 
 ![geniusmargins.com](../../screenshots/geniusmarginscom.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/productivity #topic/writing  ·  **Mode:** #mode/light
 
 ## What it is
 Genius Margins is Noah Zender's newsletter on a custom Substack domain — 'Simple ways to think better, do more, and find hidden chances' — with over 1,000 subscribers. Per the bookmarked tweet, Zender just retired the paid tier and made all 93 essays free, so this homepage is now the free front door to the archive.
@@ -48,6 +40,7 @@ The quiet, serif-forward Substack editorial theme on a cream/off-white ground wi
 - **Fonts:** Lora (500/600/700) for the wordmark and headings + Spectral serif body — Substack's default serif theme.
 - **Fonts loaded:** Lora 500, Lora 600, Lora 700
 - **Tech stack:** Substack, Sentry, Datadog RUM, Google Tag Manager, Google Ads, Cloudflare
+- **Keywords:** substack, newsletter, subscribe-splash, serif-editorial, custom-domain, minimal
 - **Media mix:** img 18 · svg 94 · iframe 2
 - **Page height:** 2418px (single-screen: False)
 - **Responsive:** At 390px the centered subscribe card and the post list stack into a single column (~3.9k px).
@@ -55,7 +48,9 @@ The quiet, serif-forward Substack editorial theme on a cream/off-white ground wi
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[letters.thedankoe.com]] [[systematiclongshort.com]] [[animations.dev]] [[anyblockers.com]] [[bigplayers.co]] [[emilkowal.ski]]
-
-## Tags
-#category/personal #aesthetic/editorial #aesthetic/minimal #pattern/substack #pattern/newsletter #pattern/subscribe-splash #pattern/serif-editorial #pattern/custom-domain #pattern/minimal #tech/substack #tech/sentry #tech/datadog-rum #tech/google-tag-manager #tech/google-ads #tech/cloudflare #color/monochrome #color/warm #color/cool #font/lora
+- [[letters.thedankoe.com]] — shared: publication-newsletter, minimal, editorial, writing
+- [[interfaces.dev]] — shared: publication-newsletter, minimal, editorial, light
+- [[anyblockers.com]] — shared: minimal, editorial, writing, light
+- [[noahzender.com]] — shared: minimal, productivity, writing, light
+- [[rvivek.com]] — shared: minimal, editorial, writing, light
+- [[serif.sh]] — shared: minimal, editorial, writing, light

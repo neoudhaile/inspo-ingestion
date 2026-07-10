@@ -2,29 +2,23 @@
 url: https://davidwinalda.com/
 domain: davidwinalda.com
 title: "David Winalda"
-category: tools-build
+vertical: personal-blog
+mode: light
+vibe: [minimal]
+topics: [writing]
 extracted_at: 2026-06-06
 tags:
-  - category/tools-build
-  - aesthetic/minimal
-  - aesthetic/light
-  - pattern/personal-site
-  - pattern/blog
-  - pattern/minimalist
-  - pattern/wordpress
-  - pattern/light-theme
-  - pattern/typographic
-  - tech/wordpress-anders-nor-n-theme
-  - tech/font-awesome-5
-  - tech/self-hosted-no-third-party-analytics-detected
-  - color/light
-  - font/archivo
-  - font/font-awesome
+  - vertical/personal-blog
+  - vibe/minimal
+  - topic/writing
+  - mode/light
 ---
 # David Winalda
 > Personal site & blog — Articles, Blog, Quotes, Talks and the Terra Talks podcast.  ·  [davidwinalda.com](https://davidwinalda.com/)
 
 ![davidwinalda.com](../../screenshots/davidwinaldacom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/writing  ·  **Mode:** #mode/light
 
 ## What it is
 David Winalda's personal WordPress site — the homepage doubles as an 'About Me' page and is the destination 0xMarioNawfal's shadcn/Claude-Code tweet links to. The nav reveals the scope: Articles, Blog, Quotes, Talks, a 'Terra Talks – Podcast', and a 'What I've Learned and Valued' page, plus a LinkedIn link. It is a writer/builder's home base rather than a product page.
@@ -44,6 +38,7 @@ A minimal light theme: white body (rgb(255,255,255)) with near-black text (--wp-
 - **Fonts:** Archivo 400/600/700 (with Font Awesome 5 icons), Helvetica Neue fallback
 - **Fonts loaded:** Archivo 400, Archivo 600, Archivo 700, Font Awesome 5
 - **Tech stack:** WordPress (Anders Norén theme), Font Awesome 5, self-hosted (no third-party analytics detected)
+- **Keywords:** personal-site, blog, minimalist, wordpress, light-theme, typographic
 - **Media mix:** 
 - **Page height:** 980px (single-screen: True)
 - **Responsive:** At 390x844 the layout reflows to a single column at the same ~977px height with no hamburger menu (nav stays block-level); body type holds at 16px.
@@ -52,7 +47,9 @@ A minimal light theme: white body (rgb(255,255,255)) with near-black text (--wp-
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[alisawuffles.github.io]] [[performance.dev]] [[richzou.com]] [[willmanidis.com]] [[amanml.com]] [[anyblockers.com]]
-
-## Tags
-#category/tools-build #aesthetic/minimal #aesthetic/light #pattern/personal-site #pattern/blog #pattern/minimalist #pattern/wordpress #pattern/light-theme #pattern/typographic #tech/wordpress-anders-nor-n-theme #tech/font-awesome-5 #tech/self-hosted-no-third-party-analytics-detected #color/light #font/archivo #font/font-awesome
+- [[anyblockers.com]] — shared: personal-blog, minimal, writing, light
+- [[noahzender.com]] — shared: personal-blog, minimal, writing, light
+- [[richzou.com]] — shared: personal-blog, minimal, writing, light
+- [[rvivek.com]] — shared: personal-blog, minimal, writing, light
+- [[amanml.com]] — shared: personal-blog, minimal, light
+- [[emilkowal.ski]] — shared: personal-blog, minimal, light

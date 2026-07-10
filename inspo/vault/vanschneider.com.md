@@ -2,42 +2,24 @@
 url: https://vanschneider.com/
 domain: vanschneider.com
 title: "Tobias van Schneider — House of van Schneider (HOVS), a creative-direction studio & portfolio"
-category: product
+vertical: studio-agency
+mode: dark
+vibe: [editorial, luxury]
+topics: [design]
 extracted_at: 2026-07-05
 tags:
-  - category/product
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - aesthetic/portfolio
-  - pattern/editorial
-  - pattern/monochrome
-  - pattern/black-and-red
-  - pattern/portfolio
-  - pattern/studio
-  - pattern/wordpress
-  - pattern/semplice
-  - pattern/long-scroll
-  - pattern/engraving
-  - pattern/grotesque-display
-  - pattern/serif-pairing
-  - tech/wordpress-semplice
-  - tech/jquery
-  - tech/google-tag-manager
-  - tech/google-fonts-linked
-  - color/monochrome
-  - color/cool
-  - font/maisonneue-book
-  - font/maisonneue-demi
-  - font/maisonneue-bold
-  - font/maisonneue-medium
-  - font/maisonneue-light
-  - font/engraversgothic-bold
-  - font/tobias-regular
+  - vertical/studio-agency
+  - vibe/editorial
+  - vibe/luxury
+  - topic/design
+  - mode/dark
 ---
 # Tobias van Schneider — House of van Schneider (HOVS), a creative-direction studio & portfolio
 > I create, therefore I am.  ·  [vanschneider.com](https://vanschneider.com/)
 
 ![vanschneider.com](../../screenshots/vanschneidercom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/editorial #vibe/luxury  ·  **Topics:** #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 The portfolio and studio site of Tobias van Schneider — 'House of van Schneider' (HOVS), his New-York-based creative-direction studio 'that builds and runs its own products — and occasionally works with partners such as NASA/JPL to brand their space missions.' He is the maker growing mymind and the co-founder of Semplice and Carbonmade. This is the site the mymind 'Vibe Search' tweet resolves to via the export metadata — the author's own portfolio.
@@ -57,6 +39,7 @@ Bold monochrome editorial with a single red accent. The stage renders near-black
 - **Fonts:** MaisonNeue (Book/Demi/Bold/Medium/Light) for display & UI, his own 'Tobias' serif (Tobias-Regular) and EngraversGothic-Bold for small-caps labels — all self-hosted; Merriweather and Inter declared but unloaded.
 - **Fonts loaded:** MaisonNeue-Book 400, MaisonNeue-Demi 400, MaisonNeue-Bold 400, MaisonNeue-Medium 400, MaisonNeue-Light 400, EngraversGothic-Bold 400, Tobias-Regular 400
 - **Tech stack:** WordPress + Semplice, jQuery, Google Tag Manager, Google Fonts (linked)
+- **Keywords:** editorial, monochrome, black-and-red, portfolio, studio, wordpress, semplice, long-scroll, engraving, grotesque-display, serif-pairing
 - **Media mix:** img 147 · video 12 · svg 105
 - **Page height:** 34491px (single-screen: False)
 - **Responsive:** At 390x844 the tri-column magazine nav collapses to a hamburger menu and the layout reflows to a single column (scrollHeight 34,491 → ~30,618px).
@@ -66,7 +49,9 @@ Bold monochrome editorial with a single red accent. The stage renders near-black
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 fullPage + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[ankit-rai.com]] [[christophlocher.com]] [[daviskeene.com]] [[designengineer.tools]] [[interfaces.dev]]
-
-## Tags
-#category/product #aesthetic/editorial #aesthetic/minimal #aesthetic/portfolio #pattern/editorial #pattern/monochrome #pattern/black-and-red #pattern/portfolio #pattern/studio #pattern/wordpress #pattern/semplice #pattern/long-scroll #pattern/engraving #pattern/grotesque-display #pattern/serif-pairing #tech/wordpress-semplice #tech/jquery #tech/google-tag-manager #tech/google-fonts-linked #color/monochrome #color/cool #font/maisonneue-book #font/maisonneue-demi #font/maisonneue-bold #font/maisonneue-medium #font/maisonneue-light #font/engraversgothic-bold #font/tobias-regular
+- [[ddlabstudio.com]] — shared: studio-agency, editorial, luxury, design, dark
+- [[hex.inc]] — shared: studio-agency, luxury, design, dark
+- [[coldiq.com]] — shared: studio-agency, editorial, luxury
+- [[offthewall.studio]] — shared: studio-agency, editorial, design
+- [[drafts9.com]] — shared: studio-agency, design
+- [[eko.lumaris.works]] — shared: editorial, luxury, dark

@@ -1,21 +1,15 @@
 # Inspiration Vault
 
-_Each note is one website with its full teardown. Tags (nested, e.g. `#aesthetic/dark`) categorize and connect the notes — in Obsidian, enable **Tags** in Graph view; as an agent, `rg -l '#pattern/portfolio' inspo/vault` to find matching sites, then read those notes. Tags shared by ≥2 sites:_
+_155 websites, one note each. Sites connect through four controlled facets (see `tools/ingest/taxonomy.json`): **vertical** (what it is), **vibe** (how it feels), **topic** (what it's about — bridges clusters), **mode** (dark/light). In Obsidian: Graph view with **Tags** on. As an agent: `rg -l '#vertical/portfolio' inspo/vault` then read those notes; each note's Related sites lists its nearest neighbors with the shared facets._
 
-## aesthetic
-`#aesthetic/minimal` (55) · `#aesthetic/developer-product` (50) · `#aesthetic/dark` (44) · `#aesthetic/editorial` (39) · `#aesthetic/light` (35) · `#aesthetic/portfolio` (34) · `#aesthetic/experimental` (21) · `#aesthetic/playful` (18) · `#aesthetic/luxury` (7) · `#aesthetic/retro` (7)
+## vertical
+`#vertical/portfolio` (36) · `#vertical/startup-product` (28) · `#vertical/directory-gallery` (16) · `#vertical/studio-agency` (16) · `#vertical/tool-app` (15) · `#vertical/personal-blog` (12) · `#vertical/publication-newsletter` (10) · `#vertical/docs-resource` (7) · `#vertical/ecommerce` (7) · `#vertical/experiment-art` (7) · `#vertical/community-social` (1)
 
-## pattern
-`#pattern/minimalist` (34) · `#pattern/editorial` (24) · `#pattern/portfolio` (23) · `#pattern/single-screen` (18) · `#pattern/framer` (15) · `#pattern/dark-mode` (14) · `#pattern/tailwind` (14) · `#pattern/dark` (13) · `#pattern/monochrome` (13) · `#pattern/product-landing` (13) · `#pattern/light-mode` (12) · `#pattern/dark-theme` (11) · `#pattern/webflow` (11) · `#pattern/light-theme` (10) · `#pattern/monospace` (10) · `#pattern/system-fonts` (10) · `#pattern/directory` (9) · `#pattern/geist` (9) · `#pattern/nextjs` (9) · `#pattern/developer-tool` (8) · `#pattern/long-scroll` (8) · `#pattern/minimal` (8) · `#pattern/inter` (7) · `#pattern/playful` (7) · `#pattern/saas-landing` (7) · `#pattern/serif-display` (7) · `#pattern/case-studies` (6) · `#pattern/light` (6) · `#pattern/long-scroll-landing` (6) · `#pattern/personal-site` (6) · `#pattern/shadcn` (6) · `#pattern/tailwind-v4` (6) · `#pattern/text-first` (6) · `#pattern/text-only` (6) · `#pattern/generative` (5) · `#pattern/newsletter` (5) · `#pattern/no-framework` (5) · `#pattern/react` (5) · `#pattern/studio` (5) · `#pattern/blog-index` (4)  _+122 more (grep the vault, or use Obsidian's Tag pane)_
+## vibe
+`#vibe/minimal` (83) · `#vibe/editorial` (45) · `#vibe/technical` (35) · `#vibe/corporate-clean` (28) · `#vibe/playful` (27) · `#vibe/organic-warm` (23) · `#vibe/experimental` (15) · `#vibe/luxury` (10) · `#vibe/retro` (7) · `#vibe/brutalist` (3)
 
-## category
-`#category/uncategorized` (50) · `#category/design` (23) · `#category/personal` (19) · `#category/product` (17) · `#category/tools-build` (13) · `#category/tutorial` (13) · `#category/reading` (11) · `#category/favorites` (7) · `#category/irl` (2)
+## topic
+`#topic/design` (55) · `#topic/ai` (44) · `#topic/engineering` (41) · `#topic/startups` (24) · `#topic/writing` (14) · `#topic/art` (13) · `#topic/marketing` (12) · `#topic/productivity` (11) · `#topic/education` (7) · `#topic/finance` (5) · `#topic/food-drink` (4) · `#topic/music` (4) · `#topic/film-video` (2) · `#topic/travel-places` (2) · `#topic/fashion` (1) · `#topic/photography` (1)
 
-## tech
-`#tech/google-tag-manager` (47) · `#tech/google-fonts` (24) · `#tech/framer` (20) · `#tech/cloudflare` (13) · `#tech/meta-pixel` (11) · `#tech/webflow` (11) · `#tech/self-hosted` (10) · `#tech/cloudflare-insights` (9) · `#tech/posthog` (9) · `#tech/react` (9) · `#tech/tailwind-css` (8) · `#tech/cloudfront` (6) · `#tech/no-analytics-detected` (6) · `#tech/adobe-typekit` (5) · `#tech/facebook-pixel` (5) · `#tech/plausible` (5) · `#tech/sentry` (5) · `#tech/tailwind-css-v4` (5) · `#tech/vercel` (5) · `#tech/amplitude` (4) · `#tech/framerusercontent-cdn` (4) · `#tech/jquery` (4) · `#tech/jsdelivr` (4) · `#tech/next-js` (4) · `#tech/visitors-now-analytics` (4) · `#tech/clerk-auth` (3) · `#tech/datadog-rum` (3) · `#tech/google-ads-doubleclick` (3) · `#tech/google-analytics` (3) · `#tech/hubspot` (3) · `#tech/jsdelivr-cdn` (3) · `#tech/microsoft-clarity` (3) · `#tech/no-third-party-analytics-detected` (3) · `#tech/self-hosted-fonts` (3) · `#tech/shadcn-ui-tokens` (3) · `#tech/substack` (3) · `#tech/tailwind-v4` (3) · `#tech/tolt-affiliate` (3) · `#tech/umami-analytics` (3) · `#tech/unpkg-css` (3)  _+39 more (grep the vault, or use Obsidian's Tag pane)_
-
-## color
-`#color/cool` (75) · `#color/warm` (59) · `#color/dark` (44) · `#color/light` (35) · `#color/monochrome` (35) · `#color/neutral` (11)
-
-## font
-`#font/inter` (19) · `#font/system-fonts` (16) · `#font/geist` (9) · `#font/dm-sans` (5) · `#font/geist-100-900` (5) · `#font/ibm-plex-mono` (5) · `#font/fragment-mono` (4) · `#font/geist-mono` (4) · `#font/geist-mono-variable-100-900` (4) · `#font/inter-100-900` (4) · `#font/geist-mono-100-900` (3) · `#font/geist-variable-100-900` (3) · `#font/instrument-serif` (3) · `#font/inter-display` (3) · `#font/inter-variable` (3) · `#font/inter-variable-100-900` (3) · `#font/jetbrains-mono` (3) · `#font/newsreader` (3) · `#font/satoshi` (3) · `#font/caveat` (2) · `#font/departuremono` (2) · `#font/dm-serif-display` (2) · `#font/geist-sans-100-900` (2) · `#font/geistsans-variable-100-900` (2) · `#font/google-sans` (2) · `#font/inter-100-900-variable` (2) · `#font/lato` (2) · `#font/libre-baskerville` (2) · `#font/mono` (2) · `#font/open-sans` (2) · `#font/outfit` (2) · `#font/playfair-display` (2) · `#font/poppins` (2) · `#font/roboto-mono` (2) · `#font/spectral-400-loaded-inter-sf-pro-display-declared-via-system-stack` (2)
+## mode
+`#mode/light` (107) · `#mode/dark` (43) · `#mode/mixed` (5)

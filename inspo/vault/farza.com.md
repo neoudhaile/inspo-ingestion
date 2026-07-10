@@ -2,31 +2,24 @@
 url: https://farza.com/
 domain: farza.com
 title: "farza"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [minimal]
+topics: [startups, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/minimal
-  - pattern/framer-site
-  - pattern/personal-bio
-  - pattern/text-first
-  - pattern/minimalist
-  - pattern/single-screen
-  - pattern/lowercase-voice
-  - pattern/inline-link-dense
-  - pattern/newsletter-capture
-  - pattern/anti-landing-page
-  - tech/framer
-  - tech/google-fonts-inter
-  - color/monochrome
-  - color/warm
-  - color/cool
-  - font/inter
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/startups
+  - topic/ai
+  - mode/light
 ---
 # farza
 > hi im farza majeed.  ·  [farza.com](https://farza.com/)
 
 ![farza.com](../../screenshots/farzacom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/startups #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 The deliberately plain personal site of Farza Majeed — maker, ex-founder of buildspace, and the person behind the consumer AI app 'Clicky' that the bookmarked tweet promotes. The page itself is just his bio; it is the author's portfolio landing, not a product page for Clicky (Clicky isn't linked here).
@@ -46,6 +39,7 @@ Radically minimal and personal — the anti-landing-page. A plain white ground (
 - **Fonts:** All Inter (weights 400/500/600/700 loaded; an Inter Display cut is declared) — no decorative or display webfont; the personality comes from the lowercase copy, not the type.
 - **Fonts loaded:** Inter 400, Inter 500, Inter 600, Inter 700
 - **Tech stack:** Framer, Google Fonts (Inter)
+- **Keywords:** framer-site, personal-bio, text-first, minimalist, single-screen, lowercase-voice, inline-link-dense, newsletter-capture, anti-landing-page
 - **Media mix:** img 1 · iframe 1
 - **Page height:** 2699px (single-screen: False)
 - **Responsive:** At 390px the layout is already a single centered column, so it just reflows taller — the h1 scales from 50px to 30px and height grows 2699px → 3349px.
@@ -54,7 +48,9 @@ Radically minimal and personal — the anti-landing-page. A plain white ground (
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[willmanidis.com]] [[axiaisacat.indiehacker.bio]] [[daryl.cv]] [[daviskeene.com]] [[nicolasbustamante.com]] [[noahzender.com]]
-
-## Tags
-#category/personal #aesthetic/minimal #pattern/framer-site #pattern/personal-bio #pattern/text-first #pattern/minimalist #pattern/single-screen #pattern/lowercase-voice #pattern/inline-link-dense #pattern/newsletter-capture #pattern/anti-landing-page #tech/framer #tech/google-fonts-inter #color/monochrome #color/warm #color/cool #font/inter
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups, ai, light
+- [[alisawuffles.github.io]] — shared: portfolio, minimal, ai, light
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, ai, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups, light
+- [[julian.ai]] — shared: portfolio, minimal, startups, light
+- [[ryancarson.com]] — shared: portfolio, minimal, startups, light

@@ -2,31 +2,25 @@
 url: https://spyrosigma.in
 domain: spyrosigma.in
 title: "Satyam Namdev | AI Engineer"
-category: product
+vertical: portfolio
+mode: light
+vibe: [technical, minimal]
+topics: [ai, engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/product
-  - aesthetic/portfolio
-  - aesthetic/developer-product
-  - pattern/portfolio
-  - pattern/monospace
-  - pattern/warm-paper
-  - pattern/single-page
-  - pattern/anchor-nav
-  - pattern/terracotta-accent
-  - pattern/svg-only
-  - pattern/engineer-resume
-  - pattern/css-custom-properties
-  - tech/self-hosted-js-css
-  - tech/css-custom-properties
-  - tech/no-framework-global-exposed
-  - color/warm
-  - font/geistmono-100-900
+  - vertical/portfolio
+  - vibe/technical
+  - vibe/minimal
+  - topic/ai
+  - topic/engineering
+  - mode/light
 ---
 # Satyam Namdev | AI Engineer
 > Backend AI Engineer @ezAIx — building production AI systems, RAG pipelines, and multi-agent orchestration.  ·  [spyrosigma.in](https://spyrosigma.in)
 
 ![spyrosigma.in](../../screenshots/spyrosigmain.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/technical #vibe/minimal  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The personal portfolio of Satyam Namdev (handle 'spyrosigma'), the builder behind Zendex. The meta pitch is 'Backend AI Engineer @ezAIx — building production AI systems, RAG pipelines, and multi-agent orchestration.' It's a single-page résumé/portfolio leading with his name as the h1.
@@ -46,6 +40,7 @@ A deliberate monospace 'engineer's notebook' aesthetic: a warm cream ground (--b
 - **Fonts:** GeistMono only (monospace), used for all text; no sans or serif loaded.
 - **Fonts loaded:** GeistMono 100-900
 - **Tech stack:** self-hosted JS/CSS, CSS custom properties, no framework global exposed
+- **Keywords:** portfolio, monospace, warm-paper, single-page, anchor-nav, terracotta-accent, svg-only, engineer-resume, css-custom-properties
 - **Media mix:** svg 37
 - **Page height:** 2866px (single-screen: False)
 - **Responsive:** At 390x844 the page stays a single stacked column (the anchor nav and x.com link remain visible); content reflows taller from ~2866px to ~4336px with the 30px h1 unchanged.
@@ -54,7 +49,9 @@ A deliberate monospace 'engineer's notebook' aesthetic: a warm cream ground (--b
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true (redirects to www.spyrosigma.in)
 
 ## Related sites
-[[lab01.dev]] [[nyk.dev]] [[objectives.md]] [[siddz.com]] [[addyosmani.com]] [[akira.sachi.dev]]
-
-## Tags
-#category/product #aesthetic/portfolio #aesthetic/developer-product #pattern/portfolio #pattern/monospace #pattern/warm-paper #pattern/single-page #pattern/anchor-nav #pattern/terracotta-accent #pattern/svg-only #pattern/engineer-resume #pattern/css-custom-properties #tech/self-hosted-js-css #tech/css-custom-properties #tech/no-framework-global-exposed #color/warm #font/geistmono-100-900
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, ai, engineering, light
+- [[siddz.com]] — shared: portfolio, technical, minimal, engineering, light
+- [[addyosmani.com]] — shared: portfolio, minimal, ai, engineering
+- [[khairallah.xyz]] — shared: portfolio, technical, minimal, engineering
+- [[lab01.dev]] — shared: portfolio, technical, minimal, engineering
+- [[nyk.dev]] — shared: portfolio, technical, ai, engineering

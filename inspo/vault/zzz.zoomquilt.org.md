@@ -2,30 +2,24 @@
 url: https://zzz.zoomquilt.org/
 domain: zzz.zoomquilt.org
 title: "The Zoomquilt — the infinitely zooming painting"
-category: uncategorized
+vertical: experiment-art
+mode: dark
+vibe: [experimental, retro]
+topics: [art]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/experimental
-  - pattern/infinite-zoom
-  - pattern/canvas
-  - pattern/generative-art
-  - pattern/collaborative
-  - pattern/surreal-painting
-  - pattern/classic-web
-  - pattern/2004
-  - tech/jquery
-  - tech/html5-canvas-2d
-  - tech/google-adsense
-  - tech/cloudflare
-  - color/warm
-  - font/google-sans-400-ad-frame
-  - font/google-sans-700-ad-frame
+  - vertical/experiment-art
+  - vibe/experimental
+  - vibe/retro
+  - topic/art
+  - mode/dark
 ---
 # The Zoomquilt — the infinitely zooming painting
 > A collaborative infinitely zooming painting.  ·  [zzz.zoomquilt.org](https://zzz.zoomquilt.org/)
 
 ![zzz.zoomquilt.org](../../screenshots/zzzzoomquiltorg.png)
+
+**Vertical:** #vertical/experiment-art  ·  **Vibe:** #vibe/experimental #vibe/retro  ·  **Topics:** #topic/art  ·  **Mode:** #mode/dark
 
 ## What it is
 The Zoomquilt — 'a collaborative infinitely zooming painting,' created in 2004 by Nikolaus Baumgarten with a collective of artists. It's the 'infinite zoom painting' from Jonas's list and one of the oldest icons of the creative web.
@@ -45,6 +39,7 @@ Pure content-forward — the painting is the design. Chrome is minimal: from get
 - **Fonts:** Open Sans for the 'About' heading (40px) and a Helvetica/Arial system stack for body text; Google Sans is present only via the ad frame.
 - **Fonts loaded:** Google Sans 400 (ad frame), Google Sans 700 (ad frame)
 - **Tech stack:** jQuery, HTML5 Canvas (2D), Google AdSense, Cloudflare
+- **Keywords:** infinite-zoom, canvas, generative-art, collaborative, surreal-painting, classic-web, 2004
 - **Media mix:** img 8 · canvas 1 · svg 2 · iframe 3
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the <canvas> scales fluidly to the viewport width and stays a full-screen zoom; the 'Up and down keys' hint gives way to touch/scroll.
@@ -52,7 +47,9 @@ Pure content-forward — the painting is the design. Chrome is minimal: from get
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[killedbyopenai.com]] [[spacetypegenerator.com]] [[spencer.place]] [[typatone.com]]
-
-## Tags
-#category/uncategorized #aesthetic/experimental #pattern/infinite-zoom #pattern/canvas #pattern/generative-art #pattern/collaborative #pattern/surreal-painting #pattern/classic-web #pattern/2004 #tech/jquery #tech/html5-canvas-2d #tech/google-adsense #tech/cloudflare #color/warm #font/google-sans-400-ad-frame #font/google-sans-700-ad-frame
+- [[iacopoapps.appspot.com]] — shared: experiment-art, experimental, art, dark
+- [[ytch.tv]] — shared: experiment-art, retro, dark
+- [[backgrounds.supply]] — shared: experimental, art, dark
+- [[bird.onethreenine.net]] — shared: experiment-art, art
+- [[mrdoob.com]] — shared: experimental, art, dark
+- [[poolsuite.net]] — shared: experiment-art, retro

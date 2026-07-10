@@ -2,36 +2,24 @@
 url: https://akira.sachi.dev/
 domain: akira.sachi.dev
 title: "Akira | Modern Next.js Starter"
-category: uncategorized
+vertical: tool-app
+mode: light
+vibe: [technical, minimal]
+topics: [engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - aesthetic/playful
-  - aesthetic/light
-  - pattern/developer-tool
-  - pattern/boilerplate
-  - pattern/blueprint
-  - pattern/single-screen
-  - pattern/monospace
-  - pattern/pixel-type
-  - pattern/shadcn
-  - pattern/light-mode
-  - tech/next-js-geist-stack-shadcn-tokens-no-framework-global-exposed
-  - tech/shadcn-ui
-  - tech/motion
-  - tech/no-analytics-detected
-  - color/light
-  - color/monochrome
-  - color/cool
-  - font/geist-variable-100-900
-  - font/geist-mono-variable-100-900
-  - font/geistpixelsquare
+  - vertical/tool-app
+  - vibe/technical
+  - vibe/minimal
+  - topic/engineering
+  - mode/light
 ---
 # Akira | Modern Next.js Starter
 > A modern starter with Next.js, Tailwind, ShadCN/ui, Motion, Drizzle, Postgres, Auth, Dodo Payments, and Resend.  ·  [akira.sachi.dev](https://akira.sachi.dev/)
 
 ![akira.sachi.dev](../../screenshots/akirasachidev.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/technical #vibe/minimal  ·  **Topics:** #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The landing page for Akira, a modern open-source Next.js starter kit by Sachi Goyal (h1: 'Akira'; github.com/sachigoyal/akira) — 'A modern starter with Next.js, Tailwind, ShadCN/ui, Motion, Drizzle, Postgres, Auth, Dodo Payments, Resend.' One of the sites in Devster's inspo dump.
@@ -51,6 +39,7 @@ Technical, mono, near-monochrome: a white ground (--background #fff) with near-b
 - **Fonts:** GeistPixelSquare (pixel display headline) + Geist Mono (labels/code) + Geist Sans (body) — Geist and Geist Mono variable plus GeistPixelSquare 500 actually load.
 - **Fonts loaded:** Geist (variable 100-900), Geist Mono (variable 100-900), GeistPixelSquare 500
 - **Tech stack:** Next.js (Geist stack + shadcn tokens; no framework global exposed), shadcn/ui, Motion, no analytics detected
+- **Keywords:** developer-tool, boilerplate, blueprint, single-screen, monospace, pixel-type, shadcn, light-mode
 - **Media mix:** svg 33
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the two-column blueprint collapses to a single column and the wordmark drops from 60px to 36px while the page stays roughly single-screen (scrollHeight ~844px).
@@ -59,7 +48,9 @@ Technical, mono, near-monochrome: a white ground (--background #fff) with near-b
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
-[[sensory-ui.com]] [[itshover.com]] [[patterncraft.fun]] [[gatheros.co]] [[killedbyopenai.com]] [[siddz.com]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #aesthetic/playful #aesthetic/light #pattern/developer-tool #pattern/boilerplate #pattern/blueprint #pattern/single-screen #pattern/monospace #pattern/pixel-type #pattern/shadcn #pattern/light-mode #tech/next-js-geist-stack-shadcn-tokens-no-framework-global-exposed #tech/shadcn-ui #tech/motion #tech/no-analytics-detected #color/light #color/monochrome #color/cool #font/geist-variable-100-900 #font/geist-mono-variable-100-900 #font/geistpixelsquare
+- [[itshover.com]] — shared: tool-app, technical, minimal, engineering, light
+- [[colf.dev]] — shared: tool-app, technical, engineering, light
+- [[patterncraft.fun]] — shared: tool-app, minimal, engineering, light
+- [[sensory-ui.com]] — shared: tool-app, minimal, engineering, light
+- [[designengineer.tools]] — shared: technical, minimal, engineering, light
+- [[ditther.com]] — shared: tool-app, technical, minimal

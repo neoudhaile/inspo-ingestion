@@ -2,31 +2,24 @@
 url: https://daviskeene.com/
 domain: daviskeene.com
 title: "Home | Davis Keene"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [minimal, editorial]
+topics: [engineering]
 extracted_at: 2026-06-04
 tags:
-  - category/personal
-  - aesthetic/minimal
-  - aesthetic/editorial
-  - aesthetic/dark
-  - aesthetic/portfolio
-  - pattern/minimalist
-  - pattern/editorial
-  - pattern/single-column
-  - pattern/centered
-  - pattern/text-first
-  - pattern/dark-mode-toggle
-  - pattern/monogram-logo
-  - pattern/glitch-portrait
-  - pattern/personal-homepage
-  - pattern/monochrome
-  - color/dark
-  - color/monochrome
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/editorial
+  - topic/engineering
+  - mode/light
 ---
 # Home | Davis Keene
 > Davis Keene's personal website — engineer, software developer, creator  ·  [daviskeene.com](https://daviskeene.com/)
 
 ![daviskeene.com](../../screenshots/daviskeene.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The personal homepage of Davis Keene, an engineer at Handshake. A deliberately minimal, text-first 'about me' page that he's been incrementally making 'more fun' with small interactive flourishes (the subject of his 'making my personal site more fun' posts).
@@ -43,10 +36,13 @@ Restrained editorial minimalism: generous whitespace, a single centered measure 
 ## Design data
 - **Palette:** Off-white ground (#fafafa), near-black text (#000) with grey secondary (#666) — essentially monochrome, plus a dark-mode variant via the toggle.
 - **Fonts:** Libre Franklin (body + UI), serif fallback
+- **Keywords:** minimalist, editorial, single-column, centered, text-first, dark-mode-toggle, monogram-logo, glitch-portrait, personal-homepage, monochrome
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[nicolasbustamante.com]] [[asekachov.com]] [[designengineer.tools]] [[arneshbanerjee.github.io]] [[axiaisacat.indiehacker.bio]] [[christophlocher.com]]
-
-## Tags
-#category/personal #aesthetic/minimal #aesthetic/editorial #aesthetic/dark #aesthetic/portfolio #pattern/minimalist #pattern/editorial #pattern/single-column #pattern/centered #pattern/text-first #pattern/dark-mode-toggle #pattern/monogram-logo #pattern/glitch-portrait #pattern/personal-homepage #pattern/monochrome #color/dark #color/monochrome
+- [[addyosmani.com]] — shared: portfolio, minimal, editorial, engineering
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
+- [[asekachov.com]] — shared: portfolio, minimal, editorial, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
+- [[christophlocher.com]] — shared: portfolio, minimal, editorial, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, engineering, light

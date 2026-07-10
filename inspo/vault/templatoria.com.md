@@ -2,35 +2,23 @@
 url: https://templatoria.com/
 domain: templatoria.com
 title: "Templatoria — Handcrafted Framer Templates Ready to Launch"
-category: design
+vertical: ecommerce
+mode: light
+vibe: [minimal]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/minimal
-  - aesthetic/light
-  - pattern/framer-template
-  - pattern/marketplace
-  - pattern/minimalist
-  - pattern/monochrome
-  - pattern/product-cards
-  - pattern/pricing-tiers
-  - pattern/light-grey
-  - pattern/inter
-  - pattern/mono-labels
-  - tech/framer
-  - tech/datafast-analytics
-  - tech/google-tag-manager
-  - tech/unpkg-css
-  - color/light
-  - color/monochrome
-  - font/inter
-  - font/inter-display
-  - font/aspekta-variable
+  - vertical/ecommerce
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Templatoria — Handcrafted Framer Templates Ready to Launch
 > Handcrafted, launch-ready Framer templates designed for fast setup, easy customization, and real-world websites.  ·  [templatoria.com](https://templatoria.com/)
 
 ![templatoria.com](../../screenshots/templatoriacom.png)
+
+**Vertical:** #vertical/ecommerce  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A Framer-template marketplace whose h1 pitch is simply 'Handcrafted, launch-ready Framer templates' and whose meta description reads 'Handcrafted, launch-ready Framer templates designed for fast setup, easy customization, and real-world websites.' It sells a curated set of ~9 templates; the Möbius® template the tweet's author (Anton Drukarov) is promoting is one of them.
@@ -50,6 +38,7 @@ Deliberately near-monochrome so the colourful template thumbnails pop. getComput
 - **Fonts:** Inter + Inter Display (loaded 400/700) for UI and display, Aspekta Variable (loaded) as a display face; Fragment Mono declared for mono labels but reporting unloaded on the homepage.
 - **Fonts loaded:** Inter 400, Inter 700, Inter Display 700, Aspekta Variable 400, Aspekta Variable 1000
 - **Tech stack:** Framer, Datafast Analytics, Google Tag Manager, unpkg (CSS)
+- **Keywords:** framer-template, marketplace, minimalist, monochrome, product-cards, pricing-tiers, light-grey, inter, mono-labels
 - **Media mix:** img 8 · svg 71 · iframe 1
 - **Page height:** 11033px (single-screen: False)
 - **Responsive:** At 390x844 the desktop nav collapses and the multi-column template/pricing grid reflows to a single stacked column (scrollHeight 11,033 -> 12,544px).
@@ -58,7 +47,9 @@ Deliberately near-monochrome so the colourful template thumbnails pop. getComput
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true. A scroll-triggered newsletter popup was hidden via the DOM before the full-page capture.
 
 ## Related sites
-[[asekachov.com]] [[daviskeene.com]] [[designengineer.tools]] [[drafts9.com]] [[hiivearts.com]] [[humanoid-index.com]]
-
-## Tags
-#category/design #aesthetic/minimal #aesthetic/light #pattern/framer-template #pattern/marketplace #pattern/minimalist #pattern/monochrome #pattern/product-cards #pattern/pricing-tiers #pattern/light-grey #pattern/inter #pattern/mono-labels #tech/framer #tech/datafast-analytics #tech/google-tag-manager #tech/unpkg-css #color/light #color/monochrome #font/inter #font/inter-display #font/aspekta-variable
+- [[nucleoapp.com]] — shared: ecommerce, minimal, design, light
+- [[backgrounds.supply]] — shared: ecommerce, minimal, design
+- [[weirdfolders.com]] — shared: ecommerce, minimal, design
+- [[12matcha.com]] — shared: ecommerce, minimal, light
+- [[21st.dev]] — shared: minimal, design, light
+- [[animations.dev]] — shared: minimal, design, light

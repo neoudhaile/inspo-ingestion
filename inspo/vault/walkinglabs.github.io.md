@@ -2,33 +2,26 @@
 url: https://walkinglabs.github.io/learn-harness-engineering/en/
 domain: walkinglabs.github.io
 title: "Welcome to Learn Harness Engineering"
-category: tutorial
+vertical: docs-resource
+mode: light
+vibe: [editorial, organic-warm]
+topics: [engineering, ai, education]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - pattern/docs-site
-  - pattern/sidebar-nav
-  - pattern/on-this-page-toc
-  - pattern/editorial-serif
-  - pattern/warm-paper
-  - pattern/course-syllabus
-  - pattern/feature-cards
-  - pattern/explanatory-diagram
-  - pattern/static-ssg
-  - pattern/text-first
-  - tech/vitepress-1-6-4-vue-ssg
-  - tech/github-pages
-  - tech/self-hosted-fonts
-  - color/warm
-  - font/inter
-  - font/newsreader
+  - vertical/docs-resource
+  - vibe/editorial
+  - vibe/organic-warm
+  - topic/engineering
+  - topic/ai
+  - topic/education
+  - mode/light
 ---
 # Welcome to Learn Harness Engineering
 > A project-based course on designing the environments, state, verification, and control systems that make Codex and Claude Code reliable.  ·  [walkinglabs.github.io](https://walkinglabs.github.io/learn-harness-engineering/en/)
 
 ![walkinglabs.github.io](../../screenshots/walkinglabsgithubio.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/editorial #vibe/organic-warm  ·  **Topics:** #topic/engineering #topic/ai #topic/education  ·  **Mode:** #mode/light
 
 ## What it is
 A free, project-based online course on “harness engineering” — the discipline of building the environments, state, verification and control loops that make coding agents like Codex and Claude Code reliable. The h1 reads “Welcome to Learn Harness Engineering,” and the meta pitch frames it as a course “on designing the environments, state, verification, and control systems that make Codex and Claude Code reliable.” It's published as a docs site on GitHub Pages by walkinglabs.
@@ -48,6 +41,7 @@ A calm, editorial docs aesthetic on a warm ‘paper’ ground (rendered body bg 
 - **Fonts:** Newsreader serif for headings (56px), Inter for body/UI, JetBrains Mono for code (declared); all self-hosted, no third-party font CDN.
 - **Fonts loaded:** Inter 400, Inter 500, Inter 600, Inter 700, Newsreader 400, Newsreader 500, Newsreader 600
 - **Tech stack:** VitePress 1.6.4 (Vue SSG), GitHub Pages, self-hosted fonts
+- **Keywords:** docs-site, sidebar-nav, on-this-page-toc, editorial-serif, warm-paper, course-syllabus, feature-cards, explanatory-diagram, static-ssg, text-first
 - **Media mix:** img 1 · svg 1
 - **Page height:** 2958px (single-screen: False)
 - **Responsive:** At 390x844 the left sidebar slides off-canvas (negative translateX) behind a hamburger toggle and the content reflows to a single full-width column (scrollHeight grows ~2958→3780).
@@ -56,7 +50,9 @@ A calm, editorial docs aesthetic on a warm ‘paper’ ground (rendered body bg 
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[cofounder.co]] [[daviskeene.com]] [[emilkowal.ski]] [[farza.com]] [[jessyin.world]] [[nicolasbustamante.com]]
-
-## Tags
-#category/tutorial #aesthetic/editorial #aesthetic/minimal #pattern/docs-site #pattern/sidebar-nav #pattern/on-this-page-toc #pattern/editorial-serif #pattern/warm-paper #pattern/course-syllabus #pattern/feature-cards #pattern/explanatory-diagram #pattern/static-ssg #pattern/text-first #tech/vitepress-1-6-4-vue-ssg #tech/github-pages #tech/self-hosted-fonts #color/warm #font/inter #font/newsreader
+- [[heyneuma.com]] — shared: docs-resource, organic-warm, ai, education, light
+- [[printingpress.dev]] — shared: editorial, organic-warm, engineering, ai, light
+- [[animations.dev]] — shared: docs-resource, editorial, engineering, light
+- [[makingsoftware.com]] — shared: docs-resource, editorial, engineering, light
+- [[midu.dev]] — shared: docs-resource, engineering, education, light
+- [[21st.dev]] — shared: editorial, engineering, ai, light

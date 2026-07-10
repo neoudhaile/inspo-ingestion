@@ -2,32 +2,25 @@
 url: https://mapzilla.co.uk/
 domain: mapzilla.co.uk
 title: "mapzilla — the data-visualisation & cartography portfolio of Craig Taylor"
-category: design
+vertical: portfolio
+mode: light
+vibe: [minimal, experimental]
+topics: [art, design]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/experimental
-  - pattern/portfolio
-  - pattern/data-viz
-  - pattern/cartography
-  - pattern/3d
-  - pattern/squarespace
-  - pattern/gallery-grid
-  - pattern/white
-  - pattern/poppins
-  - pattern/maximalist-imagery
-  - pattern/generative
-  - tech/squarespace
-  - tech/adobe-typekit
-  - tech/google-fonts
-  - color/neutral
-  - font/poppins
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/experimental
+  - topic/art
+  - topic/design
+  - mode/light
 ---
 # mapzilla — the data-visualisation & cartography portfolio of Craig Taylor
 > 3D maps, terrain and movement data rendered as art (derived; the page ships no meta description).  ·  [mapzilla.co.uk](https://mapzilla.co.uk/)
 
 ![mapzilla.co.uk](../../screenshots/mapzillacouk.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/experimental  ·  **Topics:** #topic/art #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The portfolio of Craig Taylor ('mapzilla'), a Squarespace site with page title simply 'mapzilla' and no meta description or on-page h1/h2 — the page is a project index. The Mapbox + three.js terrain-occlusion demo in the tweet is his recent work; this site collects the broader body of it.
@@ -47,6 +40,7 @@ A minimal white frame around maximalist imagery. The Squarespace theme sets --si
 - **Fonts:** Poppins (loaded 300/500) for UI and nav; ITC Avant Garde Gothic Pro declared via Adobe Typekit but unloaded on the index; plus Squarespace's UI and social-icon fonts.
 - **Fonts loaded:** Poppins 300, Poppins 500
 - **Tech stack:** Squarespace, Adobe Typekit, Google Fonts
+- **Keywords:** portfolio, data-viz, cartography, 3d, squarespace, gallery-grid, white, poppins, maximalist-imagery, generative
 - **Media mix:** img 45 · svg 15
 - **Page height:** 12320px (single-screen: False)
 - **Responsive:** At 390x844 Squarespace swaps in its mobile header (hamburger menu) and the two-column project grid reflows to a single column; overall height is essentially unchanged (12,320 -> 12,412px).
@@ -55,7 +49,9 @@ A minimal white frame around maximalist imagery. The Squarespace theme sets --si
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[ankit-rai.com]] [[jasonyuan.design]] [[addyosmani.com]] [[asekachov.com]] [[bird.onethreenine.net]] [[christophlocher.com]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/experimental #pattern/portfolio #pattern/data-viz #pattern/cartography #pattern/3d #pattern/squarespace #pattern/gallery-grid #pattern/white #pattern/poppins #pattern/maximalist-imagery #pattern/generative #tech/squarespace #tech/adobe-typekit #tech/google-fonts #color/neutral #font/poppins
+- [[gaspardhedde.fr]] — shared: portfolio, minimal, experimental, design, light
+- [[jasonyuan.design]] — shared: portfolio, minimal, experimental, design
+- [[asekachov.com]] — shared: portfolio, minimal, design, light
+- [[backgrounds.supply]] — shared: minimal, experimental, art, design
+- [[christophlocher.com]] — shared: portfolio, minimal, design, light
+- [[daryl.cv]] — shared: portfolio, minimal, design, light

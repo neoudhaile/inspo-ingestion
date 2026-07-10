@@ -2,28 +2,23 @@
 url: https://www.ryancarson.com/
 domain: ryancarson.com
 title: "Ryan Carson, Founder with 20 years of experience building companies."
-category: reading
+vertical: portfolio
+mode: light
+vibe: [minimal]
+topics: [startups]
 extracted_at: 2026-06-06
 tags:
-  - category/reading
-  - aesthetic/minimal
-  - aesthetic/portfolio
-  - aesthetic/editorial
-  - pattern/minimalist
-  - pattern/personal
-  - pattern/portfolio
-  - pattern/editorial
-  - pattern/system-fonts
-  - pattern/tailwind
-  - tech/tailwind-css
-  - tech/google-tag-manager
-  - color/monochrome
-  - font/system-fonts
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/startups
+  - mode/light
 ---
 # Ryan Carson, Founder with 20 years of experience building companies.
 > Founder, CEO and Developer with 25 years experience building developer communities and startups.  ·  [ryancarson.com](https://www.ryancarson.com/)
 
 ![ryancarson.com](../../screenshots/ryancarsoncom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site of serial founder Ryan Carson (DropSend, Carsonified, Treehouse). The hero <h1> reads 'Founder, CEO and Developer with 25 years experience building developer communities and startups.'
@@ -43,6 +38,7 @@ Minimal editorial layout on an off-white rgb(250,250,250) canvas with black body
 - **Fonts:** System fonts only (ui-sans-serif / system-ui) — no webfont payload
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Tailwind CSS, Google Tag Manager
+- **Keywords:** minimalist, personal, portfolio, editorial, system-fonts, tailwind
 - **Media mix:** img 9 · svg 12
 - **Page height:** 2789px (single-screen: False)
 - **Responsive:** At 390×844 the layout collapses to a single column and the page grows from ~2,790px to ~3,755px; nav remains.
@@ -51,7 +47,9 @@ Minimal editorial layout on an off-white rgb(250,250,250) canvas with black body
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[christophlocher.com]] [[addyosmani.com]] [[ashpreetbedi.com]] [[daryl.cv]] [[daviskeene.com]]
-
-## Tags
-#category/reading #aesthetic/minimal #aesthetic/portfolio #aesthetic/editorial #pattern/minimalist #pattern/personal #pattern/portfolio #pattern/editorial #pattern/system-fonts #pattern/tailwind #tech/tailwind-css #tech/google-tag-manager #color/monochrome #font/system-fonts
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups, light
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
+- [[farza.com]] — shared: portfolio, minimal, startups, light
+- [[julian.ai]] — shared: portfolio, minimal, startups, light
+- [[shanemac.com]] — shared: portfolio, minimal, startups, light
+- [[willmanidis.com]] — shared: portfolio, minimal, startups, light

@@ -2,31 +2,25 @@
 url: https://debarghyadas.com/
 domain: debarghyadas.com
 title: "Deedy Das"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [minimal]
+topics: [startups, finance, ai]
 extracted_at: 2026-06-05
 tags:
-  - category/personal
-  - aesthetic/portfolio
-  - pattern/personal-hub
-  - pattern/resume-site
-  - pattern/card-grid
-  - pattern/section-index
-  - pattern/system-fonts
-  - pattern/link-rich
-  - pattern/portfolio
-  - pattern/static-page
-  - pattern/information-dense
-  - tech/react
-  - tech/google-analytics
-  - tech/self-hosted
-  - color/neutral
-  - font/sf-pro-text
-  - font/fontawesome
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/startups
+  - topic/finance
+  - topic/ai
+  - mode/light
 ---
 # Deedy Das
 > Investing in AI, SaaS and Infra at Menlo Ventures in San Francisco. Formerly, founding team at Glean, tech lead at Google Search. Writes online frequently.  ·  [debarghyadas.com](https://debarghyadas.com/)
 
 ![debarghyadas.com](../../screenshots/debarghyadascom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/startups #topic/finance #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 A dense single-page personal hub for Deedy Das — the author of the bookmarked SF AI-wealth essay — a partner at Menlo Ventures (ex founding-team Glean, ex Google Search). It's a link-rich index of everything he does rather than a marketing landing page; the only h1 on the page is just his name, “Deedy Das.”
@@ -46,6 +40,7 @@ A clean, system-native look: Apple's SF Pro Text is the only loaded webface (wei
 - **Fonts:** SF Pro Text (400/500) for body and headings; FontAwesome for icons — no display/serif webfont.
 - **Fonts loaded:** SF Pro Text 400, SF Pro Text 500, FontAwesome
 - **Tech stack:** React, Google Analytics, self-hosted
+- **Keywords:** personal-hub, resume-site, card-grid, section-index, system-fonts, link-rich, portfolio, static-page, information-dense
 - **Media mix:** img 31 · svg 37
 - **Page height:** 2860px (single-screen: False)
 - **Responsive:** At 390x844 the section card grids collapse to a single column (page grows ~2860→ 4385px); the header and bio stay stacked and centered and 14px body text is unchanged.
@@ -54,7 +49,9 @@ A clean, system-native look: Apple's SF Pro Text is the only loaded webface (wei
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[addyosmani.com]] [[kmk0.com]] [[ryancarson.com]] [[ankit-rai.com]] [[asekachov.com]] [[bird.onethreenine.net]]
-
-## Tags
-#category/personal #aesthetic/portfolio #pattern/personal-hub #pattern/resume-site #pattern/card-grid #pattern/section-index #pattern/system-fonts #pattern/link-rich #pattern/portfolio #pattern/static-page #pattern/information-dense #tech/react #tech/google-analytics #tech/self-hosted #color/neutral #font/sf-pro-text #font/fontawesome
+- [[farza.com]] — shared: portfolio, minimal, startups, ai, light
+- [[alisawuffles.github.io]] — shared: portfolio, minimal, ai, light
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, ai, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups, light
+- [[julian.ai]] — shared: portfolio, minimal, startups, light
+- [[ryancarson.com]] — shared: portfolio, minimal, startups, light

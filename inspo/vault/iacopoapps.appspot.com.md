@@ -2,35 +2,24 @@
 url: https://iacopoapps.appspot.com/hopalongwebgl/
 domain: iacopoapps.appspot.com
 title: "Barry Martin's Hopalong Orbits Visualizer - WebGL Experiment"
-category: favorites
+vertical: experiment-art
+mode: dark
+vibe: [experimental, technical]
+topics: [art]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/experimental
-  - aesthetic/dark
-  - pattern/webgl
-  - pattern/threejs
-  - pattern/strange-attractor
-  - pattern/particle-system
-  - pattern/generative
-  - pattern/real-time-3d
-  - pattern/fly-through
-  - pattern/dark-mode
-  - pattern/demoscene
-  - pattern/mesmerizing
-  - tech/three-js-window-three-webgl-point-cloud
-  - tech/google-analytics-google-tag-manager
-  - tech/facebook-connect-social-widget
-  - tech/twitter-platform-widget
-  - tech/hosted-on-google-app-engine-appspot-com
-  - color/dark
-  - color/cool
-  - font/system-fonts
+  - vertical/experiment-art
+  - vibe/experimental
+  - vibe/technical
+  - topic/art
+  - mode/dark
 ---
 # Barry Martin's Hopalong Orbits Visualizer - WebGL Experiment
 > A real-time, fly-through WebGL visualizer of Barry Martin's Hopalong strange attractor, rendered as a glowing galaxy of particles at 120fps.  ·  [iacopoapps.appspot.com](https://iacopoapps.appspot.com/hopalongwebgl/)
 
 ![iacopoapps.appspot.com](../../screenshots/iacopoappsappspotcom.png)
+
+**Vertical:** #vertical/experiment-art  ·  **Vibe:** #vibe/experimental #vibe/technical  ·  **Topics:** #topic/art  ·  **Mode:** #mode/dark
 
 ## What it is
 A single-purpose WebGL art toy by Iacopo Sassarini that plots Barry Martin's "Hopalong" iterated-map strange attractor as a live 3D particle field you fly through. Built with Three.js, it runs full-screen at a steady 120 FPS.
@@ -50,6 +39,7 @@ Classic dark-mode demoscene aesthetic: pure black background, 13px monospace HUD
 - **Fonts:** System monospace only (13px) — no webfont payload loaded (document.fonts empty)
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Three.js (window.THREE — WebGL point cloud), Google Analytics + Google Tag Manager, Facebook connect (social widget), Twitter platform widget, hosted on Google App Engine (appspot.com)
+- **Keywords:** webgl, threejs, strange-attractor, particle-system, generative, real-time-3d, fly-through, dark-mode, demoscene, mesmerizing
 - **Media mix:** canvas 4 · iframe 4
 - **Page height:** 903px (single-screen: True)
 - **Responsive:** At 390x844 the WebGL canvas reflows to the 390px viewport width with no horizontal overflow and the monospace HUD/legend stays in place — fully fluid, no distinct mobile layout.
@@ -57,7 +47,9 @@ Classic dark-mode demoscene aesthetic: pure black background, 13px monospace HUD
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[mrdoob.com]] [[backgrounds.supply]] [[badmarketing.com]] [[bird.onethreenine.net]] [[davekrugman.com]] [[daytona.io]]
-
-## Tags
-#category/favorites #aesthetic/experimental #aesthetic/dark #pattern/webgl #pattern/threejs #pattern/strange-attractor #pattern/particle-system #pattern/generative #pattern/real-time-3d #pattern/fly-through #pattern/dark-mode #pattern/demoscene #pattern/mesmerizing #tech/three-js-window-three-webgl-point-cloud #tech/google-analytics-google-tag-manager #tech/facebook-connect-social-widget #tech/twitter-platform-widget #tech/hosted-on-google-app-engine-appspot-com #color/dark #color/cool #font/system-fonts
+- [[zzz.zoomquilt.org]] — shared: experiment-art, experimental, art, dark
+- [[backgrounds.supply]] — shared: experimental, art, dark
+- [[bird.onethreenine.net]] — shared: experiment-art, art
+- [[crustdata.com]] — shared: experimental, technical, dark
+- [[davekrugman.com]] — shared: technical, art, dark
+- [[ditther.com]] — shared: technical, art, dark

@@ -2,35 +2,25 @@
 url: https://nicolasbustamante.com/
 domain: nicolasbustamante.com
 title: "Nicolas Bustamante — AI Entrepreneur"
-category: personal
+vertical: personal-blog
+mode: light
+vibe: [minimal, technical]
+topics: [ai, startups]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/minimal
-  - aesthetic/portfolio
-  - aesthetic/dark
-  - pattern/minimalist
-  - pattern/text-first
-  - pattern/personal-homepage
-  - pattern/blog-index
-  - pattern/shadcn
-  - pattern/geist
-  - pattern/dark-mode-ready
-  - pattern/single-column
-  - pattern/monochrome
-  - tech/next-js-geist-font
-  - tech/shadcn-ui
-  - tech/self-hosted
-  - color/dark
-  - color/monochrome
-  - color/cool
-  - font/geist-100-900
-  - font/geist-mono-100-900
+  - vertical/personal-blog
+  - vibe/minimal
+  - vibe/technical
+  - topic/ai
+  - topic/startups
+  - mode/light
 ---
 # Nicolas Bustamante — AI Entrepreneur
 > AI Entrepreneur  ·  [nicolasbustamante.com](https://nicolasbustamante.com/)
 
 ![nicolasbustamante.com](../../screenshots/nicolasbustamantecom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/ai #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The minimal personal site and blog of Nicolas Bustamante, a serial founder (Doctrine; Fintool, acquired by Microsoft) who now writes prolifically about building AI agents.
@@ -50,6 +40,7 @@ Ultra-minimal developer-blog aesthetic built on the Geist typeface and a shadcn/
 - **Fonts:** Geist (body/UI) + Geist Mono
 - **Fonts loaded:** Geist 100-900, Geist Mono 100-900
 - **Tech stack:** Next.js (Geist font), shadcn/ui, self-hosted
+- **Keywords:** minimalist, text-first, personal-homepage, blog-index, shadcn, geist, dark-mode-ready, single-column, monochrome
 - **Media mix:** svg 2
 - **Page height:** 1198px (single-screen: False)
 - **Responsive:** Already a single narrow column; at 390px it simply reflows taller (~1,198 → ~1,475px) with no horizontal scroll.
@@ -58,7 +49,9 @@ Ultra-minimal developer-blog aesthetic built on the Geist typeface and a shadcn/
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+390x844 mobile), logged_out: true
 
 ## Related sites
-[[daviskeene.com]] [[designengineer.tools]] [[humanoid-index.com]] [[amanml.com]] [[arneshbanerjee.github.io]] [[asekachov.com]]
-
-## Tags
-#category/personal #aesthetic/minimal #aesthetic/portfolio #aesthetic/dark #pattern/minimalist #pattern/text-first #pattern/personal-homepage #pattern/blog-index #pattern/shadcn #pattern/geist #pattern/dark-mode-ready #pattern/single-column #pattern/monochrome #tech/next-js-geist-font #tech/shadcn-ui #tech/self-hosted #color/dark #color/monochrome #color/cool #font/geist-100-900 #font/geist-mono-100-900
+- [[amanml.com]] — shared: personal-blog, minimal, ai, light
+- [[emilkowal.ski]] — shared: personal-blog, minimal, ai, light
+- [[richzou.com]] — shared: personal-blog, minimal, startups, light
+- [[ashpreetbedi.com]] — shared: personal-blog, technical, ai
+- [[backdoorai.app]] — shared: minimal, ai, startups, light
+- [[debarghyadas.com]] — shared: minimal, ai, startups, light

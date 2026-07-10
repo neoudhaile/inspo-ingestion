@@ -2,38 +2,23 @@
 url: https://killedbyopenai.com/
 domain: killedbyopenai.com
 title: "Killed by OpenAI — a dot-matrix 'graveyard' tracking every OpenAI product, feature and API (alive / killed / zombie)"
-category: design
+vertical: directory-gallery
+mode: dark
+vibe: [technical]
+topics: [ai]
 extracted_at: 2026-07-05
 tags:
-  - category/design
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - aesthetic/experimental
-  - pattern/dark
-  - pattern/monospace
-  - pattern/terminal
-  - pattern/dot-matrix
-  - pattern/halftone
-  - pattern/canvas
-  - pattern/generative
-  - pattern/single-screen
-  - pattern/horizontal-carousel
-  - pattern/directory
-  - pattern/graveyard
-  - pattern/status-tokens
-  - pattern/system-font
-  - tech/next-js-app-router-inferred-from-opengraph-image-icon-svg-metadata-routes-no-framework-global-exposed
-  - tech/canvas-2d
-  - tech/self-hosted-no-third-party-analytics-cdn
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/system-fonts
+  - vertical/directory-gallery
+  - vibe/technical
+  - topic/ai
+  - mode/dark
 ---
 # Killed by OpenAI — a dot-matrix 'graveyard' tracking every OpenAI product, feature and API (alive / killed / zombie)
 > A graveyard tracking every OpenAI product, feature and API — alive, killed, or zombie (shipped but left to rot).  ·  [killedbyopenai.com](https://killedbyopenai.com/)
 
 ![killedbyopenai.com](../../screenshots/killedbyopenaicom.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/technical  ·  **Topics:** #topic/ai  ·  **Mode:** #mode/dark
 
 ## What it is
 'Killed by OpenAI' — a single-screen web toy/directory in the 'killedbyGoogle' tradition that, in its own words, is 'a graveyard tracking the lifecycle of every OpenAI product, feature and API — what is still alive, what has been killed or deprecated, and what has shipped but been left to rot (zombie).' It is the project Ben Hylak announced ('introducing killedbyopenai dot com … a digital graveyard for everything openai has killed'); the footer credits 'POWERED BY RAINDROP.AI', his AI-observability startup, whose careers page the tweet's actual t.co link points to.
@@ -53,6 +38,7 @@ A terminal/obituary aesthetic in monospace on near-black, with the palette decla
 - **Fonts:** System-only, no webfont payload — a monospace stack (ui-monospace / SF Mono / JetBrains Mono, via --mono) for headings and body, with system-ui (--sans) as fallback (document.fonts is empty).
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Next.js (App Router — inferred from /opengraph-image + /icon.svg metadata routes; no framework global exposed), Canvas 2D, self-hosted (no third-party analytics/CDN)
+- **Keywords:** dark, monospace, terminal, dot-matrix, halftone, canvas, generative, single-screen, horizontal-carousel, directory, graveyard, status-tokens, system-font
 - **Media mix:** canvas 1 · svg 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single vertical screen (scrollHeight 844) with the same horizontal-carousel layout; the 'KILLED BY' wordmark shrinks (26.4px → 16.8px) and the search field / filter chips compress to fit.
@@ -61,7 +47,9 @@ A terminal/obituary aesthetic in monospace on near-black, with the palette decla
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true
 
 ## Related sites
-[[akira.sachi.dev]] [[bird.onethreenine.net]] [[designtools.fyi]] [[lab01.dev]] [[nyk.dev]] [[objectives.md]]
-
-## Tags
-#category/design #aesthetic/dark #aesthetic/developer-product #aesthetic/experimental #pattern/dark #pattern/monospace #pattern/terminal #pattern/dot-matrix #pattern/halftone #pattern/canvas #pattern/generative #pattern/single-screen #pattern/horizontal-carousel #pattern/directory #pattern/graveyard #pattern/status-tokens #pattern/system-font #tech/next-js-app-router-inferred-from-opengraph-image-icon-svg-metadata-routes-no-framework-global-exposed #tech/canvas-2d #tech/self-hosted-no-third-party-analytics-cdn #color/dark #color/warm #color/cool #font/system-fonts
+- [[motionsites.ai]] — shared: directory-gallery, technical, ai, dark
+- [[sceneai.art]] — shared: directory-gallery, technical, ai, dark
+- [[21st.dev]] — shared: directory-gallery, ai
+- [[are.na]] — shared: directory-gallery, ai
+- [[ashpreetbedi.com]] — shared: technical, ai, dark
+- [[coolsites.ai]] — shared: directory-gallery, ai

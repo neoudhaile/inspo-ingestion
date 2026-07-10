@@ -2,32 +2,24 @@
 url: https://siddz.com/
 domain: siddz.com
 title: "Siddharth Meena | Full-Stack Developer"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [minimal, technical]
+topics: [engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/personal
-  - aesthetic/portfolio
-  - aesthetic/light
-  - aesthetic/developer-product
-  - aesthetic/minimal
-  - pattern/portfolio
-  - pattern/light-mode
-  - pattern/monospace
-  - pattern/single-page-scroll
-  - pattern/developer
-  - pattern/now-playing
-  - pattern/minimalist
-  - tech/self-hosted-build-geist-fonts-likely-next-js-no-framework-global-exposed
-  - tech/no-analytics-detected
-  - color/light
-  - color/monochrome
-  - font/jetbrains-mono
-  - font/geistsans-variable-100-900
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/technical
+  - topic/engineering
+  - mode/light
 ---
 # Siddharth Meena | Full-Stack Developer
 > Full-Stack Developer & Software Engineer based in India — React, Next.js, TypeScript, Node.js.  ·  [siddz.com](https://siddz.com/)
 
 ![siddz.com](../../screenshots/siddzcom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The personal portfolio of Siddharth Meena (@buildwithsid), a full-stack developer based in India (h1: 'Siddharth Meena'). The tweet introduces it as his updated site and 'my cleanest design yet.'
@@ -47,6 +39,7 @@ Light, monospace-forward developer aesthetic: a white ground (rgb(255,255,255)) 
 - **Fonts:** JetBrains Mono (body) + Geist Sans (headings), with Geist pixel-display variants; all self-hosted (Inter is present but unused).
 - **Fonts loaded:** JetBrains Mono 400, GeistSans (variable 100-900)
 - **Tech stack:** self-hosted build (Geist fonts → likely Next.js; no framework global exposed), no analytics detected
+- **Keywords:** portfolio, light-mode, monospace, single-page-scroll, developer, now-playing, minimalist
 - **Media mix:** img 52 · svg 33
 - **Page height:** 3002px (single-screen: False)
 - **Responsive:** At 390x844 the sections stack single-column and the h1 drops to 24px; scrollHeight grows to ~4,150px (no burger nav).
@@ -55,7 +48,9 @@ Light, monospace-forward developer aesthetic: a white ground (rgb(255,255,255)) 
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
-[[objectives.md]] [[joonasvirtanen.com]] [[akira.sachi.dev]] [[anyblockers.com]] [[asekachov.com]] [[christophlocher.com]]
-
-## Tags
-#category/personal #aesthetic/portfolio #aesthetic/light #aesthetic/developer-product #aesthetic/minimal #pattern/portfolio #pattern/light-mode #pattern/monospace #pattern/single-page-scroll #pattern/developer #pattern/now-playing #pattern/minimalist #tech/self-hosted-build-geist-fonts-likely-next-js-no-framework-global-exposed #tech/no-analytics-detected #color/light #color/monochrome #font/jetbrains-mono #font/geistsans-variable-100-900
+- [[spyrosigma.in]] — shared: portfolio, minimal, technical, engineering, light
+- [[khairallah.xyz]] — shared: portfolio, minimal, technical, engineering
+- [[lab01.dev]] — shared: portfolio, minimal, technical, engineering
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
+- [[daviskeene.com]] — shared: portfolio, minimal, engineering, light

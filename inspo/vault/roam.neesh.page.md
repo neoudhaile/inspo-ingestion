@@ -2,28 +2,24 @@
 url: https://roam.neesh.page/
 domain: roam.neesh.page
 title: "Roam"
-category: uncategorized
+vertical: directory-gallery
+mode: dark
+vibe: [minimal, experimental]
+topics: [design]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/experimental
-  - aesthetic/dark
-  - pattern/infinite-canvas
-  - pattern/draggable-canvas
-  - pattern/spatial-gallery
-  - pattern/dark-mode
-  - pattern/product-showcase
-  - pattern/hover-label
-  - pattern/curated-collection
-  - tech/next-js-app-router
-  - tech/seline-analytics
-  - color/dark
-  - font/gt-america
+  - vertical/directory-gallery
+  - vibe/minimal
+  - vibe/experimental
+  - topic/design
+  - mode/dark
 ---
 # Roam
 > An infinite canvas for browsing well-designed objects.  ·  [roam.neesh.page](https://roam.neesh.page/)
 
 ![roam.neesh.page](../../screenshots/roamneeshpage.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/minimal #vibe/experimental  ·  **Topics:** #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 Roam, by Neesh, is a spatial gallery — quite literally 'an infinite canvas for browsing well-designed objects' (its own meta description). It's a place to roam through products 'built with craft and care', presented as a draggable field of beautiful product renders rather than a list.
@@ -43,13 +39,16 @@ Maximally minimal and dark: a pure near-black ground (--background #0b0b0d) with
 - **Fonts:** GT America (body/UI), GT America Mono (accents)
 - **Fonts loaded:** GT America 400
 - **Tech stack:** Next.js (App Router), Seline Analytics
+- **Keywords:** infinite-canvas, draggable-canvas, spatial-gallery, dark-mode, product-showcase, hover-label, curated-collection
 - **Media mix:** img 60
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a full-screen fixed canvas (scrollHeight = viewport, body overflow:hidden) — fewer tiles are visible and you pan rather than scroll, so the infinite-canvas interaction is preserved on mobile.
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile pass), logged_out: true
 
 ## Related sites
-[[weirdfolders.com]] [[backgrounds.supply]] [[badmarketing.com]] [[davekrugman.com]] [[daytona.io]] [[ditther.com]]
-
-## Tags
-#category/uncategorized #aesthetic/experimental #aesthetic/dark #pattern/infinite-canvas #pattern/draggable-canvas #pattern/spatial-gallery #pattern/dark-mode #pattern/product-showcase #pattern/hover-label #pattern/curated-collection #tech/next-js-app-router #tech/seline-analytics #color/dark #font/gt-america
+- [[sceneai.art]] — shared: directory-gallery, experimental, design, dark
+- [[21st.dev]] — shared: directory-gallery, minimal, design
+- [[backgrounds.supply]] — shared: minimal, experimental, design, dark
+- [[designengineer.tools]] — shared: directory-gallery, minimal, design
+- [[designtools.fyi]] — shared: directory-gallery, minimal, design
+- [[jasonyuan.design]] — shared: minimal, experimental, design, dark

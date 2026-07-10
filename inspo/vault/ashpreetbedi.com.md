@@ -2,33 +2,25 @@
 url: https://www.ashpreetbedi.com/
 domain: ashpreetbedi.com
 title: "Ashpreet Bedi"
-category: personal
+vertical: personal-blog
+mode: dark
+vibe: [organic-warm, technical]
+topics: [ai, engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - aesthetic/minimal
-  - pattern/dark-theme
-  - pattern/developer-blog
-  - pattern/monospace-headings
-  - pattern/tailwind
-  - pattern/article-list
-  - pattern/command-palette
-  - pattern/newsletter-cta
-  - pattern/minimalist
-  - tech/tailwind-css-v4
-  - tech/aeonik-aeonikfono-self-hosted
-  - tech/self-hosted-no-third-party-analytics-detected
-  - color/dark
-  - color/warm
-  - font/aeonik-100-900
-  - font/aeonikfono-100-900
+  - vertical/personal-blog
+  - vibe/organic-warm
+  - vibe/technical
+  - topic/ai
+  - topic/engineering
+  - mode/dark
 ---
 # Ashpreet Bedi
 > Founder & CEO of Agno. I write about software, AI, and the systems we build around them.  ·  [ashpreetbedi.com](https://www.ashpreetbedi.com/)
 
 ![ashpreetbedi.com](../../screenshots/ashpreetbedicom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/organic-warm #vibe/technical  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/dark
 
 ## What it is
 The personal blog / portfolio of Ashpreet Bedi, founder & CEO of Agno, collecting his essays on software, AI, and the systems we build around them. The tweet shares his article 'Systems Engineering: Building Agentic Software That Works'; the site root is what resolves.
@@ -48,6 +40,7 @@ A warm dark 'paper' aesthetic: the background is --color-paper #1a1816 (rendered
 - **Fonts:** aeonik (sans body) + aeonikFono (monospace headings/labels), both self-hosted.
 - **Fonts loaded:** aeonik 100-900, aeonikFono 100-900
 - **Tech stack:** Tailwind CSS v4, aeonik / aeonikFono (self-hosted), self-hosted, no third-party analytics detected
+- **Keywords:** dark-theme, developer-blog, monospace-headings, tailwind, article-list, command-palette, newsletter-cta, minimalist
 - **Media mix:** svg 13
 - **Page height:** 1203px (single-screen: False)
 - **Responsive:** At 390x844 it reflows to a single column and grows to ~1585px with no horizontal overflow; the header condenses to 'Ashpreet Bedi / ARTICLES / ABOUT'.
@@ -56,7 +49,9 @@ A warm dark 'paper' aesthetic: the background is --color-paper #1a1816 (rendered
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[khairallah.xyz]] [[northgarden.com]] [[ryancarson.com]] [[sceneai.art]] [[affiliatenetwork.com]] [[alisawuffles.github.io]]
-
-## Tags
-#category/personal #aesthetic/dark #aesthetic/developer-product #aesthetic/minimal #pattern/dark-theme #pattern/developer-blog #pattern/monospace-headings #pattern/tailwind #pattern/article-list #pattern/command-palette #pattern/newsletter-cta #pattern/minimalist #tech/tailwind-css-v4 #tech/aeonik-aeonikfono-self-hosted #tech/self-hosted-no-third-party-analytics-detected #color/dark #color/warm #font/aeonik-100-900 #font/aeonikfono-100-900
+- [[nehasharma.dev]] — shared: personal-blog, organic-warm, ai, engineering
+- [[printingpress.dev]] — shared: organic-warm, technical, ai, engineering
+- [[amanml.com]] — shared: personal-blog, ai, engineering
+- [[crustdata.com]] — shared: technical, ai, engineering, dark
+- [[daytona.io]] — shared: technical, ai, engineering, dark
+- [[emilkowal.ski]] — shared: personal-blog, ai, engineering

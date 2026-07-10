@@ -1,52 +1,36 @@
-"""Render inspiration.json into an Obsidian vault: one note per website.
+"""Render inspiration.json into an Obsidian vault: one note per website,
+connected by a small controlled set of relatedness facets.
 
-Each site is a single self-contained note holding ALL its extracted teardown data,
-plus categorizing **tags** (nested, e.g. #aesthetic/dark #pattern/portfolio #tech/nextjs).
-Obsidian connects notes that share tags (enable "Tags" in graph view), and each note
-also links its most-similar sites directly. There are no separate hub files — the tags
-ARE the connective tissue. Deterministic full rebuild, mirroring render_md.py.
+Graph model (the whole point):
+- Each website is ONE note holding its full teardown.
+- The ONLY graph-forming tags are the four taxonomy facets:
+    #vertical/<what it IS>   #vibe/<how it FEELS>   #topic/<what it's ABOUT>   #mode/<dark|light>
+  (taxonomy.json is the controlled vocabulary; the enricher classifies new sites
+  against it, so clusters stay coherent as the vault grows.)
+- Verticals cluster sites of the same kind (startup sites, personal blogs...).
+- Topics bridge clusters (a personal blog ABOUT startups reaches the startup cluster).
+- Each note also links its most-related sites directly, with the WHY printed
+  (shared facets), computed from a weighted facet overlap.
+- Everything granular (pattern keywords, tech, fonts, tokens) stays inside the note
+  as searchable text — never as graph tags.
 
-Layout (flat, under inspo/vault/):
-  INDEX.md          tag map / entry point
-  <domain>.md       one node per teardown
+Deterministic full rebuild: INDEX.md + <domain>.md, flat.
 """
 import argparse
 import json
 import re
 import shutil
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
 
 from .config import INSPIRATION_JSON, INSPO
 from .jsonio import read_json
 
 VAULT = INSPO / "vault"
-# facet-type -> tag namespace
-TAG_NS = {"aesthetics": "aesthetic", "patterns": "pattern", "tech": "tech",
-          "colors": "color", "fonts": "font", "categories": "category"}
-
-AESTHETIC_TRIGGERS = {
-    "dark": "dark", "light": "light",
-    "minimal": "minimal", "monochrome": "minimal", "text-first": "minimal",
-    "text-only": "minimal", "whitespace": "minimal", "swiss": "minimal",
-    "editorial": "editorial", "magazine": "editorial", "serif-display": "editorial",
-    "institutional": "editorial", "archive": "editorial", "research": "editorial",
-    "playful": "playful", "tactile": "playful", "gamified": "playful",
-    "pixel": "playful", "bento": "playful", "frosted": "playful", "glow": "playful",
-    "brutalist": "brutalist",
-    "retro": "retro", "vaporwave": "retro", "nostalgia": "retro",
-    "desktop-metaphor": "retro", "skeuomorphic": "retro", "finder": "retro",
-    "luxury": "luxury", "full-bleed": "luxury", "cinematic": "luxury",
-    "photography": "luxury", "photo": "luxury",
-    "webgl": "experimental", "canvas": "experimental", "3d": "experimental",
-    "creative-developer": "experimental", "experimental": "experimental",
-    "developer-tool": "developer-product", "monospace": "developer-product",
-    "tool-app": "developer-product", "saas": "developer-product",
-    "product-landing": "developer-product", "dashboard": "developer-product",
-    "portfolio": "portfolio", "personal-homepage": "portfolio", "case-studies": "portfolio",
-}
-WARM = ("cream", "warm", "peach", "amber", "beige", "tan", "gold", "orange", "sand")
-COOL = ("blue", "indigo", "teal", "mint", "cyan", "navy", "violet", "purple", "green")
+FACET_NS = {"vertical": "vertical", "vibe": "vibe", "topics": "topic", "mode": "mode"}
+# weighted facet overlap for direct site<->site edges
+W_VERTICAL, W_VIBE, W_TOPIC, W_MODE = 3, 2, 2, 1
+EDGE_MIN, EDGE_TOP = 5, 6
 
 
 def slug(s: str) -> str:
@@ -54,91 +38,68 @@ def slug(s: str) -> str:
     return s.strip("-") or "misc"
 
 
-def aesthetics_for(patterns):
-    out = []
-    for kw in patterns:
-        for trig, aes in AESTHETIC_TRIGGERS.items():
-            if trig in kw and aes not in out:
-                out.append(aes)
-    return out
-
-
-def color_families(entry):
-    fams = []
-    joined = " ".join(entry.get("pattern_keywords", [])).lower()
-    palette = (entry.get("palette") or "").lower()
-    if "dark" in joined:
-        fams.append("dark")
-    if "light" in joined:
-        fams.append("light")
-    if "monochrome" in joined or "monochrome" in palette:
-        fams.append("monochrome")
-    if any(w in palette for w in WARM):
-        fams.append("warm")
-    if any(c in palette for c in COOL):
-        fams.append("cool")
-    return list(dict.fromkeys(fams)) or ["neutral"]
-
-
-def font_families(entry):
-    out = []
-    for f in entry.get("fonts_loaded", []) or []:
-        fam = re.sub(r"\s+\d+$", "", f).strip()
-        if not fam or "fallback" in fam.lower():
-            continue
-        out.append(fam)
-    if not out and "fonts_loaded" in entry:
-        out = ["system-fonts"]
-    return list(dict.fromkeys(out))
-
-
-def domain_category(doc):
-    cats = {}
-    for it in doc.get("items", []):
-        dm = it.get("primary_domain")
-        if dm and dm not in cats and it.get("category"):
-            cats[dm] = it["category"]
-    return cats
-
-
-def facets_for(dom, e, cats):
-    patterns = e.get("pattern_keywords", []) or []
+def facets_of(e):
+    f = e.get("facets") or {}
     return {
-        "aesthetics": aesthetics_for(patterns),
-        "patterns": patterns,
-        "tech": e.get("tech_stack", []) or [],
-        "colors": color_families(e),
-        "fonts": font_families(e),
-        "categories": [cats.get(dom, "uncategorized")],
+        "vertical": f.get("vertical"),
+        "mode": f.get("mode"),
+        "vibe": f.get("vibe") or [],
+        "topics": f.get("topics") or [],
     }
 
 
-def tags_for(facet):
-    """Flat, deduped nested tags across all facet types, in a stable order."""
+def tags_for(f):
     tags = []
-    for ftype in ("categories", "aesthetics", "patterns", "tech", "colors", "fonts"):
-        for name in facet[ftype]:
-            t = f"{TAG_NS[ftype]}/{slug(name)}"
-            if t not in tags:
-                tags.append(t)
+    if f["vertical"]:
+        tags.append(f"vertical/{slug(f['vertical'])}")
+    for v in f["vibe"]:
+        tags.append(f"vibe/{slug(v)}")
+    for t in f["topics"]:
+        tags.append(f"topic/{slug(t)}")
+    if f["mode"]:
+        tags.append(f"mode/{slug(f['mode'])}")
     return tags
 
 
-def related_sites(sd, facets):
+def edge_score(fa, fb):
+    """Weighted overlap + the shared facets (the printable WHY)."""
+    score, shared = 0, []
+    if fa["vertical"] and fa["vertical"] == fb["vertical"]:
+        score += W_VERTICAL
+        shared.append(fa["vertical"])
+    for v in fa["vibe"]:
+        if v in fb["vibe"]:
+            score += W_VIBE
+            shared.append(v)
+    for t in fa["topics"]:
+        if t in fb["topics"]:
+            score += W_TOPIC
+            shared.append(t)
+    if fa["mode"] and fa["mode"] == fb["mode"]:
+        score += W_MODE
+        shared.append(fa["mode"])
+    return score, shared
+
+
+def related_sites(facets):
     rel = {}
-    for a in sd:
-        pa = set(facets[a]["patterns"])
-        scored = [(len(pa & set(facets[b]["patterns"])), b) for b in sd if b != a]
-        scored = [(n, b) for n, b in scored if n]
+    doms = list(facets)
+    for a in doms:
+        scored = []
+        for b in doms:
+            if b == a:
+                continue
+            s, shared = edge_score(facets[a], facets[b])
+            if s >= EDGE_MIN:
+                scored.append((s, b, shared))
         scored.sort(key=lambda x: (-x[0], x[1]))
-        rel[a] = [b for _, b in scored[:6]]
+        rel[a] = [(b, shared) for _, b, shared in scored[:EDGE_TOP]]
     return rel
 
 
-# --- rendering -----------------------------------------------------------------
+# --- note rendering -------------------------------------------------------------
 
 def _tokens(e):
-    """Full structured extraction as a bullet list (skip absent fields)."""
     out = []
     if e.get("palette"):
         out.append(f"- **Palette:** {e['palette']}")
@@ -152,6 +113,8 @@ def _tokens(e):
         out.append(f"- **Fonts loaded:** {', '.join(e['fonts_loaded']) or 'system only (no webfont)'}")
     if e.get("tech_stack"):
         out.append(f"- **Tech stack:** {', '.join(e['tech_stack'])}")
+    if e.get("pattern_keywords"):
+        out.append(f"- **Keywords:** {', '.join(e['pattern_keywords'])}")
     if e.get("media_mix"):
         m = e["media_mix"]
         out.append("- **Media mix:** " + " · ".join(f"{k} {v}" for k, v in m.items() if v))
@@ -173,27 +136,36 @@ def _tokens(e):
     return "\n".join(out)
 
 
-def render_site_note(dom, e, facet, related):
-    tags = tags_for(facet)
+def render_site_note(dom, e, f, related):
+    tags = tags_for(f)
     scr = e.get("screenshot")
-    img = f"![{dom}](../../{scr})\n\n" if scr else ""
+    img = f"![{dom}](../../{scr})\n" if scr else ""
     fm = [
         "---",
         f"url: {e.get('url','')}",
         f"domain: {dom}",
         f"title: \"{(e.get('title') or dom).replace(chr(34), '')}\"",
-        f"category: {facet['categories'][0]}",
+        f"vertical: {f['vertical'] or 'unclassified'}",
+        f"mode: {f['mode'] or ''}",
+        f"vibe: [{', '.join(f['vibe'])}]",
+        f"topics: [{', '.join(f['topics'])}]",
         f"extracted_at: {e.get('extracted_at','')}",
         "tags:",
         *[f"  - {t}" for t in tags],
         "---",
         "",
     ]
+    rel_lines = [f"- [[{b}]] — shared: {', '.join(shared)}" for b, shared in related] or ["—"]
     body = [
         f"# {e.get('title') or dom}",
         f"> {e.get('tagline','')}  ·  [{dom}]({e.get('url','')})",
         "",
-        img.rstrip("\n") + ("\n" if img else ""),
+        img,
+        f"**Vertical:** #{ 'vertical/'+slug(f['vertical']) if f['vertical'] else 'unclassified' }"
+        f"  ·  **Vibe:** {' '.join('#vibe/'+slug(v) for v in f['vibe']) or '—'}"
+        f"  ·  **Topics:** {' '.join('#topic/'+slug(t) for t in f['topics']) or '—'}"
+        f"  ·  **Mode:** {'#mode/'+slug(f['mode']) if f['mode'] else '—'}",
+        "",
         f"## What it is\n{e.get('what_it_is','')}",
         "",
         f"## What it shows\n{e.get('what_it_shows','')}",
@@ -206,62 +178,62 @@ def render_site_note(dom, e, facet, related):
         _tokens(e),
         "",
         "## Related sites",
-        " ".join(f"[[{r}]]" for r in related) or "—",
-        "",
-        "## Tags",
-        " ".join(f"#{t}" for t in tags),
+        *rel_lines,
         "",
     ]
     return "\n".join(fm) + "\n".join(body)
 
 
-def render_index(tag_counts):
+def render_index(facets, tag_counts):
+    total = len(facets)
+    unclassified = sum(1 for f in facets.values() if not f["vertical"])
     out = ["# Inspiration Vault", "",
-           "_Each note is one website with its full teardown. Tags (nested, e.g. "
-           "`#aesthetic/dark`) categorize and connect the notes — in Obsidian, enable "
-           "**Tags** in Graph view; as an agent, `rg -l '#pattern/portfolio' inspo/vault` "
-           "to find matching sites, then read those notes. Tags shared by ≥2 sites:_", ""]
-    by_ns = defaultdict(list)
-    for tag, n in tag_counts.items():
-        ns, name = tag.split("/", 1)
-        if n >= 2:
-            by_ns[ns].append((name, n))
-    order = ["aesthetic", "pattern", "category", "tech", "color", "font"]
-    cap = 40
+           f"_{total} websites, one note each. Sites connect through four controlled facets "
+           "(see `tools/ingest/taxonomy.json`): **vertical** (what it is), **vibe** (how it "
+           "feels), **topic** (what it's about — bridges clusters), **mode** (dark/light). "
+           "In Obsidian: Graph view with **Tags** on. As an agent: "
+           "`rg -l '#vertical/portfolio' inspo/vault` then read those notes; each note's "
+           "Related sites lists its nearest neighbors with the shared facets._", ""]
+    if unclassified:
+        out += [f"> {unclassified} sites not yet classified (run "
+                "`python -m tools.ingest.classify_facets`).", ""]
+    order = ["vertical", "vibe", "topic", "mode"]
     for ns in order:
-        rows = sorted(by_ns.get(ns, []), key=lambda x: (-x[1], x[0]))
+        rows = sorted(((t, c) for t, c in tag_counts.items() if t.startswith(ns + "/")),
+                      key=lambda x: (-x[1], x[0]))
         if rows:
-            shown, extra = rows[:cap], max(0, len(rows) - cap)
-            line = " · ".join(f"`#{ns}/{slug(n)}` ({c})" for n, c in shown)
-            if extra:
-                line += f"  _+{extra} more (grep the vault, or use Obsidian's Tag pane)_"
-            out += [f"## {ns}", line, ""]
+            out += [f"## {ns}",
+                    " · ".join(f"`#{t}` ({c})" for t, c in rows), ""]
     return "\n".join(out)
 
 
 def build_vault(doc, out_dir=VAULT):
     sd = {k: v for k, v in doc.get("site_designs", {}).items() if k != "_schema"}
-    cats = domain_category(doc)
-    facets = {dom: facets_for(dom, e, cats) for dom, e in sd.items()}
-    related = related_sites(sd, facets)
+    facets = {dom: facets_of(e) for dom, e in sd.items()}
+    related = related_sites(facets)
 
     out_dir = Path(out_dir)
-    # wipe generated content (everything except a top-level .obsidian config)
+    # hand-written notes the rebuild must never delete
+    PRESERVE = {".obsidian", "ITERATIONS.md"}
     if out_dir.exists():
         for p in out_dir.iterdir():
-            if p.name == ".obsidian":
+            if p.name in PRESERVE:
                 continue
             shutil.rmtree(p, ignore_errors=True) if p.is_dir() else p.unlink()
     out_dir.mkdir(parents=True, exist_ok=True)
 
     tag_counts = Counter()
+    edge_count = 0
     for dom, e in sd.items():
-        (out_dir / f"{dom}.md").write_text(render_site_note(dom, e, facets[dom], related[dom]))
+        (out_dir / f"{dom}.md").write_text(
+            render_site_note(dom, e, facets[dom], related[dom]))
         tag_counts.update(tags_for(facets[dom]))
+        edge_count += len(related[dom])
 
-    (out_dir / "INDEX.md").write_text(render_index(tag_counts))
-    return {"sites": len(sd), "distinct_tags": len(tag_counts),
-            "connective_tags": sum(1 for c in tag_counts.values() if c >= 2)}
+    (out_dir / "INDEX.md").write_text(render_index(facets, tag_counts))
+    return {"sites": len(sd), "tag_nodes": len(tag_counts),
+            "singleton_tags": sum(1 for c in tag_counts.values() if c == 1),
+            "site_edges": edge_count}
 
 
 def main():

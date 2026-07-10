@@ -2,31 +2,24 @@
 url: https://khairallah.xyz/
 domain: khairallah.xyz
 title: "Khairallah AL-Awady"
-category: personal
+vertical: portfolio
+mode: dark
+vibe: [minimal, technical]
+topics: [engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/minimal
-  - aesthetic/developer-product
-  - aesthetic/dark
-  - pattern/minimalist
-  - pattern/monospace
-  - pattern/dark-mode
-  - pattern/personal-card
-  - pattern/tailwind
-  - pattern/link-list
-  - pattern/web3
-  - tech/tailwind-css
-  - tech/self-hosted-static
-  - tech/no-analytics
-  - color/dark
-  - color/monochrome
-  - font/jetbrains-mono
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/technical
+  - topic/engineering
+  - mode/dark
 ---
 # Khairallah AL-Awady
 > Hi, I'm Khairallah. I've been building software and digital products for years across blockchain, web3, and AI.  ·  [khairallah.xyz](https://khairallah.xyz/)
 
 ![khairallah.xyz](../../screenshots/khairallahxyz.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/engineering  ·  **Mode:** #mode/dark
 
 ## What it is
 A single-page personal site / résumé for Khairallah AL-Awady, a blockchain/web3/AI developer (founder of web3arabs.com), built as a quiet text-first identity card rather than a marketing page.
@@ -46,6 +39,7 @@ Terminal-minimalist: a flat dark-gray rgb(33,33,33) canvas with light-gray rgb(2
 - **Fonts:** JetBrains Mono 400 (mono stack); no other webfont loaded
 - **Fonts loaded:** JetBrains Mono 400
 - **Tech stack:** Tailwind CSS, self-hosted static, no analytics
+- **Keywords:** minimalist, monospace, dark-mode, personal-card, tailwind, link-list, web3
 - **Media mix:** img 1 · svg 1
 - **Page height:** 2022px (single-screen: False)
 - **Responsive:** At 390×844 the two columns reflow into a single stacked column and the page grows to ~3k px; layout is otherwise unchanged.
@@ -54,7 +48,9 @@ Terminal-minimalist: a flat dark-gray rgb(33,33,33) canvas with light-gray rgb(2
 - **Extracted:** 2026-06-06 · Playwright Chromium @ 1440×900 + 390×844 mobile pass; logged_out: true
 
 ## Related sites
-[[ashpreetbedi.com]] [[davekrugman.com]] [[northgarden.com]] [[objectives.md]] [[ryancarson.com]] [[siddz.com]]
-
-## Tags
-#category/personal #aesthetic/minimal #aesthetic/developer-product #aesthetic/dark #pattern/minimalist #pattern/monospace #pattern/dark-mode #pattern/personal-card #pattern/tailwind #pattern/link-list #pattern/web3 #tech/tailwind-css #tech/self-hosted-static #tech/no-analytics #color/dark #color/monochrome #font/jetbrains-mono
+- [[lab01.dev]] — shared: portfolio, minimal, technical, engineering, dark
+- [[siddz.com]] — shared: portfolio, minimal, technical, engineering
+- [[spyrosigma.in]] — shared: portfolio, minimal, technical, engineering
+- [[nyk.dev]] — shared: portfolio, technical, engineering, dark
+- [[objectives.md]] — shared: portfolio, minimal, technical, dark
+- [[addyosmani.com]] — shared: portfolio, minimal, engineering

@@ -2,33 +2,24 @@
 url: https://linkeddit.com/
 domain: linkeddit.com
 title: "Reddit Lead Generation Tool — Find Leads on Reddit With AI | Linkeddit"
-category: uncategorized
+vertical: startup-product
+mode: light
+vibe: [corporate-clean, playful]
+topics: [marketing]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - aesthetic/light
-  - pattern/reddit-marketing
-  - pattern/saas-landing
-  - pattern/daisyui
-  - pattern/tailwind
-  - pattern/light-theme
-  - pattern/animated-prompt-hero
-  - pattern/product-hunt
-  - pattern/long-scroll-landing
-  - tech/tailwind-daisyui
-  - tech/instrument-serif-fontshare-google
-  - tech/plausible
-  - tech/google-tag-manager
-  - tech/rewardful
-  - color/light
-  - color/cool
-  - font/instrument-serif
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - vibe/playful
+  - topic/marketing
+  - mode/light
 ---
 # Reddit Lead Generation Tool — Find Leads on Reddit With AI | Linkeddit
 > The Ultimate Reddit Marketing Platform  ·  [linkeddit.com](https://linkeddit.com/)
 
 ![linkeddit.com](../../screenshots/linkedditcom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean #vibe/playful  ·  **Topics:** #topic/marketing  ·  **Mode:** #mode/light
 
 ## What it is
 The marketing site for Linkeddit, an AI Reddit-marketing / lead-generation platform that monitors any subreddit 24/7 to surface high-intent buyers and then drafts and publishes content — billed as a Product Hunt #1 Product of the Day. It is the second builder-product link in the Om Patel tweet; a Reddit tool, not the Google-Maps scraper the tweet describes.
@@ -48,6 +39,7 @@ A clean light theme: white background, near-black ink (rgb(10,10,10)), a blue-vi
 - **Fonts:** Instrument Serif (display accent) loaded; body/UI in a system-sans stack; Fontshare + Google Fonts hosts.
 - **Fonts loaded:** Instrument Serif 400
 - **Tech stack:** Tailwind + daisyUI, Instrument Serif (Fontshare/Google), Plausible, Google Tag Manager, Rewardful
+- **Keywords:** reddit-marketing, saas-landing, daisyui, tailwind, light-theme, animated-prompt-hero, product-hunt, long-scroll-landing
 - **Media mix:** img 24 · svg 79
 - **Page height:** 9213px (single-screen: False)
 - **Responsive:** At 390x844 it stays a single column (~11.4k px) with no horizontal overflow; no hamburger detected.
@@ -56,7 +48,9 @@ A clean light theme: white background, near-black ink (rgb(10,10,10)), a blue-vi
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[bigideasdb.com]] [[jenni.ai]] [[midu.dev]] [[todesktop.com]] [[ashpreetbedi.com]] [[colf.dev]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #aesthetic/light #pattern/reddit-marketing #pattern/saas-landing #pattern/daisyui #pattern/tailwind #pattern/light-theme #pattern/animated-prompt-hero #pattern/product-hunt #pattern/long-scroll-landing #tech/tailwind-daisyui #tech/instrument-serif-fontshare-google #tech/plausible #tech/google-tag-manager #tech/rewardful #color/light #color/cool #font/instrument-serif
+- [[photon.codes]] — shared: startup-product, corporate-clean, playful, light
+- [[shipper.now]] — shared: startup-product, corporate-clean, playful, light
+- [[simple.ink]] — shared: startup-product, corporate-clean, playful, light
+- [[affiliatenetwork.com]] — shared: startup-product, corporate-clean, marketing
+- [[b150.ai]] — shared: startup-product, playful, light
+- [[bigideasdb.com]] — shared: startup-product, corporate-clean, light

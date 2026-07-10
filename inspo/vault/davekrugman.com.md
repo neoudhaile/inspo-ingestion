@@ -2,36 +2,25 @@
 url: https://www.davekrugman.com/
 domain: davekrugman.com
 title: "Dave Krugman | Photographer & Digital Artist"
-category: irl
+vertical: portfolio
+mode: dark
+vibe: [technical, editorial]
+topics: [photography, art]
 extracted_at: 2026-06-05
 tags:
-  - category/irl
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - aesthetic/experimental
-  - aesthetic/luxury
-  - aesthetic/portfolio
-  - aesthetic/playful
-  - pattern/dark-mode
-  - pattern/one-page-scroll
-  - pattern/monospace
-  - pattern/canvas-animation
-  - pattern/photography-portfolio
-  - pattern/social-feed
-  - pattern/press-credits
-  - pattern/glow-accent
-  - tech/vanilla-custom-build-no-js-framework-detected
-  - tech/google-tag-manager
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/cousine
-  - font/dm-sans-400-500-via-css-var
+  - vertical/portfolio
+  - vibe/technical
+  - vibe/editorial
+  - topic/photography
+  - topic/art
+  - mode/dark
 ---
 # Dave Krugman | Photographer & Digital Artist
 > Photographer, writer, and digital artist. Creating work at the intersection of technology and art.  ·  [davekrugman.com](https://www.davekrugman.com/)
 
 ![davekrugman.com](../../screenshots/davekrugmancom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/technical #vibe/editorial  ·  **Topics:** #topic/photography #topic/art  ·  **Mode:** #mode/dark
 
 ## What it is
 The personal site of Dave Krugman — photographer, writer and digital artist (the page's own h1 is simply 'DaveKrugman'). It doubles as a hub for his photography, NFT/digital-art work and his current 'WINDOWS' project.
@@ -51,6 +40,7 @@ Terminal-meets-editorial dark theme: a near-black ground (#0a0a0c) with warm amb
 - **Fonts:** Cousine (monospace) body + DM Sans (sans) headings.
 - **Fonts loaded:** Cousine 400, Cousine 700, DM Sans (400/500 via CSS var)
 - **Tech stack:** vanilla / custom build (no JS framework detected), Google Tag Manager
+- **Keywords:** dark-mode, one-page-scroll, monospace, canvas-animation, photography-portfolio, social-feed, press-credits, glow-accent
 - **Media mix:** img 42 · canvas 2 · svg 13
 - **Page height:** 9947px (single-screen: False)
 - **Responsive:** At 390x844 the top nav collapses to a burger menu and the sections stack single-column; scrollHeight roughly doubles to ~18,000px.
@@ -59,7 +49,9 @@ Terminal-meets-editorial dark theme: a near-black ground (#0a0a0c) with warm amb
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (viewport screenshot; fullPage timed out) + mobile 390x844
 
 ## Related sites
-[[flowstate.com]] [[khairallah.xyz]] [[ytch.tv]] [[akira.sachi.dev]] [[backgrounds.supply]] [[badmarketing.com]]
-
-## Tags
-#category/irl #aesthetic/dark #aesthetic/developer-product #aesthetic/experimental #aesthetic/luxury #aesthetic/portfolio #aesthetic/playful #pattern/dark-mode #pattern/one-page-scroll #pattern/monospace #pattern/canvas-animation #pattern/photography-portfolio #pattern/social-feed #pattern/press-credits #pattern/glow-accent #tech/vanilla-custom-build-no-js-framework-detected #tech/google-tag-manager #color/dark #color/warm #color/cool #font/cousine #font/dm-sans-400-500-via-css-var
+- [[ankit-rai.com]] — shared: portfolio, editorial, art, dark
+- [[khairallah.xyz]] — shared: portfolio, technical, dark
+- [[lab01.dev]] — shared: portfolio, technical, dark
+- [[mrdoob.com]] — shared: portfolio, art, dark
+- [[nyk.dev]] — shared: portfolio, technical, dark
+- [[objectives.md]] — shared: portfolio, technical, dark

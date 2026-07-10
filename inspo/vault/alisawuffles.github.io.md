@@ -2,30 +2,24 @@
 url: https://alisawuffles.github.io/
 domain: alisawuffles.github.io
 title: "Alisa Liu — PhD student, University of Washington"
-category: reading
+vertical: portfolio
+mode: light
+vibe: [minimal]
+topics: [ai, education]
 extracted_at: 2026-07-05
 tags:
-  - category/reading
-  - aesthetic/minimal
-  - aesthetic/editorial
-  - pattern/academic
-  - pattern/minimalist
-  - pattern/astro
-  - pattern/purple-accent
-  - pattern/source-sans
-  - pattern/personal-site
-  - pattern/research
-  - tech/astro-v6
-  - tech/google-fonts
-  - tech/google-tag-manager
-  - color/cool
-  - font/source-sans-3
-  - font/roboto-mono
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/ai
+  - topic/education
+  - mode/light
 ---
 # Alisa Liu — PhD student, University of Washington
 > PhD student at the University of Washington.  ·  [alisawuffles.github.io](https://alisawuffles.github.io/)
 
 ![alisawuffles.github.io](../../screenshots/alisawufflesgithubio.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/ai #topic/education  ·  **Mode:** #mode/light
 
 ## What it is
 Alisa Liu's academic homepage — a final-year CS PhD student at the University of Washington (advised by Yejin Choi and Noah Smith), an NSF Graduate Research Fellow and OpenAI SuperAlignment Fellow. She's the 'she's joining OpenAI' subject of the tweet, whose free LLM interview-prep notes ('Alisa's book of LLMs', math notes, job-search blog) are what's being shared.
@@ -45,6 +39,7 @@ Clean minimal-academic, grounded in an explicit CSS custom-property system read 
 - **Fonts:** Source Sans 3 (300–700) for text; Roboto Mono for monospace.
 - **Fonts loaded:** Source Sans 3 300, Source Sans 3 400, Source Sans 3 600, Source Sans 3 700, Roboto Mono 400
 - **Tech stack:** Astro v6, Google Fonts, Google Tag Manager
+- **Keywords:** academic, minimalist, astro, purple-accent, source-sans, personal-site, research
 - **Media mix:** img 1 · svg 5
 - **Page height:** 2874px (single-screen: False)
 - **Responsive:** At 390x844 the single column reflows and stacks (page grows to ~4,013px); the 40px h1 is retained.
@@ -52,7 +47,9 @@ Clean minimal-academic, grounded in an explicit CSS custom-property system read 
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[arneshbanerjee.github.io]] [[davidwinalda.com]] [[richzou.com]] [[willmanidis.com]] [[amanml.com]] [[anyblockers.com]]
-
-## Tags
-#category/reading #aesthetic/minimal #aesthetic/editorial #pattern/academic #pattern/minimalist #pattern/astro #pattern/purple-accent #pattern/source-sans #pattern/personal-site #pattern/research #tech/astro-v6 #tech/google-fonts #tech/google-tag-manager #color/cool #font/source-sans-3 #font/roboto-mono
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, ai, light
+- [[debarghyadas.com]] — shared: portfolio, minimal, ai, light
+- [[farza.com]] — shared: portfolio, minimal, ai, light
+- [[spyrosigma.in]] — shared: portfolio, minimal, ai, light
+- [[addyosmani.com]] — shared: portfolio, minimal, ai
+- [[asekachov.com]] — shared: portfolio, minimal, light

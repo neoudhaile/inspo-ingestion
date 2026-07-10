@@ -2,30 +2,25 @@
 url: https://www.serif.sh/
 domain: serif.sh
 title: "serif.sh — Beautiful Quote Snapshots"
-category: uncategorized
+vertical: tool-app
+mode: light
+vibe: [editorial, minimal]
+topics: [writing, design]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/editorial
-  - pattern/single-screen
-  - pattern/quote-to-image
-  - pattern/generator-tool
-  - pattern/serif-typography
-  - pattern/editorial
-  - pattern/sveltekit
-  - pattern/cream
-  - tech/sveltekit
-  - tech/google-tag-manager
-  - tech/google-fonts
-  - color/warm
-  - font/open-runde
-  - font/playfair-display
-  - font/inter-variable
+  - vertical/tool-app
+  - vibe/editorial
+  - vibe/minimal
+  - topic/writing
+  - topic/design
+  - mode/light
 ---
 # serif.sh — Beautiful Quote Snapshots
 > Create beautiful, shareable images of your favorite quotes. Choose from elegant serif-styled themes.  ·  [serif.sh](https://www.serif.sh/)
 
 ![serif.sh](../../screenshots/serifsh.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/writing #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A small single-purpose tool that turns a quote into a beautiful, shareable image using elegant serif themes (h1: 'serif.sh'). One of the two extra links in the kail_designs transitions tweet.
@@ -45,6 +40,7 @@ Warm, paper-like editorial: a cream ground (rgb(253,252,249)) with near-black in
 - **Fonts:** Open Runde (rounded UI sans) + serif theme faces Playfair Display / Old Standard TT / Instrument Serif; Geist, Inter and JetBrains Mono are also present in the payload.
 - **Fonts loaded:** Open Runde 400, Open Runde 500, Playfair Display 400, Playfair Display 500, Inter (variable)
 - **Tech stack:** SvelteKit, Google Tag Manager, Google Fonts
+- **Keywords:** single-screen, quote-to-image, generator-tool, serif-typography, editorial, sveltekit, cream
 - **Media mix:** svg 14
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single screen (~844px) with the h1 down to 16px; the editor controls reflow to fit the narrow column.
@@ -53,7 +49,9 @@ Warm, paper-like editorial: a cream ground (rgb(253,252,249)) with near-black in
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
-[[12matcha.com]] [[akira.sachi.dev]] [[animations.dev]] [[asekachov.com]] [[axiaisacat.indiehacker.bio]] [[bird.onethreenine.net]]
-
-## Tags
-#category/uncategorized #aesthetic/editorial #pattern/single-screen #pattern/quote-to-image #pattern/generator-tool #pattern/serif-typography #pattern/editorial #pattern/sveltekit #pattern/cream #tech/sveltekit #tech/google-tag-manager #tech/google-fonts #color/warm #font/open-runde #font/playfair-display #font/inter-variable
+- [[sensory-ui.com]] — shared: tool-app, editorial, minimal, design, light
+- [[itshover.com]] — shared: tool-app, minimal, design, light
+- [[patterncraft.fun]] — shared: tool-app, minimal, design, light
+- [[21st.dev]] — shared: editorial, minimal, design, light
+- [[animations.dev]] — shared: editorial, minimal, design, light
+- [[anyblockers.com]] — shared: editorial, minimal, writing, light

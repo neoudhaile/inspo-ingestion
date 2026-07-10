@@ -2,31 +2,24 @@
 url: http://gregisenberg.com/
 domain: gregisenberg.com
 title: "Greg Isenberg"
-category: reading
+vertical: publication-newsletter
+mode: light
+vibe: [editorial]
+topics: [startups, marketing]
 extracted_at: 2026-06-05
 tags:
-  - category/reading
-  - aesthetic/light
-  - pattern/newsletter-landing
-  - pattern/framer
-  - pattern/creator-hub
-  - pattern/slab-serif
-  - pattern/light-theme
-  - pattern/product-links
-  - pattern/podcast-links
-  - pattern/email-capture
-  - tech/framer
-  - tech/humblytics
-  - tech/facebook-pixel
-  - color/light
-  - color/cool
-  - font/roboto-slab
-  - font/eudoxus-sans-bold
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - topic/startups
+  - topic/marketing
+  - mode/light
 ---
 # Greg Isenberg
 > Startup ideas & frameworks to help you win on the internet.  ·  [gregisenberg.com](http://gregisenberg.com/)
 
 ![gregisenberg.com](../../screenshots/gregisenbergcom.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial  ·  **Topics:** #topic/startups #topic/marketing  ·  **Mode:** #mode/light
 
 ## What it is
 The personal hub / newsletter landing of Greg Isenberg (CEO of Late Checkout). The h1 reads 'Startup ideas & frameworks to help you win on the internet.' and the meta pitch promises 'high quality insights on internet communities, building products communities love and startups' via a weekly email. NOTE: the bookmark is Greg's 17-takeaways SF thread — the site is the author's portfolio, not the subject of the tweet.
@@ -46,6 +39,7 @@ A bright, editorial newsletter look on a white ground (rgb(255,255,255)) with bl
 - **Fonts:** Eudoxus Sans Bold for headlines (h1 48px) with Roboto Slab for body (400/500); served via Framer.
 - **Fonts loaded:** Roboto Slab 400, Eudoxus Sans Bold
 - **Tech stack:** Framer, Humblytics, Facebook Pixel
+- **Keywords:** newsletter-landing, framer, creator-hub, slab-serif, light-theme, product-links, podcast-links, email-capture
 - **Media mix:** img 7 · svg 5 · iframe 2
 - **Page height:** 2564px (single-screen: False)
 - **Responsive:** At 390x844 the layout reflows to a single column with no <nav> element present; total height stays similar (~2564px to ~2957px) and the h1 shrinks slightly from 48px to 31px.
@@ -54,7 +48,9 @@ A bright, editorial newsletter look on a white ground (rgb(255,255,255)) with bl
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true (redirects to www.gregisenberg.com)
 
 ## Related sites
-[[crsanchez.es]] [[varickagents.com]] [[affiliatenetwork.com]] [[ankit-rai.com]] [[asekachov.com]] [[backgrounds.supply]]
-
-## Tags
-#category/reading #aesthetic/light #pattern/newsletter-landing #pattern/framer #pattern/creator-hub #pattern/slab-serif #pattern/light-theme #pattern/product-links #pattern/podcast-links #pattern/email-capture #tech/framer #tech/humblytics #tech/facebook-pixel #color/light #color/cool #font/roboto-slab #font/eudoxus-sans-bold
+- [[bigplayers.co]] — shared: publication-newsletter, startups, marketing
+- [[claude.com]] — shared: publication-newsletter, editorial, light
+- [[crsanchez.es]] — shared: publication-newsletter, marketing, light
+- [[ddlabstudio.com]] — shared: editorial, startups, marketing
+- [[geniusmargins.com]] — shared: publication-newsletter, editorial, light
+- [[interfaces.dev]] — shared: publication-newsletter, editorial, light

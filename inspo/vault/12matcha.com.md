@@ -2,27 +2,25 @@
 url: https://12matcha.com
 domain: 12matcha.com
 title: "12 Matcha — Forever in Pursuit of Exquisite Matcha"
-category: design
+vertical: ecommerce
+mode: light
+vibe: [luxury, editorial, minimal]
+topics: [food-drink]
 extracted_at: 2026-06-04
 tags:
-  - category/design
-  - aesthetic/editorial
-  - aesthetic/luxury
-  - aesthetic/developer-product
-  - pattern/editorial
-  - pattern/luxury
-  - pattern/scrollytelling
-  - pattern/full-bleed-photo
-  - pattern/video-hero
-  - pattern/ecommerce
-  - pattern/monospace-serif
-  - pattern/negative-space
-  - color/warm
+  - vertical/ecommerce
+  - vibe/luxury
+  - vibe/editorial
+  - vibe/minimal
+  - topic/food-drink
+  - mode/light
 ---
 # 12 Matcha — Forever in Pursuit of Exquisite Matcha
 >   ·  [12matcha.com](https://12matcha.com)
 
 ![12matcha.com](../../screenshots/12matchacom.png)
+
+**Vertical:** #vertical/ecommerce  ·  **Vibe:** #vibe/luxury #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/food-drink  ·  **Mode:** #mode/light
 
 ## What it is
 The brand and commerce site for 12 Matcha, a matcha and dessert boutique in NoHo, New York. It's a refined direct-to-consumer storefront that leads with mood and craft rather than products — the matcha equivalent of a fashion house homepage.
@@ -39,10 +37,13 @@ Quiet luxury editorial: a near-white/cream and black palette lets large architec
 ## Design data
 - **Palette:** Cream/near-white (#eeede7, #fff) and near-black (#111) with white text over photography; color comes entirely from the imagery.
 - **Fonts:** gc16 (monospace-serif display), abcDiatype (grotesque body)
+- **Keywords:** editorial, luxury, scrollytelling, full-bleed-photo, video-hero, ecommerce, monospace-serif, negative-space
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[animations.dev]] [[asekachov.com]] [[christophlocher.com]] [[claude.com]] [[contralabs.com]] [[daviskeene.com]]
-
-## Tags
-#category/design #aesthetic/editorial #aesthetic/luxury #aesthetic/developer-product #pattern/editorial #pattern/luxury #pattern/scrollytelling #pattern/full-bleed-photo #pattern/video-hero #pattern/ecommerce #pattern/monospace-serif #pattern/negative-space #color/warm
+- [[thinkwithmark.com]] — shared: ecommerce, luxury, editorial
+- [[juneoven.com]] — shared: ecommerce, food-drink, light
+- [[nucleoapp.com]] — shared: ecommerce, minimal, light
+- [[templatoria.com]] — shared: ecommerce, minimal, light
+- [[21st.dev]] — shared: editorial, minimal, light
+- [[animations.dev]] — shared: editorial, minimal, light

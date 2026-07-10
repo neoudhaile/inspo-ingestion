@@ -2,31 +2,24 @@
 url: https://heyneuma.com/
 domain: heyneuma.com
 title: "Neuma — 'Build your ideas by talking to AI' (a Claude Code personal-AI course)"
-category: uncategorized
+vertical: docs-resource
+mode: light
+vibe: [organic-warm]
+topics: [ai, education]
 extracted_at: 2026-07-08
 tags:
-  - category/uncategorized
-  - pattern/course-landing
-  - pattern/warm
-  - pattern/cream
-  - pattern/terracotta
-  - pattern/paper
-  - pattern/mesh-gradient
-  - pattern/grain
-  - pattern/geist
-  - pattern/tailwind
-  - pattern/personal-ai
-  - pattern/claude-code
-  - tech/self-hosted-no-framework-global-tailwind-css-tokens-present
-  - tech/stripe-checkout
-  - color/warm
-  - font/geist-sans
-  - font/geist-mono
+  - vertical/docs-resource
+  - vibe/organic-warm
+  - topic/ai
+  - topic/education
+  - mode/light
 ---
 # Neuma — 'Build your ideas by talking to AI' (a Claude Code personal-AI course)
 > Build your ideas by talking to AI.  ·  [heyneuma.com](https://heyneuma.com/)
 
 ![heyneuma.com](../../screenshots/heyneumacom.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/organic-warm  ·  **Topics:** #topic/ai #topic/education  ·  **Mode:** #mode/light
 
 ## What it is
 'Neuma' (heyneuma.com) — a hands-on course whose meta description reads 'A hands-on course on building personal AI systems with Claude Code. No programming background required. A framework for people who think.' It is priced $129 (a Stripe checkout link), authored by Kris Puckett (whose bio/testimonial closes the page) and cross-links his 'Epilogue — Ambient Reading' iOS app. IMPORTANT CAVEAT: this URL appears in the tweet's export metadata (all_urls) but its content is unrelated to Jason Yuan's post about Dot — treat the association as an artifact of link harvesting, not an endorsed subject site. It is included here because it was captured and is a useful reference in its own right.
@@ -46,6 +39,7 @@ A warm 'paper' aesthetic driven by an explicit token system. :root defines --bg 
 - **Fonts:** Geist Sans + Geist Mono (both loaded); a set of 'Geist Pixel' display faces (Square/Grid/Circle/Triangle/Line) declared but unloaded.
 - **Fonts loaded:** Geist Sans, Geist Mono
 - **Tech stack:** Self-hosted (no framework global; Tailwind CSS tokens present), Stripe (checkout)
+- **Keywords:** course-landing, warm, cream, terracotta, paper, mesh-gradient, grain, geist, tailwind, personal-ai, claude-code
 - **Media mix:** img 1 · svg 33
 - **Page height:** 10617px (single-screen: False)
 - **Responsive:** At 390x844 the hero and CTA stack vertically and the multi-column testimonial/module grids reflow to a single column; the tall scroll-triggered body stays a long single-column read.
@@ -54,7 +48,9 @@ A warm 'paper' aesthetic driven by an explicit token system. :root defines --bg 
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true. NOTE: the fullPage capture painted mostly the hero — the lower scroll-triggered sections did not render in the static full-page shot.
 
 ## Related sites
-[[sceneai.art]] [[tryponcho.com]] [[ashpreetbedi.com]] [[bigideasdb.com]] [[cafe.endofday.studio]] [[colf.dev]]
-
-## Tags
-#category/uncategorized #pattern/course-landing #pattern/warm #pattern/cream #pattern/terracotta #pattern/paper #pattern/mesh-gradient #pattern/grain #pattern/geist #pattern/tailwind #pattern/personal-ai #pattern/claude-code #tech/self-hosted-no-framework-global-tailwind-css-tokens-present #tech/stripe-checkout #color/warm #font/geist-sans #font/geist-mono
+- [[walkinglabs.github.io]] — shared: docs-resource, organic-warm, ai, education, light
+- [[hofai.io]] — shared: docs-resource, ai, education
+- [[midu.dev]] — shared: docs-resource, education, light
+- [[alisawuffles.github.io]] — shared: ai, education, light
+- [[backdoorai.app]] — shared: organic-warm, ai, light
+- [[coolsites.ai]] — shared: organic-warm, ai, light

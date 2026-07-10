@@ -2,32 +2,23 @@
 url: https://affiliatenetwork.com/
 domain: affiliatenetwork.com
 title: "AffiliateNetwork.com"
-category: uncategorized
+vertical: startup-product
+mode: dark
+vibe: [corporate-clean]
+topics: [marketing]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - pattern/framer
-  - pattern/dark-theme
-  - pattern/landing-page
-  - pattern/marketing
-  - pattern/saas
-  - pattern/stats-heavy
-  - pattern/neon-accent
-  - tech/framer
-  - tech/framerusercontent-com-cdn
-  - tech/events-framer-com-analytics
-  - color/dark
-  - font/inter-display
-  - font/inter
-  - font/dm-sans
-  - font/satoshi
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - topic/marketing
+  - mode/dark
 ---
 # AffiliateNetwork.com
 > The #1 Affiliate Network for organic marketing.  ·  [affiliatenetwork.com](https://affiliatenetwork.com/)
 
 ![affiliatenetwork.com](../../screenshots/affiliatenetworkcom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean  ·  **Topics:** #topic/marketing  ·  **Mode:** #mode/dark
 
 ## What it is
 The marketing site for AffiliateNetwork.com, a performance-based influencer/creator marketing platform — headlined 'The #1 Affiliate Network for organic marketing' and described in meta as 'a performance-based influencer marketing platform that helps brands scale through viral creators, AI-powered campaigns, and guaranteed results.' Bella's (@growthsuck) bookmark has no tweet text, so the site is the entire showcase.
@@ -47,6 +38,7 @@ A near-black canvas (rendered rgb(0,0,0)) with light-grey headline text (rgb(222
 - **Fonts:** Inter Display + Inter (with DM Sans & Satoshi), Framer-hosted
 - **Fonts loaded:** Inter Display 400, Inter Display 500, Inter Display 600, Inter Display 700, Inter 400, Inter 500, Inter 600, Inter 700, DM Sans 500, DM Sans 600, Satoshi 500
 - **Tech stack:** Framer, framerusercontent.com CDN, events.framer.com analytics
+- **Keywords:** framer, dark-theme, landing-page, marketing, saas, stats-heavy, neon-accent
 - **Media mix:** img 44 · svg 149 · iframe 2
 - **Page height:** 5541px (single-screen: False)
 - **Responsive:** At 390x844 the hero h1 scales from 75px down to 30px, the layout reflows to a single column, and the page grows from ~5541px to ~8737px.
@@ -55,7 +47,9 @@ A near-black canvas (rendered rgb(0,0,0)) with light-grey headline text (rgb(222
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true; page content is served via a cross-origin Framer iframe (frame.affiliatenetwork.com) and was probed directly
 
 ## Related sites
-[[crustdata.com]] [[ddlabstudio.com]] [[ankit-rai.com]] [[asekachov.com]] [[ashpreetbedi.com]] [[b150.ai]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #aesthetic/developer-product #pattern/framer #pattern/dark-theme #pattern/landing-page #pattern/marketing #pattern/saas #pattern/stats-heavy #pattern/neon-accent #tech/framer #tech/framerusercontent-com-cdn #tech/events-framer-com-analytics #color/dark #font/inter-display #font/inter #font/dm-sans #font/satoshi
+- [[linkeddit.com]] — shared: startup-product, corporate-clean, marketing
+- [[daytona.io]] — shared: startup-product, corporate-clean, dark
+- [[flowstate.com]] — shared: startup-product, corporate-clean, dark
+- [[langchain.com]] — shared: startup-product, corporate-clean, dark
+- [[bigideasdb.com]] — shared: startup-product, corporate-clean
+- [[creao.ai]] — shared: startup-product, corporate-clean

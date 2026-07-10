@@ -2,30 +2,23 @@
 url: https://recent.design/
 domain: recent.design
 title: "Recent — Design Inspiration"
-category: design
+vertical: directory-gallery
+mode: light
+vibe: [minimal]
+topics: [design]
 extracted_at: 2026-07-05
 tags:
-  - category/design
-  - pattern/design-gallery
-  - pattern/directory
-  - pattern/tailwind-v4
-  - pattern/oklch
-  - pattern/squircle
-  - pattern/masonry
-  - pattern/live-counter
-  - pattern/inter
-  - pattern/mono-accent
-  - tech/tailwind-css-v4
-  - tech/visitors-now-analytics
-  - tech/cloudflare
-  - color/warm
-  - color/cool
-  - font/inter-100-900-variable
+  - vertical/directory-gallery
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Recent — Design Inspiration
 > The best design inspiration on the Internet.  ·  [recent.design](https://recent.design/)
 
 ![recent.design](../../screenshots/recentdesign.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 Recent (recent.design) is Daryl Ginn's daily-updated design-inspiration gallery — 'the best design inspiration on the Internet' — spanning Websites, OG Images, App Screenshots, App Icons, plus newer Tools and Skills collections. It's the subject of the bookmarked tweet celebrating how fast it's growing.
@@ -45,6 +38,7 @@ A neutral, content-first shell that lets the thumbnails supply all the color. Fr
 - **Fonts:** Inter Variable (100–900) for all text — the only loaded webfont — with Departure Mono for numeric/metadata (counters, timestamps).
 - **Fonts loaded:** Inter 100-900 (variable)
 - **Tech stack:** Tailwind CSS v4, visitors.now (analytics), Cloudflare
+- **Keywords:** design-gallery, directory, tailwind-v4, oklch, squircle, masonry, live-counter, inter, mono-accent
 - **Media mix:** img 141 · video 42 · svg 66
 - **Page height:** 4318px (single-screen: False)
 - **Responsive:** At 390x844 the masonry gallery collapses to 2 columns, a hamburger menu appears, and the lazy-loaded grid grows to ~21,200px.
@@ -52,7 +46,9 @@ A neutral, content-first shell that lets the thumbnails supply all the color. Fr
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[nicelydone.club]] [[cofounder.co]] [[21st.dev]] [[animations.dev]] [[coolsites.ai]] [[designengineer.tools]]
-
-## Tags
-#category/design #pattern/design-gallery #pattern/directory #pattern/tailwind-v4 #pattern/oklch #pattern/squircle #pattern/masonry #pattern/live-counter #pattern/inter #pattern/mono-accent #tech/tailwind-css-v4 #tech/visitors-now-analytics #tech/cloudflare #color/warm #color/cool #font/inter-100-900-variable
+- [[21st.dev]] — shared: directory-gallery, minimal, design, light
+- [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
+- [[designtools.fyi]] — shared: directory-gallery, minimal, design, light
+- [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
+- [[nicelydone.club]] — shared: directory-gallery, minimal, design, light
+- [[type.lol]] — shared: directory-gallery, minimal, design, light

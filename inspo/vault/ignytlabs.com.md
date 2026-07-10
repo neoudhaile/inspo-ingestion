@@ -2,29 +2,24 @@
 url: https://www.ignytlabs.com/
 domain: ignytlabs.com
 title: "IgnytLabs — Build and Validate in 21 days"
-category: tutorial
+vertical: studio-agency
+mode: light
+vibe: [corporate-clean]
+topics: [startups, design]
 extracted_at: 2026-06-05
 tags:
-  - category/tutorial
-  - pattern/long-scroll-marketing
-  - pattern/studio-agency
-  - pattern/framer-site
-  - pattern/comparison-bar
-  - pattern/case-study-cards
-  - pattern/repeated-cta
-  - pattern/cal-com-booking
-  - pattern/gradient-blooms
-  - tech/framer
-  - tech/framer-events-analytics
-  - tech/framerusercontent-cdn
-  - color/cool
-  - font/geist
-  - font/poppins
+  - vertical/studio-agency
+  - vibe/corporate-clean
+  - topic/startups
+  - topic/design
+  - mode/light
 ---
 # IgnytLabs — Build and Validate in 21 days
 > From concept to clickable product. We handle strategy, design, and launch so you can focus on building momentum.  ·  [ignytlabs.com](https://www.ignytlabs.com/)
 
 ![ignytlabs.com](../../screenshots/ignytlabscom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/corporate-clean  ·  **Topics:** #topic/startups #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 Marketing site for IgnytLabs, an MVP studio (founder Prajwal Tomar) that promises to build and validate a product in 21 days — the h1 reads 'Build and Validate in 21 days' and the meta pitch is 'From concept to clickable product.' It is the tweet author's own studio, linked alongside the CLAUDE.md write-up.
@@ -44,6 +39,7 @@ Glossy SaaS-agency look on a white canvas (rgb 255,255,255) with soft blue blurr
 - **Fonts:** Geist (body/UI), Poppins (display), Inter fallback.
 - **Fonts loaded:** Geist 300, Geist 400, Poppins 400
 - **Tech stack:** Framer, Framer Events (analytics), framerusercontent CDN
+- **Keywords:** long-scroll-marketing, studio-agency, framer-site, comparison-bar, case-study-cards, repeated-cta, cal-com-booking, gradient-blooms
 - **Media mix:** img 184 · canvas 2 · video 1 · svg 72 · iframe 1
 - **Page height:** 13824px (single-screen: False)
 - **Responsive:** At 390px the multi-column sections stack into a single column (page height grows ~13,800→18,400px); no expanded nav links were exposed in the probe.
@@ -52,7 +48,9 @@ Glossy SaaS-agency look on a white canvas (rgb 255,255,255) with soft blue blurr
 - **Extracted:** 2026-06-05 · Playwright MCP — 1440x900 fullPage + DOM probe + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[jenni.ai]] [[creao.ai]] [[farza.com]]
-
-## Tags
-#category/tutorial #pattern/long-scroll-marketing #pattern/studio-agency #pattern/framer-site #pattern/comparison-bar #pattern/case-study-cards #pattern/repeated-cta #pattern/cal-com-booking #pattern/gradient-blooms #tech/framer #tech/framer-events-analytics #tech/framerusercontent-cdn #color/cool #font/geist #font/poppins
+- [[drafts9.com]] — shared: studio-agency, corporate-clean, startups, design, light
+- [[varickagents.com]] — shared: studio-agency, corporate-clean, startups, light
+- [[ddlabstudio.com]] — shared: studio-agency, startups, design
+- [[northgarden.com]] — shared: studio-agency, design, light
+- [[offthewall.studio]] — shared: studio-agency, design, light
+- [[ravalabs.com]] — shared: studio-agency, design, light

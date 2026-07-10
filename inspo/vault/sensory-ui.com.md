@@ -2,34 +2,25 @@
 url: https://www.sensory-ui.com/
 domain: sensory-ui.com
 title: "sensory-ui - Semantic Sound for React & Next.js"
-category: uncategorized
+vertical: tool-app
+mode: light
+vibe: [editorial, minimal]
+topics: [engineering, design]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - aesthetic/playful
-  - aesthetic/editorial
-  - aesthetic/light
-  - pattern/developer-tool
-  - pattern/sound-ui
-  - pattern/shadcn
-  - pattern/pixel-type
-  - pattern/editorial
-  - pattern/light-mode
-  - pattern/red-accent
-  - pattern/open-source
-  - tech/shadcn-ui-tokens
-  - tech/geist
-  - tech/self-hosted-analytics-p-sensory-ui-com
-  - color/light
-  - font/geist-variable-100-900
-  - font/geist-mono-variable-100-900
-  - font/geistpixelcircle
+  - vertical/tool-app
+  - vibe/editorial
+  - vibe/minimal
+  - topic/engineering
+  - topic/design
+  - mode/light
 ---
 # sensory-ui - Semantic Sound for React & Next.js
 > A semantic, opt-in sound layer for React and Next.js apps — meaningful audio feedback for UI, built for shadcn/ui.  ·  [sensory-ui.com](https://www.sensory-ui.com/)
 
 ![sensory-ui.com](../../screenshots/sensory-uicom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/engineering #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 sensory-ui, an opt-in semantic sound layer for React/Next.js apps by Satyam Vyas (github.com/SatyamVyas04/sensory-ui) — 'Your website speaks. Give it a voice.' It adds meaningful audio feedback to UI interactions with 17 sound roles across 24 components, built for shadcn/ui (v1 early preview). One of Devster's inspo-dump links.
@@ -49,6 +40,7 @@ Crisp editorial light theme with a single bold accent: a white ground (--backgro
 - **Fonts:** GeistPixelCircle (dotted pixel display headline) + Geist Sans (prose) + Geist Mono (install command) — all three load.
 - **Fonts loaded:** Geist (variable 100-900), Geist Mono (variable 100-900), GeistPixelCircle 500
 - **Tech stack:** shadcn/ui tokens, Geist, self-hosted analytics (p.sensory-ui.com)
+- **Keywords:** developer-tool, sound-ui, shadcn, pixel-type, editorial, light-mode, red-accent, open-source
 - **Media mix:** img 8 · video 1 · svg 73
 - **Page height:** 4785px (single-screen: False)
 - **Responsive:** At 390x844 the hero stacks the tape-machine render above the copy, the headline drops from 60px to 36px, and the sections expand to a ~8,271px scroll; no burger nav.
@@ -57,7 +49,9 @@ Crisp editorial light theme with a single bold accent: a white ground (--backgro
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
-[[akira.sachi.dev]] [[patterncraft.fun]] [[itshover.com]] [[designtools.fyi]] [[joonasvirtanen.com]] [[printingpress.dev]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #aesthetic/playful #aesthetic/editorial #aesthetic/light #pattern/developer-tool #pattern/sound-ui #pattern/shadcn #pattern/pixel-type #pattern/editorial #pattern/light-mode #pattern/red-accent #pattern/open-source #tech/shadcn-ui-tokens #tech/geist #tech/self-hosted-analytics-p-sensory-ui-com #color/light #font/geist-variable-100-900 #font/geist-mono-variable-100-900 #font/geistpixelcircle
+- [[itshover.com]] — shared: tool-app, minimal, engineering, design, light
+- [[patterncraft.fun]] — shared: tool-app, minimal, engineering, design, light
+- [[serif.sh]] — shared: tool-app, editorial, minimal, design, light
+- [[21st.dev]] — shared: editorial, minimal, engineering, design, light
+- [[animations.dev]] — shared: editorial, minimal, engineering, design, light
+- [[interfaces.dev]] — shared: editorial, minimal, engineering, design, light

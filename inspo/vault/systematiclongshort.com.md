@@ -2,33 +2,23 @@
 url: https://www.systematiclongshort.com/
 domain: systematiclongshort.com
 title: "Systematic Long Short | Substack"
-category: uncategorized
+vertical: publication-newsletter
+mode: dark
+vibe: [editorial]
+topics: [finance]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - pattern/substack
-  - pattern/newsletter
-  - pattern/email-gate
-  - pattern/subscribe-modal
-  - pattern/dark-theme
-  - pattern/serif-reading
-  - pattern/finance
-  - pattern/default-theme
-  - pattern/custom-domain
-  - tech/substack
-  - tech/sentry
-  - tech/datadog-rum
-  - tech/google-tag-manager
-  - tech/cloudflare
-  - color/dark
-  - color/warm
-  - font/spectral-400-loaded-inter-sf-pro-display-declared-via-system-stack
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - topic/finance
+  - mode/dark
 ---
 # Systematic Long Short | Substack
 > Understand how the game is played at the highest levels  ·  [systematiclongshort.com](https://www.systematiclongshort.com/)
 
 ![systematiclongshort.com](../../screenshots/systematiclongshortcom.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial  ·  **Topics:** #topic/finance  ·  **Mode:** #mode/dark
 
 ## What it is
 The custom-domain home of "Systematic Long Short", a Substack newsletter (h1 "Systematic Long Short") written by an entrepreneur and systematic portfolio manager about quant/hedge-fund investing — "I've sat in the PM seat at pod shops and managed real money at scale... I want to help you understand how the game is played at the highest levels." Over 5,000 subscribers per the on-page count.
@@ -48,6 +38,7 @@ Near-stock Substack dark theme: a charcoal #171717 web background with Substack'
 - **Fonts:** Spectral (serif) for reading body; SF Pro Display / system sans for UI + h1
 - **Fonts loaded:** Spectral 400 (loaded); Inter + SF Pro Display declared via system stack
 - **Tech stack:** Substack, Sentry, Datadog RUM, Google Tag Manager, Cloudflare
+- **Keywords:** substack, newsletter, email-gate, subscribe-modal, dark-theme, serif-reading, finance, default-theme, custom-domain
 - **Media mix:** img 16 · svg 57 · iframe 2
 - **Page height:** 2388px (single-screen: False)
 - **Responsive:** At 390x844 it stays single-column on the Substack responsive template; scrollHeight grows to ~2,836px with the subscribe gate filling the viewport.
@@ -56,7 +47,9 @@ Near-stock Substack dark theme: a charcoal #171717 web background with Substack'
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[letters.thedankoe.com]] [[geniusmargins.com]] [[bigplayers.co]] [[affiliatenetwork.com]] [[ashpreetbedi.com]] [[crustdata.com]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #pattern/substack #pattern/newsletter #pattern/email-gate #pattern/subscribe-modal #pattern/dark-theme #pattern/serif-reading #pattern/finance #pattern/default-theme #pattern/custom-domain #tech/substack #tech/sentry #tech/datadog-rum #tech/google-tag-manager #tech/cloudflare #color/dark #color/warm #font/spectral-400-loaded-inter-sf-pro-display-declared-via-system-stack
+- [[letters.thedankoe.com]] — shared: publication-newsletter, editorial, dark
+- [[outlandermag.com]] — shared: publication-newsletter, editorial, dark
+- [[claude.com]] — shared: publication-newsletter, editorial
+- [[geniusmargins.com]] — shared: publication-newsletter, editorial
+- [[gregisenberg.com]] — shared: publication-newsletter, editorial
+- [[interfaces.dev]] — shared: publication-newsletter, editorial

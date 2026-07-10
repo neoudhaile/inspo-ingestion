@@ -2,31 +2,25 @@
 url: https://emilkowal.ski/skill
 domain: emilkowal.ski
 title: "Emil Kowalski — AI Skills for Design Engineers"
-category: tools-build
+vertical: personal-blog
+mode: light
+vibe: [minimal]
+topics: [design, ai, engineering]
 extracted_at: 2026-07-05
 tags:
-  - category/tools-build
-  - aesthetic/minimal
-  - pattern/personal-site
-  - pattern/text-first
-  - pattern/minimal
-  - pattern/warm-white
-  - pattern/inter
-  - pattern/mono
-  - pattern/nextjs
-  - pattern/ai-skills
-  - pattern/design-engineering
-  - tech/next-js-next-font
-  - tech/self-hosted
-  - color/monochrome
-  - color/warm
-  - font/sans-100-900-variable
-  - font/mono
+  - vertical/personal-blog
+  - vibe/minimal
+  - topic/design
+  - topic/ai
+  - topic/engineering
+  - mode/light
 ---
 # Emil Kowalski — AI Skills for Design Engineers
 > For designers and engineers to help them build better user interfaces.  ·  [emilkowal.ski](https://emilkowal.ski/skill)
 
 ![emilkowal.ski](../../screenshots/emilkowalski.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/design #topic/ai #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The /skill page on design engineer Emil Kowalski's personal site, where he publishes 'AI Skills for Design Engineers' — the /emil-design-eng builder skill and the /review-animations reviewer skill — 'a skill file based on the articles written on Emil Kowalski's personal site.' It's the exact page the bookmarked tweet links.
@@ -46,6 +40,7 @@ Quiet, typographic, warm-minimal — the same house style as animations.dev. Fro
 - **Fonts:** A custom-named 'Sans' (variable 100–900) for text and a 'Mono' for code — Emil's minimal two-face system.
 - **Fonts loaded:** Sans 100-900 (variable), Mono
 - **Tech stack:** Next.js (next/font), self-hosted
+- **Keywords:** personal-site, text-first, minimal, warm-white, inter, mono, nextjs, ai-skills, design-engineering
 - **Media mix:** svg 4
 - **Page height:** 1223px (single-screen: False)
 - **Responsive:** At 390x844 it stays a single reading column (grows ~1,223 → 1,325px); the narrow measure just fills the width — no nav collapse needed.
@@ -53,7 +48,9 @@ Quiet, typographic, warm-minimal — the same house style as animations.dev. Fro
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[animations.dev]] [[richzou.com]] [[willmanidis.com]] [[alisawuffles.github.io]] [[davidwinalda.com]] [[daviskeene.com]]
-
-## Tags
-#category/tools-build #aesthetic/minimal #pattern/personal-site #pattern/text-first #pattern/minimal #pattern/warm-white #pattern/inter #pattern/mono #pattern/nextjs #pattern/ai-skills #pattern/design-engineering #tech/next-js-next-font #tech/self-hosted #color/monochrome #color/warm #font/sans-100-900-variable #font/mono
+- [[amanml.com]] — shared: personal-blog, minimal, ai, engineering, light
+- [[21st.dev]] — shared: minimal, design, ai, engineering, light
+- [[anyblockers.com]] — shared: personal-blog, minimal, engineering, light
+- [[nehasharma.dev]] — shared: personal-blog, ai, engineering, light
+- [[nicolasbustamante.com]] — shared: personal-blog, minimal, ai, light
+- [[performance.dev]] — shared: personal-blog, minimal, engineering, light

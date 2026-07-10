@@ -2,35 +2,24 @@
 url: https://www.simple.ink/
 domain: simple.ink
 title: "Notion Website Maker: Create A Free Website Built In Notion"
-category: favorites
+vertical: startup-product
+mode: light
+vibe: [corporate-clean, playful]
+topics: [productivity]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/developer-product
-  - pattern/saas-landing
-  - pattern/webflow
-  - pattern/product-mockup-hero
-  - pattern/social-proof-wall
-  - pattern/live-embeds
-  - pattern/seo-faq
-  - pattern/freemium
-  - pattern/hellobar-promo
-  - pattern/system-fonts
-  - tech/webflow
-  - tech/google-analytics
-  - tech/google-tag-manager
-  - tech/firstpromoter
-  - tech/hellobar
-  - tech/zendesk
-  - tech/cloudfront
-  - color/warm
-  - color/cool
-  - font/system-fonts
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - vibe/playful
+  - topic/productivity
+  - mode/light
 ---
 # Notion Website Maker: Create A Free Website Built In Notion
 > Turn your Notion page into your website in 1 minute — free, no-code, no credit card.  ·  [simple.ink](https://www.simple.ink/)
 
 ![simple.ink](../../screenshots/simpleink.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean #vibe/playful  ·  **Topics:** #topic/productivity  ·  **Mode:** #mode/light
 
 ## What it is
 A no-code SaaS that turns any Notion page into a live, custom-domain website in one click. The pitch is right there in the hero — 'Build a website with Notion' — and it's freemium with no credit card to start. The audience is Notion power-users who already keep their content in Notion and want it published as a real site (portfolios, help centers, job boards, landing pages) without touching code.
@@ -50,6 +39,7 @@ Built on Webflow (all assets served from cdn.prod.website-files.com, a single We
 - **Fonts:** System UI stack only — no brand webfont payload (only a 'webflow-icons' icon font loads).
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Webflow, Google Analytics, Google Tag Manager, FirstPromoter, Hellobar, Zendesk, Cloudfront
+- **Keywords:** saas-landing, webflow, product-mockup-hero, social-proof-wall, live-embeds, seo-faq, freemium, hellobar-promo, system-fonts
 - **Media mix:** img 56 · svg 80 · iframe 5
 - **Page height:** 15515px (single-screen: False)
 - **Responsive:** At 390px the page reflows to a single column, grows to ~21.6k px, and the top nav collapses behind a hamburger menu.
@@ -57,7 +47,9 @@ Built on Webflow (all assets served from cdn.prod.website-files.com, a single We
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[addyosmani.com]] [[b150.ai]] [[badmarketing.com]] [[bigideasdb.com]] [[bird.onethreenine.net]] [[claude.com]]
-
-## Tags
-#category/favorites #aesthetic/developer-product #pattern/saas-landing #pattern/webflow #pattern/product-mockup-hero #pattern/social-proof-wall #pattern/live-embeds #pattern/seo-faq #pattern/freemium #pattern/hellobar-promo #pattern/system-fonts #tech/webflow #tech/google-analytics #tech/google-tag-manager #tech/firstpromoter #tech/hellobar #tech/zendesk #tech/cloudfront #color/warm #color/cool #font/system-fonts
+- [[gatheros.co]] — shared: startup-product, corporate-clean, productivity, light
+- [[linkeddit.com]] — shared: startup-product, corporate-clean, playful, light
+- [[photon.codes]] — shared: startup-product, corporate-clean, playful, light
+- [[shipper.now]] — shared: startup-product, corporate-clean, playful, light
+- [[flowstate.com]] — shared: startup-product, corporate-clean, productivity
+- [[apps.ankiweb.net]] — shared: startup-product, productivity, light

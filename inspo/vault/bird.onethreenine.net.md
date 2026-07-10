@@ -2,28 +2,23 @@
 url: https://bird.onethreenine.net
 domain: bird.onethreenine.net
 title: "apartment birds"
-category: uncategorized
+vertical: experiment-art
+mode: light
+vibe: [organic-warm]
+topics: [art]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - pattern/single-screen
-  - pattern/generative
-  - pattern/live-data
-  - pattern/collage
-  - pattern/watercolor
-  - pattern/system-fonts
-  - pattern/iot
-  - pattern/birdwatching
-  - tech/vanilla-js-no-framework
-  - tech/cloudflare
-  - tech/birdnet-cornell
-  - color/warm
-  - font/system-fonts
+  - vertical/experiment-art
+  - vibe/organic-warm
+  - topic/art
+  - mode/light
 ---
 # apartment birds
 > A tiny microphone on my apartment balcony listens around the clock — realtime bird recognition via Cornell's BirdNET. NVIDIA ShadowPlay, but for birdsong.  ·  [bird.onethreenine.net](https://bird.onethreenine.net)
 
 ![bird.onethreenine.net](../../screenshots/birdonethreeninenet.png)
+
+**Vertical:** #vertical/experiment-art  ·  **Vibe:** #vibe/organic-warm  ·  **Topics:** #topic/art  ·  **Mode:** #mode/light
 
 ## What it is
 The live front-end of Teddy Warner's 'Avian Visitors' project — a balcony microphone running Cornell's BirdNET that recognises passing birds in realtime and assembles them into a collage. The companion writeup lives at theodore.net/projects/AvianVisitors/ and the code at github.com/Twarner491/AvianVisitors.
@@ -43,6 +38,7 @@ A warm paper-and-ink scheme defined entirely in CSS variables — --paper #fcfcf
 - **Fonts:** System only — serif display (Iowan Old Style) + ui-monospace labels; no webfonts loaded
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Vanilla JS (no framework), Cloudflare, BirdNET (Cornell)
+- **Keywords:** single-screen, generative, live-data, collage, watercolor, system-fonts, iot, birdwatching
 - **Media mix:** img 29 · svg 20
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single screen (scrollHeight 844); the h1 scales down 40px → 24px and the bird collage shrinks to fit.
@@ -51,7 +47,6 @@ A warm paper-and-ink scheme defined entirely in CSS variables — --paper #fcfcf
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[daryl.cv]] [[killedbyopenai.com]] [[kmk0.com]] [[mo1.app]] [[addyosmani.com]] [[akira.sachi.dev]]
-
-## Tags
-#category/uncategorized #pattern/single-screen #pattern/generative #pattern/live-data #pattern/collage #pattern/watercolor #pattern/system-fonts #pattern/iot #pattern/birdwatching #tech/vanilla-js-no-framework #tech/cloudflare #tech/birdnet-cornell #color/warm #font/system-fonts
+- [[iacopoapps.appspot.com]] — shared: experiment-art, art
+- [[lelezhang.design]] — shared: organic-warm, art, light
+- [[zzz.zoomquilt.org]] — shared: experiment-art, art

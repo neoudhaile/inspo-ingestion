@@ -2,32 +2,24 @@
 url: https://outlandermag.com/
 domain: outlandermag.com
 title: "Outlander Magazine"
-category: irl
+vertical: publication-newsletter
+mode: dark
+vibe: [editorial, luxury]
+topics: [fashion]
 extracted_at: 2026-06-06
 tags:
-  - category/irl
-  - aesthetic/editorial
-  - aesthetic/dark
-  - aesthetic/luxury
-  - pattern/fashion-editorial
-  - pattern/streetwear
-  - pattern/dark-mode
-  - pattern/shopify
-  - pattern/article-grid
-  - pattern/magazine
-  - pattern/full-bleed-hero
-  - tech/shopify
-  - tech/adobe-fonts-typekit
-  - tech/mapbox
-  - tech/google-tag-manager
-  - color/dark
-  - font/acumin-pro
-  - font/acumin-pro-wide
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - vibe/luxury
+  - topic/fashion
+  - mode/dark
 ---
 # Outlander Magazine
 > Always First at Keeping You Tapped in To Fashion. Active In The Culture Since 2014.  ·  [outlandermag.com](https://outlandermag.com/)
 
 ![outlandermag.com](../../screenshots/outlandermagcom.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial #vibe/luxury  ·  **Topics:** #topic/fashion  ·  **Mode:** #mode/dark
 
 ## What it is
 Outlander Magazine, a streetwear / fashion editorial publication and shop that's been 'Active In The Culture Since 2014.' It pairs a steady run of sneaker- and fashion-news stories with a print magazine and a store; the tweet's Chanel × Bergdorf window clip is exactly the kind of culture moment it covers.
@@ -47,6 +39,7 @@ High-contrast dark editorial. The body sits on pure black (rgb(0,0,0), with --bl
 - **Fonts:** Acumin Pro + Acumin Pro Wide (Adobe Typekit), with an 'ndot' dot-matrix display face reserved for accents.
 - **Fonts loaded:** acumin-pro 400, acumin-pro 600, acumin-pro 700, acumin-pro-wide 400, acumin-pro-wide 500, acumin-pro-wide 600, acumin-pro-wide 700
 - **Tech stack:** Shopify, Adobe Fonts (Typekit), Mapbox, Google Tag Manager
+- **Keywords:** fashion-editorial, streetwear, dark-mode, shopify, article-grid, magazine, full-bleed-hero
 - **Media mix:** img 30 · svg 4 · iframe 2
 - **Page height:** 3879px (single-screen: False)
 - **Responsive:** At 390px it reflows to a single column and the top nav collapses behind a hamburger (~4.7k px).
@@ -54,7 +47,9 @@ High-contrast dark editorial. The body sits on pure black (rgb(0,0,0), with --bl
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[backgrounds.supply]] [[badmarketing.com]] [[davekrugman.com]] [[daytona.io]] [[ditther.com]] [[flowstate.com]]
-
-## Tags
-#category/irl #aesthetic/editorial #aesthetic/dark #aesthetic/luxury #pattern/fashion-editorial #pattern/streetwear #pattern/dark-mode #pattern/shopify #pattern/article-grid #pattern/magazine #pattern/full-bleed-hero #tech/shopify #tech/adobe-fonts-typekit #tech/mapbox #tech/google-tag-manager #color/dark #font/acumin-pro #font/acumin-pro-wide
+- [[letters.thedankoe.com]] — shared: publication-newsletter, editorial, dark
+- [[systematiclongshort.com]] — shared: publication-newsletter, editorial, dark
+- [[claude.com]] — shared: publication-newsletter, editorial
+- [[ddlabstudio.com]] — shared: editorial, luxury, dark
+- [[eko.lumaris.works]] — shared: editorial, luxury, dark
+- [[geniusmargins.com]] — shared: publication-newsletter, editorial

@@ -2,31 +2,25 @@
 url: https://sceneai.art/
 domain: sceneai.art
 title: "SceneAI — The Best UI Prompt Library on the Internet"
-category: design
+vertical: directory-gallery
+mode: dark
+vibe: [experimental, technical]
+topics: [design, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/design
-  - aesthetic/dark
-  - pattern/prompt-library
-  - pattern/dark-theme
-  - pattern/video-preview-grid
-  - pattern/masonry-gallery
-  - pattern/tailwind
-  - pattern/geist
-  - pattern/gradient-cta
-  - pattern/copy-to-clipboard
-  - pattern/ai-design
-  - pattern/paywall
-  - tech/tailwind-css-v4
-  - tech/geist-self-hosted
-  - tech/cloudflare-insights
-  - color/dark
-  - font/geist-100-900
+  - vertical/directory-gallery
+  - vibe/experimental
+  - vibe/technical
+  - topic/design
+  - topic/ai
+  - mode/dark
 ---
 # SceneAI — The Best UI Prompt Library on the Internet
 > Stop designing, start generating.  ·  [sceneai.art](https://sceneai.art/)
 
 ![sceneai.art](../../screenshots/sceneaiart.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/experimental #vibe/technical  ·  **Topics:** #topic/design #topic/ai  ·  **Mode:** #mode/dark
 
 ## What it is
 A paid library of copy-paste AI prompts for building landing pages — the meta pitch is 'Stop designing, start generating. Build high-converting landing pages with AI-generated hero sections, animated backgrounds, and production-ready gradients — copy, customize, and launch in minutes.' The catalog is split into Landing Pages (75 prompts), Premium Animated Backgrounds (16) and High-Resolution Gradients (2 collections), monetized as a '60% OFF' 'Get All Access' subscription. This is the 'barebones one [that] prints millions' the tweet is dunking on.
@@ -46,13 +40,16 @@ A dark, near-black neutral canvas (--background #171717, rendered rgb(23,23,23))
 - **Fonts:** Geist (self-hosted) is the only webfont; the mono fallback is the system ui-monospace stack.
 - **Fonts loaded:** Geist 100-900
 - **Tech stack:** Tailwind CSS v4, Geist (self-hosted), Cloudflare Insights
+- **Keywords:** prompt-library, dark-theme, video-preview-grid, masonry-gallery, tailwind, geist, gradient-cta, copy-to-clipboard, ai-design, paywall
 - **Media mix:** img 5 · video 40 · svg 38
 - **Page height:** 6358px (single-screen: False)
 - **Responsive:** At 390x844 the masonry collapses to a single 358px column (grid-template-columns: 358px), the top nav becomes a hamburger, there is no horizontal overflow, and the stacked cards stretch the page to ~18.8k px.
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[ashpreetbedi.com]] [[heyneuma.com]] [[tryponcho.com]] [[affiliatenetwork.com]] [[bigideasdb.com]] [[bigplayers.co]]
-
-## Tags
-#category/design #aesthetic/dark #pattern/prompt-library #pattern/dark-theme #pattern/video-preview-grid #pattern/masonry-gallery #pattern/tailwind #pattern/geist #pattern/gradient-cta #pattern/copy-to-clipboard #pattern/ai-design #pattern/paywall #tech/tailwind-css-v4 #tech/geist-self-hosted #tech/cloudflare-insights #color/dark #font/geist-100-900
+- [[motionsites.ai]] — shared: directory-gallery, technical, design, ai, dark
+- [[killedbyopenai.com]] — shared: directory-gallery, technical, ai, dark
+- [[roam.neesh.page]] — shared: directory-gallery, experimental, design, dark
+- [[21st.dev]] — shared: directory-gallery, design, ai
+- [[coolsites.ai]] — shared: directory-gallery, design, ai
+- [[crustdata.com]] — shared: experimental, technical, ai, dark

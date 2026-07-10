@@ -2,33 +2,25 @@
 url: https://creao.ai/
 domain: creao.ai
 title: "CREAO AI │ Agents that run your business"
-category: uncategorized
+vertical: startup-product
+mode: light
+vibe: [corporate-clean, editorial]
+topics: [ai, startups]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - pattern/framer-site
-  - pattern/saas-landing
-  - pattern/long-scroll
-  - pattern/heavy-display-sans
-  - pattern/integrations-logo-wall
-  - pattern/inline-mock-ui
-  - pattern/single-cta-funnel
-  - pattern/ai-agents
-  - tech/framer
-  - tech/amplitude
-  - tech/google-tag-manager
-  - tech/cloudflare-insights
-  - tech/linkedin-facebook-twitter-ad-pixels
-  - tech/google-fonts
-  - color/monochrome
-  - font/frank-ruhl-libre
-  - font/inter
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - vibe/editorial
+  - topic/ai
+  - topic/startups
+  - mode/light
 ---
 # CREAO AI │ Agents that run your business
 > CREAO builds AI agents that run your work — they plug into your existing tools, learn how you operate, and compound your knowledge around the clock.  ·  [creao.ai](https://creao.ai/)
 
 ![creao.ai](../../screenshots/creaoai.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean #vibe/editorial  ·  **Topics:** #topic/ai #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The marketing homepage for CREAO, an AI-agent platform that sells 'agents that run your business.' The whole long-scroll page is a pitch: spin up agents tailored to your work that plug into your existing stack and operate 24/7 so 'a week of work' is done 'by Tuesday.'
@@ -48,6 +40,7 @@ Clean, bright SaaS-editorial. A white ground (rgb(255,255,255)) carries near-bla
 - **Fonts:** DM Sans for the heavy display headlines (h1 80px/900), Inter for body (weights 400/500/700 loaded), and a Frank Ruhl Libre serif loaded for accent text; many other families are declared in Framer's font manifest but left unloaded.
 - **Fonts loaded:** Frank Ruhl Libre 400, Frank Ruhl Libre 600, Inter 400, Inter 500, Inter 700
 - **Tech stack:** Framer, Amplitude, Google Tag Manager, Cloudflare (Insights), LinkedIn/Facebook/Twitter ad pixels, Google Fonts
+- **Keywords:** framer-site, saas-landing, long-scroll, heavy-display-sans, integrations-logo-wall, inline-mock-ui, single-cta-funnel, ai-agents
 - **Media mix:** img 34 · svg 48 · iframe 1
 - **Page height:** 8986px (single-screen: False)
 - **Responsive:** At 390px the multi-column sections collapse to one stacked column — the h1 scales from 80px to 44px and the page roughly redoubles in height (8986px → 14370px).
@@ -55,7 +48,9 @@ Clean, bright SaaS-editorial. A white ground (rgb(255,255,255)) carries near-bla
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[jenni.ai]] [[ankit-rai.com]] [[asekachov.com]] [[bigideasdb.com]] [[crustdata.com]] [[deel.com]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #pattern/framer-site #pattern/saas-landing #pattern/long-scroll #pattern/heavy-display-sans #pattern/integrations-logo-wall #pattern/inline-mock-ui #pattern/single-cta-funnel #pattern/ai-agents #tech/framer #tech/amplitude #tech/google-tag-manager #tech/cloudflare-insights #tech/linkedin-facebook-twitter-ad-pixels #tech/google-fonts #color/monochrome #font/frank-ruhl-libre #font/inter
+- [[shipper.now]] — shared: startup-product, corporate-clean, ai, startups, light
+- [[cofounder.co]] — shared: startup-product, editorial, ai, startups
+- [[b150.ai]] — shared: startup-product, ai, startups, light
+- [[backdoorai.app]] — shared: startup-product, ai, startups, light
+- [[bigideasdb.com]] — shared: startup-product, corporate-clean, startups, light
+- [[contralabs.com]] — shared: startup-product, editorial, ai, light

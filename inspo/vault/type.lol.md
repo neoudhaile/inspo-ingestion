@@ -2,29 +2,24 @@
 url: https://type.lol/
 domain: type.lol
 title: "Discover – type.lol"
-category: uncategorized
+vertical: directory-gallery
+mode: light
+vibe: [minimal, editorial]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/uncategorized
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - pattern/type-directory
-  - pattern/foundries
-  - pattern/editorial
-  - pattern/monochrome
-  - pattern/react
-  - pattern/custom-fonts
-  - pattern/specimen-iframes
-  - pattern/minimal
-  - tech/react
-  - tech/self-hosted-no-third-party-analytics-or-cdn-scripts-detected
-  - color/monochrome
-  - font/gorp-serif-variable-100-900
+  - vertical/directory-gallery
+  - vibe/minimal
+  - vibe/editorial
+  - topic/design
+  - mode/light
 ---
 # Discover – type.lol
 > Discover and explore independent type foundries from around the world. Browse 1,100+ foundries, 14,000+ typefaces, and 1,600+ designers.  ·  [type.lol](https://type.lol/)
 
 ![type.lol](../../screenshots/typelol.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A discovery directory for independent type foundries. The h1 is 'Discover type from independent foundries' and the meta description reads 'Discover and explore independent type foundries from around the world. Browse 1,100+ foundries, 14,000+ typefaces, and 1,600+ designers.'
@@ -44,6 +39,7 @@ A restrained monochrome editorial system: getComputedStyle reports a white body 
 - **Fonts:** Bespoke type throughout — variable 'GORP Serif' (100–900) loaded as the primary family, with 'Covik Sans Mono', 'Retain' and 'ProGORP' also declared; individual foundry specimens load their own fonts inside iframes.
 - **Fonts loaded:** GORP Serif (variable 100-900)
 - **Tech stack:** React, Self-hosted (no third-party analytics or CDN scripts detected)
+- **Keywords:** type-directory, foundries, editorial, monochrome, react, custom-fonts, specimen-iframes, minimal
 - **Media mix:** img 1 · svg 49 · iframe 5
 - **Page height:** 900px (single-screen: False)
 - **Responsive:** At 390x844 a burger nav appears and the foundry grid reflows to a single 342px column with no horizontal overflow; the document height stays viewport-locked (internal app-shell scroll).
@@ -52,7 +48,9 @@ A restrained monochrome editorial system: getComputedStyle reports a white body 
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true. The page is an app shell with an internal scroll container, so document scrollHeight is viewport-height.
 
 ## Related sites
-[[animations.dev]] [[asekachov.com]] [[daviskeene.com]] [[designengineer.tools]] [[eko.lumaris.works]] [[vanschneider.com]]
-
-## Tags
-#category/uncategorized #aesthetic/editorial #aesthetic/minimal #pattern/type-directory #pattern/foundries #pattern/editorial #pattern/monochrome #pattern/react #pattern/custom-fonts #pattern/specimen-iframes #pattern/minimal #tech/react #tech/self-hosted-no-third-party-analytics-or-cdn-scripts-detected #color/monochrome #font/gorp-serif-variable-100-900
+- [[21st.dev]] — shared: directory-gallery, minimal, editorial, design, light
+- [[designtools.fyi]] — shared: directory-gallery, minimal, editorial, design, light
+- [[are.na]] — shared: directory-gallery, minimal, editorial, light
+- [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
+- [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
+- [[nicelydone.club]] — shared: directory-gallery, minimal, design, light

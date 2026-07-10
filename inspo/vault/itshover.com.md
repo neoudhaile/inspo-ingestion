@@ -2,30 +2,25 @@
 url: https://www.itshover.com/
 domain: itshover.com
 title: "Its Hover"
-category: uncategorized
+vertical: tool-app
+mode: light
+vibe: [minimal, technical]
+topics: [design, engineering]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/developer-product
-  - pattern/icon-library
-  - pattern/animated-icons
-  - pattern/open-source
-  - pattern/monospace
-  - pattern/react
-  - pattern/shadcn
-  - pattern/terracotta
-  - pattern/developer-tool
-  - tech/shadcn-ui-tokens
-  - tech/motion
-  - tech/umami-analytics
-  - tech/geist-mono
-  - color/cool
-  - font/geist-mono-variable-100-900
+  - vertical/tool-app
+  - vibe/minimal
+  - vibe/technical
+  - topic/design
+  - topic/engineering
+  - mode/light
 ---
 # Its Hover
 > Animated icons that move with intent.  ·  [itshover.com](https://www.itshover.com/)
 
 ![itshover.com](../../screenshots/itshovercom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/design #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 Its Hover, an open-source library of animated icons by Abhijit (@abhijitwt; github.com/itshover/itshover) — 'editable react components with motion baked in' that work with Next.js, shadcn and modern design systems (h1s: 'itshover' / 'icons that move with intent'). One of Devster's inspo-dump links.
@@ -45,6 +40,7 @@ Warm monospace developer aesthetic: a white ground (--background #fff) with near
 - **Fonts:** Geist Mono (the loaded UI face, set as --font-sans) with JetBrains Mono declared as --font-mono; the Geist Sans variants are declared but stay unloaded on the home view.
 - **Fonts loaded:** Geist Mono (variable 100-900)
 - **Tech stack:** shadcn/ui tokens, Motion, Umami (analytics), Geist Mono
+- **Keywords:** icon-library, animated-icons, open-source, monospace, react, shadcn, terracotta, developer-tool
 - **Media mix:** img 4 · video 2 · svg 52
 - **Page height:** 4723px (single-screen: False)
 - **Responsive:** At 390x844 the floating hero glyphs reflow and the page grows to a ~6,745px scroll while the mono headline stays at 24px; the header has no burger.
@@ -53,7 +49,9 @@ Warm monospace developer aesthetic: a white ground (--background #fff) with near
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
-[[akira.sachi.dev]] [[patterncraft.fun]] [[sensory-ui.com]] [[printingpress.dev]] [[21st.dev]] [[davekrugman.com]]
-
-## Tags
-#category/uncategorized #aesthetic/developer-product #pattern/icon-library #pattern/animated-icons #pattern/open-source #pattern/monospace #pattern/react #pattern/shadcn #pattern/terracotta #pattern/developer-tool #tech/shadcn-ui-tokens #tech/motion #tech/umami-analytics #tech/geist-mono #color/cool #font/geist-mono-variable-100-900
+- [[akira.sachi.dev]] — shared: tool-app, minimal, technical, engineering, light
+- [[patterncraft.fun]] — shared: tool-app, minimal, design, engineering, light
+- [[sensory-ui.com]] — shared: tool-app, minimal, design, engineering, light
+- [[designengineer.tools]] — shared: minimal, technical, design, engineering, light
+- [[transitions.dev]] — shared: minimal, technical, design, engineering, light
+- [[colf.dev]] — shared: tool-app, technical, engineering, light

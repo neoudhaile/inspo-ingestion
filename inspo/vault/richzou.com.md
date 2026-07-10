@@ -2,29 +2,24 @@
 url: https://richzou.com/
 domain: richzou.com
 title: "Rich Zou — personal site (founder of Bo Le Capital)"
-category: reading
+vertical: personal-blog
+mode: light
+vibe: [minimal]
+topics: [writing, startups]
 extracted_at: 2026-07-05
 tags:
-  - category/reading
-  - aesthetic/minimal
-  - pattern/personal-site
-  - pattern/text-only
-  - pattern/minimalist
-  - pattern/geist
-  - pattern/mono-labels
-  - pattern/nextjs
-  - pattern/single-screen
-  - pattern/essays
-  - tech/next-js-geist-next-font
-  - tech/supabase-storage-content
-  - color/monochrome
-  - font/geist-100-900-variable
-  - font/geist-mono-100-900-variable
+  - vertical/personal-blog
+  - vibe/minimal
+  - topic/writing
+  - topic/startups
+  - mode/light
 ---
 # Rich Zou — personal site (founder of Bo Le Capital)
 > 20 y/o Fuzhounese American. From New York, now based in SF.  ·  [richzou.com](https://richzou.com/)
 
 ![richzou.com](../../screenshots/richzoucom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/writing #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site of Rich Zou (@richzou) — a 20-year-old Fuzhounese-American writer/founder ('From New York, now based in SF'), founder of Bo Le Capital (a talent-investing fund named after 伯乐 / Bo Le, the Chinese figure who could recognise exceptional horses others overlooked; previously 'talent at xAI'). It's the author's hub behind the bookmarked essay.
@@ -44,13 +39,16 @@ Deliberate, quiet minimalism. From getComputedStyle the canvas is near-white rgb
 - **Fonts:** Geist (variable 100–900) for text and Geist Mono for the nav/labels.
 - **Fonts loaded:** Geist 100-900 (variable), Geist Mono 100-900 (variable)
 - **Tech stack:** Next.js (Geist / next-font), Supabase (storage/content)
+- **Keywords:** personal-site, text-only, minimalist, geist, mono-labels, nextjs, single-screen, essays
 - **Media mix:** svg 4
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the one-column bio simply rewraps to a slightly taller single screen (~900 → 1,068px); no nav change.
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[noahzender.com]] [[axiaisacat.indiehacker.bio]] [[daryl.cv]] [[humanoid-index.com]] [[willmanidis.com]] [[alisawuffles.github.io]]
-
-## Tags
-#category/reading #aesthetic/minimal #pattern/personal-site #pattern/text-only #pattern/minimalist #pattern/geist #pattern/mono-labels #pattern/nextjs #pattern/single-screen #pattern/essays #tech/next-js-geist-next-font #tech/supabase-storage-content #color/monochrome #font/geist-100-900-variable #font/geist-mono-100-900-variable
+- [[anyblockers.com]] — shared: personal-blog, minimal, writing, light
+- [[davidwinalda.com]] — shared: personal-blog, minimal, writing, light
+- [[nicolasbustamante.com]] — shared: personal-blog, minimal, startups, light
+- [[noahzender.com]] — shared: personal-blog, minimal, writing, light
+- [[rvivek.com]] — shared: personal-blog, minimal, writing, light
+- [[amanml.com]] — shared: personal-blog, minimal, light

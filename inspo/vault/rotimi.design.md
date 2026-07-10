@@ -2,28 +2,23 @@
 url: https://www.rotimi.design/
 domain: rotimi.design
 title: "Srotimi: Product Design for Ambitious Tech Startups"
-category: design
+vertical: studio-agency
+mode: light
+vibe: [minimal]
+topics: [design]
 extracted_at: 2026-06-06
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - pattern/design-portfolio
-  - pattern/studio
-  - pattern/framer
-  - pattern/project-grid
-  - pattern/case-studies
-  - pattern/minimal
-  - pattern/mono-accent
-  - tech/framer
-  - color/monochrome
-  - font/aeonik-trial-regular
-  - font/geist-mono
+  - vertical/studio-agency
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Srotimi: Product Design for Ambitious Tech Startups
 > Design Partner For Ambitious Tech Startups.  ·  [rotimi.design](https://www.rotimi.design/)
 
 ![rotimi.design](../../screenshots/rotimidesign.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A solo product-design studio portfolio — 'Srotimi' (designer Stephen) — that pitches itself, per the split hero, as a 'Design Partner For / Ambitious Tech Startups.' The promise is to take design off a founder's plate: 'You've got the idea. Great. Leave the rest to me!' It's the studio behind the morphing-halftone card the tweet was showing off.
@@ -43,6 +38,7 @@ Clean, monochrome and gallery-led so the work supplies the color. White ground (
 - **Fonts:** Aeonik (TRIAL Regular 400) for headings + Geist Mono 400 for accents, loaded via Framer (Inter fallback).
 - **Fonts loaded:** Aeonik TRIAL Regular 400, Geist Mono 400
 - **Tech stack:** Framer
+- **Keywords:** design-portfolio, studio, framer, project-grid, case-studies, minimal, mono-accent
 - **Media mix:** img 77 · svg 24 · iframe 1
 - **Page height:** 10599px (single-screen: False)
 - **Responsive:** At 390px the project grid collapses to a single column and the page roughly doubles to ~22.5k px.
@@ -50,7 +46,9 @@ Clean, monochrome and gallery-led so the work supplies the color. White ground (
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[ddlabstudio.com]] [[ravalabs.com]] [[varickagents.com]] [[asekachov.com]] [[kiira.in]] [[affiliatenetwork.com]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/minimal #pattern/design-portfolio #pattern/studio #pattern/framer #pattern/project-grid #pattern/case-studies #pattern/minimal #pattern/mono-accent #tech/framer #color/monochrome #font/aeonik-trial-regular #font/geist-mono
+- [[drafts9.com]] — shared: studio-agency, minimal, design, light
+- [[northgarden.com]] — shared: studio-agency, minimal, design, light
+- [[offthewall.studio]] — shared: studio-agency, minimal, design, light
+- [[ravalabs.com]] — shared: studio-agency, minimal, design, light
+- [[hex.inc]] — shared: studio-agency, minimal, design
+- [[hiivearts.com]] — shared: studio-agency, minimal, light

@@ -2,33 +2,25 @@
 url: https://designengineer.tools/
 domain: designengineer.tools
 title: "Design Engineer Tools — James Warner's single-page curated toolbox for web-focused design engineers"
-category: tools-build
+vertical: directory-gallery
+mode: light
+vibe: [minimal, technical]
+topics: [design, engineering]
 extracted_at: 2026-07-08
 tags:
-  - category/tools-build
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - pattern/directory
-  - pattern/toolbox
-  - pattern/single-page
-  - pattern/editorial
-  - pattern/minimalist
-  - pattern/monochrome
-  - pattern/geist
-  - pattern/favicon-grid
-  - pattern/theme-toggle
-  - pattern/design-engineering
-  - tech/geist-font-pipeline-likely-next-js-no-framework-global-exposed
-  - tech/cloudflare-web-analytics
-  - tech/self-hosted
-  - color/monochrome
-  - color/cool
-  - font/geist-sans-100-900
+  - vertical/directory-gallery
+  - vibe/minimal
+  - vibe/technical
+  - topic/design
+  - topic/engineering
+  - mode/light
 ---
 # Design Engineer Tools — James Warner's single-page curated toolbox for web-focused design engineers
 > A list of useful tools for web-focused design engineers.  ·  [designengineer.tools](https://designengineer.tools/)
 
 ![designengineer.tools](../../screenshots/designengineertools.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/design #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 A single, exhaustive directory page whose h1 pitch is simply 'Design Engineer Tools' and whose meta description reads 'A list of useful tools for web-focused design engineers; curated by James Warner.' It is one long, scannable index of the software a modern web design engineer actually reaches for, footered '2026 - Curated by James Warner.' The tweet's author (Dhruv, jdhruv.dev) is sharing it, not the author of the site.
@@ -48,6 +40,7 @@ Deliberately plain, editorial and near-monochrome so the tool list is the whole 
 - **Fonts:** Geist Sans (loaded, weights 100-900) for everything; Geist Mono declared but reporting unloaded. No icon font - icons are per-tool favicons/SVGs.
 - **Fonts loaded:** Geist Sans 100-900
 - **Tech stack:** Geist font pipeline (likely Next.js; no framework global exposed), Cloudflare Web Analytics, Self-hosted
+- **Keywords:** directory, toolbox, single-page, editorial, minimalist, monochrome, geist, favicon-grid, theme-toggle, design-engineering
 - **Media mix:** img 124 · svg 126
 - **Page height:** 1693px (single-screen: False)
 - **Responsive:** At 390x844 the multi-column grid collapses to a single vertical column (scrollHeight 1,693px -> 5,125px) while the h1 holds at 32px; it becomes one long stacked list of categories.
@@ -56,7 +49,9 @@ Deliberately plain, editorial and near-monochrome so the tool list is the whole 
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true. Captured in the site's default 'System' theme, which resolved to LIGHT (a Dark / Light / System toggle sits in the footer); the tweet's promo image showed the same page in its dark theme.
 
 ## Related sites
-[[humanoid-index.com]] [[asekachov.com]] [[daviskeene.com]] [[designtools.fyi]] [[nicolasbustamante.com]] [[northgarden.com]]
-
-## Tags
-#category/tools-build #aesthetic/editorial #aesthetic/minimal #pattern/directory #pattern/toolbox #pattern/single-page #pattern/editorial #pattern/minimalist #pattern/monochrome #pattern/geist #pattern/favicon-grid #pattern/theme-toggle #pattern/design-engineering #tech/geist-font-pipeline-likely-next-js-no-framework-global-exposed #tech/cloudflare-web-analytics #tech/self-hosted #color/monochrome #color/cool #font/geist-sans-100-900
+- [[21st.dev]] — shared: directory-gallery, minimal, design, engineering, light
+- [[humanoid-index.com]] — shared: directory-gallery, minimal, technical, engineering, light
+- [[itshover.com]] — shared: minimal, technical, design, engineering, light
+- [[transitions.dev]] — shared: minimal, technical, design, engineering, light
+- [[designtools.fyi]] — shared: directory-gallery, minimal, design, light
+- [[lab01.dev]] — shared: minimal, technical, design, engineering

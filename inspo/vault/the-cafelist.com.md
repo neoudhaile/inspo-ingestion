@@ -2,31 +2,25 @@
 url: https://the-cafelist.com/nyc/
 domain: the-cafelist.com
 title: "NYC Cafe List"
-category: uncategorized
+vertical: directory-gallery
+mode: light
+vibe: [organic-warm, editorial]
+topics: [food-drink, travel-places]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - pattern/list-plus-map
-  - pattern/two-pane
-  - pattern/leaderboard-ranking
-  - pattern/interactive-map
-  - pattern/filter-chips
-  - pattern/curated-directory
-  - pattern/score-chips
-  - tech/react
-  - tech/tailwind-css
-  - tech/shadcn-sonner-toasts
-  - tech/google-tag-manager
-  - tech/self-hosted
-  - color/warm
-  - font/dm-sans
-  - font/dm-serif-display
-  - font/ibm-plex-mono
+  - vertical/directory-gallery
+  - vibe/organic-warm
+  - vibe/editorial
+  - topic/food-drink
+  - topic/travel-places
+  - mode/light
 ---
 # NYC Cafe List
 > A hand-curated guide to work-friendly coffee shops, across cities.  ·  [the-cafelist.com](https://the-cafelist.com/nyc/)
 
 ![the-cafelist.com](../../screenshots/thecafelistcom.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/organic-warm #vibe/editorial  ·  **Topics:** #topic/food-drink #topic/travel-places  ·  **Mode:** #mode/light
 
 ## What it is
 A hand-curated, Beli-style directory of work-friendly NYC coffee shops (the nyccafelist.com bookmark redirects here to the-cafelist.com/nyc/). The site's own pitch in the meta is 'A hand-curated guide to work-friendly coffee shops, across cities,' and the page's single h1 is simply 'NYC Cafes.'
@@ -46,6 +40,7 @@ Warm 'paper café' aesthetic rendered in a light theme — an off-white canvas (
 - **Fonts:** DM Sans body, DM Serif Display headings, IBM Plex Mono numerals (Caveat handwriting accent defined but not loaded).
 - **Fonts loaded:** DM Sans 400, DM Serif Display 400, IBM Plex Mono 400, IBM Plex Mono 500, IBM Plex Mono 600
 - **Tech stack:** React, Tailwind CSS, shadcn/sonner toasts, Google Tag Manager, self-hosted
+- **Keywords:** list-plus-map, two-pane, leaderboard-ranking, interactive-map, filter-chips, curated-directory, score-chips
 - **Media mix:** img 136 · svg 157
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390px the two-pane layout collapses to a single full-height list view with a 'Full map' toggle button; filter chips (Open / Rating / Filter) and a 'Nominate' CTA remain.
@@ -53,7 +48,9 @@ Warm 'paper café' aesthetic rendered in a light theme — an off-white canvas (
 - **Extracted:** 2026-06-05 · Playwright MCP — 1440x900 fullPage + DOM probe + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[motionsites.ai]]
-
-## Tags
-#category/uncategorized #pattern/list-plus-map #pattern/two-pane #pattern/leaderboard-ranking #pattern/interactive-map #pattern/filter-chips #pattern/curated-directory #pattern/score-chips #tech/react #tech/tailwind-css #tech/shadcn-sonner-toasts #tech/google-tag-manager #tech/self-hosted #color/warm #font/dm-sans #font/dm-serif-display #font/ibm-plex-mono
+- [[21st.dev]] — shared: directory-gallery, editorial, light
+- [[are.na]] — shared: directory-gallery, editorial, light
+- [[coolsites.ai]] — shared: directory-gallery, organic-warm, light
+- [[designtools.fyi]] — shared: directory-gallery, editorial, light
+- [[type.lol]] — shared: directory-gallery, editorial, light
+- [[typo.love]] — shared: directory-gallery, organic-warm, light

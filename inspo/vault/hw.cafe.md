@@ -2,37 +2,25 @@
 url: https://hw.cafe/
 domain: hw.cafe
 title: "Hello World Cafe — New York's First 24/7 Cafe for Builders"
-category: design
+vertical: startup-product
+mode: dark
+vibe: [technical, editorial]
+topics: [engineering, food-drink]
 extracted_at: 2026-06-06
 tags:
-  - category/design
-  - aesthetic/developer-product
-  - aesthetic/dark
-  - aesthetic/editorial
-  - pattern/terminal-aesthetic
-  - pattern/monospace-ui
-  - pattern/ascii-art
-  - pattern/single-page-landing
-  - pattern/anchor-nav
-  - pattern/waitlist-funnel
-  - pattern/dark-theme
-  - pattern/serif-display-contrast
-  - pattern/web3-walletconnect
-  - pattern/self-hosted
-  - tech/self-hosted-all-assets-from-hw-cafe
-  - tech/rainbowkit-wallet-connect
-  - tech/lightning-css
-  - tech/no-third-party-analytics-detected
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/jetbrains-mono-400-500-700
-  - font/fraunces-300-400
+  - vertical/startup-product
+  - vibe/technical
+  - vibe/editorial
+  - topic/engineering
+  - topic/food-drink
+  - mode/dark
 ---
 # Hello World Cafe — New York's First 24/7 Cafe for Builders
 > >_ hello world  ·  [hw.cafe](https://hw.cafe/)
 
 ![hw.cafe](../../screenshots/hwcafe.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/technical #vibe/editorial  ·  **Topics:** #topic/engineering #topic/food-drink  ·  **Mode:** #mode/dark
 
 ## What it is
 The launch/waitlist site for Hello World Cafe (hw.cafe), pitched in the meta as "A 24/7, mostly-automated coffee shop for builders in NYC. Gigabit wifi, power at every seat, proper chairs, and a door that doesn't close." Its h1 is the literal terminal prompt ">_ hello world".
@@ -52,6 +40,7 @@ Full developer-terminal aesthetic done with taste: an almost-black #0a0d12 backg
 - **Fonts:** JetBrains Mono (monospace) for body/UI; Fraunces (serif) for oversized display headings
 - **Fonts loaded:** JetBrains Mono 400/500/700, Fraunces 300/400
 - **Tech stack:** self-hosted (all assets from hw.cafe), RainbowKit/wallet-connect, Lightning CSS, no third-party analytics detected
+- **Keywords:** terminal-aesthetic, monospace-ui, ascii-art, single-page-landing, anchor-nav, waitlist-funnel, dark-theme, serif-display-contrast, web3-walletconnect, self-hosted
 - **Media mix:** img 8 · svg 12
 - **Page height:** 7955px (single-screen: False)
 - **Responsive:** At 390x844 the layout reflows to a tall single column (scrollHeight ~13,700px) and the Fraunces display h1 scales from 92px down to 52px; the file-path anchor nav stays inline rather than collapsing to a burger.
@@ -61,7 +50,9 @@ Full developer-terminal aesthetic done with taste: an almost-black #0a0d12 backg
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[colf.dev]] [[affiliatenetwork.com]] [[ashpreetbedi.com]] [[backdoorai.app]] [[bigplayers.co]] [[christophlocher.com]]
-
-## Tags
-#category/design #aesthetic/developer-product #aesthetic/dark #aesthetic/editorial #pattern/terminal-aesthetic #pattern/monospace-ui #pattern/ascii-art #pattern/single-page-landing #pattern/anchor-nav #pattern/waitlist-funnel #pattern/dark-theme #pattern/serif-display-contrast #pattern/web3-walletconnect #pattern/self-hosted #tech/self-hosted-all-assets-from-hw-cafe #tech/rainbowkit-wallet-connect #tech/lightning-css #tech/no-third-party-analytics-detected #color/dark #color/warm #color/cool #font/jetbrains-mono-400-500-700 #font/fraunces-300-400
+- [[printingpress.dev]] — shared: startup-product, technical, editorial, engineering
+- [[crustdata.com]] — shared: startup-product, technical, engineering, dark
+- [[daytona.io]] — shared: startup-product, technical, engineering, dark
+- [[langchain.com]] — shared: startup-product, technical, engineering, dark
+- [[cofounder.co]] — shared: startup-product, technical, editorial
+- [[todesktop.com]] — shared: startup-product, technical, engineering

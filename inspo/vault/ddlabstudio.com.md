@@ -2,34 +2,26 @@
 url: https://ddlabstudio.com/
 domain: ddlabstudio.com
 title: "DD Lab Studio - Websites That Raise Rounds. Period."
-category: design
+vertical: studio-agency
+mode: dark
+vibe: [luxury, editorial]
+topics: [startups, marketing, design]
 extracted_at: 2026-06-06
 tags:
-  - category/design
-  - aesthetic/dark
-  - aesthetic/portfolio
-  - pattern/agency
-  - pattern/studio
-  - pattern/landing-page
-  - pattern/dark
-  - pattern/framer
-  - pattern/portfolio-grid
-  - pattern/case-studies
-  - pattern/startup
-  - pattern/fundraising
-  - pattern/bold-type
-  - tech/framer
-  - tech/framer-analytics
-  - tech/jsdelivr-cdn
-  - color/dark
-  - color/cool
-  - font/almarena-neue
-  - font/inter
+  - vertical/studio-agency
+  - vibe/luxury
+  - vibe/editorial
+  - topic/startups
+  - topic/marketing
+  - topic/design
+  - mode/dark
 ---
 # DD Lab Studio - Websites That Raise Rounds. Period.
 > Websites That Raise Rounds. Period.  ·  [ddlabstudio.com](https://ddlabstudio.com/)
 
 ![ddlabstudio.com](../../screenshots/ddlabstudiocom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/luxury #vibe/editorial  ·  **Topics:** #topic/startups #topic/marketing #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 The landing/portfolio site of DD Lab Studio (James Laurent, @jameslaurents), a design studio that redesigns startup and SaaS websites into fundraising assets — and the author home behind the Rebate sign-up-flow work in this bookmark.
@@ -49,6 +41,7 @@ Premium dark agency look: a near-black #08080a ground with white text and white 
 - **Fonts:** Almarena Neue (display headings) + Inter (body)
 - **Fonts loaded:** Almarena Neue 400, Inter 400, Inter 500, Inter 600
 - **Tech stack:** Framer, Framer Analytics, jsDelivr CDN
+- **Keywords:** agency, studio, landing-page, dark, framer, portfolio-grid, case-studies, startup, fundraising, bold-type
 - **Media mix:** img 63 · canvas 1 · video 3 · svg 4 · iframe 1
 - **Page height:** 7840px (single-screen: False)
 - **Responsive:** At 390px the project/feature grids collapse to a single stacked column (~7,840 → ~8,858px).
@@ -58,7 +51,9 @@ Premium dark agency look: a near-black #08080a ground with white text and white 
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+390x844 mobile), logged_out: true
 
 ## Related sites
-[[ravalabs.com]] [[rotimi.design]] [[affiliatenetwork.com]] [[ankit-rai.com]] [[asekachov.com]] [[jasonyuan.design]]
-
-## Tags
-#category/design #aesthetic/dark #aesthetic/portfolio #pattern/agency #pattern/studio #pattern/landing-page #pattern/dark #pattern/framer #pattern/portfolio-grid #pattern/case-studies #pattern/startup #pattern/fundraising #pattern/bold-type #tech/framer #tech/framer-analytics #tech/jsdelivr-cdn #color/dark #color/cool #font/almarena-neue #font/inter
+- [[hex.inc]] — shared: studio-agency, luxury, marketing, design, dark
+- [[vanschneider.com]] — shared: studio-agency, luxury, editorial, design, dark
+- [[coldiq.com]] — shared: studio-agency, luxury, editorial, marketing
+- [[drafts9.com]] — shared: studio-agency, startups, design
+- [[ignytlabs.com]] — shared: studio-agency, startups, design
+- [[offthewall.studio]] — shared: studio-agency, editorial, design

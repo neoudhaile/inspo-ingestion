@@ -2,27 +2,24 @@
 url: https://offthewall.studio
 domain: offthewall.studio
 title: "Studio Off The Wall"
-category: design
+vertical: studio-agency
+mode: light
+vibe: [editorial, minimal]
+topics: [design]
 extracted_at: 2026-06-04
 tags:
-  - category/design
-  - aesthetic/editorial
-  - aesthetic/portfolio
-  - aesthetic/retro
-  - pattern/editorial
-  - pattern/institutional
-  - pattern/magazine-grid
-  - pattern/studio-portfolio
-  - pattern/display-serif
-  - pattern/long-scroll
-  - pattern/retro-blue-links
-  - pattern/metadata-labels
-  - color/cool
+  - vertical/studio-agency
+  - vibe/editorial
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Studio Off The Wall
 >   ·  [offthewall.studio](https://offthewall.studio)
 
 ![offthewall.studio](../../screenshots/offthewallstudio.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The portfolio site of Studio Off The Wall, an independent New Delhi design studio (led by Daniel Lin) that helps brands with how their identity and website 'work, look and feel.' It positions the studio through a curated, magazine-like showcase of project work.
@@ -39,10 +36,13 @@ Institutional/archival editorial: crisp white background, a large display serif 
 ## Design data
 - **Palette:** White (#fff) and off-white (#f8f8f6) with black text, classic blue links (#0000ee); color comes from project imagery.
 - **Fonts:** Lastik Free (display serif), Times (body)
+- **Keywords:** editorial, institutional, magazine-grid, studio-portfolio, display-serif, long-scroll, retro-blue-links, metadata-labels
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[asekachov.com]] [[interfaces.dev]] [[mercuryos.com]] [[vanschneider.com]] [[12matcha.com]] [[animations.dev]]
-
-## Tags
-#category/design #aesthetic/editorial #aesthetic/portfolio #aesthetic/retro #pattern/editorial #pattern/institutional #pattern/magazine-grid #pattern/studio-portfolio #pattern/display-serif #pattern/long-scroll #pattern/retro-blue-links #pattern/metadata-labels #color/cool
+- [[drafts9.com]] — shared: studio-agency, minimal, design, light
+- [[northgarden.com]] — shared: studio-agency, minimal, design, light
+- [[ravalabs.com]] — shared: studio-agency, minimal, design, light
+- [[rotimi.design]] — shared: studio-agency, minimal, design, light
+- [[21st.dev]] — shared: editorial, minimal, design, light
+- [[animations.dev]] — shared: editorial, minimal, design, light

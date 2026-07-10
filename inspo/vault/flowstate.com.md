@@ -2,31 +2,24 @@
 url: https://flowstate.com/
 domain: flowstate.com
 title: "Flowstate - Master Flow State for Peak Performance"
-category: uncategorized
+vertical: startup-product
+mode: dark
+vibe: [corporate-clean, minimal]
+topics: [productivity]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - pattern/dark-mode
-  - pattern/quiz-funnel
-  - pattern/lead-capture
-  - pattern/landing-page
-  - pattern/one-page-scroll
-  - pattern/shadcn-tokens
-  - pattern/personal-brand
-  - tech/vanilla-no-js-framework-detected
-  - tech/linkedin-insight-tag
-  - tech/facebook-pixel
-  - tech/google-fonts
-  - color/dark
-  - color/cool
-  - font/montserrat-variable-100-900
-  - font/space-mono
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - vibe/minimal
+  - topic/productivity
+  - mode/dark
 ---
 # Flowstate - Master Flow State for Peak Performance
 > Master Flow State to Sharpen Focus, Multiply Output, and Operate at Peak Performance.  ·  [flowstate.com](https://flowstate.com/)
 
 ![flowstate.com](../../screenshots/flowstatecom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean #vibe/minimal  ·  **Topics:** #topic/productivity  ·  **Mode:** #mode/dark
 
 ## What it is
 A conversion-funnel landing page for Flowstate, a science-backed flow-state training program for founders and leaders (the 'Meet Rían' section and the description — 'Science-backed training for founders and leaders' — point to Rían Doris / the Flow Research Collective lineage). The hero pitch, verbatim, is 'Master Flow State In 30 Days.'
@@ -46,6 +39,7 @@ Near-black ground (rendered rgb(13,13,13)) with white text, Montserrat for the b
 - **Fonts:** Montserrat (display headings) + TWK Everett (body sans, via --font-sans); of the large declared family list only Montserrat and Space Mono actually load as webfonts.
 - **Fonts loaded:** Montserrat (variable 100-900), Space Mono 400
 - **Tech stack:** vanilla (no JS framework detected), LinkedIn Insight Tag, Facebook Pixel, Google Fonts
+- **Keywords:** dark-mode, quiz-funnel, lead-capture, landing-page, one-page-scroll, shadcn-tokens, personal-brand
 - **Media mix:** img 19 · svg 1
 - **Page height:** 2633px (single-screen: False)
 - **Responsive:** At 390x844 the layout reflows to a single column and the h1 drops to 30px; scrollHeight grows to ~3,089px and the header stays a simple flex bar (no burger menu).
@@ -53,7 +47,9 @@ Near-black ground (rendered rgb(13,13,13)) with white text, Montserrat for the b
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
-[[davekrugman.com]] [[affiliatenetwork.com]] [[b150.ai]] [[backdoorai.app]] [[backgrounds.supply]] [[badmarketing.com]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #pattern/dark-mode #pattern/quiz-funnel #pattern/lead-capture #pattern/landing-page #pattern/one-page-scroll #pattern/shadcn-tokens #pattern/personal-brand #tech/vanilla-no-js-framework-detected #tech/linkedin-insight-tag #tech/facebook-pixel #tech/google-fonts #color/dark #color/cool #font/montserrat-variable-100-900 #font/space-mono
+- [[gatheros.co]] — shared: startup-product, corporate-clean, minimal, productivity
+- [[apps.ankiweb.net]] — shared: startup-product, minimal, productivity
+- [[simple.ink]] — shared: startup-product, corporate-clean, productivity
+- [[vercel.com]] — shared: startup-product, corporate-clean, minimal
+- [[affiliatenetwork.com]] — shared: startup-product, corporate-clean, dark
+- [[daytona.io]] — shared: startup-product, corporate-clean, dark

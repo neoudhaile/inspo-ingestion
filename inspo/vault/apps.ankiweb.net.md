@@ -2,30 +2,24 @@
 url: https://apps.ankiweb.net/
 domain: apps.ankiweb.net
 title: "Anki - powerful, intelligent flashcards"
-category: favorites
+vertical: startup-product
+mode: light
+vibe: [minimal]
+topics: [productivity, education]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/light
-  - aesthetic/minimal
-  - pattern/open-source-homepage
-  - pattern/documentation-clean
-  - pattern/feature-grid
-  - pattern/single-testimonial
-  - pattern/download-table
-  - pattern/self-hosted-fonts
-  - pattern/lightweight
-  - pattern/near-monochrome
-  - tech/static-self-hosted
-  - tech/cloudflare-insights
-  - color/light
-  - color/monochrome
-  - font/hanken-grotesk-variable-100
+  - vertical/startup-product
+  - vibe/minimal
+  - topic/productivity
+  - topic/education
+  - mode/light
 ---
 # Anki - powerful, intelligent flashcards
 > Anki — a program which makes remembering things easy.  ·  [apps.ankiweb.net](https://apps.ankiweb.net/)
 
 ![apps.ankiweb.net](../../screenshots/appsankiweb.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/productivity #topic/education  ·  **Mode:** #mode/light
 
 ## What it is
 The official homepage for Anki, the free and open-source spaced-repetition flashcard program. Its own pitch is the hero line 'Remembering is easier with Anki' — software that schedules card reviews so you study what you're about to forget. The page funnels to the desktop downloads plus the broader ecosystem (AnkiWeb sync, the paid AnkiMobile iOS app, and the free AnkiDroid Android app).
@@ -45,6 +39,7 @@ Clean and documentation-like, almost austere. One self-hosted webfont does all t
 - **Fonts:** Hanken Grotesk Variable (weights 100–900), self-hosted.
 - **Fonts loaded:** Hanken Grotesk Variable 100 900
 - **Tech stack:** Static / self-hosted, Cloudflare (insights)
+- **Keywords:** open-source-homepage, documentation-clean, feature-grid, single-testimonial, download-table, self-hosted-fonts, lightweight, near-monochrome
 - **Media mix:** img 8 · svg 21
 - **Page height:** 3825px (single-screen: False)
 - **Responsive:** At 390px it stays a single column (no separate mobile nav or hamburger detected) and grows to ~5.1k px.
@@ -53,7 +48,9 @@ Clean and documentation-like, almost austere. One self-hosted webfont does all t
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[fey.com]]
-
-## Tags
-#category/favorites #aesthetic/light #aesthetic/minimal #pattern/open-source-homepage #pattern/documentation-clean #pattern/feature-grid #pattern/single-testimonial #pattern/download-table #pattern/self-hosted-fonts #pattern/lightweight #pattern/near-monochrome #tech/static-self-hosted #tech/cloudflare-insights #color/light #color/monochrome #font/hanken-grotesk-variable-100
+- [[gatheros.co]] — shared: startup-product, minimal, productivity, light
+- [[flowstate.com]] — shared: startup-product, minimal, productivity
+- [[backdoorai.app]] — shared: startup-product, minimal, light
+- [[jenni.ai]] — shared: startup-product, education, light
+- [[mo1.app]] — shared: startup-product, minimal, light
+- [[simple.ink]] — shared: startup-product, productivity, light

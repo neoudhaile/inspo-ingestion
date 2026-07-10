@@ -2,34 +2,24 @@
 url: https://ytch.tv/
 domain: ytch.tv
 title: "YTCH"
-category: uncategorized
+vertical: experiment-art
+mode: dark
+vibe: [retro, playful]
+topics: [film-video]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/retro
-  - aesthetic/developer-product
-  - aesthetic/dark
-  - pattern/web-toy
-  - pattern/retro-tv
-  - pattern/crt-aesthetic
-  - pattern/channel-zapping
-  - pattern/youtube-iframe-api
-  - pattern/skeuomorphic-remote
-  - pattern/keyboard-driven
-  - pattern/single-screen
-  - pattern/monospace
-  - pattern/dark-mode
-  - tech/youtube-iframe-api
-  - tech/google-tag-manager
-  - tech/cloudflare-insights
-  - color/dark
-  - color/cool
-  - font/ibm-plex-mono
+  - vertical/experiment-art
+  - vibe/retro
+  - vibe/playful
+  - topic/film-video
+  - mode/dark
 ---
 # YTCH
 > If Youtube had actual channels.  ·  [ytch.tv](https://ytch.tv/)
 
 ![ytch.tv](../../screenshots/ytchxyz.png)
+
+**Vertical:** #vertical/experiment-art  ·  **Vibe:** #vibe/retro #vibe/playful  ·  **Topics:** #topic/film-video  ·  **Mode:** #mode/dark
 
 ## What it is
 A playful web toy that reimagines YouTube as broadcast television. Instead of an algorithmic feed you 'tune' to numbered channels (CH 01, CH 02…) of curated videos and flip between them with an on-screen remote — the whole conceit, per the meta description, is 'If Youtube had actual channels.' Reached via ytch.xyz, which redirects to ytch.tv.
@@ -49,13 +39,13 @@ A pure retro-terminal aesthetic. Black ground (rgb(0,0,0)) with IBM Plex Mono (5
 - **Fonts:** IBM Plex Mono (500 & 700), loaded via Google Fonts.
 - **Fonts loaded:** IBM Plex Mono 500, IBM Plex Mono 700
 - **Tech stack:** YouTube IFrame API, Google Tag Manager, Cloudflare (insights)
+- **Keywords:** web-toy, retro-tv, crt-aesthetic, channel-zapping, youtube-iframe-api, skeuomorphic-remote, keyboard-driven, single-screen, monospace, dark-mode
 - **Media mix:** img 14 · iframe 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390px it stays a single fixed screen (no scroll); the centered video frame shrinks to ~234px wide and the remote/keypad reflow to fit.
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile (ytch.xyz redirects to ytch.tv); logged_out: true
 
 ## Related sites
-[[akira.sachi.dev]] [[davekrugman.com]] [[khairallah.xyz]] [[killedbyopenai.com]] [[axiaisacat.indiehacker.bio]] [[backgrounds.supply]]
-
-## Tags
-#category/uncategorized #aesthetic/retro #aesthetic/developer-product #aesthetic/dark #pattern/web-toy #pattern/retro-tv #pattern/crt-aesthetic #pattern/channel-zapping #pattern/youtube-iframe-api #pattern/skeuomorphic-remote #pattern/keyboard-driven #pattern/single-screen #pattern/monospace #pattern/dark-mode #tech/youtube-iframe-api #tech/google-tag-manager #tech/cloudflare-insights #color/dark #color/cool #font/ibm-plex-mono
+- [[poolsuite.net]] — shared: experiment-art, retro, playful
+- [[zzz.zoomquilt.org]] — shared: experiment-art, retro, dark
+- [[typatone.com]] — shared: experiment-art, playful

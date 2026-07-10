@@ -2,32 +2,25 @@
 url: https://ribbit.dk/
 domain: ribbit.dk
 title: "Ribbit"
-category: design
+vertical: studio-agency
+mode: light
+vibe: [playful, experimental]
+topics: [design, film-video]
 extracted_at: 2026-06-05
 tags:
-  - category/design
-  - aesthetic/experimental
-  - aesthetic/playful
-  - pattern/motion-agency
-  - pattern/3d-characters
-  - pattern/claymation
-  - pattern/scroll-animation
-  - pattern/playful
-  - pattern/oversized-display-type
-  - pattern/prismic
-  - pattern/mesmerizing
-  - tech/vanilla-no-js-framework
-  - tech/prismic-cms
-  - tech/google-tag-manager
-  - color/warm
-  - color/cool
-  - font/fkgroteskneue
-  - font/fkt-echo-display
+  - vertical/studio-agency
+  - vibe/playful
+  - vibe/experimental
+  - topic/design
+  - topic/film-video
+  - mode/light
 ---
 # Ribbit
 > Ribbit is a creative motion agency based in Copenhagen founded to create memorable and engaging animations and motion graphics.  ·  [ribbit.dk](https://ribbit.dk/)
 
 ![ribbit.dk](../../screenshots/ribbitdk.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/playful #vibe/experimental  ·  **Topics:** #topic/design #topic/film-video  ·  **Mode:** #mode/light
 
 ## What it is
 The studio site of Ribbit, a 'Curious Fullservice Motion Agency' based in Copenhagen (h1: 'Ribbit is a creative motion agency based in Copenhagen'). The tweet flags it as 'how you create a truly mesmerizing digital experience' — the site itself is the motion showreel.
@@ -47,6 +40,7 @@ Bold, toylike and tactile: an off-white ground (--lightgrey #FAFAFA, rendered rg
 - **Fonts:** FKT Echo (huge 240px display headline) + FKGroteskNeue (regular/medium/bold body) — all self-hosted and loaded.
 - **Fonts loaded:** FKGroteskNeue 400, FKGroteskNeue 500, FKGroteskNeue 700, FKT Echo (display)
 - **Tech stack:** vanilla (no JS framework), Prismic (CMS), Google Tag Manager
+- **Keywords:** motion-agency, 3d-characters, claymation, scroll-animation, playful, oversized-display-type, prismic, mesmerizing
 - **Media mix:** img 758 · video 1 · svg 2
 - **Page height:** 5314px (single-screen: False)
 - **Responsive:** At 390x844 the giant headline drops from 240px to 90px and scrollHeight tightens to ~3,683px; the top nav stays a simple inline row (Projects / About / Process / Contact) with no burger.
@@ -55,7 +49,9 @@ Bold, toylike and tactile: an off-white ground (--lightgrey #FAFAFA, rendered rg
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
-[[addyosmani.com]] [[chusmargallo.space]] [[iacopoapps.appspot.com]] [[jessa.art]] [[kmk0.com]] [[lelezhang.design]]
-
-## Tags
-#category/design #aesthetic/experimental #aesthetic/playful #pattern/motion-agency #pattern/3d-characters #pattern/claymation #pattern/scroll-animation #pattern/playful #pattern/oversized-display-type #pattern/prismic #pattern/mesmerizing #tech/vanilla-no-js-framework #tech/prismic-cms #tech/google-tag-manager #color/warm #color/cool #font/fkgroteskneue #font/fkt-echo-display
+- [[northgarden.com]] — shared: studio-agency, experimental, design, light
+- [[drafts9.com]] — shared: studio-agency, design, light
+- [[ignytlabs.com]] — shared: studio-agency, design, light
+- [[offthewall.studio]] — shared: studio-agency, design, light
+- [[ravalabs.com]] — shared: studio-agency, design, light
+- [[rotimi.design]] — shared: studio-agency, design, light

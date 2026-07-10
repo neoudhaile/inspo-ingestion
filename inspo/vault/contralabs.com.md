@@ -2,35 +2,25 @@
 url: https://contralabs.com/
 domain: contralabs.com
 title: "Contra Labs — a frontier human data & evaluation lab for creative AI"
-category: design
+vertical: startup-product
+mode: light
+vibe: [editorial, luxury]
+topics: [ai, art]
 extracted_at: 2026-07-05
 tags:
-  - category/design
-  - aesthetic/editorial
-  - pattern/renaissance-art
-  - pattern/dithered-halftone
-  - pattern/editorial
-  - pattern/serif-display
-  - pattern/framer
-  - pattern/scroll-reveal
-  - pattern/logo-wall
-  - pattern/ai-brand
-  - tech/framer
-  - tech/segment
-  - tech/unpkg-css
-  - tech/framerusercontent-cdn
-  - color/warm
-  - color/cool
-  - font/source-serif-4
-  - font/source-serif-4-variable-200-900
-  - font/gt-standard-l-regular
-  - font/gt-standard-l-medium
-  - font/gt-standard-l-semibold
+  - vertical/startup-product
+  - vibe/editorial
+  - vibe/luxury
+  - topic/ai
+  - topic/art
+  - mode/light
 ---
 # Contra Labs — a frontier human data & evaluation lab for creative AI
 > A frontier human data and evaluation lab making AI better for creativity.  ·  [contralabs.com](https://contralabs.com/)
 
 ![contralabs.com](../../screenshots/contralabscom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/editorial #vibe/luxury  ·  **Topics:** #topic/ai #topic/art  ·  **Mode:** #mode/light
 
 ## What it is
 Contra Labs (from Contra, the professional network for independent creatives) is a 'frontier human data and evaluation lab' for creative AI — fronting 1.5M+ verified creative experts who benchmark style, tone and taste for AI models and applications. It's the site the bookmarked tweet singles out for its renaissance-oil-painting-meets-dithered-ASCII visual identity.
@@ -50,6 +40,7 @@ An editorial, gallery-grade aesthetic. From the DOM probe the canvas is a warm o
 - **Fonts:** Source Serif 4 Variable for the serif display headings; GT Standard L (Regular/Medium/Semibold) grotesque for UI and body; Inter declared but unloaded.
 - **Fonts loaded:** Source Serif 4 400, Source Serif 4 Variable 200-900, GT Standard L Regular 400, GT Standard L Medium 500, GT Standard L Semibold 600
 - **Tech stack:** Framer, Segment, unpkg (CSS), framerusercontent CDN
+- **Keywords:** renaissance-art, dithered-halftone, editorial, serif-display, framer, scroll-reveal, logo-wall, ai-brand
 - **Media mix:** img 19 · canvas 6 · video 4 · svg 9 · iframe 1
 - **Page height:** 13877px (single-screen: False)
 - **Responsive:** At 390x844 the layout reflows to a single column (height stays ~13,640px) and the hero h1 scales from 50px to 36px; no separate hamburger element was detected (Framer breakpoint variant).
@@ -57,7 +48,9 @@ An editorial, gallery-grade aesthetic. From the DOM probe the canvas is a warm o
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[eko.lumaris.works]] [[joonasvirtanen.com]] [[sinceerly.com]] [[12matcha.com]] [[21st.dev]]
-
-## Tags
-#category/design #aesthetic/editorial #pattern/renaissance-art #pattern/dithered-halftone #pattern/editorial #pattern/serif-display #pattern/framer #pattern/scroll-reveal #pattern/logo-wall #pattern/ai-brand #tech/framer #tech/segment #tech/unpkg-css #tech/framerusercontent-cdn #color/warm #color/cool #font/source-serif-4 #font/source-serif-4-variable-200-900 #font/gt-standard-l-regular #font/gt-standard-l-medium #font/gt-standard-l-semibold
+- [[creao.ai]] — shared: startup-product, editorial, ai, light
+- [[printingpress.dev]] — shared: startup-product, editorial, ai, light
+- [[sinceerly.com]] — shared: startup-product, editorial, ai, light
+- [[are.na]] — shared: editorial, ai, art, light
+- [[cofounder.co]] — shared: startup-product, editorial, ai
+- [[eko.lumaris.works]] — shared: startup-product, editorial, luxury

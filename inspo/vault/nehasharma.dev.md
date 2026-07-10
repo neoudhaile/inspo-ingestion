@@ -2,30 +2,25 @@
 url: https://nehasharma.dev
 domain: nehasharma.dev
 title: "Neha Sharma - Software Engineer | Tech Blog on React, System Design & AI"
-category: tutorial
+vertical: personal-blog
+mode: light
+vibe: [organic-warm, playful]
+topics: [engineering, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - pattern/personal-blog
-  - pattern/tech-blog
-  - pattern/pinned-post-cards
-  - pattern/tag-cloud-sidebar
-  - pattern/hand-drawn-wordmark
-  - pattern/warm-pastel-cards
-  - pattern/system-fonts
-  - pattern/content-feed
-  - tech/next-js-react
-  - tech/tailwind-css
-  - tech/google-tag-manager
-  - tech/google-fonts
-  - color/warm
-  - color/cool
-  - font/system-fonts
+  - vertical/personal-blog
+  - vibe/organic-warm
+  - vibe/playful
+  - topic/engineering
+  - topic/ai
+  - mode/light
 ---
 # Neha Sharma - Software Engineer | Tech Blog on React, System Design & AI
 > Software engineer sharing insights on React, Next.js, System Design, AI, and Accessibility — technical blogs, tutorials, and book recommendations.  ·  [nehasharma.dev](https://nehasharma.dev)
 
 ![nehasharma.dev](../../screenshots/nehasharmadev.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/organic-warm #vibe/playful  ·  **Topics:** #topic/engineering #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site and tech blog of Neha Sharma, a software engineer. It's a content hub, not a portfolio brag-sheet — the whole page is built around her writing on React, Next.js, System Design, AI/MLOps, AWS and Accessibility, plus a running 'Weekly System Design Sessions' series.
@@ -45,6 +40,7 @@ Warm and homemade rather than corporate. A cream paper ground (rgb(235,234,221))
 - **Fonts:** Body/headings ride the system sans stack (-apple-system, Segoe UI, Roboto); a Mansalva script webfont is declared for the hand-drawn wordmark (no webfont reported loaded at probe time).
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Next.js/React, Tailwind CSS, Google Tag Manager, Google Fonts
+- **Keywords:** personal-blog, tech-blog, pinned-post-cards, tag-cloud-sidebar, hand-drawn-wordmark, warm-pastel-cards, system-fonts, content-feed
 - **Media mix:** img 7 · svg 1
 - **Page height:** 1716px (single-screen: False)
 - **Responsive:** At 390px the multi-column layout collapses to a single stacked column — the pinned-card row and category sidebar reflow vertically and the page nearly doubles in height (1716px → 3740px).
@@ -52,7 +48,9 @@ Warm and homemade rather than corporate. A cream paper ground (rgb(235,234,221))
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[addyosmani.com]] [[anyblockers.com]] [[bird.onethreenine.net]] [[daryl.cv]] [[debarghyadas.com]] [[drafts9.com]]
-
-## Tags
-#category/tutorial #pattern/personal-blog #pattern/tech-blog #pattern/pinned-post-cards #pattern/tag-cloud-sidebar #pattern/hand-drawn-wordmark #pattern/warm-pastel-cards #pattern/system-fonts #pattern/content-feed #tech/next-js-react #tech/tailwind-css #tech/google-tag-manager #tech/google-fonts #color/warm #color/cool #font/system-fonts
+- [[ashpreetbedi.com]] — shared: personal-blog, organic-warm, engineering, ai
+- [[amanml.com]] — shared: personal-blog, engineering, ai, light
+- [[emilkowal.ski]] — shared: personal-blog, engineering, ai, light
+- [[coolsites.ai]] — shared: organic-warm, playful, ai, light
+- [[lelezhang.design]] — shared: organic-warm, playful, ai, light
+- [[photon.codes]] — shared: playful, engineering, ai, light

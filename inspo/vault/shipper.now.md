@@ -2,33 +2,25 @@
 url: https://shipper.now/
 domain: shipper.now
 title: "Shipper.now | Build Complete Apps by Messaging AI"
-category: product
+vertical: startup-product
+mode: light
+vibe: [playful, corporate-clean]
+topics: [ai, startups]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/luxury
-  - pattern/ai-app-builder
-  - pattern/no-code
-  - pattern/wordpress
-  - pattern/long-scroll-landing
-  - pattern/product-mockups
-  - pattern/photographic-hero
-  - pattern/teal-cta
-  - pattern/chat-to-app
-  - tech/wordpress
-  - tech/inter-google-fonts
-  - tech/jsdelivr
-  - tech/cloudflare
-  - tech/google-tag-manager
-  - tech/twitter-ads-pixel
-  - color/warm
-  - color/cool
-  - font/inter
+  - vertical/startup-product
+  - vibe/playful
+  - vibe/corporate-clean
+  - topic/ai
+  - topic/startups
+  - mode/light
 ---
 # Shipper.now | Build Complete Apps by Messaging AI
 > Build apps by chatting to AI  ·  [shipper.now](https://shipper.now/)
 
 ![shipper.now](../../screenshots/shippernow.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/playful #vibe/corporate-clean  ·  **Topics:** #topic/ai #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The marketing site for Shipper.now, an AI app-builder that turns chat messages into live products — web apps, mobile apps, Chrome extensions, bots, and whole 'companies' — with, per its description, 'No need to code or design, Shipper handles everything for you.' The tweet quotes Shipper touting that Claude Code Opus 4.6 inside it can 'Clone any successful company.'
@@ -48,6 +40,7 @@ A light, friendly consumer-SaaS look rather than a developer one: a warm off-whi
 - **Fonts:** Inter (400/500) via Google Fonts.
 - **Fonts loaded:** Inter 400, Inter 500
 - **Tech stack:** WordPress, Inter (Google Fonts), jsDelivr, Cloudflare, Google Tag Manager, Twitter Ads pixel
+- **Keywords:** ai-app-builder, no-code, wordpress, long-scroll-landing, product-mockups, photographic-hero, teal-cta, chat-to-app
 - **Media mix:** img 128 · svg 156 · iframe 8
 - **Page height:** 3437px (single-screen: False)
 - **Responsive:** At 390x844 it reflows to a single column (~4.7k px) with no horizontal overflow, and the top nav collapses to a hamburger.
@@ -56,7 +49,9 @@ A light, friendly consumer-SaaS look rather than a developer one: a warm off-whi
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[bigideasdb.com]] [[crustdata.com]] [[davidwinalda.com]] [[daytona.io]] [[linkeddit.com]] [[mercuryos.com]]
-
-## Tags
-#category/product #aesthetic/luxury #pattern/ai-app-builder #pattern/no-code #pattern/wordpress #pattern/long-scroll-landing #pattern/product-mockups #pattern/photographic-hero #pattern/teal-cta #pattern/chat-to-app #tech/wordpress #tech/inter-google-fonts #tech/jsdelivr #tech/cloudflare #tech/google-tag-manager #tech/twitter-ads-pixel #color/warm #color/cool #font/inter
+- [[b150.ai]] — shared: startup-product, playful, ai, startups, light
+- [[creao.ai]] — shared: startup-product, corporate-clean, ai, startups, light
+- [[photon.codes]] — shared: startup-product, playful, corporate-clean, ai, light
+- [[backdoorai.app]] — shared: startup-product, ai, startups, light
+- [[bigideasdb.com]] — shared: startup-product, corporate-clean, startups, light
+- [[jenni.ai]] — shared: startup-product, corporate-clean, ai, light

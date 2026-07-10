@@ -2,39 +2,25 @@
 url: https://coldiq.com/
 domain: coldiq.com
 title: "ColdIQ - Tomorrow's GTM Systems Built for You Today."
-category: uncategorized
+vertical: studio-agency
+mode: light
+vibe: [luxury, organic-warm, editorial]
+topics: [marketing]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/editorial
-  - pattern/webflow
-  - pattern/agency-landing
-  - pattern/serif-display-sans-body
-  - pattern/cream-palette
-  - pattern/social-proof-heavy
-  - pattern/testimonial-wall
-  - pattern/logo-strip
-  - pattern/long-form-sales-page
-  - pattern/martech-stack
-  - tech/webflow
-  - tech/posthog
-  - tech/hotjar
-  - tech/sentry
-  - tech/google-tag-manager
-  - tech/wistia
-  - tech/koala-albacross-happierleads-identity-matrix-factors-lead-intel
-  - tech/facebook-linkedin-quora-pixels
-  - tech/google-fonts
-  - color/warm
-  - color/cool
-  - font/flechatests
-  - font/geist
-  - font/lato
+  - vertical/studio-agency
+  - vibe/luxury
+  - vibe/organic-warm
+  - vibe/editorial
+  - topic/marketing
+  - mode/light
 ---
 # ColdIQ - Tomorrow's GTM Systems Built for You Today.
 > We build B2B revenue engines with the most advanced GTM software — leveraging AI & tech to scale and automate go-to-market.  ·  [coldiq.com](https://coldiq.com/)
 
 ![coldiq.com](../../screenshots/coldiqcom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/luxury #vibe/organic-warm #vibe/editorial  ·  **Topics:** #topic/marketing  ·  **Mode:** #mode/light
 
 ## What it is
 The homepage of ColdIQ, a B2B go-to-market agency that builds 'revenue engines' — outbound, ads and content systems powered by the latest GTM/AI tooling. It's a long, proof-heavy sales page aimed at getting growth teams to book a call.
@@ -54,6 +40,7 @@ Warm, premium-agency editorial rather than cold SaaS. A soft off-white/cream gro
 - **Fonts:** Flechatests display serif for headlines (h1 64px/400), Geist for body (300–500 loaded) with Geist Mono for small labels; a Seasonmix Trial serif is also declared. Loaded via Webflow + Google Fonts.
 - **Fonts loaded:** Flechatests 400, Flechatests 500, Flechatests 700, Geist 300, Geist 400, Geist 500, Lato 400
 - **Tech stack:** Webflow, PostHog, Hotjar, Sentry, Google Tag Manager, Wistia, Koala / Albacross / HappierLeads / Identity Matrix / Factors (lead intel), Facebook/LinkedIn/Quora pixels, Google Fonts
+- **Keywords:** webflow, agency-landing, serif-display-sans-body, cream-palette, social-proof-heavy, testimonial-wall, logo-strip, long-form-sales-page, martech-stack
 - **Media mix:** img 231 · svg 16 · iframe 7
 - **Page height:** 14499px (single-screen: False)
 - **Responsive:** At 390px the Webflow nav collapses to a hamburger (.w-nav-button), the h1 scales from 64px to 36px, and the page restacks taller (14499px → 16435px).
@@ -61,7 +48,9 @@ Warm, premium-agency editorial rather than cold SaaS. A soft off-white/cream gro
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[b150.ai]] [[badmarketing.com]] [[claude.com]] [[conigma.com]] [[drafts9.com]] [[fantasypresidentcareer.com]]
-
-## Tags
-#category/uncategorized #aesthetic/editorial #pattern/webflow #pattern/agency-landing #pattern/serif-display-sans-body #pattern/cream-palette #pattern/social-proof-heavy #pattern/testimonial-wall #pattern/logo-strip #pattern/long-form-sales-page #pattern/martech-stack #tech/webflow #tech/posthog #tech/hotjar #tech/sentry #tech/google-tag-manager #tech/wistia #tech/koala-albacross-happierleads-identity-matrix-factors-lead-intel #tech/facebook-linkedin-quora-pixels #tech/google-fonts #color/warm #color/cool #font/flechatests #font/geist #font/lato
+- [[ddlabstudio.com]] — shared: studio-agency, luxury, editorial, marketing
+- [[millermanintelligence.com]] — shared: studio-agency, organic-warm, editorial, light
+- [[hex.inc]] — shared: studio-agency, luxury, marketing
+- [[vanschneider.com]] — shared: studio-agency, luxury, editorial
+- [[hiivearts.com]] — shared: studio-agency, marketing, light
+- [[offthewall.studio]] — shared: studio-agency, editorial, light

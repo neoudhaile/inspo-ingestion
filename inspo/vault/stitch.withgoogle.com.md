@@ -2,32 +2,25 @@
 url: https://stitch.withgoogle.com/
 domain: stitch.withgoogle.com
 title: "Stitch - Design with AI"
-category: tools-build
+vertical: tool-app
+mode: dark
+vibe: [corporate-clean, technical]
+topics: [ai, design]
 extracted_at: 2026-06-06
 tags:
-  - category/tools-build
-  - aesthetic/dark
-  - pattern/ai-design-tool
-  - pattern/google-labs
-  - pattern/prompt-to-ui
-  - pattern/templates-gallery
-  - pattern/angular
-  - pattern/iframe-app
-  - pattern/dark-mode
-  - tech/angular
-  - tech/google-app-engine-appspot
-  - tech/google-identity-gapi
-  - tech/google-tag-manager
-  - tech/google-fonts
-  - color/dark
-  - font/google-sans
-  - font/google-sans-text-400-500-700
-  - font/google-material-icons
+  - vertical/tool-app
+  - vibe/corporate-clean
+  - vibe/technical
+  - topic/ai
+  - topic/design
+  - mode/dark
 ---
 # Stitch - Design with AI
 > Design at the speed of AI  ·  [stitch.withgoogle.com](https://stitch.withgoogle.com/)
 
 ![stitch.withgoogle.com](../../screenshots/stitchwithgooglecom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/corporate-clean #vibe/technical  ·  **Topics:** #topic/ai #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 Stitch is Google Labs' AI design canvas that turns natural-language prompts (or wireframes/screenshots) into editable mobile and web UIs plus front-end code. Its own pitch, captured from the rendered app, reads "Design at the speed of AI — Transform ideas into UI designs for mobile and web applications", and the FAQ calls it "an AI-native software design canvas developed by Google Labs."
@@ -47,6 +40,7 @@ A dark Google-Labs aesthetic: the outer shell paints a deep charcoal (rgb(25,26,
 - **Fonts:** Google Sans + Google Sans Text (and Google Material Icons).
 - **Fonts loaded:** Google Sans 400, Google Sans Text 400/500/700, Google Material Icons 400
 - **Tech stack:** Angular, Google App Engine (appspot), Google Identity (gapi), Google Tag Manager, Google Fonts
+- **Keywords:** ai-design-tool, google-labs, prompt-to-ui, templates-gallery, angular, iframe-app, dark-mode
 - **Media mix:** iframe 1
 - **Page height:** 900px (single-screen: False)
 - **Responsive:** At 390px the single app iframe reflows to full viewport width (390px) and the page height tracks the viewport; the app UI is responsive inside the frame.
@@ -55,7 +49,9 @@ A dark Google-Labs aesthetic: the outer shell paints a deep charcoal (rgb(25,26,
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[backgrounds.supply]] [[badmarketing.com]] [[davekrugman.com]] [[daytona.io]] [[ditther.com]] [[flowstate.com]]
-
-## Tags
-#category/tools-build #aesthetic/dark #pattern/ai-design-tool #pattern/google-labs #pattern/prompt-to-ui #pattern/templates-gallery #pattern/angular #pattern/iframe-app #pattern/dark-mode #tech/angular #tech/google-app-engine-appspot #tech/google-identity-gapi #tech/google-tag-manager #tech/google-fonts #color/dark #font/google-sans #font/google-sans-text-400-500-700 #font/google-material-icons
+- [[motionsites.ai]] — shared: corporate-clean, technical, ai, design, dark
+- [[tryponcho.com]] — shared: tool-app, technical, ai, dark
+- [[colf.dev]] — shared: tool-app, technical, ai
+- [[daytona.io]] — shared: corporate-clean, technical, ai, dark
+- [[fantasypresidentcareer.com]] — shared: tool-app, corporate-clean, ai
+- [[itshover.com]] — shared: tool-app, technical, design

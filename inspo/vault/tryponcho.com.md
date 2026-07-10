@@ -2,36 +2,24 @@
 url: https://tryponcho.com/
 domain: tryponcho.com
 title: "Poncho — 'AI agents with 3000+ tools': a dark, pay-per-use agent workspace"
-category: product
+vertical: tool-app
+mode: dark
+vibe: [technical]
+topics: [ai, productivity]
 extracted_at: 2026-07-08
 tags:
-  - category/product
-  - aesthetic/dark
-  - pattern/ai-agent
-  - pattern/app-shell
-  - pattern/dark
-  - pattern/charcoal
-  - pattern/cyan-accent
-  - pattern/shadcn
-  - pattern/tailwind
-  - pattern/marketplace
-  - pattern/pay-per-use
-  - pattern/sidebar
-  - pattern/geist
-  - tech/shadcn-ui-tailwind-oklch-tokens
-  - tech/privy-auth
-  - tech/stripe-payments
-  - tech/dub-link-tracking
-  - tech/google-tag-manager
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/geist-variable-100-900
+  - vertical/tool-app
+  - vibe/technical
+  - topic/ai
+  - topic/productivity
+  - mode/dark
 ---
 # Poncho — 'AI agents with 3000+ tools': a dark, pay-per-use agent workspace
 > Access 3000+ tools from one account with Poncho. Find data at machine speed, automate work, and skip setup, subscriptions, and API keys.  ·  [tryponcho.com](https://tryponcho.com/)
 
 ![tryponcho.com](../../screenshots/tryponchocom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/technical  ·  **Topics:** #topic/ai #topic/productivity  ·  **Mode:** #mode/dark
 
 ## What it is
 The product itself, not a marketing splash: tryponcho.com loads straight into Poncho's logged-out app shell. The page title is 'Poncho - AI agents with 3000+ tools' and its meta description is 'Access 3000+ tools from one account with Poncho. Find data at machine speed, automate work, and skip setup, subscriptions, and API keys.' The link shafu shared (link.tryponcho.com/shafu0x) is a Dub-tracked referral that redirects to tryponcho.com/redeem/shafu0x; the subject site is the Poncho app.
@@ -51,6 +39,7 @@ A restrained, developer-tool dark UI where a single cyan accent does the pointin
 - **Fonts:** Geist Variable (loaded, 100-900) for UI; Geist Mono Variable declared but unloaded; a full KaTeX family declared (math rendering) but unloaded. No other webfont payload.
 - **Fonts loaded:** Geist Variable 100-900
 - **Tech stack:** shadcn/ui + Tailwind (oklch tokens), Privy (auth), Stripe (payments), Dub (link tracking), Google Tag Manager
+- **Keywords:** ai-agent, app-shell, dark, charcoal, cyan-accent, shadcn, tailwind, marketplace, pay-per-use, sidebar, geist
 - **Media mix:** img 14 · svg 33 · iframe 4
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single-screen app shell (scrollHeight 844); the left sidebar collapses off-canvas and the task launcher + Marketplace/Popular-Tasks lists reflow to a full-width single column.
@@ -59,7 +48,9 @@ A restrained, developer-tool dark UI where a single cyan accent does the pointin
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 viewport (the single-screen app shell; fullPage timed out on the animated app, and since scrollHeight == innerHeight the viewport captures the whole page) + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[eko.lumaris.works]] [[heyneuma.com]] [[nicolasbustamante.com]] [[sceneai.art]] [[tyronec.com]] [[akira.sachi.dev]]
-
-## Tags
-#category/product #aesthetic/dark #pattern/ai-agent #pattern/app-shell #pattern/dark #pattern/charcoal #pattern/cyan-accent #pattern/shadcn #pattern/tailwind #pattern/marketplace #pattern/pay-per-use #pattern/sidebar #pattern/geist #tech/shadcn-ui-tailwind-oklch-tokens #tech/privy-auth #tech/stripe-payments #tech/dub-link-tracking #tech/google-tag-manager #color/dark #color/warm #color/cool #font/geist-variable-100-900
+- [[stitch.withgoogle.com]] — shared: tool-app, technical, ai, dark
+- [[zendex.spyrosigma.in]] — shared: tool-app, technical, productivity, dark
+- [[colf.dev]] — shared: tool-app, technical, ai
+- [[cafe.endofday.studio]] — shared: tool-app, productivity, dark
+- [[ditther.com]] — shared: tool-app, technical, dark
+- [[akira.sachi.dev]] — shared: tool-app, technical

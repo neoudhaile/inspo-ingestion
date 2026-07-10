@@ -2,27 +2,24 @@
 url: https://gaspardhedde.fr
 domain: gaspardhedde.fr
 title: "Gaspard Hedde — Creative Developer"
-category: design
+vertical: portfolio
+mode: light
+vibe: [minimal, experimental]
+topics: [design]
 extracted_at: 2026-06-04
 tags:
-  - category/design
-  - aesthetic/experimental
-  - aesthetic/minimal
-  - pattern/creative-developer
-  - pattern/webgl
-  - pattern/canvas-gallery
-  - pattern/minimal
-  - pattern/swiss
-  - pattern/no-scroll
-  - pattern/image-stack
-  - pattern/live-clock
-  - pattern/view-toggle
-  - color/neutral
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/experimental
+  - topic/design
+  - mode/light
 ---
 # Gaspard Hedde — Creative Developer
 >   ·  [gaspardhedde.fr](https://gaspardhedde.fr)
 
 ![gaspardhedde.fr](../../screenshots/gaspardheddefr.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/experimental  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The portfolio of Gaspard Hedde, a creative developer and Gobelins Paris student who builds websites, apps and immersive experiences. The site is itself a demo of that craft — a minimal frame around an interactive, WebGL-style project showcase.
@@ -39,10 +36,13 @@ Swiss-minimal meets creative-dev showcase: a light grey ground (#f3f3f3), ultra-
 ## Design data
 - **Palette:** Light grey ground (#f3f3f3), black text, white; saturated color only in the project-thumbnail stack.
 - **Fonts:** Helvetica (thin, weight 100)
+- **Keywords:** creative-developer, webgl, canvas-gallery, minimal, swiss, no-scroll, image-stack, live-clock, view-toggle
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
-[[animations.dev]] [[are.na]] [[christophlocher.com]] [[chusmargallo.space]] [[ditther.com]] [[emilkowal.ski]]
-
-## Tags
-#category/design #aesthetic/experimental #aesthetic/minimal #pattern/creative-developer #pattern/webgl #pattern/canvas-gallery #pattern/minimal #pattern/swiss #pattern/no-scroll #pattern/image-stack #pattern/live-clock #pattern/view-toggle #color/neutral
+- [[mapzilla.co.uk]] — shared: portfolio, minimal, experimental, design, light
+- [[jasonyuan.design]] — shared: portfolio, minimal, experimental, design
+- [[asekachov.com]] — shared: portfolio, minimal, design, light
+- [[christophlocher.com]] — shared: portfolio, minimal, design, light
+- [[daryl.cv]] — shared: portfolio, minimal, design, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light

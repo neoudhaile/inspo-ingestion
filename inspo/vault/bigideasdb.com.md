@@ -2,38 +2,23 @@
 url: https://bigideasdb.com/
 domain: bigideasdb.com
 title: "BigIdeasDB | Find Proven Problems. Build Your Next SaaS Product"
-category: product
+vertical: startup-product
+mode: light
+vibe: [corporate-clean]
+topics: [startups]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/developer-product
-  - aesthetic/light
-  - pattern/saas-landing
-  - pattern/idea-database
-  - pattern/daisyui
-  - pattern/tailwind
-  - pattern/long-scroll-landing
-  - pattern/light-theme
-  - pattern/screenshot-heavy
-  - pattern/conversion-focused
-  - tech/tailwind-daisyui
-  - tech/interdisplay-inter-self-hosted
-  - tech/plausible
-  - tech/google-tag-manager
-  - tech/meta-pixel
-  - tech/crisp
-  - tech/trustpilot
-  - tech/rewardful
-  - color/light
-  - color/warm
-  - color/cool
-  - font/interdisplay
-  - font/inter-100-900
+  - vertical/startup-product
+  - vibe/corporate-clean
+  - topic/startups
+  - mode/light
 ---
 # BigIdeasDB | Find Proven Problems. Build Your Next SaaS Product
 > Find Proven Problems. Build Your Next Successful Startup.  ·  [bigideasdb.com](https://bigideasdb.com/)
 
 ![bigideasdb.com](../../screenshots/bigideasdbcom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/corporate-clean  ·  **Topics:** #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The marketing site for BigIdeasDB, an AI platform that mines 238,000+ real user complaints (G2, Capterra, Reddit, Upwork, App Stores) into validated SaaS/startup ideas, each with revenue estimates, competition gaps and step-by-step build guides. It is one of two builder-product links carried in the Om Patel tweet — but it is NOT the Google-Maps lead-gen tool the tweet actually describes.
@@ -53,6 +38,7 @@ A bright, light SaaS aesthetic: white background with a black 60px InterDisplay 
 - **Fonts:** InterDisplay (display) + Inter (body), self-hosted.
 - **Fonts loaded:** InterDisplay 400, InterDisplay 600, Inter 100-900
 - **Tech stack:** Tailwind + daisyUI, InterDisplay/Inter (self-hosted), Plausible, Google Tag Manager, Meta Pixel, Crisp, Trustpilot, Rewardful
+- **Keywords:** saas-landing, idea-database, daisyui, tailwind, long-scroll-landing, light-theme, screenshot-heavy, conversion-focused
 - **Media mix:** img 122 · svg 332 · iframe 1
 - **Page height:** 15740px (single-screen: False)
 - **Responsive:** At 390x844 it stays a single column (~22.6k px) with no horizontal overflow; no hamburger detected (the top nav condenses).
@@ -61,7 +47,9 @@ A bright, light SaaS aesthetic: white background with a black 60px InterDisplay 
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[linkeddit.com]] [[jenni.ai]] [[midu.dev]] [[todesktop.com]] [[ashpreetbedi.com]] [[colf.dev]]
-
-## Tags
-#category/product #aesthetic/developer-product #aesthetic/light #pattern/saas-landing #pattern/idea-database #pattern/daisyui #pattern/tailwind #pattern/long-scroll-landing #pattern/light-theme #pattern/screenshot-heavy #pattern/conversion-focused #tech/tailwind-daisyui #tech/interdisplay-inter-self-hosted #tech/plausible #tech/google-tag-manager #tech/meta-pixel #tech/crisp #tech/trustpilot #tech/rewardful #color/light #color/warm #color/cool #font/interdisplay #font/inter-100-900
+- [[creao.ai]] — shared: startup-product, corporate-clean, startups, light
+- [[shipper.now]] — shared: startup-product, corporate-clean, startups, light
+- [[b150.ai]] — shared: startup-product, startups, light
+- [[backdoorai.app]] — shared: startup-product, startups, light
+- [[deel.com]] — shared: startup-product, corporate-clean, light
+- [[gatheros.co]] — shared: startup-product, corporate-clean, light

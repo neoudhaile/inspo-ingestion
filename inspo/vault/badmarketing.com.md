@@ -2,38 +2,23 @@
 url: https://www.badmarketing.com/home-x
 domain: badmarketing.com
 title: "Home"
-category: reading
+vertical: studio-agency
+mode: dark
+vibe: [playful]
+topics: [marketing]
 extracted_at: 2026-06-06
 tags:
-  - category/reading
-  - aesthetic/dark
-  - pattern/dark-mode
-  - pattern/long-scroll-sales-page
-  - pattern/webflow
-  - pattern/stat-counters
-  - pattern/logo-wall
-  - pattern/founder-video
-  - pattern/agency
-  - tech/webflow
-  - tech/hubspot
-  - tech/microsoft-clarity
-  - tech/google-tag-manager
-  - tech/twitter-pixel
-  - tech/meta-pixel
-  - tech/termly
-  - tech/cloudfront
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/nimbus-sans-extended-light
-  - font/nimbus-sans-extended-regular
-  - font/nimbus-sans-extended-bold
-  - font/nimbus-sans-extended-black
+  - vertical/studio-agency
+  - vibe/playful
+  - topic/marketing
+  - mode/dark
 ---
 # Home
 > WE MAKE GOOD BRANDS GO BAD  ·  [badmarketing.com](https://www.badmarketing.com/home-x)
 
 ![badmarketing.com](../../screenshots/badmarketingcom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/playful  ·  **Topics:** #topic/marketing  ·  **Mode:** #mode/dark
 
 ## What it is
 The marketing site for BAD Marketing ("Bold And Disruptive"), a full-service performance/growth agency formed as "4Media x Hemon" that the tweet credits with $20M/yr in agency revenue. The pitch headline is a literal play on the brand: 'WE MAKE GOOD BRANDS GO BAD'.
@@ -53,6 +38,7 @@ Aggressive dark-mode agency look: near-black #141414 canvas with off-white #f4f4
 - **Fonts:** URW Nimbus Sans Extended (Light/Regular/Bold/Black); h1 56px Bold
 - **Fonts loaded:** Nimbus Sans Extended Light 400, Nimbus Sans Extended Regular 400, Nimbus Sans Extended Bold 700, Nimbus Sans Extended Black 900
 - **Tech stack:** Webflow, HubSpot, Microsoft Clarity, Google Tag Manager, Twitter Pixel, Meta Pixel, Termly, Cloudfront
+- **Keywords:** dark-mode, long-scroll-sales-page, webflow, stat-counters, logo-wall, founder-video, agency
 - **Media mix:** img 114 · video 7 · svg 7 · iframe 2
 - **Page height:** 10797px (single-screen: False)
 - **Responsive:** At 390×844 the desktop nav collapses to a Webflow hamburger button and sections stack into a single column, growing the page to ~12.8k px.
@@ -61,7 +47,9 @@ Aggressive dark-mode agency look: near-black #141414 canvas with off-white #f4f4
 - **Extracted:** 2026-06-06 · Playwright Chromium @ 1440×900 + 390×844 mobile pass; logged_out: true
 
 ## Related sites
-[[b150.ai]] [[backgrounds.supply]] [[claude.com]] [[coldiq.com]] [[conigma.com]] [[contralabs.com]]
-
-## Tags
-#category/reading #aesthetic/dark #pattern/dark-mode #pattern/long-scroll-sales-page #pattern/webflow #pattern/stat-counters #pattern/logo-wall #pattern/founder-video #pattern/agency #tech/webflow #tech/hubspot #tech/microsoft-clarity #tech/google-tag-manager #tech/twitter-pixel #tech/meta-pixel #tech/termly #tech/cloudfront #color/dark #color/warm #color/cool #font/nimbus-sans-extended-light #font/nimbus-sans-extended-regular #font/nimbus-sans-extended-bold #font/nimbus-sans-extended-black
+- [[ddlabstudio.com]] — shared: studio-agency, marketing, dark
+- [[hex.inc]] — shared: studio-agency, marketing, dark
+- [[synergyscale.co]] — shared: studio-agency, marketing, dark
+- [[coldiq.com]] — shared: studio-agency, marketing
+- [[hiivearts.com]] — shared: studio-agency, marketing
+- [[ribbit.dk]] — shared: studio-agency, playful

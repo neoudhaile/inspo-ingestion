@@ -2,34 +2,23 @@
 url: https://www.ravalabs.com/
 domain: ravalabs.com
 title: "Rava Labs — independent design studio"
-category: tutorial
+vertical: studio-agency
+mode: light
+vibe: [minimal]
+topics: [design]
 extracted_at: 2026-07-05
 tags:
-  - category/tutorial
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - pattern/studio
-  - pattern/portfolio
-  - pattern/swiss
-  - pattern/grotesk
-  - pattern/framer
-  - pattern/case-studies
-  - pattern/retainer-pricing
-  - pattern/minimalist
-  - tech/framer
-  - tech/unpkg-css
-  - tech/cal-com
-  - tech/framerusercontent-cdn
-  - color/neutral
-  - font/pp-neue-montreal-book
-  - font/suisse-intl-book
-  - font/suisse-intl-regular
-  - font/ark-es
+  - vertical/studio-agency
+  - vibe/minimal
+  - topic/design
+  - mode/light
 ---
 # Rava Labs — independent design studio
 > Rava Labs is an independent design studio partnering with forward-thinking teams.  ·  [ravalabs.com](https://www.ravalabs.com/)
 
 ![ravalabs.com](../../screenshots/ravalabscom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 Ravalabs® is the studio of designer Gabriel Obholz (@gabriell_lab), 'an independent studio creating meaningful digital experiences.' It's the author's own studio, linked from his design-engineering tip about velocity-driven stretch + motion blur — and it embodies exactly that grade of motion craft.
@@ -49,6 +38,7 @@ Clean Swiss-modern studio look that keeps text restrained and lets the work imag
 - **Fonts:** PP Neue Montreal Book + Suisse Intl (Book 450 / Regular / Bold) grotesques for text, with ARK-ES light serif as a display accent.
 - **Fonts loaded:** PP Neue Montreal Book 400, Suisse Intl Book 450, Suisse Intl Regular 400, ARK-ES 300
 - **Tech stack:** Framer, unpkg (CSS), cal.com, framerusercontent CDN
+- **Keywords:** studio, portfolio, swiss, grotesk, framer, case-studies, retainer-pricing, minimalist
 - **Media mix:** img 91 · video 11 · svg 16 · iframe 1
 - **Page height:** 18319px (single-screen: False)
 - **Responsive:** At 390x844 the page keeps its ~18,400px height and stacks to a single column; the hero h1 nudges from 23.4px to 20.8px, with the nav condensing inline (no separate hamburger element detected).
@@ -57,7 +47,9 @@ Clean Swiss-modern studio look that keeps text restrained and lets the work imag
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[christophlocher.com]] [[ddlabstudio.com]] [[rotimi.design]] [[ankit-rai.com]] [[drafts9.com]]
-
-## Tags
-#category/tutorial #aesthetic/portfolio #aesthetic/minimal #pattern/studio #pattern/portfolio #pattern/swiss #pattern/grotesk #pattern/framer #pattern/case-studies #pattern/retainer-pricing #pattern/minimalist #tech/framer #tech/unpkg-css #tech/cal-com #tech/framerusercontent-cdn #color/neutral #font/pp-neue-montreal-book #font/suisse-intl-book #font/suisse-intl-regular #font/ark-es
+- [[drafts9.com]] — shared: studio-agency, minimal, design, light
+- [[northgarden.com]] — shared: studio-agency, minimal, design, light
+- [[offthewall.studio]] — shared: studio-agency, minimal, design, light
+- [[rotimi.design]] — shared: studio-agency, minimal, design, light
+- [[hex.inc]] — shared: studio-agency, minimal, design
+- [[hiivearts.com]] — shared: studio-agency, minimal, light

@@ -2,31 +2,23 @@
 url: https://www.shanemac.com/
 domain: shanemac.com
 title: "Shane Mac"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [minimal]
+topics: [startups]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/minimal
-  - pattern/personal-landing
-  - pattern/minimalist
-  - pattern/single-screen
-  - pattern/webflow
-  - pattern/signature-logo
-  - pattern/text-nav
-  - pattern/centered
-  - tech/webflow
-  - tech/google-tag-manager
-  - tech/google-fonts
-  - tech/jquery-googleapis
-  - tech/cloudfront-cdn
-  - color/neutral
-  - font/montserrat-100-900
-  - font/montserrat-alternates-300-800
+  - vertical/portfolio
+  - vibe/minimal
+  - topic/startups
+  - mode/light
 ---
 # Shane Mac
 > Hi, I'm Shane Mac.  ·  [shanemac.com](https://www.shanemac.com/)
 
 ![shanemac.com](../../screenshots/shanemaccom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The personal landing page of Shane Mac, a founder & CEO who — per the site's own meta description — is 'building XMTP, a decentralized messaging protocol.' It is a single-screen Webflow page that acts as a hub linking out to his About, Writing, and News. Notably it does NOT link the @openclaw agent product the tweet is about, so the showcased product has no resolvable site.
@@ -46,6 +38,7 @@ Minimal, white-canvas, document-like. White background (rgb(255,255,255)), near-
 - **Fonts:** Montserrat (and Montserrat Alternates) self-loaded via Google Fonts across weights 100-900; H1 in 30px Montserrat.
 - **Fonts loaded:** Montserrat 100-900, Montserrat Alternates 300-800
 - **Tech stack:** Webflow, Google Tag Manager, Google Fonts, jQuery (googleapis), Cloudfront CDN
+- **Keywords:** personal-landing, minimalist, single-screen, webflow, signature-logo, text-nav, centered
 - **Media mix:** img 3
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it stays a single centered screen (scrollHeight 844px, no horizontal overflow); the text nav remains inline with no hamburger.
@@ -54,7 +47,9 @@ Minimal, white-canvas, document-like. White background (rgb(255,255,255)), near-
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[axiaisacat.indiehacker.bio]] [[conigma.com]] [[daryl.cv]] [[daviskeene.com]] [[farza.com]] [[gatheros.co]]
-
-## Tags
-#category/personal #aesthetic/minimal #pattern/personal-landing #pattern/minimalist #pattern/single-screen #pattern/webflow #pattern/signature-logo #pattern/text-nav #pattern/centered #tech/webflow #tech/google-tag-manager #tech/google-fonts #tech/jquery-googleapis #tech/cloudfront-cdn #color/neutral #font/montserrat-100-900 #font/montserrat-alternates-300-800
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups, light
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
+- [[farza.com]] — shared: portfolio, minimal, startups, light
+- [[julian.ai]] — shared: portfolio, minimal, startups, light
+- [[ryancarson.com]] — shared: portfolio, minimal, startups, light
+- [[willmanidis.com]] — shared: portfolio, minimal, startups, light

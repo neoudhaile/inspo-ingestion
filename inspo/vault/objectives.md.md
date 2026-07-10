@@ -2,32 +2,24 @@
 url: https://objectives.md/
 domain: objectives.md
 title: "Andrew Jiang"
-category: product
+vertical: portfolio
+mode: dark
+vibe: [technical, minimal]
+topics: [startups]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/dark
-  - aesthetic/minimal
-  - aesthetic/developer-product
-  - aesthetic/portfolio
-  - pattern/dark
-  - pattern/markdown
-  - pattern/developer
-  - pattern/terminal-window
-  - pattern/minimalist
-  - pattern/monospace
-  - pattern/portfolio
-  - tech/next-js
-  - tech/inter-jetbrains-mono-next-font
-  - color/dark
-  - color/cool
-  - font/inter-100-900
-  - font/jetbrains-mono-100-800
+  - vertical/portfolio
+  - vibe/technical
+  - vibe/minimal
+  - topic/startups
+  - mode/dark
 ---
 # Andrew Jiang
 > # Objectives  ·  [objectives.md](https://objectives.md/)
 
 ![objectives.md](../../screenshots/objectivesmd.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/technical #vibe/minimal  ·  **Topics:** #topic/startups  ·  **Mode:** #mode/dark
 
 ## What it is
 The personal site of builder/investor Andrew Jiang (YC alum, GP at Curated), and the page the 'Palantir for Family Trips' tweet links to. It styles his whole résumé as a raw Markdown document — the <h1> is literally '# Objectives'.
@@ -47,6 +39,7 @@ Dev-tool aesthetic driven by explicit CSS vars: near-black --bg #030303 with a s
 - **Fonts:** Inter for prose, JetBrains Mono for code/markdown syntax — self-hosted via next/font
 - **Fonts loaded:** Inter 100-900, JetBrains Mono 100-800
 - **Tech stack:** Next.js, Inter + JetBrains Mono (next/font)
+- **Keywords:** dark, markdown, developer, terminal-window, minimalist, monospace, portfolio
 - **Media mix:** svg 4
 - **Page height:** 1052px (single-screen: False)
 - **Responsive:** At 390×844 the window/list reflows to a single narrow column, growing from ~1,052px to ~1,455px.
@@ -56,7 +49,9 @@ Dev-tool aesthetic driven by explicit CSS vars: near-black --bg #030303 with a s
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[siddz.com]] [[lab01.dev]] [[ankit-rai.com]] [[asekachov.com]] [[christophlocher.com]] [[hex.inc]]
-
-## Tags
-#category/product #aesthetic/dark #aesthetic/minimal #aesthetic/developer-product #aesthetic/portfolio #pattern/dark #pattern/markdown #pattern/developer #pattern/terminal-window #pattern/minimalist #pattern/monospace #pattern/portfolio #tech/next-js #tech/inter-jetbrains-mono-next-font #color/dark #color/cool #font/inter-100-900 #font/jetbrains-mono-100-800
+- [[khairallah.xyz]] — shared: portfolio, technical, minimal, dark
+- [[lab01.dev]] — shared: portfolio, technical, minimal, dark
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups
+- [[farza.com]] — shared: portfolio, minimal, startups
+- [[julian.ai]] — shared: portfolio, minimal, startups

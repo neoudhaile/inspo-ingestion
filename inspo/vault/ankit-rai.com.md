@@ -2,37 +2,25 @@
 url: https://www.ankit-rai.com/moleskine
 domain: ankit-rai.com
 title: "Ankit Rai®"
-category: tools-build
+vertical: portfolio
+mode: dark
+vibe: [minimal, editorial]
+topics: [art, travel-places]
 extracted_at: 2026-06-06
 tags:
-  - category/tools-build
-  - aesthetic/experimental
-  - aesthetic/dark
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - pattern/flipbook
-  - pattern/3d
-  - pattern/page-turn
-  - pattern/dark
-  - pattern/portfolio
-  - pattern/case-study
-  - pattern/monochrome
-  - pattern/architectural-illustration
-  - pattern/long-scroll
-  - pattern/framer
-  - tech/framer
-  - tech/framer-analytics
-  - tech/smartarget-widget
-  - color/dark
-  - color/monochrome
-  - color/cool
-  - font/josefin-sans
-  - font/lato
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/editorial
+  - topic/art
+  - topic/travel-places
+  - mode/dark
 ---
 # Ankit Rai®
 > MOLESKINE — Observations in ink  ·  [ankit-rai.com](https://www.ankit-rai.com/moleskine)
 
 ![ankit-rai.com](../../screenshots/ankit-raicom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/art #topic/travel-places  ·  **Mode:** #mode/dark
 
 ## What it is
 The 'Moleskine' project page inside the Framer-built portfolio of Ankit Rai, a Design & Construction Technologist. It reframes his personal travel sketchbook as an interactive web exhibit, and is the page Matt (@Matthias_Oel) points to as the live home of his Flipbook 3D component.
@@ -52,6 +40,7 @@ Restrained, gallery-like dark layout: a #121212 ground with white display headin
 - **Fonts:** Josefin Sans (display headings) + Lato (italic 300 body)
 - **Fonts loaded:** Josefin Sans 300, Josefin Sans 400, Josefin Sans 600, Lato 300, Lato 400
 - **Tech stack:** Framer, Framer Analytics, smartarget (widget)
+- **Keywords:** flipbook, 3d, page-turn, dark, portfolio, case-study, monochrome, architectural-illustration, long-scroll, framer
 - **Media mix:** img 10 · svg 14 · iframe 1
 - **Page height:** 4954px (single-screen: False)
 - **Responsive:** At 390px the multi-column layout stacks into a single column and page height balloons (~4,954 → ~20,400px); no persistent nav bar.
@@ -60,7 +49,9 @@ Restrained, gallery-like dark layout: a #121212 ground with white display headin
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+390x844 mobile), logged_out: true
 
 ## Related sites
-[[asekachov.com]] [[tyronec.com]] [[vanschneider.com]] [[ddlabstudio.com]] [[hex.inc]] [[jasonyuan.design]]
-
-## Tags
-#category/tools-build #aesthetic/experimental #aesthetic/dark #aesthetic/portfolio #aesthetic/minimal #pattern/flipbook #pattern/3d #pattern/page-turn #pattern/dark #pattern/portfolio #pattern/case-study #pattern/monochrome #pattern/architectural-illustration #pattern/long-scroll #pattern/framer #tech/framer #tech/framer-analytics #tech/smartarget-widget #color/dark #color/monochrome #color/cool #font/josefin-sans #font/lato
+- [[davekrugman.com]] — shared: portfolio, editorial, art, dark
+- [[addyosmani.com]] — shared: portfolio, minimal, editorial
+- [[asekachov.com]] — shared: portfolio, minimal, editorial
+- [[christophlocher.com]] — shared: portfolio, minimal, editorial
+- [[daviskeene.com]] — shared: portfolio, minimal, editorial
+- [[joonasvirtanen.com]] — shared: portfolio, minimal, editorial

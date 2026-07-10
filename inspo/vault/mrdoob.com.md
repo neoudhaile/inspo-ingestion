@@ -2,35 +2,25 @@
 url: https://mrdoob.com/
 domain: mrdoob.com
 title: "Mr.doob | Three.js Quake"
-category: favorites
+vertical: portfolio
+mode: dark
+vibe: [brutalist, experimental]
+topics: [art, engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/editorial
-  - aesthetic/experimental
-  - aesthetic/minimal
-  - pattern/creative-coding-archive
-  - pattern/webgl
-  - pattern/threejs
-  - pattern/iframe-hero
-  - pattern/raw-html
-  - pattern/thumbnail-index
-  - pattern/black-background
-  - pattern/no-framework
-  - pattern/minimal-chrome
-  - pattern/developer-homepage
-  - tech/hand-written-static-html-no-framework-no-next-nuxt-react-vue-detected
-  - tech/three-js-demos-embedded-via-iframe
-  - tech/web3dsurvey-com-webgl-capability-survey-beacon
-  - tech/self-hosted-thumbnails-on-mrdoob-com
-  - color/warm
-  - color/cool
-  - font/system-fonts
+  - vertical/portfolio
+  - vibe/brutalist
+  - vibe/experimental
+  - topic/art
+  - topic/engineering
+  - mode/dark
 ---
 # Mr.doob | Three.js Quake
 > The personal homepage and running experiment-archive of Ricardo Cabello (Mr.doob), creator of Three.js — the newest demo plays live, the rest are one click away.  ·  [mrdoob.com](https://mrdoob.com/)
 
 ![mrdoob.com](../../screenshots/mrdoobcom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/brutalist #vibe/experimental  ·  **Topics:** #topic/art #topic/engineering  ·  **Mode:** #mode/dark
 
 ## What it is
 mrdoob.com, the homepage of Ricardo Cabello — "Mr.doob," the creator of Three.js. It is less a portfolio than a living archive of WebGL/creative-coding experiments stretching back to 2010, with the most recent one (here "Three.js Quake", 2026/01/29) embedded and running as the hero.
@@ -50,6 +40,7 @@ Deliberately raw and archival — the design *is* the absence of design, letting
 - **Fonts:** System fonts only — Helvetica/Arial sans-serif for body, no webfont payload loaded (document.fonts empty)
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Hand-written static HTML (no framework — no Next/Nuxt/React/Vue detected), Three.js demos embedded via <iframe>, web3dsurvey.com (WebGL capability survey beacon), self-hosted thumbnails on mrdoob.com
+- **Keywords:** creative-coding-archive, webgl, threejs, iframe-hero, raw-html, thumbnail-index, black-background, no-framework, minimal-chrome, developer-homepage
 - **Media mix:** img 40 · iframe 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the embedded demo iframe simply reflows to fill the 390px width with no horizontal overflow; the thumbnail strip and full-screen single-page layout are preserved (no separate mobile design).
@@ -57,7 +48,9 @@ Deliberately raw and archival — the design *is* the absence of design, letting
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[arneshbanerjee.github.io]] [[iacopoapps.appspot.com]] [[are.na]] [[everynoise.com]] [[gaspardhedde.fr]] [[jessa.art]]
-
-## Tags
-#category/favorites #aesthetic/editorial #aesthetic/experimental #aesthetic/minimal #pattern/creative-coding-archive #pattern/webgl #pattern/threejs #pattern/iframe-hero #pattern/raw-html #pattern/thumbnail-index #pattern/black-background #pattern/no-framework #pattern/minimal-chrome #pattern/developer-homepage #tech/hand-written-static-html-no-framework-no-next-nuxt-react-vue-detected #tech/three-js-demos-embedded-via-iframe #tech/web3dsurvey-com-webgl-capability-survey-beacon #tech/self-hosted-thumbnails-on-mrdoob-com #color/warm #color/cool #font/system-fonts
+- [[arneshbanerjee.github.io]] — shared: portfolio, brutalist, engineering
+- [[mapzilla.co.uk]] — shared: portfolio, experimental, art
+- [[ankit-rai.com]] — shared: portfolio, art, dark
+- [[davekrugman.com]] — shared: portfolio, art, dark
+- [[jasonyuan.design]] — shared: portfolio, experimental, dark
+- [[khairallah.xyz]] — shared: portfolio, engineering, dark

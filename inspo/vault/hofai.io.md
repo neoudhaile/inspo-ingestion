@@ -2,35 +2,25 @@
 url: https://www.hofai.io/
 domain: hofai.io
 title: "House of AI — Learn AI with projects and mentorship"
-category: tutorial
+vertical: docs-resource
+mode: mixed
+vibe: [technical, playful]
+topics: [ai, education]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - aesthetic/developer-product
-  - aesthetic/dark
-  - aesthetic/playful
-  - pattern/product-landing
-  - pattern/saas-pricing
-  - pattern/dark-theme
-  - pattern/warm-accent
-  - pattern/gamified-learning
-  - pattern/single-scroll
-  - pattern/turkish
-  - pattern/tailwind-v4
-  - pattern/ai-education
-  - tech/tailwind-v4
-  - tech/google-tag-manager
-  - color/dark
-  - color/warm
-  - color/cool
-  - font/geist-100-900
-  - font/instrument-serif
-  - font/jetbrains-mono
+  - vertical/docs-resource
+  - vibe/technical
+  - vibe/playful
+  - topic/ai
+  - topic/education
+  - mode/mixed
 ---
 # House of AI — Learn AI with projects and mentorship
 > AI öğrenmenin en keyifli yolu. (the most enjoyable way to learn AI)  ·  [hofai.io](https://www.hofai.io/)
 
 ![hofai.io](../../screenshots/hofaiio.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/technical #vibe/playful  ·  **Topics:** #topic/ai #topic/education  ·  **Mode:** #mode/mixed
 
 ## What it is
 House of AI (hofai.io) is a Turkish-language AI-learning platform. Its meta description pitches it plainly: “Learn Claude, ChatGPT, Gemini and modern AI tools through guided projects. Your AI mentor reviews assignments. Try 3 days free, then $14.99/mo.” It's a paid, mentor-reviewed, project-based course product — bookmarked via a Turkish thread by its maker (“digital ghost”) about spending six hours with Claude to erase a personal digital footprint.
@@ -50,6 +40,7 @@ A warm dark theme built on Tailwind v4: the CSS exposes lab() color tokens, a fu
 - **Fonts:** Geist for headings + body (h1 88px), Instrument Serif as an editorial accent, JetBrains Mono for code (all loaded).
 - **Fonts loaded:** Geist 100-900, Instrument Serif 400, JetBrains Mono 400
 - **Tech stack:** Tailwind v4, Google Tag Manager
+- **Keywords:** product-landing, saas-pricing, dark-theme, warm-accent, gamified-learning, single-scroll, turkish, tailwind-v4, ai-education
 - **Media mix:** img 8 · svg 4
 - **Page height:** 10912px (single-screen: False)
 - **Responsive:** At 390x844 the hero h1 drops 88px→48px and the page reflows to a single column (scrollHeight 10912→16876); no hamburger detected, the nav stays block-level.
@@ -57,7 +48,9 @@ A warm dark theme built on Tailwind v4: the CSS exposes lab() color tokens, a fu
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[cofounder.co]] [[printingpress.dev]] [[fey.com]] [[todesktop.com]] [[affiliatenetwork.com]] [[ashpreetbedi.com]]
-
-## Tags
-#category/tutorial #aesthetic/developer-product #aesthetic/dark #aesthetic/playful #pattern/product-landing #pattern/saas-pricing #pattern/dark-theme #pattern/warm-accent #pattern/gamified-learning #pattern/single-scroll #pattern/turkish #pattern/tailwind-v4 #pattern/ai-education #tech/tailwind-v4 #tech/google-tag-manager #color/dark #color/warm #color/cool #font/geist-100-900 #font/instrument-serif #font/jetbrains-mono
+- [[heyneuma.com]] — shared: docs-resource, ai, education
+- [[midu.dev]] — shared: docs-resource, playful, education
+- [[walkinglabs.github.io]] — shared: docs-resource, ai, education
+- [[cofounder.co]] — shared: technical, ai, mixed
+- [[makingsoftware.com]] — shared: docs-resource, technical
+- [[transitions.dev]] — shared: docs-resource, technical

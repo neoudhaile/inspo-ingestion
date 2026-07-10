@@ -2,32 +2,25 @@
 url: https://kmk0.com/
 domain: kmk0.com
 title: "Xavier (Jack) – kmk0 – @KMkota0"
-category: uncategorized
+vertical: portfolio
+mode: light
+vibe: [playful, minimal]
+topics: [engineering, design]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/playful
-  - aesthetic/portfolio
-  - aesthetic/experimental
-  - pattern/bento-grid
-  - pattern/single-screen
-  - pattern/portfolio
-  - pattern/product-cards
-  - pattern/3d-render
-  - pattern/frosted-cards
-  - pattern/system-fonts
-  - pattern/outbound-index
-  - pattern/playful
-  - tech/nuxt-vue
-  - tech/tailwind-css
-  - tech/plausible-analytics
-  - color/cool
-  - font/system-fonts
+  - vertical/portfolio
+  - vibe/playful
+  - vibe/minimal
+  - topic/engineering
+  - topic/design
+  - mode/light
 ---
 # Xavier (Jack) – kmk0 – @KMkota0
 > Making websites is my passion. Here's a quick view to what I am working on and links to relevant projects.  ·  [kmk0.com](https://kmk0.com/)
 
 ![kmk0.com](../../screenshots/kmk0com.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/playful #vibe/minimal  ·  **Topics:** #topic/engineering #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The personal portfolio of Xavier (Jack) / @KMkota0 — author of the motion-graphics tweet and maker of mo¹. The site is a playful index of the web apps and experiments he is building.
@@ -47,6 +40,7 @@ Friendly, OS-widget aesthetic: a light grey ground with rounded, frosted/elevate
 - **Fonts:** System sans only (Tailwind ui-sans-serif / system-ui stack) — no webfont payload.
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Nuxt / Vue, Tailwind CSS, Plausible Analytics
+- **Keywords:** bento-grid, single-screen, portfolio, product-cards, 3d-render, frosted-cards, system-fonts, outbound-index, playful
 - **Media mix:** img 77 · svg 21
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 the bento cards stack into a single column; scrollHeight grows to ~2,251px.
@@ -55,7 +49,9 @@ Friendly, OS-widget aesthetic: a light grey ground with rounded, frosted/elevate
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
-[[mo1.app]] [[addyosmani.com]] [[bird.onethreenine.net]] [[daryl.cv]] [[debarghyadas.com]] [[jessa.art]]
-
-## Tags
-#category/uncategorized #aesthetic/playful #aesthetic/portfolio #aesthetic/experimental #pattern/bento-grid #pattern/single-screen #pattern/portfolio #pattern/product-cards #pattern/3d-render #pattern/frosted-cards #pattern/system-fonts #pattern/outbound-index #pattern/playful #tech/nuxt-vue #tech/tailwind-css #tech/plausible-analytics #color/cool #font/system-fonts
+- [[designrebuilds.vercel.app]] — shared: portfolio, playful, minimal, engineering, design, light
+- [[lab01.dev]] — shared: portfolio, minimal, engineering, design
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
+- [[asekachov.com]] — shared: portfolio, minimal, design, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
+- [[christophlocher.com]] — shared: portfolio, minimal, design, light

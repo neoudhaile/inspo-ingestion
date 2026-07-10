@@ -2,35 +2,25 @@
 url: https://www.makingsoftware.com/
 domain: makingsoftware.com
 title: "Making Software"
-category: reading
+vertical: docs-resource
+mode: light
+vibe: [editorial, technical]
+topics: [engineering, design]
 extracted_at: 2026-07-08
 tags:
-  - category/reading
-  - aesthetic/light
-  - aesthetic/playful
-  - pattern/reference-manual
-  - pattern/book
-  - pattern/light
-  - pattern/illustration-heavy
-  - pattern/inline-svg
-  - pattern/cobalt-accent
-  - pattern/pixel-mono
-  - pattern/departure-mono
-  - pattern/abc-arizona
-  - pattern/tailwind-v4
-  - pattern/self-hosted
-  - tech/react-next-js-app-router-generated-opengraph-image-route-next-data-not-exposed
-  - tech/tailwind-css-v4-token-layer
-  - tech/self-hosted-no-third-party-analytics-or-cdn-script-hosts-detected
-  - color/light
-  - font/abc-arizona
-  - font/abc-arizona-400-italic
-  - font/departure-mono
+  - vertical/docs-resource
+  - vibe/editorial
+  - vibe/technical
+  - topic/engineering
+  - topic/design
+  - mode/light
 ---
 # Making Software
 > A reference manual for people who design and build software.  ·  [makingsoftware.com](https://www.makingsoftware.com/)
 
 ![makingsoftware.com](../../screenshots/makingsoftwarecom.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/editorial #vibe/technical  ·  **Topics:** #topic/engineering #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 Dan Hollick's book / reference manual, the subject of the tweet. The semantic h1 is 'Making Software' and the meta description reads 'A reference manual for people who design and build software.' — a 70k-word, illustration-heavy explainer of the systems behind software (rendering, colour, type, graphics), sold in early access with a 'Get Early Access ($99)' CTA.
@@ -50,6 +40,7 @@ A crisp editorial-technical look. getComputedStyle reports a body background rgb
 - **Fonts:** 'ABC Arizona' (font-family arizona; loaded 400/500/700 + italic, EB Garamond fallback) for reading copy, paired with the pixel monospace 'Departure Mono' (loaded 500) for UI, buttons and display headings.
 - **Fonts loaded:** ABC Arizona 400, ABC Arizona 500, ABC Arizona 700, ABC Arizona 400 italic, Departure Mono 500
 - **Tech stack:** React / Next.js App Router (generated opengraph-image route; __NEXT_DATA__ not exposed), Tailwind CSS v4 (token layer), Self-hosted (no third-party analytics or CDN script hosts detected)
+- **Keywords:** reference-manual, book, light, illustration-heavy, inline-svg, cobalt-accent, pixel-mono, departure-mono, abc-arizona, tailwind-v4, self-hosted
 - **Media mix:** svg 46
 - **Page height:** 7122px (single-screen: False)
 - **Responsive:** At 390x844 the layout reflows to a single column and the page grows from 7,122 to 9,258px with no horizontal overflow; no burger menu appears (the top nav stays inline).
@@ -58,7 +49,9 @@ A crisp editorial-technical look. getComputedStyle reports a body background rgb
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[21st.dev]] [[animations.dev]] [[christophlocher.com]] [[cofounder.co]] [[hofai.io]] [[hw.cafe]]
-
-## Tags
-#category/reading #aesthetic/light #aesthetic/playful #pattern/reference-manual #pattern/book #pattern/light #pattern/illustration-heavy #pattern/inline-svg #pattern/cobalt-accent #pattern/pixel-mono #pattern/departure-mono #pattern/abc-arizona #pattern/tailwind-v4 #pattern/self-hosted #tech/react-next-js-app-router-generated-opengraph-image-route-next-data-not-exposed #tech/tailwind-css-v4-token-layer #tech/self-hosted-no-third-party-analytics-or-cdn-script-hosts-detected #color/light #font/abc-arizona #font/abc-arizona-400-italic #font/departure-mono
+- [[animations.dev]] — shared: docs-resource, editorial, engineering, design, light
+- [[transitions.dev]] — shared: docs-resource, technical, engineering, design, light
+- [[walkinglabs.github.io]] — shared: docs-resource, editorial, engineering, light
+- [[21st.dev]] — shared: editorial, engineering, design, light
+- [[designengineer.tools]] — shared: technical, engineering, design, light
+- [[interfaces.dev]] — shared: editorial, engineering, design, light

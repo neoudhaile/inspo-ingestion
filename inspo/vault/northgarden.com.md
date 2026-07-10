@@ -2,36 +2,24 @@
 url: https://www.northgarden.com/about
 domain: northgarden.com
 title: "About — NorthGarden"
-category: design
+vertical: studio-agency
+mode: light
+vibe: [minimal, experimental]
+topics: [design]
 extracted_at: 2026-06-06
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - aesthetic/experimental
-  - pattern/studio-portfolio
-  - pattern/minimalist
-  - pattern/monochrome
-  - pattern/threejs-canvas
-  - pattern/webgl-wordmark
-  - pattern/grotesk-mono-pairing
-  - pattern/single-page
-  - pattern/self-hosted
-  - pattern/nextjs
-  - pattern/tailwind
-  - tech/next-js-app-router-hashed-opengraph-image-favicon-routes
-  - tech/three-js-r180-animated-wordmark-canvas
-  - tech/tailwind-css
-  - tech/self-hosted-assets-all-from-northgarden-com
-  - tech/no-third-party-analytics-detected
-  - color/monochrome
-  - font/ft-system-grotesk-400-600
-  - font/ft-system-mono
+  - vertical/studio-agency
+  - vibe/minimal
+  - vibe/experimental
+  - topic/design
+  - mode/light
 ---
 # About — NorthGarden
 > NorthGarden is a design and development studio that specializes in creating digital products, websites, and interactive experiences used by millions around the world.  ·  [northgarden.com](https://www.northgarden.com/about)
 
 ![northgarden.com](../../screenshots/northgardencom.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/minimal #vibe/experimental  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The About page of NorthGarden (northgarden.com), a self-described "design and development studio creating digital products, websites, and interactive experiences for industry-leading artists, brands, and studios." The wordmark itself is the hero: an animated Three.js (r180) canvas renders a black ink-brush garden scene with the letters of "NorthGarden" set into it.
@@ -51,6 +39,7 @@ Pure monochrome restraint: a #fff background and #000 foreground driven by two C
 - **Fonts:** FT System Grotesk (400/600) for headings and body; FT System Mono (300) for nav and labels — both self-hosted webfonts
 - **Fonts loaded:** FT System Grotesk 400/600, FT System Mono 300
 - **Tech stack:** Next.js (App Router — hashed /opengraph-image + /favicon routes), Three.js r180 (animated wordmark canvas), Tailwind CSS, self-hosted assets (all from northgarden.com), no third-party analytics detected
+- **Keywords:** studio-portfolio, minimalist, monochrome, threejs-canvas, webgl-wordmark, grotesk-mono-pairing, single-page, self-hosted, nextjs, tailwind
 - **Media mix:** img 2 · canvas 1 · svg 8
 - **Page height:** 2847px (single-screen: False)
 - **Responsive:** At 390x844 the page reflows to a single column (~3,017px tall) with the intro paragraph at ~24px; the WORK/ABOUT/CONTACT nav stays inline rather than collapsing to a hamburger.
@@ -60,7 +49,9 @@ Pure monochrome restraint: a #fff background and #000 foreground driven by two C
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[designengineer.tools]] [[humanoid-index.com]] [[asekachov.com]] [[ashpreetbedi.com]] [[christophlocher.com]] [[daviskeene.com]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/minimal #aesthetic/experimental #pattern/studio-portfolio #pattern/minimalist #pattern/monochrome #pattern/threejs-canvas #pattern/webgl-wordmark #pattern/grotesk-mono-pairing #pattern/single-page #pattern/self-hosted #pattern/nextjs #pattern/tailwind #tech/next-js-app-router-hashed-opengraph-image-favicon-routes #tech/three-js-r180-animated-wordmark-canvas #tech/tailwind-css #tech/self-hosted-assets-all-from-northgarden-com #tech/no-third-party-analytics-detected #color/monochrome #font/ft-system-grotesk-400-600 #font/ft-system-mono
+- [[drafts9.com]] — shared: studio-agency, minimal, design, light
+- [[offthewall.studio]] — shared: studio-agency, minimal, design, light
+- [[ravalabs.com]] — shared: studio-agency, minimal, design, light
+- [[ribbit.dk]] — shared: studio-agency, experimental, design, light
+- [[rotimi.design]] — shared: studio-agency, minimal, design, light
+- [[gaspardhedde.fr]] — shared: minimal, experimental, design, light

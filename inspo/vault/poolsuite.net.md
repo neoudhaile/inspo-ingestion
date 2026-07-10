@@ -2,36 +2,24 @@
 url: https://poolsuite.net/
 domain: poolsuite.net
 title: "Now Playing on Poolsuite ☼: Poolsuite ON AIR"
-category: favorites
+vertical: experiment-art
+mode: light
+vibe: [retro, playful]
+topics: [music]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/retro
-  - aesthetic/playful
-  - pattern/web-radio
-  - pattern/retro-desktop-os
-  - pattern/vaporwave
-  - pattern/pixel-fonts
-  - pattern/single-screen
-  - pattern/skeuomorphic
-  - pattern/summer-aesthetic
-  - pattern/vue
-  - tech/vue
-  - tech/youtube-iframe-api
-  - tech/plausible
-  - tech/facebook-pixel
-  - tech/walletconnect-web3modal
-  - color/warm
-  - color/cool
-  - font/pixolde
-  - font/chikarego2
-  - font/ishmeria
-  - font/everyday
+  - vertical/experiment-art
+  - vibe/retro
+  - vibe/playful
+  - topic/music
+  - mode/light
 ---
 # Now Playing on Poolsuite ☼: Poolsuite ON AIR
 > The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM.  ·  [poolsuite.net](https://poolsuite.net/)
 
 ![poolsuite.net](../../screenshots/poolsuitenet.png)
+
+**Vertical:** #vertical/experiment-art  ·  **Vibe:** #vibe/retro #vibe/playful  ·  **Topics:** #topic/music  ·  **Mode:** #mode/light
 
 ## What it is
 Poolsuite (formerly Poolside FM) is an 'ultra-summer' internet radio station wrapped in a faux vintage-computer desktop. There's no <h1> — the conceit is the interface itself: a pastel retro operating system you 'boot into' to listen to a 24/7 stream of summer/yacht-rock sounds, with the meta description bragging 'an infinity pool of summer sounds 24/7. Swimwear optional.' The audience is the nostalgia-web / vaporwave crowd and the brand has since spun into a lifestyle label (Vacation, Inc. sunscreen, membership perks).
@@ -51,6 +39,7 @@ Full pixel-art nostalgia. The loaded faces are bitmap/retro display fonts — Pi
 - **Fonts:** Pixel/bitmap display faces — Pixolde (400 & 700) plus ChiKareGo2, Ishmeria and Everyday — self-hosted from poolsuite.net.
 - **Fonts loaded:** Pixolde 400, Pixolde 700, ChiKareGo2 400, Ishmeria 400, Everyday 400
 - **Tech stack:** Vue, YouTube IFrame API, Plausible, Facebook Pixel, WalletConnect / Web3Modal
+- **Keywords:** web-radio, retro-desktop-os, vaporwave, pixel-fonts, single-screen, skeuomorphic, summer-aesthetic, vue
 - **Media mix:** img 125 · svg 33 · iframe 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390px it stays a single fixed screen (844px, no scroll), reflowing to a mobile player UI showing the live channel ('Poolsuite: ON AIR'), the current track and a Player / Newsroom / Mixtapes / Members / Events tab bar.
@@ -58,7 +47,7 @@ Full pixel-art nostalgia. The loaded faces are bitmap/retro display fonts — Pi
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[akira.sachi.dev]] [[axiaisacat.indiehacker.bio]] [[bird.onethreenine.net]] [[cafe.endofday.studio]] [[chusmargallo.space]] [[conigma.com]]
-
-## Tags
-#category/favorites #aesthetic/retro #aesthetic/playful #pattern/web-radio #pattern/retro-desktop-os #pattern/vaporwave #pattern/pixel-fonts #pattern/single-screen #pattern/skeuomorphic #pattern/summer-aesthetic #pattern/vue #tech/vue #tech/youtube-iframe-api #tech/plausible #tech/facebook-pixel #tech/walletconnect-web3modal #color/warm #color/cool #font/pixolde #font/chikarego2 #font/ishmeria #font/everyday
+- [[typatone.com]] — shared: experiment-art, playful, music, light
+- [[ytch.tv]] — shared: experiment-art, retro, playful
+- [[chusmargallo.space]] — shared: retro, playful, light
+- [[zzz.zoomquilt.org]] — shared: experiment-art, retro

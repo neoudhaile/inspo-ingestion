@@ -2,31 +2,24 @@
 url: https://kiira.in/
 domain: kiira.in
 title: "Keerthi's Website"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [organic-warm, retro]
+topics: [design]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/portfolio
-  - aesthetic/developer-product
-  - pattern/portfolio
-  - pattern/framer
-  - pattern/monospace-type
-  - pattern/collage
-  - pattern/project-grid
-  - pattern/warm-palette
-  - tech/framer
-  - tech/framerusercontent-cdn
-  - tech/framer-analytics-events-framer-com
-  - color/warm
-  - color/cool
-  - font/courier-prime
-  - font/petrona
-  - font/satoshi
+  - vertical/portfolio
+  - vibe/organic-warm
+  - vibe/retro
+  - topic/design
+  - mode/light
 ---
 # Keerthi's Website
 > Hi, I'm Keerthi — Visual Designer  ·  [kiira.in](https://kiira.in/)
 
 ![kiira.in](../../screenshots/kiirain.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/organic-warm #vibe/retro  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The portfolio of Keerthi (@kiiradesign), described in its meta as 'a visual designer based in India.' Built on Framer.
@@ -46,6 +39,7 @@ Warm cream canvas (#f5f1eb) with dark-brown ink (#282522), set almost entirely i
 - **Fonts:** Courier Prime (primary, monospace) with Petrona serif and Satoshi accents
 - **Fonts loaded:** Courier Prime 400, Petrona 400, Petrona 300, Satoshi 400
 - **Tech stack:** Framer, framerusercontent CDN, Framer Analytics (events.framer.com)
+- **Keywords:** portfolio, framer, monospace-type, collage, project-grid, warm-palette
 - **Media mix:** img 20 · svg 12 · iframe 1
 - **Page height:** 3540px (single-screen: False)
 - **Responsive:** At 390x844 the two-column project grid reflows to a single column with little change in total height (scrollHeight 3540 → ~3761).
@@ -53,7 +47,9 @@ Warm cream canvas (#f5f1eb) with dark-brown ink (#282522), set almost entirely i
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[ankit-rai.com]] [[asekachov.com]] [[ravalabs.com]] [[rotimi.design]] [[tyronec.com]] [[addyosmani.com]]
-
-## Tags
-#category/personal #aesthetic/portfolio #aesthetic/developer-product #pattern/portfolio #pattern/framer #pattern/monospace-type #pattern/collage #pattern/project-grid #pattern/warm-palette #tech/framer #tech/framerusercontent-cdn #tech/framer-analytics-events-framer-com #color/warm #color/cool #font/courier-prime #font/petrona #font/satoshi
+- [[chusmargallo.space]] — shared: portfolio, retro, design, light
+- [[jessa.art]] — shared: portfolio, organic-warm, design, light
+- [[asekachov.com]] — shared: portfolio, design, light
+- [[christophlocher.com]] — shared: portfolio, design, light
+- [[daryl.cv]] — shared: portfolio, design, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, design, light

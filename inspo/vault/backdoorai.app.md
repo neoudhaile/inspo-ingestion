@@ -2,35 +2,25 @@
 url: https://backdoorai.app
 domain: backdoorai.app
 title: "Backdoor — Book startup interviews on autopilot."
-category: uncategorized
+vertical: startup-product
+mode: light
+vibe: [minimal, organic-warm]
+topics: [startups, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/light
-  - aesthetic/minimal
-  - pattern/light-minimal
-  - pattern/serif-headline
-  - pattern/sms-deep-link-cta
-  - pattern/reveal-on-scroll
-  - pattern/single-page-landing
-  - pattern/wall-of-love
-  - pattern/phone-in-hand-hero
-  - pattern/shadcn-tokens
-  - pattern/vercel-hosted
-  - pattern/agent-product
-  - tech/vercel-hosted-geist-deploy-id-in-favicon
-  - tech/tailwind-shadcn-token-system
-  - tech/visitors-now-analytics
-  - color/light
-  - color/warm
-  - font/geist-100-900
-  - font/geist-mono-100-900
-  - font/fraunces-100-900
+  - vertical/startup-product
+  - vibe/minimal
+  - vibe/organic-warm
+  - topic/startups
+  - topic/ai
+  - mode/light
 ---
 # Backdoor — Book startup interviews on autopilot.
 > Land interviews with your dream startups, on autopilot.  ·  [backdoorai.app](https://backdoorai.app)
 
 ![backdoorai.app](../../screenshots/backdooraiapp.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/minimal #vibe/organic-warm  ·  **Topics:** #topic/startups #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 A landing page for Backdoor, an AI “startup hiring agent” you operate entirely over text message. Per its own copy it “learns your background, researches high-fit startups, drafts founder outreach, and helps you land roles at early-stage companies — all over text,” under the h1 “Land interviews with your dream startups, on autopilot.” The thesis line is “Startup hiring isn't a numbers game. Focused outreach wins.”
@@ -50,6 +40,7 @@ Editorial-product minimalism on white (--background #fff, text #111) with a warm
 - **Fonts:** Fraunces serif for the headline (44px/450), Geist + Geist Mono for body and UI (all loaded).
 - **Fonts loaded:** Geist 100–900, Geist Mono 100–900, Fraunces 100–900
 - **Tech stack:** Vercel-hosted (Geist + deploy id in favicon), Tailwind / shadcn token system, visitors.now analytics
+- **Keywords:** light-minimal, serif-headline, sms-deep-link-cta, reveal-on-scroll, single-page-landing, wall-of-love, phone-in-hand-hero, shadcn-tokens, vercel-hosted, agent-product
 - **Media mix:** img 27 · svg 24
 - **Page height:** 5205px (single-screen: False)
 - **Responsive:** At 390x844 most desktop nav links drop (4 of 5 hidden, collapsing to logo + primary action), the page stacks into one tall column (scrollHeight ~5205→7439), and the serif headline holds at 44px.
@@ -58,7 +49,9 @@ Editorial-product minimalism on white (--background #fff, text #111) with a warm
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[flowstate.com]] [[hw.cafe]] [[noahzender.com]]
-
-## Tags
-#category/uncategorized #aesthetic/light #aesthetic/minimal #pattern/light-minimal #pattern/serif-headline #pattern/sms-deep-link-cta #pattern/reveal-on-scroll #pattern/single-page-landing #pattern/wall-of-love #pattern/phone-in-hand-hero #pattern/shadcn-tokens #pattern/vercel-hosted #pattern/agent-product #tech/vercel-hosted-geist-deploy-id-in-favicon #tech/tailwind-shadcn-token-system #tech/visitors-now-analytics #color/light #color/warm #font/geist-100-900 #font/geist-mono-100-900 #font/fraunces-100-900
+- [[cofounder.co]] — shared: startup-product, organic-warm, startups, ai
+- [[rork.com]] — shared: startup-product, minimal, startups, ai
+- [[b150.ai]] — shared: startup-product, startups, ai, light
+- [[creao.ai]] — shared: startup-product, startups, ai, light
+- [[printingpress.dev]] — shared: startup-product, organic-warm, ai, light
+- [[shipper.now]] — shared: startup-product, startups, ai, light

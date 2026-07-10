@@ -2,34 +2,24 @@
 url: https://www.joonasvirtanen.com/
 domain: joonasvirtanen.com
 title: "Joonas Virtanen - Portfolio"
-category: design
+vertical: portfolio
+mode: light
+vibe: [minimal, editorial]
+topics: [design]
 extracted_at: 2026-06-05
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/light
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - pattern/portfolio
-  - pattern/light-mode
-  - pattern/editorial
-  - pattern/serif-display
-  - pattern/whitespace
-  - pattern/video-led
-  - pattern/webflow
-  - pattern/single-page-scroll
-  - tech/webflow
-  - tech/digitalocean-spaces-video-cdn
-  - tech/no-analytics-detected
-  - color/light
-  - color/monochrome
-  - font/canela
-  - font/post-grotesk-light
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/editorial
+  - topic/design
+  - mode/light
 ---
 # Joonas Virtanen - Portfolio
 > Portfolio of a Finnish experience designer & creative director currently living in NYC.  ·  [joonasvirtanen.com](https://www.joonasvirtanen.com/)
 
 ![joonasvirtanen.com](../../screenshots/joonasvirtanencom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The personal portfolio of Joonas Virtanen, a Finnish product designer & creative director living in NYC (h1: 'Moi! I'm Joonas Virtanen, a Finnish product designer & creative director currently living in NYC.'). The tweet showcases a generative weather toy — a site that 'picks the closest Rothko for how the weather feels outside your window' — and its t.co link resolves to this domain, so the homepage is the captured destination; the Rothko piece itself isn't surfaced as a separate nav link (a 'Playground' section holds his side projects).
@@ -49,6 +39,7 @@ Quiet, type-first gallery aesthetic: a white ground (rgb(255,255,255)) with near
 - **Fonts:** Canela (serif display, the centered hero) + Post Grotesk (body sans); PP Neue Montreal and Romie are declared but unused — only Canela 300 and Post Grotesk Light 300 actually load.
 - **Fonts loaded:** Canela 300, Post Grotesk Light 300
 - **Tech stack:** Webflow, DigitalOcean Spaces (video CDN), no analytics detected
+- **Keywords:** portfolio, light-mode, editorial, serif-display, whitespace, video-led, webflow, single-page-scroll
 - **Media mix:** img 9 · video 7 · iframe 5
 - **Page height:** 8723px (single-screen: False)
 - **Responsive:** At 390x844 the top nav collapses to a Webflow burger (the inline nav is display:none and the .w-nav-button shows), the hero h1 drops from 65px to 35px, and scrollHeight tightens to ~6,777px.
@@ -57,7 +48,9 @@ Quiet, type-first gallery aesthetic: a white ground (rgb(255,255,255)) with near
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
-[[siddz.com]] [[asekachov.com]] [[christophlocher.com]] [[claude.com]] [[contralabs.com]] [[eko.lumaris.works]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/light #aesthetic/editorial #aesthetic/minimal #pattern/portfolio #pattern/light-mode #pattern/editorial #pattern/serif-display #pattern/whitespace #pattern/video-led #pattern/webflow #pattern/single-page-scroll #tech/webflow #tech/digitalocean-spaces-video-cdn #tech/no-analytics-detected #color/light #color/monochrome #font/canela #font/post-grotesk-light
+- [[asekachov.com]] — shared: portfolio, minimal, editorial, design, light
+- [[christophlocher.com]] — shared: portfolio, minimal, editorial, design, light
+- [[daryl.cv]] — shared: portfolio, minimal, design, light
+- [[daviskeene.com]] — shared: portfolio, minimal, editorial, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
+- [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light

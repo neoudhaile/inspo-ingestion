@@ -2,34 +2,24 @@
 url: https://asekachov.com/
 domain: asekachov.com
 title: "Alexey Sekachov — a minimal black-on-white product-designer portfolio (Framer)"
-category: product
+vertical: portfolio
+mode: light
+vibe: [minimal, editorial]
+topics: [design]
 extracted_at: 2026-07-05
 tags:
-  - category/product
-  - aesthetic/portfolio
-  - aesthetic/minimal
-  - aesthetic/editorial
-  - pattern/portfolio
-  - pattern/product-designer
-  - pattern/minimalist
-  - pattern/monochrome
-  - pattern/black-on-white
-  - pattern/editorial
-  - pattern/framer
-  - pattern/long-scroll
-  - pattern/system-font
-  - pattern/case-studies
-  - tech/framer
-  - tech/cloudflare-insights
-  - tech/facebook-pixel
-  - color/monochrome
-  - font/sf-pro-display-semibold
-  - font/sf-pro-display-bold
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/editorial
+  - topic/design
+  - mode/light
 ---
 # Alexey Sekachov — a minimal black-on-white product-designer portfolio (Framer)
 > Product designer with passion for turning good ideas into great looking products.  ·  [asekachov.com](https://asekachov.com/)
 
 ![asekachov.com](../../screenshots/asekachovcom.jpeg)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The personal portfolio of Alexey Sekachov, a product designer (Founder at Joi Software and Ask Computer; previously Senior Product Designer at WeTransfer and Lead Product Designer at Must). It is the site the 'Atlas for iPhone' tweet resolves to via the export metadata — the author's own portfolio, where 'Atlas' (the visual-collection app shown in the tweet's video) presumably lives. Its live hero pitch reads 'Product designer with passion for turning good ideas into great looking products. Focused on interaction design and mobile interfaces.'
@@ -49,6 +39,7 @@ Stark editorial minimalism. From getComputedStyle the canvas is pure white (html
 - **Fonts:** SF Pro Display (Semibold/Bold loaded; the h1 is SF Pro Display Semibold at 42px) for an Apple system-display feel; IBM Plex Mono, Fragment Mono and Inter are declared but unloaded — no other webfont paints.
 - **Fonts loaded:** SF Pro Display Semibold, SF Pro Display Bold
 - **Tech stack:** Framer, Cloudflare (Insights), Facebook Pixel
+- **Keywords:** portfolio, product-designer, minimalist, monochrome, black-on-white, editorial, framer, long-scroll, system-font, case-studies
 - **Media mix:** img 97 · video 1 · svg 118 · iframe 3
 - **Page height:** 42037px (single-screen: False)
 - **Responsive:** At 390x844 the hero headline scales down (42px → 32px) and the desktop's side-by-side Experience/Links columns stack into one; the page also reflows much shorter (42,037 → 18,735px) as Framer serves a compact mobile breakpoint.
@@ -56,7 +47,9 @@ Stark editorial minimalism. From getComputedStyle the canvas is pure white (html
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 hero viewport only (JPEG) — a full-page capture of the 42,037px Framer page repeatedly exceeded the screenshot timeout, so only the above-the-fold hero was captured — plus a 390x844 mobile probe; logged_out: true
 
 ## Related sites
-[[ankit-rai.com]] [[ravalabs.com]] [[vanschneider.com]] [[christophlocher.com]] [[daviskeene.com]] [[designengineer.tools]]
-
-## Tags
-#category/product #aesthetic/portfolio #aesthetic/minimal #aesthetic/editorial #pattern/portfolio #pattern/product-designer #pattern/minimalist #pattern/monochrome #pattern/black-on-white #pattern/editorial #pattern/framer #pattern/long-scroll #pattern/system-font #pattern/case-studies #tech/framer #tech/cloudflare-insights #tech/facebook-pixel #color/monochrome #font/sf-pro-display-semibold #font/sf-pro-display-bold
+- [[christophlocher.com]] — shared: portfolio, minimal, editorial, design, light
+- [[joonasvirtanen.com]] — shared: portfolio, minimal, editorial, design, light
+- [[daryl.cv]] — shared: portfolio, minimal, design, light
+- [[daviskeene.com]] — shared: portfolio, minimal, editorial, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
+- [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light

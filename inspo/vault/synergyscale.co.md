@@ -2,34 +2,23 @@
 url: https://synergyscale.co/
 domain: synergyscale.co
 title: "AI Lead Generation Agency for B2B Companies | SynergyScale Solutions"
-category: uncategorized
+vertical: studio-agency
+mode: dark
+vibe: [corporate-clean]
+topics: [marketing]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - pattern/dark-theme
-  - pattern/lead-gen-funnel
-  - pattern/guarantee-hero
-  - pattern/dashboard-mockup
-  - pattern/scarcity-bar
-  - pattern/testimonials
-  - pattern/comparison-table
-  - pattern/faq
-  - pattern/calendly-cta
-  - pattern/long-scroll-landing
-  - tech/next-js-self-hosted-next-font
-  - tech/calendly-booking
-  - tech/self-hosted-no-third-party-analytics-detected-in-scripts
-  - color/dark
-  - color/cool
-  - font/inter-100-900
-  - font/plus-jakarta-sans-500-600-700-800
+  - vertical/studio-agency
+  - vibe/corporate-clean
+  - topic/marketing
+  - mode/dark
 ---
 # AI Lead Generation Agency for B2B Companies | SynergyScale Solutions
 > Get 10+ qualified meetings in the next 30 days, or your money back.  ·  [synergyscale.co](https://synergyscale.co/)
 
 ![synergyscale.co](../../screenshots/synergyscaleco.png)
+
+**Vertical:** #vertical/studio-agency  ·  **Vibe:** #vibe/corporate-clean  ·  **Topics:** #topic/marketing  ·  **Mode:** #mode/dark
 
 ## What it is
 The landing page for SynergyScale, an AI-powered B2B lead-generation agency run by Dimitar Angelov (the tweet's author). It offers done-for-you cold email, LinkedIn outreach, and appointment setting on a money-back guarantee.
@@ -49,6 +38,7 @@ Modern dark SaaS-agency look: near-black canvas (rgb(3,7,18)), white text, and a
 - **Fonts:** Plus Jakarta Sans (heavy display headings) + Inter (body) — self-hosted, no external font CDN.
 - **Fonts loaded:** Inter 100-900, Plus Jakarta Sans 500/600/700/800
 - **Tech stack:** Next.js (self-hosted next/font), Calendly (booking), self-hosted, no third-party analytics detected in scripts
+- **Keywords:** dark-theme, lead-gen-funnel, guarantee-hero, dashboard-mockup, scarcity-bar, testimonials, comparison-table, faq, calendly-cta, long-scroll-landing
 - **Media mix:** img 26 · canvas 1 · svg 144
 - **Page height:** 15485px (single-screen: False)
 - **Responsive:** At 390x844 a hamburger menu appears and sections stack into one tall column (~23.7k px); a faint ~10px horizontal overflow is present (bodyW 400px).
@@ -57,7 +47,9 @@ Modern dark SaaS-agency look: near-black canvas (rgb(3,7,18)), white text, and a
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[crustdata.com]] [[affiliatenetwork.com]] [[ashpreetbedi.com]] [[bigideasdb.com]] [[bigplayers.co]] [[daytona.io]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #aesthetic/developer-product #pattern/dark-theme #pattern/lead-gen-funnel #pattern/guarantee-hero #pattern/dashboard-mockup #pattern/scarcity-bar #pattern/testimonials #pattern/comparison-table #pattern/faq #pattern/calendly-cta #pattern/long-scroll-landing #tech/next-js-self-hosted-next-font #tech/calendly-booking #tech/self-hosted-no-third-party-analytics-detected-in-scripts #color/dark #color/cool #font/inter-100-900 #font/plus-jakarta-sans-500-600-700-800
+- [[badmarketing.com]] — shared: studio-agency, marketing, dark
+- [[ddlabstudio.com]] — shared: studio-agency, marketing, dark
+- [[hex.inc]] — shared: studio-agency, marketing, dark
+- [[affiliatenetwork.com]] — shared: corporate-clean, marketing, dark
+- [[coldiq.com]] — shared: studio-agency, marketing
+- [[drafts9.com]] — shared: studio-agency, corporate-clean

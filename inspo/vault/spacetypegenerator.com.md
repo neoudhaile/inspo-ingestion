@@ -2,34 +2,24 @@
 url: https://spacetypegenerator.com/
 domain: spacetypegenerator.com
 title: "SPACE TYPE GENERATOR"
-category: favorites
+vertical: tool-app
+mode: light
+vibe: [experimental, technical]
+topics: [design]
 extracted_at: 2026-06-06
 tags:
-  - category/favorites
-  - aesthetic/experimental
-  - aesthetic/developer-product
-  - pattern/kinetic-typography
-  - pattern/type-tool
-  - pattern/canvas
-  - pattern/3d-type
-  - pattern/generative
-  - pattern/monospace-ui
-  - pattern/control-panel
-  - pattern/slider-driven
-  - pattern/ibm-plex-mono
-  - pattern/white-canvas
-  - tech/canvas-based-3d-type-renderer-no-global-three-detected
-  - tech/libraries-via-cdnjs-cloudflare
-  - tech/cloudflare-cdn-cloudflareinsights-beacon
-  - tech/google-analytics-google-tag-manager
-  - tech/google-fonts-ibm-plex-mono
-  - color/neutral
-  - font/ibm-plex-mono
+  - vertical/tool-app
+  - vibe/experimental
+  - vibe/technical
+  - topic/design
+  - mode/light
 ---
 # SPACE TYPE GENERATOR
 > "a kinetic type generator from kielm" — type a phrase and bend it through 3D space with dozens of live sliders and presets.  ·  [spacetypegenerator.com](https://spacetypegenerator.com/)
 
 ![spacetypegenerator.com](../../screenshots/spacetypegeneratorcom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/experimental #vibe/technical  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 Space Type Generator (STG) by kielm — a browser-based kinetic typography tool. You enter a string and it is extruded and warped through 3D space on a canvas, here in its "_V.CYLINDER 1.1" mode wrapping the text "I-TRY-ALL-THINGS;-I-ACHIEVE-WHAT-I-CAN.//" around a cylinder.
@@ -49,6 +39,7 @@ A deliberately tool-like, almost engineering-UI look: stark white canvas, everyt
 - **Fonts:** IBM Plex Mono (weights 100 / 300 / 400, served from Google Fonts) throughout the UI
 - **Fonts loaded:** IBM Plex Mono 100, IBM Plex Mono 300, IBM Plex Mono 400
 - **Tech stack:** Canvas-based 3D type renderer (no global THREE detected), Libraries via cdnjs (Cloudflare), Cloudflare CDN + cloudflareinsights beacon, Google Analytics + Google Tag Manager, Google Fonts (IBM Plex Mono)
+- **Keywords:** kinetic-typography, type-tool, canvas, 3d-type, generative, monospace-ui, control-panel, slider-driven, ibm-plex-mono, white-canvas
 - **Media mix:** canvas 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** Not responsive — at 390x844 the canvas keeps its fixed 1440px width (causing horizontal overflow) and the absolutely-positioned control rails do not reflow; STG is effectively a desktop-only tool.
@@ -58,7 +49,9 @@ A deliberately tool-like, almost engineering-UI look: stark white canvas, everyt
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[ditther.com]] [[killedbyopenai.com]] [[bird.onethreenine.net]] [[colf.dev]] [[hw.cafe]] [[iacopoapps.appspot.com]]
-
-## Tags
-#category/favorites #aesthetic/experimental #aesthetic/developer-product #pattern/kinetic-typography #pattern/type-tool #pattern/canvas #pattern/3d-type #pattern/generative #pattern/monospace-ui #pattern/control-panel #pattern/slider-driven #pattern/ibm-plex-mono #pattern/white-canvas #tech/canvas-based-3d-type-renderer-no-global-three-detected #tech/libraries-via-cdnjs-cloudflare #tech/cloudflare-cdn-cloudflareinsights-beacon #tech/google-analytics-google-tag-manager #tech/google-fonts-ibm-plex-mono #color/neutral #font/ibm-plex-mono
+- [[itshover.com]] — shared: tool-app, technical, design, light
+- [[stitch.withgoogle.com]] — shared: tool-app, technical, design
+- [[akira.sachi.dev]] — shared: tool-app, technical, light
+- [[colf.dev]] — shared: tool-app, technical, light
+- [[everynoise.com]] — shared: tool-app, technical, light
+- [[patterncraft.fun]] — shared: tool-app, design, light

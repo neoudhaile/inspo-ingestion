@@ -2,28 +2,24 @@
 url: https://www.rvivek.com/
 domain: rvivek.com
 title: "Vivek Ravisankar"
-category: personal
+vertical: personal-blog
+mode: light
+vibe: [minimal, editorial]
+topics: [writing]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/minimal
-  - aesthetic/editorial
-  - pattern/minimalist
-  - pattern/editorial
-  - pattern/blog-index
-  - pattern/text-only
-  - pattern/typekit
-  - pattern/static
-  - tech/static-site-jekyll-style
-  - tech/adobe-typekit
-  - color/neutral
-  - font/open-sans
-  - font/inconsolata
+  - vertical/personal-blog
+  - vibe/minimal
+  - vibe/editorial
+  - topic/writing
+  - mode/light
 ---
 # Vivek Ravisankar
 > Me · Writing · Speaking  ·  [rvivek.com](https://www.rvivek.com/)
 
 ![rvivek.com](../../screenshots/rvivekcom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/writing  ·  **Mode:** #mode/light
 
 ## What it is
 The personal essay archive of Vivek Ravisankar (co-founder/CEO of HackerRank), a stripped-back writing blog whose homepage is just a reverse-chronological index of posts going back to 2014.
@@ -43,6 +39,7 @@ Classic editorial minimalism: white background, pure-black body text in Open San
 - **Fonts:** Open Sans 400 (body) + Inconsolata (Typekit, mono accent)
 - **Fonts loaded:** Open Sans 400, Inconsolata 500
 - **Tech stack:** static site (Jekyll-style), Adobe Typekit
+- **Keywords:** minimalist, editorial, blog-index, text-only, typekit, static
 - **Media mix:** 
 - **Page height:** 1276px (single-screen: True)
 - **Responsive:** At 390×844 the page is unchanged at ~1.3k px — the single-column index simply narrows, with the nav staying inline.
@@ -50,7 +47,9 @@ Classic editorial minimalism: white background, pure-black body text in Open San
 - **Extracted:** 2026-06-06 · Playwright Chromium @ 1440×900 + 390×844 mobile pass; logged_out: true
 
 ## Related sites
-[[amanml.com]] [[performance.dev]] [[anyblockers.com]] [[asekachov.com]] [[axiaisacat.indiehacker.bio]] [[christophlocher.com]]
-
-## Tags
-#category/personal #aesthetic/minimal #aesthetic/editorial #pattern/minimalist #pattern/editorial #pattern/blog-index #pattern/text-only #pattern/typekit #pattern/static #tech/static-site-jekyll-style #tech/adobe-typekit #color/neutral #font/open-sans #font/inconsolata
+- [[anyblockers.com]] — shared: personal-blog, minimal, editorial, writing, light
+- [[davidwinalda.com]] — shared: personal-blog, minimal, writing, light
+- [[noahzender.com]] — shared: personal-blog, minimal, writing, light
+- [[performance.dev]] — shared: personal-blog, minimal, editorial, light
+- [[richzou.com]] — shared: personal-blog, minimal, writing, light
+- [[geniusmargins.com]] — shared: minimal, editorial, writing, light

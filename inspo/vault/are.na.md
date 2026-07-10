@@ -2,30 +2,25 @@
 url: https://www.are.na/john-galt/nous-research-john-galt
 domain: are.na
 title: "NOUS RESEARCH / JOHN GALT | Are.na"
-category: design
+vertical: directory-gallery
+mode: light
+vibe: [minimal, editorial]
+topics: [ai, art]
 extracted_at: 2026-06-05
 tags:
-  - category/design
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - pattern/moodboard
-  - pattern/channel
-  - pattern/masonry-grid
-  - pattern/lazy-load
-  - pattern/research-archive
-  - pattern/swiss
-  - pattern/minimal-chrome
-  - pattern/bookmark-gallery
-  - tech/next-js
-  - tech/react
-  - tech/fathom-analytics
-  - color/neutral
-  - font/areal
+  - vertical/directory-gallery
+  - vibe/minimal
+  - vibe/editorial
+  - topic/ai
+  - topic/art
+  - mode/light
 ---
 # NOUS RESEARCH / JOHN GALT | Are.na
 > A sample of my work with Nous Research.  ·  [are.na](https://www.are.na/john-galt/nous-research-john-galt)
 
 ![are.na](../../screenshots/arena.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/ai #topic/art  ·  **Mode:** #mode/light
 
 ## What it is
 A single channel on Are.na, the research-style bookmarking/moodboard platform. This channel, 'NOUS RESEARCH / JOHN GALT', is curator john-galt's collection — self-described as 'A sample of my work with Nous Research' — and is the source the tweet credits for StudioMilitary's aesthetic.
@@ -45,6 +40,7 @@ Utilitarian Swiss/editorial chrome that gets out of the artwork's way: a plain w
 - **Fonts:** Custom 'areal' grotesque for headings (with an areal fallback); body resolves to a Times serif fallback.
 - **Fonts loaded:** areal 400, areal Fallback 400
 - **Tech stack:** Next.js, React, Fathom Analytics
+- **Keywords:** moodboard, channel, masonry-grid, lazy-load, research-archive, swiss, minimal-chrome, bookmark-gallery
 - **Media mix:** img 24 · svg 53
 - **Page height:** 16670px (single-screen: False)
 - **Responsive:** At 390x844 the block grid reflows to two columns (~177.5px each) and the breadcrumb header stacks; total scrollHeight grows to ~21,000px.
@@ -53,7 +49,9 @@ Utilitarian Swiss/editorial chrome that gets out of the artwork's way: a plain w
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (viewport screenshot; fullPage timed out on the 157-block lazy-loaded grid) + mobile 390x844
 
 ## Related sites
-[[christophlocher.com]] [[gaspardhedde.fr]] [[mrdoob.com]] [[ravalabs.com]]
-
-## Tags
-#category/design #aesthetic/editorial #aesthetic/minimal #pattern/moodboard #pattern/channel #pattern/masonry-grid #pattern/lazy-load #pattern/research-archive #pattern/swiss #pattern/minimal-chrome #pattern/bookmark-gallery #tech/next-js #tech/react #tech/fathom-analytics #color/neutral #font/areal
+- [[21st.dev]] — shared: directory-gallery, minimal, editorial, ai, light
+- [[designtools.fyi]] — shared: directory-gallery, minimal, editorial, light
+- [[type.lol]] — shared: directory-gallery, minimal, editorial, light
+- [[contralabs.com]] — shared: editorial, ai, art, light
+- [[addyosmani.com]] — shared: minimal, editorial, ai
+- [[ankit-rai.com]] — shared: minimal, editorial, art

@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "8b0bb656f39b4dc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ce19c0d70b65b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73130e574de9b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eko.lumaris.works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eko.lumaris.works"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01b9533803c93736",
+    "type": "split",
+    "children": [
+      {
+        "id": "839e76b6e483ed10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc9244ccf16387bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44207dea6e579987",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:pattern/ashby-embed",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3213ed7571c87081",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e96b16f31219a515",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e8cb10b7439037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261c48f98deb8856",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "eko.lumaris.works.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for eko.lumaris.works"
+            }
+          },
+          {
+            "id": "247ab660973d8fa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "eko.lumaris.works.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from eko.lumaris.works"
+            }
+          },
+          {
+            "id": "cdf89a647bba3ae0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5d55aff0bacd894",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72ee5ee7dcf528db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "eko.lumaris.works.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of eko.lumaris.works"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a73130e574de9b6b",
+  "lastOpenFiles": [
+    "contralabs.com.md",
+    "millermanintelligence.com.md",
+    "the-cafelist.com.md",
+    "juneoven.com.md",
+    "fantasypresidentcareer.com.md",
+    "poolsuite.net.md",
+    "langchain.com.md",
+    "typatone.com.md",
+    "midu.dev.md"
+  ]
+}

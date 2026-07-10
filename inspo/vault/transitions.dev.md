@@ -2,33 +2,25 @@
 url: https://transitions.dev/
 domain: transitions.dev
 title: "Transitions.dev — Essential transitions for web apps"
-category: uncategorized
+vertical: docs-resource
+mode: light
+vibe: [minimal, technical]
+topics: [engineering, design]
 extracted_at: 2026-06-05
 tags:
-  - category/uncategorized
-  - aesthetic/light
-  - aesthetic/developer-product
-  - aesthetic/minimal
-  - pattern/copy-paste
-  - pattern/ui-transitions
-  - pattern/micro-interactions
-  - pattern/interactive-demos
-  - pattern/css-variables
-  - pattern/light-mode
-  - pattern/developer-tool
-  - pattern/minimal
-  - tech/vanilla-no-js-framework
-  - tech/goatcounter
-  - tech/google-fonts
-  - color/light
-  - color/monochrome
-  - font/inter
-  - font/roboto-mono
+  - vertical/docs-resource
+  - vibe/minimal
+  - vibe/technical
+  - topic/engineering
+  - topic/design
+  - mode/light
 ---
 # Transitions.dev — Essential transitions for web apps
 > Collection of the most essential transitions for web apps that you can just copy and paste into any project.  ·  [transitions.dev](https://transitions.dev/)
 
 ![transitions.dev](../../screenshots/transitionsdev.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/engineering #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A free copy-paste library of essential UI transitions for web apps by Jakub Antalik (@jakubantalik) — the site the tweet is actually showcasing. The h1 is simply 'Transitions'.
@@ -48,6 +40,7 @@ Clean, near-white editorial UI (--bg #fdfdfd, --text #0d0d0d) sitting on a soft 
 - **Fonts:** Inter (UI sans) + Roboto Mono (code/labels), both loaded from Google Fonts.
 - **Fonts loaded:** Inter 400, Inter 500, Roboto Mono 400
 - **Tech stack:** vanilla (no JS framework), GoatCounter, Google Fonts
+- **Keywords:** copy-paste, ui-transitions, micro-interactions, interactive-demos, css-variables, light-mode, developer-tool, minimal
 - **Media mix:** img 11 · svg 50
 - **Page height:** 2764px (single-screen: False)
 - **Responsive:** At 390x844 the demo cards stack to a single column and the h1 drops to 20px; scrollHeight grows to ~7,103px.
@@ -56,7 +49,9 @@ Clean, near-white editorial UI (--bg #fdfdfd, --text #0d0d0d) sitting on a soft 
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
-[[patterncraft.fun]] [[akira.sachi.dev]] [[sensory-ui.com]] [[animations.dev]] [[anyblockers.com]] [[colf.dev]]
-
-## Tags
-#category/uncategorized #aesthetic/light #aesthetic/developer-product #aesthetic/minimal #pattern/copy-paste #pattern/ui-transitions #pattern/micro-interactions #pattern/interactive-demos #pattern/css-variables #pattern/light-mode #pattern/developer-tool #pattern/minimal #tech/vanilla-no-js-framework #tech/goatcounter #tech/google-fonts #color/light #color/monochrome #font/inter #font/roboto-mono
+- [[animations.dev]] — shared: docs-resource, minimal, engineering, design, light
+- [[makingsoftware.com]] — shared: docs-resource, technical, engineering, design, light
+- [[designengineer.tools]] — shared: minimal, technical, engineering, design, light
+- [[itshover.com]] — shared: minimal, technical, engineering, design, light
+- [[lab01.dev]] — shared: minimal, technical, engineering, design
+- [[21st.dev]] — shared: minimal, engineering, design, light

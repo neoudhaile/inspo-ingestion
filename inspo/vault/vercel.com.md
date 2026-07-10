@@ -2,29 +2,24 @@
 url: https://vercel.com/
 domain: vercel.com
 title: "Vercel: Build and deploy the best web experiences with the AI Cloud"
-category: reading
+vertical: startup-product
+mode: light
+vibe: [minimal, corporate-clean]
+topics: [engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/reading
-  - aesthetic/minimal
-  - aesthetic/developer-product
-  - pattern/design-system
-  - pattern/minimalist
-  - pattern/high-contrast
-  - pattern/token-driven
-  - pattern/product-landing
-  - pattern/nextjs
-  - tech/next-js
-  - tech/geist-design-system
-  - tech/vercel
-  - color/cool
-  - font/geist-100-900
-  - font/geist-mono-100-900
+  - vertical/startup-product
+  - vibe/minimal
+  - vibe/corporate-clean
+  - topic/engineering
+  - mode/light
 ---
 # Vercel: Build and deploy the best web experiences with the AI Cloud
 > Build and deploy on the AI Cloud.  ·  [vercel.com](https://vercel.com/)
 
 ![vercel.com](../../screenshots/vercelcom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/minimal #vibe/corporate-clean  ·  **Topics:** #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The marketing home of Vercel, the deploy/hosting platform that created and maintains Next.js. Its own <h1> pitches it as 'Build and deploy on the AI Cloud.'
@@ -44,6 +39,7 @@ Textbook Geist Design System: the :root exposes the full --ds-* and --geist-* to
 - **Fonts:** Geist (100–900) for UI, Geist Mono for code — both self-hosted via next/font
 - **Fonts loaded:** Geist 100-900, Geist Mono 100-900
 - **Tech stack:** Next.js, Geist Design System, Vercel
+- **Keywords:** design-system, minimalist, high-contrast, token-driven, product-landing, nextjs
 - **Media mix:** img 50 · canvas 1 · svg 111
 - **Page height:** 5918px (single-screen: False)
 - **Responsive:** At 390×844 the header condenses to a hamburger menu and sections stack into one column, growing the page to ~8,000px tall.
@@ -52,7 +48,9 @@ Textbook Geist Design System: the :root exposes the full --ds-* and --geist-* to
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[humanoid-index.com]] [[fey.com]] [[noahzender.com]] [[northgarden.com]] [[nucleoapp.com]] [[richzou.com]]
-
-## Tags
-#category/reading #aesthetic/minimal #aesthetic/developer-product #pattern/design-system #pattern/minimalist #pattern/high-contrast #pattern/token-driven #pattern/product-landing #pattern/nextjs #tech/next-js #tech/geist-design-system #tech/vercel #color/cool #font/geist-100-900 #font/geist-mono-100-900
+- [[gatheros.co]] — shared: startup-product, minimal, corporate-clean, light
+- [[photon.codes]] — shared: startup-product, corporate-clean, engineering, light
+- [[todesktop.com]] — shared: startup-product, minimal, engineering, light
+- [[daytona.io]] — shared: startup-product, corporate-clean, engineering
+- [[flowstate.com]] — shared: startup-product, minimal, corporate-clean
+- [[langchain.com]] — shared: startup-product, corporate-clean, engineering

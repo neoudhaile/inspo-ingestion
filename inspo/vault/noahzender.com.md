@@ -2,32 +2,25 @@
 url: https://www.noahzender.com/
 domain: noahzender.com
 title: "Noah Zender"
-category: tutorial
+vertical: personal-blog
+mode: light
+vibe: [minimal, organic-warm]
+topics: [writing, productivity]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - aesthetic/minimal
-  - pattern/minimalist
-  - pattern/personal-blog
-  - pattern/whitespace
-  - pattern/stone-palette
-  - pattern/amber-accent
-  - pattern/geist
-  - pattern/nextjs
-  - pattern/shadcn-tokens
-  - pattern/essay-index
-  - pattern/single-screen
-  - tech/next-js
-  - tech/geist-vercel-fonts
-  - tech/tailwind-shadcn-ui-tokens
-  - tech/self-hosted
-  - color/warm
-  - font/geist-sans-100-900
+  - vertical/personal-blog
+  - vibe/minimal
+  - vibe/organic-warm
+  - topic/writing
+  - topic/productivity
+  - mode/light
 ---
 # Noah Zender
 > Drawn to the edges where disciplines collide and new things get made.  ·  [noahzender.com](https://www.noahzender.com/)
 
 ![noahzender.com](../../screenshots/noahzendercom.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/minimal #vibe/organic-warm  ·  **Topics:** #topic/writing #topic/productivity  ·  **Mode:** #mode/light
 
 ## What it is
 The personal site of Noah Zender — described in its own meta as 'writer and product builder exploring the edges of creativity, technology, and clear thinking.' There is no <h1>; the page opens with the styled line 'Drawn to the edges where disciplines collide and new things get made,' then notes 'I deploy Cursor at some of the world's fastest-moving companies.' This is the 'notes' the bookmarked memory-agent prompt is designed to mine.
@@ -47,6 +40,7 @@ A quiet, warm-minimalist theme: an off-white stone ground (oklch(0.985 0.001 106
 - **Fonts:** Geist Sans (loaded, variable 100-900) for everything; Geist Mono registered but unloaded; system-ui fallback behind both.
 - **Fonts loaded:** Geist Sans 100-900
 - **Tech stack:** Next.js, Geist (Vercel fonts), Tailwind + shadcn/ui tokens, self-hosted
+- **Keywords:** minimalist, personal-blog, whitespace, stone-palette, amber-accent, geist, nextjs, shadcn-tokens, essay-index, single-screen
 - **Media mix:** img 1
 - **Page height:** 900px (single-screen: True)
 - **Responsive:** At 390x844 it remains a single screen (scrollHeight 844); content reflows to a 20px-padded single column with no structural change beyond width.
@@ -55,7 +49,9 @@ A quiet, warm-minimalist theme: an off-white stone ground (oklch(0.985 0.001 106
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 + 390x844 mobile; logged_out: true
 
 ## Related sites
-[[richzou.com]] [[humanoid-index.com]] [[anyblockers.com]] [[axiaisacat.indiehacker.bio]] [[daryl.cv]] [[designengineer.tools]]
-
-## Tags
-#category/tutorial #aesthetic/minimal #pattern/minimalist #pattern/personal-blog #pattern/whitespace #pattern/stone-palette #pattern/amber-accent #pattern/geist #pattern/nextjs #pattern/shadcn-tokens #pattern/essay-index #pattern/single-screen #tech/next-js #tech/geist-vercel-fonts #tech/tailwind-shadcn-ui-tokens #tech/self-hosted #color/warm #font/geist-sans-100-900
+- [[anyblockers.com]] — shared: personal-blog, minimal, writing, light
+- [[davidwinalda.com]] — shared: personal-blog, minimal, writing, light
+- [[richzou.com]] — shared: personal-blog, minimal, writing, light
+- [[rvivek.com]] — shared: personal-blog, minimal, writing, light
+- [[geniusmargins.com]] — shared: minimal, writing, productivity, light
+- [[amanml.com]] — shared: personal-blog, minimal, light

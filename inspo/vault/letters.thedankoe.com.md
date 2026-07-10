@@ -2,32 +2,24 @@
 url: https://letters.thedankoe.com/
 domain: letters.thedankoe.com
 title: "future/proof | DAN KOE | Substack"
-category: uncategorized
+vertical: publication-newsletter
+mode: dark
+vibe: [editorial, minimal]
+topics: [writing]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/dark
-  - pattern/substack
-  - pattern/newsletter
-  - pattern/email-gate
-  - pattern/subscribe-modal
-  - pattern/dark-theme
-  - pattern/serif-reading
-  - pattern/creator-economy
-  - pattern/custom-domain
-  - tech/substack
-  - tech/sentry
-  - tech/datadog-rum
-  - tech/google-tag-manager
-  - tech/cloudflare
-  - color/dark
-  - color/cool
-  - font/spectral-400-loaded-inter-sf-pro-display-declared-via-system-stack
+  - vertical/publication-newsletter
+  - vibe/editorial
+  - vibe/minimal
+  - topic/writing
+  - mode/dark
 ---
 # future/proof | DAN KOE | Substack
 > stay relevant  ·  [letters.thedankoe.com](https://letters.thedankoe.com/)
 
 ![letters.thedankoe.com](../../screenshots/lettersthedankoecom.png)
+
+**Vertical:** #vertical/publication-newsletter  ·  **Vibe:** #vibe/editorial #vibe/minimal  ·  **Topics:** #topic/writing  ·  **Mode:** #mode/dark
 
 ## What it is
 The custom-domain landing page for "future/proof", Dan Koe's Substack newsletter (h1 "future/proof", subtitle "stay relevant") — a personal-development / creator-economy publication with over 311,000 subscribers per the on-page count.
@@ -47,6 +39,7 @@ A dark theme (true-black #000000 web background via Substack theme vars) with a 
 - **Fonts:** Spectral (serif) for reading body; SF Pro Display / system sans for UI + h1
 - **Fonts loaded:** Spectral 400 (loaded); Inter + SF Pro Display declared via system stack
 - **Tech stack:** Substack, Sentry, Datadog RUM, Google Tag Manager, Cloudflare
+- **Keywords:** substack, newsletter, email-gate, subscribe-modal, dark-theme, serif-reading, creator-economy, custom-domain
 - **Media mix:** img 21 · svg 78 · iframe 2
 - **Page height:** 2562px (single-screen: False)
 - **Responsive:** At 390x844 it stays single-column (Substack's responsive template); scrollHeight grows modestly to ~2,790px and the subscribe gate fills the small screen.
@@ -55,7 +48,9 @@ A dark theme (true-black #000000 web background via Substack theme vars) with a 
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[systematiclongshort.com]] [[geniusmargins.com]] [[bigplayers.co]] [[affiliatenetwork.com]] [[ashpreetbedi.com]] [[crustdata.com]]
-
-## Tags
-#category/uncategorized #aesthetic/dark #pattern/substack #pattern/newsletter #pattern/email-gate #pattern/subscribe-modal #pattern/dark-theme #pattern/serif-reading #pattern/creator-economy #pattern/custom-domain #tech/substack #tech/sentry #tech/datadog-rum #tech/google-tag-manager #tech/cloudflare #color/dark #color/cool #font/spectral-400-loaded-inter-sf-pro-display-declared-via-system-stack
+- [[geniusmargins.com]] — shared: publication-newsletter, editorial, minimal, writing
+- [[interfaces.dev]] — shared: publication-newsletter, editorial, minimal
+- [[anyblockers.com]] — shared: editorial, minimal, writing
+- [[bigplayers.co]] — shared: publication-newsletter, minimal, dark
+- [[outlandermag.com]] — shared: publication-newsletter, editorial, dark
+- [[rvivek.com]] — shared: editorial, minimal, writing

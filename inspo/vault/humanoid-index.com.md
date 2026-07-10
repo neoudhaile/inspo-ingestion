@@ -2,31 +2,24 @@
 url: https://humanoid-index.com/
 domain: humanoid-index.com
 title: "Humanoid Index — a comprehensive visual index of humanoid robots"
-category: uncategorized
+vertical: directory-gallery
+mode: light
+vibe: [minimal, technical]
+topics: [engineering]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/minimal
-  - pattern/index
-  - pattern/directory
-  - pattern/robotics
-  - pattern/minimalist
-  - pattern/monochrome
-  - pattern/geist
-  - pattern/nextjs
-  - pattern/design-system
-  - pattern/spec-sheet
-  - pattern/comparison
-  - tech/next-js-geist-next-font
-  - tech/plausible
-  - color/monochrome
-  - color/warm
-  - font/geist-sans-100-900-variable
+  - vertical/directory-gallery
+  - vibe/minimal
+  - vibe/technical
+  - topic/engineering
+  - mode/light
 ---
 # Humanoid Index — a comprehensive visual index of humanoid robots
 > A comprehensive visual index of humanoid robots.  ·  [humanoid-index.com](https://humanoid-index.com/)
 
 ![humanoid-index.com](../../screenshots/humanoid-indexcom.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/minimal #vibe/technical  ·  **Topics:** #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 Humanoid Index — 'a comprehensive visual index of humanoid robots.' It's the 'visual index of humanoid robots' from Jonas's list: a catalogue comparing the current generation of humanoid robots.
@@ -46,13 +39,16 @@ Restrained, spec-sheet minimalism built on a proper neutral design system read f
 - **Fonts:** Geist Sans (variable 100–900) throughout — no serif — with tight negative tracking tokens.
 - **Fonts loaded:** Geist Sans 100-900 (variable)
 - **Tech stack:** Next.js (Geist / next-font), Plausible
+- **Keywords:** index, directory, robotics, minimalist, monochrome, geist, nextjs, design-system, spec-sheet, comparison
 - **Media mix:** img 32 · canvas 2 · svg 26
 - **Page height:** 1150px (single-screen: False)
 - **Responsive:** At 390x844 it deliberately replaces the whole index with a 'Mobile experience coming soon — open on desktop for the full thing' gate (offering a 'Send to my computer' option) rather than reflowing.
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[designengineer.tools]] [[designtools.fyi]] [[nicolasbustamante.com]] [[noahzender.com]] [[northgarden.com]] [[richzou.com]]
-
-## Tags
-#category/uncategorized #aesthetic/minimal #pattern/index #pattern/directory #pattern/robotics #pattern/minimalist #pattern/monochrome #pattern/geist #pattern/nextjs #pattern/design-system #pattern/spec-sheet #pattern/comparison #tech/next-js-geist-next-font #tech/plausible #color/monochrome #color/warm #font/geist-sans-100-900-variable
+- [[designengineer.tools]] — shared: directory-gallery, minimal, technical, engineering, light
+- [[21st.dev]] — shared: directory-gallery, minimal, engineering, light
+- [[akira.sachi.dev]] — shared: minimal, technical, engineering, light
+- [[itshover.com]] — shared: minimal, technical, engineering, light
+- [[siddz.com]] — shared: minimal, technical, engineering, light
+- [[spyrosigma.in]] — shared: minimal, technical, engineering, light

@@ -2,39 +2,24 @@
 url: https://fantasypresidentcareer.com/
 domain: fantasypresidentcareer.com
 title: "President Simulator"
-category: product
+vertical: tool-app
+mode: mixed
+vibe: [editorial, corporate-clean]
+topics: [ai]
 extracted_at: 2026-07-08
 tags:
-  - category/product
-  - aesthetic/developer-product
-  - aesthetic/editorial
-  - aesthetic/light
-  - pattern/product-landing
-  - pattern/game
-  - pattern/political-sim
-  - pattern/ai
-  - pattern/civic-editorial
-  - pattern/serif-display
-  - pattern/dm-sans
-  - pattern/dem-blue-rep-red
-  - pattern/testimonial-wall
-  - pattern/light-grey
-  - pattern/navy
-  - tech/hand-built-no-meta-framework
-  - tech/clerk-auth
-  - tech/twitter-x-ads-pixel
-  - tech/visitors-now
-  - tech/google-fonts
-  - tech/jsdelivr-cdn
-  - color/light
-  - color/cool
-  - font/dm-sans
-  - font/newsreader
+  - vertical/tool-app
+  - vibe/editorial
+  - vibe/corporate-clean
+  - topic/ai
+  - mode/mixed
 ---
 # President Simulator
 > An AI-powered political sandbox — type any policy and watch 24 voter personas, 32 stakeholder groups and all 50 states react in real time (derived from the hero; the page ships no meta description).  ·  [fantasypresidentcareer.com](https://fantasypresidentcareer.com/)
 
 ![fantasypresidentcareer.com](../../screenshots/fantasypresidentcareercom.png)
+
+**Vertical:** #vertical/tool-app  ·  **Vibe:** #vibe/editorial #vibe/corporate-clean  ·  **Topics:** #topic/ai  ·  **Mode:** #mode/mixed
 
 ## What it is
 The landing page for 'President Simulator', whose h1 is 'The Most Accurate Presidential Simulator Of All Time' and whose hero subhead reads 'President Simulator is an AI-powered political sandbox. Type any policy you want. Watch 24 voter personas, 32 stakeholder groups, and all 50 states react — in real time.' It is free to start (Clerk sign-in with Google or email), with premium plans (~$19/month per the footer, © Ossman Gaming Ltd). The tweet's account (Fantasy President) is the product's own.
@@ -54,6 +39,7 @@ A clean civic/editorial system driven almost entirely by CSS custom properties. 
 - **Fonts:** Newsreader (serif, loaded 600) for headlines + DM Sans (loaded 400/500/700) for UI and body; Libre Baskerville declared but unloaded.
 - **Fonts loaded:** DM Sans 400, DM Sans 500, DM Sans 700, Newsreader 600
 - **Tech stack:** Hand-built (no meta-framework), Clerk (auth), Twitter/X Ads pixel, Visitors.now, Google Fonts, jsDelivr (CDN)
+- **Keywords:** product-landing, game, political-sim, ai, civic-editorial, serif-display, dm-sans, dem-blue-rep-red, testimonial-wall, light-grey, navy
 - **Media mix:** img 30 · svg 6
 - **Page height:** 6376px (single-screen: False)
 - **Responsive:** At 390x844 the serif h1 scales 54px -> 32px and the multi-column layout (hero stats, testimonial wall, how-it-works, ripple sections) stacks to a single column (scrollHeight 6,376 -> 8,700px), with no horizontal overflow.
@@ -63,7 +49,9 @@ A clean civic/editorial system driven almost entirely by CSS custom properties. 
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 fullPage + 390x844 mobile probe; logged_out: true.
 
 ## Related sites
-[[eko.lumaris.works]] [[21st.dev]] [[cofounder.co]] [[coldiq.com]] [[contralabs.com]] [[fey.com]]
-
-## Tags
-#category/product #aesthetic/developer-product #aesthetic/editorial #aesthetic/light #pattern/product-landing #pattern/game #pattern/political-sim #pattern/ai #pattern/civic-editorial #pattern/serif-display #pattern/dm-sans #pattern/dem-blue-rep-red #pattern/testimonial-wall #pattern/light-grey #pattern/navy #tech/hand-built-no-meta-framework #tech/clerk-auth #tech/twitter-x-ads-pixel #tech/visitors-now #tech/google-fonts #tech/jsdelivr-cdn #color/light #color/cool #font/dm-sans #font/newsreader
+- [[stitch.withgoogle.com]] — shared: tool-app, corporate-clean, ai
+- [[creao.ai]] — shared: editorial, corporate-clean, ai
+- [[addyosmani.com]] — shared: editorial, ai, mixed
+- [[cofounder.co]] — shared: editorial, ai, mixed
+- [[colf.dev]] — shared: tool-app, ai
+- [[lelezhang.design]] — shared: tool-app, ai

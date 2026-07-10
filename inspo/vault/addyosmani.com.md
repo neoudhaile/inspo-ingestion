@@ -2,39 +2,25 @@
 url: https://addyosmani.com/
 domain: addyosmani.com
 title: "Addy Osmani"
-category: personal
+vertical: portfolio
+mode: mixed
+vibe: [minimal, editorial]
+topics: [engineering, ai]
 extracted_at: 2026-06-05
 tags:
-  - category/personal
-  - aesthetic/portfolio
-  - aesthetic/dark
-  - aesthetic/light
-  - pattern/personal-hub
-  - pattern/portfolio
-  - pattern/author-site
-  - pattern/books-grid
-  - pattern/case-study-logos
-  - pattern/light-dark-bands
-  - pattern/oversized-display-type
-  - pattern/system-fonts
-  - pattern/section-index
-  - pattern/static-page
-  - pattern/link-rich
-  - tech/static-site-no-js-framework
-  - tech/google-tag-manager
-  - tech/google-analytics
-  - tech/cloudinary
-  - tech/self-hosted
-  - color/dark
-  - color/light
-  - color/monochrome
-  - color/cool
-  - font/inter
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/editorial
+  - topic/engineering
+  - topic/ai
+  - mode/mixed
 ---
 # Addy Osmani
 > Addy Osmani is a Software Engineer at Google working on Google Cloud and Gemini.  ·  [addyosmani.com](https://addyosmani.com/)
 
 ![addyosmani.com](../../screenshots/addyosmanicom.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/engineering #topic/ai  ·  **Mode:** #mode/mixed
 
 ## What it is
 The personal homepage and link hub of Addy Osmani — a software engineer at Google (working on Google Cloud and Gemini, long known for Chrome/web performance) and a prolific author. The only h1 is simply his name, “Addy Osmani”; rather than a marketing landing page it is a dense, sectioned index of everything he makes: books, articles, talks and videos.
@@ -54,6 +40,7 @@ Monochrome and editorial: alternating light and dark bands — a white content g
 - **Fonts:** Inter 900 for the oversized display name; system Helvetica Neue stack for body/UI (no body webfont); an 'icons' icon-font declared but unloaded.
 - **Fonts loaded:** Inter 900
 - **Tech stack:** Static site (no JS framework), Google Tag Manager, Google Analytics, Cloudinary, self-hosted
+- **Keywords:** personal-hub, portfolio, author-site, books-grid, case-study-logos, light-dark-bands, oversized-display-type, system-fonts, section-index, static-page, link-rich
 - **Media mix:** img 68
 - **Page height:** 6988px (single-screen: False)
 - **Responsive:** At 390x844 the multi-column book/case-study/article/video grids collapse toward a single column (page grows ~6988→16665px) and the hero name scales from 96px to 80px; the layout stays a vertical stack of the same sections.
@@ -62,7 +49,9 @@ Monochrome and editorial: alternating light and dark bands — a white content g
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[debarghyadas.com]] [[kmk0.com]] [[ryancarson.com]] [[ankit-rai.com]] [[asekachov.com]] [[bird.onethreenine.net]]
-
-## Tags
-#category/personal #aesthetic/portfolio #aesthetic/dark #aesthetic/light #pattern/personal-hub #pattern/portfolio #pattern/author-site #pattern/books-grid #pattern/case-study-logos #pattern/light-dark-bands #pattern/oversized-display-type #pattern/system-fonts #pattern/section-index #pattern/static-page #pattern/link-rich #tech/static-site-no-js-framework #tech/google-tag-manager #tech/google-analytics #tech/cloudinary #tech/self-hosted #color/dark #color/light #color/monochrome #color/cool #font/inter
+- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, ai
+- [[daviskeene.com]] — shared: portfolio, minimal, editorial, engineering
+- [[spyrosigma.in]] — shared: portfolio, minimal, engineering, ai
+- [[21st.dev]] — shared: minimal, editorial, engineering, ai
+- [[alisawuffles.github.io]] — shared: portfolio, minimal, ai
+- [[ankit-rai.com]] — shared: portfolio, minimal, editorial

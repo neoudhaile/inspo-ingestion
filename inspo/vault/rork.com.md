@@ -2,31 +2,24 @@
 url: https://rork.com/
 domain: rork.com
 title: "Rork — create a mobile app using AI in minutes"
-category: personal
+vertical: startup-product
+mode: dark
+vibe: [minimal]
+topics: [ai, startups]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/dark
-  - aesthetic/minimal
-  - pattern/dark
-  - pattern/minimalist
-  - pattern/centered-hero
-  - pattern/prompt-input
-  - pattern/rotating-headline
-  - pattern/pill-buttons
-  - pattern/video-testimonial
-  - tech/client-side-spa
-  - tech/google-tag-manager
-  - tech/tiktok-snap-meta-pixels
-  - tech/tolt-affiliate
-  - tech/jsdelivr-cdn
-  - color/dark
-  - font/brittisans
+  - vertical/startup-product
+  - vibe/minimal
+  - topic/ai
+  - topic/startups
+  - mode/dark
 ---
 # Rork — create a mobile app using AI in minutes
 > Be the next app founder  ·  [rork.com](https://rork.com/)
 
 ![rork.com](../../screenshots/rorkcom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/minimal  ·  **Topics:** #topic/ai #topic/startups  ·  **Mode:** #mode/dark
 
 ## What it is
 Rork is a text-to-app builder: you describe a mobile app and its AI generates a complete, production-ready Expo / React Native project that installs on-device in one click and publishes to the App Store in two. The marketing page frames it as the on-ramp for solo founders — its rotating hero pitch is "Be the next [app founder]".
@@ -46,6 +39,7 @@ A near-black, minimalist single-column hero (body background rgb(23,23,23), whit
 - **Fonts:** brittiSans (custom webfont, weights 400–700); system SF Pro / -apple-system stack for the hero headline with brittiSans as fallback.
 - **Fonts loaded:** brittiSans 400, brittiSans 500, brittiSans 600
 - **Tech stack:** Client-side SPA, Google Tag Manager, TikTok/Snap/Meta pixels, Tolt affiliate, jsDelivr CDN
+- **Keywords:** dark, minimalist, centered-hero, prompt-input, rotating-headline, pill-buttons, video-testimonial
 - **Media mix:** img 3 · svg 10
 - **Page height:** 1551px (single-screen: False)
 - **Responsive:** At 390x844 the layout stays a single centered column with no hamburger (nav buttons remain visible); content reflows tighter, shrinking the page to ~1207px.
@@ -53,7 +47,9 @@ A near-black, minimalist single-column hero (body background rgb(23,23,23), whit
 - **Extracted:** 2026-06-06 · {'viewports': ['1440x900', '390x844'], 'logged_out': True}
 
 ## Related sites
-[[objectives.md]] [[alisawuffles.github.io]] [[amanml.com]] [[ankit-rai.com]] [[anyblockers.com]] [[arneshbanerjee.github.io]]
-
-## Tags
-#category/personal #aesthetic/dark #aesthetic/minimal #pattern/dark #pattern/minimalist #pattern/centered-hero #pattern/prompt-input #pattern/rotating-headline #pattern/pill-buttons #pattern/video-testimonial #tech/client-side-spa #tech/google-tag-manager #tech/tiktok-snap-meta-pixels #tech/tolt-affiliate #tech/jsdelivr-cdn #color/dark #font/brittisans
+- [[backdoorai.app]] — shared: startup-product, minimal, ai, startups
+- [[b150.ai]] — shared: startup-product, ai, startups
+- [[cofounder.co]] — shared: startup-product, ai, startups
+- [[creao.ai]] — shared: startup-product, ai, startups
+- [[shipper.now]] — shared: startup-product, ai, startups
+- [[crustdata.com]] — shared: startup-product, ai, dark

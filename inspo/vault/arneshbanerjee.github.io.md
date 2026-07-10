@@ -2,26 +2,25 @@
 url: https://arneshbanerjee.github.io/
 domain: arneshbanerjee.github.io
 title: "Arnesh Banerjee — undergraduate ML researcher"
-category: uncategorized
+vertical: portfolio
+mode: light
+vibe: [brutalist, minimal]
+topics: [ai, engineering]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/minimal
-  - pattern/academic
-  - pattern/raw-html
-  - pattern/system-serif
-  - pattern/minimalist
-  - pattern/single-column
-  - pattern/cv
-  - pattern/no-framework
-  - tech/static-html-css-no-framework
-  - color/cool
-  - font/system-fonts
+  - vertical/portfolio
+  - vibe/brutalist
+  - vibe/minimal
+  - topic/ai
+  - topic/engineering
+  - mode/light
 ---
 # Arnesh Banerjee — undergraduate ML researcher
 > I like to train models, build agents, and tinker with multi-agent systems for autonomy and safety.  ·  [arneshbanerjee.github.io](https://arneshbanerjee.github.io/)
 
 ![arneshbanerjee.github.io](../../screenshots/arneshbanerjeegithubio.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/brutalist #vibe/minimal  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 The homepage of Arnesh Banerjee (@Arnesh_24), the tweet's author — an undergraduate researcher (B.Tech CSE, Data Science) at Heritage Institute of Technology, Kolkata, working on multi-agent reinforcement learning, computer vision and AI safety.
@@ -41,6 +40,7 @@ Pure browser-default 'researcher homepage' aesthetic. From the DOM it's a white 
 - **Fonts:** System serif stack only (Times / Times New Roman / Georgia) — no webfont payload; document.fonts is empty.
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** Static HTML/CSS (no framework)
+- **Keywords:** academic, raw-html, system-serif, minimalist, single-column, cv, no-framework
 - **Media mix:** img 1
 - **Page height:** 3485px (single-screen: False)
 - **Responsive:** At 390x844 the 800px reading column fills the width and text rewraps (page grows to ~5,836px); the 34px serif h1 is unchanged.
@@ -48,7 +48,9 @@ Pure browser-default 'researcher homepage' aesthetic. From the DOM it's a white 
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[alisawuffles.github.io]] [[daviskeene.com]] [[mrdoob.com]] [[nicolasbustamante.com]] [[amanml.com]] [[anyblockers.com]]
-
-## Tags
-#category/uncategorized #aesthetic/minimal #pattern/academic #pattern/raw-html #pattern/system-serif #pattern/minimalist #pattern/single-column #pattern/cv #pattern/no-framework #tech/static-html-css-no-framework #color/cool #font/system-fonts
+- [[spyrosigma.in]] — shared: portfolio, minimal, ai, engineering, light
+- [[addyosmani.com]] — shared: portfolio, minimal, ai, engineering
+- [[alisawuffles.github.io]] — shared: portfolio, minimal, ai, light
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
+- [[daryl.cv]] — shared: portfolio, brutalist, minimal, light
+- [[daviskeene.com]] — shared: portfolio, minimal, engineering, light

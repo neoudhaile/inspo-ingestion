@@ -2,37 +2,26 @@
 url: https://www.thinkwithmark.com/
 domain: thinkwithmark.com
 title: "The Smart Bookmark for Physical Books | Mark II"
-category: product
+vertical: ecommerce
+mode: mixed
+vibe: [luxury, organic-warm, editorial]
+topics: [productivity, writing]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/developer-product
-  - aesthetic/luxury
-  - aesthetic/editorial
-  - pattern/product-landing
-  - pattern/scrollytelling
-  - pattern/video-per-section
-  - pattern/lifestyle-photography
-  - pattern/warm-sepia
-  - pattern/editorial-serif
-  - pattern/email-capture-modal
-  - pattern/press-logos
-  - pattern/shopify-hydrogen
-  - pattern/hardware-product
-  - tech/shopify-hydrogen-oxygen
-  - tech/microsoft-clarity
-  - tech/meta-pixel
-  - tech/google-tag-manager
-  - tech/jsdelivr
-  - color/cool
-  - font/copernicus
-  - font/geist
-  - font/geist-700-800
+  - vertical/ecommerce
+  - vibe/luxury
+  - vibe/organic-warm
+  - vibe/editorial
+  - topic/productivity
+  - topic/writing
+  - mode/mixed
 ---
 # The Smart Bookmark for Physical Books | Mark II
 > Bookmarks, reinvented.  ·  [thinkwithmark.com](https://www.thinkwithmark.com/)
 
 ![thinkwithmark.com](../../screenshots/thinkwithmarkcom.png)
+
+**Vertical:** #vertical/ecommerce  ·  **Vibe:** #vibe/luxury #vibe/organic-warm #vibe/editorial  ·  **Topics:** #topic/productivity #topic/writing  ·  **Mode:** #mode/mixed
 
 ## What it is
 The product site for Mark II, a $159 AI “smart bookmark” — a physical bookmark-plus-scanner for paper books. Per the meta description it lets you “capture quotes and voice notes as you read” and “revisit them all in the Mark app,” under the hero line “Bookmarks, reinvented.” It's the Mark II launch (a $1M-funded follow-up to the earlier $129 Mark 1) by thinkwithmark, sold through a Shopify storefront.
@@ -52,6 +41,7 @@ A warm, premium hardware aesthetic: a sepia/brown photographic hero with white h
 - **Fonts:** Copernicus serif for headings (62px), Geist for body/UI (both loaded); Inter in the fallback stack.
 - **Fonts loaded:** Copernicus 400, Geist 400, Geist 600, Geist 700/800
 - **Tech stack:** Shopify (Hydrogen / Oxygen), Microsoft Clarity, Meta Pixel, Google Tag Manager, jsDelivr
+- **Keywords:** product-landing, scrollytelling, video-per-section, lifestyle-photography, warm-sepia, editorial-serif, email-capture-modal, press-logos, shopify-hydrogen, hardware-product
 - **Media mix:** img 51 · video 8 · svg 6
 - **Page height:** 9903px (single-screen: False)
 - **Responsive:** At 390x844 the nav collapses to a hamburger, the Copernicus headline drops from 62px to 32px, and the video sections stack into one very tall single column (scrollHeight ~9903→12855).
@@ -60,7 +50,9 @@ A warm, premium hardware aesthetic: a sepia/brown photographic hero with white h
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[printingpress.dev]] [[12matcha.com]] [[cofounder.co]] [[eko.lumaris.works]] [[fantasypresidentcareer.com]] [[fey.com]]
-
-## Tags
-#category/product #aesthetic/developer-product #aesthetic/luxury #aesthetic/editorial #pattern/product-landing #pattern/scrollytelling #pattern/video-per-section #pattern/lifestyle-photography #pattern/warm-sepia #pattern/editorial-serif #pattern/email-capture-modal #pattern/press-logos #pattern/shopify-hydrogen #pattern/hardware-product #tech/shopify-hydrogen-oxygen #tech/microsoft-clarity #tech/meta-pixel #tech/google-tag-manager #tech/jsdelivr #color/cool #font/copernicus #font/geist #font/geist-700-800
+- [[12matcha.com]] — shared: ecommerce, luxury, editorial
+- [[coldiq.com]] — shared: luxury, organic-warm, editorial
+- [[eko.lumaris.works]] — shared: luxury, editorial, productivity
+- [[geniusmargins.com]] — shared: editorial, productivity, writing
+- [[millermanintelligence.com]] — shared: organic-warm, editorial, writing
+- [[noahzender.com]] — shared: organic-warm, productivity, writing

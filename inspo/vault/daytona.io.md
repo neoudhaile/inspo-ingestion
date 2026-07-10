@@ -2,32 +2,25 @@
 url: https://www.daytona.io/
 domain: daytona.io
 title: "Daytona - Secure Infrastructure for Running AI-Generated Code"
-category: personal
+vertical: startup-product
+mode: dark
+vibe: [technical, corporate-clean]
+topics: [ai, engineering]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - pattern/dark-mode
-  - pattern/developer-tool
-  - pattern/framer
-  - pattern/terminal-aesthetic
-  - pattern/long-scroll-landing
-  - pattern/code-accent-green
-  - tech/framer
-  - tech/google-tag-manager
-  - tech/zeroclick-ai
-  - color/dark
-  - color/cool
-  - font/inter-variable
-  - font/inter
-  - font/berkeley-mono-regular
-  - font/ibm-plex-mono
+  - vertical/startup-product
+  - vibe/technical
+  - vibe/corporate-clean
+  - topic/ai
+  - topic/engineering
+  - mode/dark
 ---
 # Daytona - Secure Infrastructure for Running AI-Generated Code
 > Run AI Code on Daytona  ·  [daytona.io](https://www.daytona.io/)
 
 ![daytona.io](../../screenshots/daytonaio.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/technical #vibe/corporate-clean  ·  **Topics:** #topic/ai #topic/engineering  ·  **Mode:** #mode/dark
 
 ## What it is
 Daytona is a developer-infrastructure product that gives AI agents secure, disposable sandboxes to execute the code they generate. The hero pitch is literally its own <h1>: "Run AI Code on Daytona", and the meta description sells the headline numbers — 90ms environment creation, stateful operations, and enterprise-grade security.
@@ -47,6 +40,7 @@ A near-black developer aesthetic: page background is rgb(10,10,10) with white he
 - **Fonts:** Inter Variable (UI) + Berkeley Mono & IBM Plex Mono (code).
 - **Fonts loaded:** Inter Variable 400, Inter 400, Inter 700, Inter 500, Inter 600, Berkeley Mono Regular 400, IBM Plex Mono 400
 - **Tech stack:** Framer, Google Tag Manager, zeroclick.ai
+- **Keywords:** dark-mode, developer-tool, framer, terminal-aesthetic, long-scroll-landing, code-accent-green
 - **Media mix:** img 97 · svg 226 · iframe 1
 - **Page height:** 11486px (single-screen: False)
 - **Responsive:** At 390px the layout stacks into a single column (scrollHeight grows from ~11.5k to ~19k px); the header nav stays flex with no hamburger toggle.
@@ -54,7 +48,9 @@ A near-black developer aesthetic: page background is rgb(10,10,10) with white he
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[backgrounds.supply]] [[crustdata.com]] [[affiliatenetwork.com]] [[akira.sachi.dev]] [[ankit-rai.com]] [[asekachov.com]]
-
-## Tags
-#category/personal #aesthetic/dark #aesthetic/developer-product #pattern/dark-mode #pattern/developer-tool #pattern/framer #pattern/terminal-aesthetic #pattern/long-scroll-landing #pattern/code-accent-green #tech/framer #tech/google-tag-manager #tech/zeroclick-ai #color/dark #color/cool #font/inter-variable #font/inter #font/berkeley-mono-regular #font/ibm-plex-mono
+- [[langchain.com]] — shared: startup-product, technical, corporate-clean, ai, engineering, dark
+- [[crustdata.com]] — shared: startup-product, technical, ai, engineering, dark
+- [[photon.codes]] — shared: startup-product, corporate-clean, ai, engineering
+- [[printingpress.dev]] — shared: startup-product, technical, ai, engineering
+- [[hw.cafe]] — shared: startup-product, technical, engineering, dark
+- [[ashpreetbedi.com]] — shared: technical, ai, engineering, dark

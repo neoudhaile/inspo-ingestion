@@ -2,30 +2,23 @@
 url: https://www.maximin.design/
 domain: maximin.design
 title: "Maximillian Piras, Design Portfolio"
-category: uncategorized
+vertical: portfolio
+mode: light
+vibe: [playful]
+topics: [design]
 extracted_at: 2026-06-06
 tags:
-  - category/uncategorized
-  - aesthetic/portfolio
-  - aesthetic/experimental
-  - aesthetic/playful
-  - pattern/portfolio
-  - pattern/3d-tilt-cards
-  - pattern/gradient-hero
-  - pattern/video-demos
-  - pattern/playful
-  - pattern/illustration
-  - tech/static-vanilla-no-framework-global
-  - tech/fully-self-hosted-no-external-script-hosts
-  - color/cool
-  - font/archivo-100-900
-  - font/homemade-apple
-  - font/playfair-display-sc
+  - vertical/portfolio
+  - vibe/playful
+  - topic/design
+  - mode/light
 ---
 # Maximillian Piras, Design Portfolio
 > Amplifying human capabilities with delightful & instinctual technology.  ·  [maximin.design](https://www.maximin.design/)
 
 ![maximin.design](../../screenshots/maximindesign.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/playful  ·  **Topics:** #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 The design portfolio of Maximillian Piras (@MVXMXM) — per its meta, 'product design for tech startups (user experience & user interfaces) focused on AI, branding, animation, & illustration.' MVXMXM.com resolves to this site.
@@ -45,6 +38,7 @@ A vivid purple-to-indigo gradient hero sits over a white body; project cards are
 - **Fonts:** Archivo (display, 900) with Playfair Display SC serif and Homemade Apple script accents
 - **Fonts loaded:** Archivo 100-900, Homemade Apple 400, Playfair Display SC 700
 - **Tech stack:** Static/Vanilla (no framework global), fully self-hosted (no external script hosts)
+- **Keywords:** portfolio, 3d-tilt-cards, gradient-hero, video-demos, playful, illustration
 - **Media mix:** img 18 · video 7 · svg 5
 - **Page height:** 1640px (single-screen: False)
 - **Responsive:** At 390x844 the tilted project cards stack into a single column and the page grows taller (scrollHeight 1640 → 2700); the 40px h1 size is unchanged.
@@ -53,7 +47,9 @@ A vivid purple-to-indigo gradient hero sits over a white body; project cards are
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true. MVXMXM.com redirects here. The 'Antilibrary' reading list from the tweet is a work-in-progress shown only in the video, not yet linked from this portfolio.
 
 ## Related sites
-[[jessa.art]] [[kmk0.com]] [[addyosmani.com]] [[ankit-rai.com]] [[asekachov.com]] [[christophlocher.com]]
-
-## Tags
-#category/uncategorized #aesthetic/portfolio #aesthetic/experimental #aesthetic/playful #pattern/portfolio #pattern/3d-tilt-cards #pattern/gradient-hero #pattern/video-demos #pattern/playful #pattern/illustration #tech/static-vanilla-no-framework-global #tech/fully-self-hosted-no-external-script-hosts #color/cool #font/archivo-100-900 #font/homemade-apple #font/playfair-display-sc
+- [[chusmargallo.space]] — shared: portfolio, playful, design, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, playful, design, light
+- [[jessa.art]] — shared: portfolio, playful, design, light
+- [[kmk0.com]] — shared: portfolio, playful, design, light
+- [[asekachov.com]] — shared: portfolio, design, light
+- [[christophlocher.com]] — shared: portfolio, design, light

@@ -2,35 +2,25 @@
 url: https://animations.dev/
 domain: animations.dev
 title: "animations.dev — Emil Kowalski's interactive animations course"
-category: uncategorized
+vertical: docs-resource
+mode: light
+vibe: [minimal, editorial]
+topics: [design, engineering]
 extracted_at: 2026-07-05
 tags:
-  - category/uncategorized
-  - aesthetic/editorial
-  - aesthetic/minimal
-  - aesthetic/light
-  - pattern/course
-  - pattern/editorial
-  - pattern/minimal
-  - pattern/inter
-  - pattern/serif-accent
-  - pattern/nextjs
-  - pattern/motion
-  - pattern/media-dense
-  - pattern/light
-  - tech/next-js-next-font
-  - tech/self-hosted
-  - color/light
-  - color/monochrome
-  - color/warm
-  - font/inter-100-900-variable
-  - font/mono
-  - font/serifinline
+  - vertical/docs-resource
+  - vibe/minimal
+  - vibe/editorial
+  - topic/design
+  - topic/engineering
+  - mode/light
 ---
 # animations.dev — Emil Kowalski's interactive animations course
 > Learn the theory and practice behind great animations with this interactive learning experience.  ·  [animations.dev](https://animations.dev/)
 
 ![animations.dev](../../screenshots/animationsdev.png)
+
+**Vertical:** #vertical/docs-resource  ·  **Vibe:** #vibe/minimal #vibe/editorial  ·  **Topics:** #topic/design #topic/engineering  ·  **Mode:** #mode/light
 
 ## What it is
 animations.dev — Emil Kowalski's interactive course on crafting UI animations: 'Learn the theory and practice behind great animations with this interactive learning experience.' It's the flagship product referenced in the bookmarked tweet (the /review-animations skill is its companion); enrollment is currently closed.
@@ -50,6 +40,7 @@ Warm, refined, light editorial. From getComputedStyle the canvas is a warm off-w
 - **Fonts:** Inter (variable 100–900, the h1 at a 575 weight), a monospace, and a 'serifInline' italic serif for emphasis words.
 - **Fonts loaded:** Inter 100-900 (variable), mono 400, serifInline 400
 - **Tech stack:** Next.js (next/font), self-hosted
+- **Keywords:** course, editorial, minimal, inter, serif-accent, nextjs, motion, media-dense, light
 - **Media mix:** img 143 · video 1 · svg 53
 - **Page height:** 14266px (single-screen: False)
 - **Responsive:** At 390x844 the nav collapses to a hamburger, the hero h1 scales 48 → 40px, and the page stacks to a single column (~14,266 → 15,746px).
@@ -57,7 +48,9 @@ Warm, refined, light editorial. From getComputedStyle the canvas is a warm off-w
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[emilkowal.ski]] [[nucleoapp.com]] [[type.lol]] [[12matcha.com]] [[21st.dev]] [[asekachov.com]]
-
-## Tags
-#category/uncategorized #aesthetic/editorial #aesthetic/minimal #aesthetic/light #pattern/course #pattern/editorial #pattern/minimal #pattern/inter #pattern/serif-accent #pattern/nextjs #pattern/motion #pattern/media-dense #pattern/light #tech/next-js-next-font #tech/self-hosted #color/light #color/monochrome #color/warm #font/inter-100-900-variable #font/mono #font/serifinline
+- [[makingsoftware.com]] — shared: docs-resource, editorial, design, engineering, light
+- [[transitions.dev]] — shared: docs-resource, minimal, design, engineering, light
+- [[21st.dev]] — shared: minimal, editorial, design, engineering, light
+- [[interfaces.dev]] — shared: minimal, editorial, design, engineering, light
+- [[sensory-ui.com]] — shared: minimal, editorial, design, engineering, light
+- [[walkinglabs.github.io]] — shared: docs-resource, editorial, engineering, light

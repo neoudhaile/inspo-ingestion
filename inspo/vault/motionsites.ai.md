@@ -2,36 +2,25 @@
 url: https://motionsites.ai/
 domain: motionsites.ai
 title: "MotionSites — Premium Hero Prompts"
-category: tools-build
+vertical: directory-gallery
+mode: dark
+vibe: [corporate-clean, technical]
+topics: [design, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/tools-build
-  - aesthetic/dark
-  - aesthetic/developer-product
-  - pattern/dark-saas
-  - pattern/template-gallery
-  - pattern/prompt-marketplace
-  - pattern/copy-to-clipboard
-  - pattern/freemium-paywall
-  - pattern/filter-chips
-  - pattern/animated-headline
-  - pattern/lazy-loaded-grid
-  - pattern/shadcn-radix
-  - pattern/geo-pricing
-  - tech/react
-  - tech/shadcn-radix-ui
-  - tech/lovable-gpt-engineer
-  - tech/paritydeals-geo-pricing
-  - tech/meta-pixel
-  - tech/jsdelivr
-  - color/dark
-  - color/cool
-  - font/system-fonts
+  - vertical/directory-gallery
+  - vibe/corporate-clean
+  - vibe/technical
+  - topic/design
+  - topic/ai
+  - mode/dark
 ---
 # MotionSites — Premium Hero Prompts
 > Your Design AI Superpowers In One Click.  ·  [motionsites.ai](https://motionsites.ai/)
 
 ![motionsites.ai](../../screenshots/motionsitesai.png)
+
+**Vertical:** #vertical/directory-gallery  ·  **Vibe:** #vibe/corporate-clean #vibe/technical  ·  **Topics:** #topic/design #topic/ai  ·  **Mode:** #mode/dark
 
 ## What it is
 A marketplace/library of ready-to-paste “premium hero prompts” for AI website builders — the pitch is literally “Unlock your AI Design Superpowers” and “Your Design AI Superpowers In One Click.” You browse a gallery of polished hero-section designs, copy the prompt behind one, paste it into your AI tool, and get an award-winning-looking landing page. It's run by DesignRocket (“Powered by DesignRocket”) as the prompt-pack arm of that design-education brand.
@@ -51,6 +40,7 @@ A dark, product-y SaaS look: near-black ground (rendered body bg rgb 23,23,23) w
 - **Fonts:** System UI sans on the sampled text (Google Fonts linked but no webfont loaded on these nodes); display drama is size+weight (56px/900), not a typeface.
 - **Fonts loaded:** system only (no webfont)
 - **Tech stack:** React, shadcn / Radix UI, Lovable (gpt-engineer), ParityDeals (geo pricing), Meta Pixel, jsDelivr
+- **Keywords:** dark-saas, template-gallery, prompt-marketplace, copy-to-clipboard, freemium-paywall, filter-chips, animated-headline, lazy-loaded-grid, shadcn-radix, geo-pricing
 - **Media mix:** img 333 · video 2 · svg 167
 - **Page height:** 17608px (single-screen: False)
 - **Responsive:** At 390x844 the desktop nav collapses behind a hamburger, the headline shrinks from 56px to 32px, and the template grid reflows from multi-column to a single ~342px column (page becomes very tall as cards stack).
@@ -59,7 +49,9 @@ A dark, product-y SaaS look: near-black ground (rendered body bg rgb 23,23,23) w
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), viewport screenshot (fullPage timed out on continuous motion), logged_out: true
 
 ## Related sites
-[[sceneai.art]] [[the-cafelist.com]]
-
-## Tags
-#category/tools-build #aesthetic/dark #aesthetic/developer-product #pattern/dark-saas #pattern/template-gallery #pattern/prompt-marketplace #pattern/copy-to-clipboard #pattern/freemium-paywall #pattern/filter-chips #pattern/animated-headline #pattern/lazy-loaded-grid #pattern/shadcn-radix #pattern/geo-pricing #tech/react #tech/shadcn-radix-ui #tech/lovable-gpt-engineer #tech/paritydeals-geo-pricing #tech/meta-pixel #tech/jsdelivr #color/dark #color/cool #font/system-fonts
+- [[sceneai.art]] — shared: directory-gallery, technical, design, ai, dark
+- [[stitch.withgoogle.com]] — shared: corporate-clean, technical, design, ai, dark
+- [[killedbyopenai.com]] — shared: directory-gallery, technical, ai, dark
+- [[21st.dev]] — shared: directory-gallery, design, ai
+- [[coolsites.ai]] — shared: directory-gallery, design, ai
+- [[daytona.io]] — shared: corporate-clean, technical, ai, dark

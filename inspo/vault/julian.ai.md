@@ -2,31 +2,24 @@
 url: https://www.julian.ai/
 domain: julian.ai
 title: "Julian Alvarez"
-category: personal
+vertical: portfolio
+mode: light
+vibe: [minimal, playful]
+topics: [startups]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/portfolio
-  - aesthetic/light
-  - pattern/portfolio
-  - pattern/personal
-  - pattern/chakra-ui
-  - pattern/two-column
-  - pattern/light
-  - pattern/podcast
-  - tech/react
-  - tech/chakra-ui
-  - tech/posthog
-  - tech/google-fonts
-  - color/light
-  - color/cool
-  - font/outfit
-  - font/raleway
+  - vertical/portfolio
+  - vibe/minimal
+  - vibe/playful
+  - topic/startups
+  - mode/light
 ---
 # Julian Alvarez
 > Hello Universe! ¡Hola! 👋  ·  [julian.ai](https://www.julian.ai/)
 
 ![julian.ai](../../screenshots/julianai.png)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/minimal #vibe/playful  ·  **Topics:** #topic/startups  ·  **Mode:** #mode/light
 
 ## What it is
 The personal portfolio of Julian Alvarez — founder/CEO of Jungle, host of the 'Inventing The Future' podcast, ex-Meta/LinkedIn/Goldman engineer. (Note: the bookmark announces his 'unbounded ∞' second-brain app, but the tweet linked only this portfolio; the app itself has no public URL yet — the matching email is infinite@julian.ai.)
@@ -46,6 +39,7 @@ Clean light theme — Chakra's default body bg #FFFFFF with body text rgb(26,32,
 - **Fonts:** Outfit (400/700) for display, Raleway (400/800) loaded too — via Google Fonts
 - **Fonts loaded:** Outfit 400, Outfit 700, Raleway 400, Raleway 800
 - **Tech stack:** React, Chakra UI, PostHog, Google Fonts
+- **Keywords:** portfolio, personal, chakra-ui, two-column, light, podcast
 - **Media mix:** img 2 · svg 5
 - **Page height:** 1444px (single-screen: False)
 - **Responsive:** At 390×844 the sidebar/nav collapses behind a ☰ hamburger and the columns stack, taking the page from ~1,444px to ~2,642px.
@@ -55,7 +49,9 @@ Clean light theme — Chakra's default body bg #FFFFFF with body text rgb(26,32,
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
-[[ryancarson.com]] [[21st.dev]] [[addyosmani.com]] [[animations.dev]] [[ankit-rai.com]] [[asekachov.com]]
-
-## Tags
-#category/personal #aesthetic/portfolio #aesthetic/light #pattern/portfolio #pattern/personal #pattern/chakra-ui #pattern/two-column #pattern/light #pattern/podcast #tech/react #tech/chakra-ui #tech/posthog #tech/google-fonts #color/light #color/cool #font/outfit #font/raleway
+- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, startups, light
+- [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
+- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, playful, light
+- [[farza.com]] — shared: portfolio, minimal, startups, light
+- [[kmk0.com]] — shared: portfolio, minimal, playful, light
+- [[ryancarson.com]] — shared: portfolio, minimal, startups, light

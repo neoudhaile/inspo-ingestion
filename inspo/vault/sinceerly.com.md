@@ -2,28 +2,25 @@
 url: https://sinceerly.com/
 domain: sinceerly.com
 title: "Sinceerly, make your emails sound human"
-category: product
+vertical: startup-product
+mode: light
+vibe: [editorial, organic-warm]
+topics: [ai, writing]
 extracted_at: 2026-06-06
 tags:
-  - category/product
-  - aesthetic/editorial
-  - aesthetic/developer-product
-  - pattern/chrome-extension
-  - pattern/editorial
-  - pattern/serif-display
-  - pattern/warm-palette
-  - pattern/single-product-landing
-  - pattern/anti-ai-positioning
-  - tech/static-html-css-no-framework
-  - tech/google-fonts
-  - color/warm
-  - font/dm-sans
-  - font/dm-serif-display
+  - vertical/startup-product
+  - vibe/editorial
+  - vibe/organic-warm
+  - topic/ai
+  - topic/writing
+  - mode/light
 ---
 # Sinceerly, make your emails sound human
 > Be sinceerly human  ·  [sinceerly.com](https://sinceerly.com/)
 
 ![sinceerly.com](../../screenshots/sinceerlycom.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/editorial #vibe/organic-warm  ·  **Topics:** #topic/ai #topic/writing  ·  **Mode:** #mode/light
 
 ## What it is
 Sinceerly is a Chrome extension that does the opposite of Grammarly — it "uses AI to undo your AI writing" so emails read as human. The <h1> states the whole brand promise: "Be sinceerly human", with the sub-line "AI to undo your AI writing."
@@ -43,6 +40,7 @@ A warm, editorial, anti-tech look that suits the "sound human" pitch: a cream ca
 - **Fonts:** DM Serif Display (headlines) + DM Sans (body).
 - **Fonts loaded:** DM Sans 400, DM Sans 500, DM Serif Display 400
 - **Tech stack:** Static HTML/CSS (no framework), Google Fonts
+- **Keywords:** chrome-extension, editorial, serif-display, warm-palette, single-product-landing, anti-ai-positioning
 - **Media mix:** img 3 · svg 2
 - **Page height:** 3618px (single-screen: False)
 - **Responsive:** At 390px the page stacks taller (scrollHeight ~4.9k px) and the nav switches to a hamburger menu.
@@ -51,7 +49,9 @@ A warm, editorial, anti-tech look that suits the "sound human" pitch: a cream ca
 - **Extracted:** 2026-06-06 · Playwright 1440x900 + 390x844, logged_out: true
 
 ## Related sites
-[[contralabs.com]] [[eko.lumaris.works]] [[joonasvirtanen.com]] [[12matcha.com]] [[21st.dev]] [[animations.dev]]
-
-## Tags
-#category/product #aesthetic/editorial #aesthetic/developer-product #pattern/chrome-extension #pattern/editorial #pattern/serif-display #pattern/warm-palette #pattern/single-product-landing #pattern/anti-ai-positioning #tech/static-html-css-no-framework #tech/google-fonts #color/warm #font/dm-sans #font/dm-serif-display
+- [[printingpress.dev]] — shared: startup-product, editorial, organic-warm, ai, light
+- [[cofounder.co]] — shared: startup-product, editorial, organic-warm, ai
+- [[backdoorai.app]] — shared: startup-product, organic-warm, ai, light
+- [[contralabs.com]] — shared: startup-product, editorial, ai, light
+- [[creao.ai]] — shared: startup-product, editorial, ai, light
+- [[jenni.ai]] — shared: startup-product, ai, writing, light

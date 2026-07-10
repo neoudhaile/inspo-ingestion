@@ -2,34 +2,24 @@
 url: https://jasonyuan.design/
 domain: jasonyuan.design
 title: "Jason Yuan Design — a dark, media-rich design portfolio"
-category: design
+vertical: portfolio
+mode: dark
+vibe: [experimental, minimal]
+topics: [design]
 extracted_at: 2026-07-08
 tags:
-  - category/design
-  - aesthetic/portfolio
-  - aesthetic/dark
-  - aesthetic/luxury
-  - pattern/portfolio
-  - pattern/dark
-  - pattern/near-black
-  - pattern/gallery-grid
-  - pattern/full-bleed
-  - pattern/video
-  - pattern/vimeo
-  - pattern/gatsby
-  - pattern/suisse-intl
-  - pattern/motion
-  - pattern/case-studies
-  - tech/react-gatsby-style-build-cloudfront-cdn
-  - tech/vimeo-project-video
-  - color/dark
-  - color/warm
-  - font/suisse-intl
+  - vertical/portfolio
+  - vibe/experimental
+  - vibe/minimal
+  - topic/design
+  - mode/dark
 ---
 # Jason Yuan Design — a dark, media-rich design portfolio
 > Jason designs interfaces: the metaphors that humanize them, and the systems that scale them.  ·  [jasonyuan.design](https://jasonyuan.design/)
 
 ![jasonyuan.design](../../screenshots/jasonyuandesign.jpeg)
+
+**Vertical:** #vertical/portfolio  ·  **Vibe:** #vibe/experimental #vibe/minimal  ·  **Topics:** #topic/design  ·  **Mode:** #mode/dark
 
 ## What it is
 The portfolio of Jason Yuan, the designer behind the Dot demo in this tweet. Its bio reads: 'Jason designs interfaces: the metaphors that humanize them, and the systems that scale them. His work ranges from choreographing kinetic type for Klim Type Foundry, to prototyping operating systems, like MercuryOS. He studied Theatre at Northwestern University and Graphic Design at RISD before working at Sony Music and Apple. Most recently he cofounded MakeSpace, a new way to be together online.' This is the natural 'you know where to find me' hub for his reflective/recruiting post.
@@ -49,6 +39,7 @@ Gallery-first on a warm near-black canvas that lets the work carry all the colou
 - **Fonts:** Suisse Intl (neo-grotesque — the loaded, painting face); NB Akademie Std (300/400/500/600) declared but reporting unloaded.
 - **Fonts loaded:** Suisse Intl 400
 - **Tech stack:** React (Gatsby-style build, Cloudfront CDN), Vimeo (project video)
+- **Keywords:** portfolio, dark, near-black, gallery-grid, full-bleed, video, vimeo, gatsby, suisse-intl, motion, case-studies
 - **Media mix:** img 47 · video 9 · iframe 1
 - **Page height:** 3956px (single-screen: False)
 - **Responsive:** At 390x844 the desktop multi-column tile grid collapses to a single full-width column of project tiles (page ~3,206px); it stays image/video-led with no separate mobile nav chrome.
@@ -56,7 +47,9 @@ Gallery-first on a warm near-black canvas that lets the work carry all the colou
 - **Extracted:** 2026-07-08 · Playwright MCP, 1440x900 hero viewport only (JPEG) — the fullPage capture of this animated, video-heavy page repeatedly hit the screenshot timeout, so only the above-the-fold hero grid was captured — plus a 390x844 mobile probe; logged_out: true
 
 ## Related sites
-[[ankit-rai.com]] [[asekachov.com]] [[ddlabstudio.com]] [[hex.inc]] [[lab01.dev]] [[mapzilla.co.uk]]
-
-## Tags
-#category/design #aesthetic/portfolio #aesthetic/dark #aesthetic/luxury #pattern/portfolio #pattern/dark #pattern/near-black #pattern/gallery-grid #pattern/full-bleed #pattern/video #pattern/vimeo #pattern/gatsby #pattern/suisse-intl #pattern/motion #pattern/case-studies #tech/react-gatsby-style-build-cloudfront-cdn #tech/vimeo-project-video #color/dark #color/warm #font/suisse-intl
+- [[gaspardhedde.fr]] — shared: portfolio, experimental, minimal, design
+- [[mapzilla.co.uk]] — shared: portfolio, experimental, minimal, design
+- [[lab01.dev]] — shared: portfolio, minimal, design, dark
+- [[tyronec.com]] — shared: portfolio, minimal, design, dark
+- [[asekachov.com]] — shared: portfolio, minimal, design
+- [[backgrounds.supply]] — shared: experimental, minimal, design, dark

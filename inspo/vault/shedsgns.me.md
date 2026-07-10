@@ -2,29 +2,24 @@
 url: https://shedsgns.me/taste
 domain: shedsgns.me
 title: "On AI, systems, taste and the human filter"
-category: personal
+vertical: personal-blog
+mode: light
+vibe: [editorial]
+topics: [ai, design]
 extracted_at: 2026-06-06
 tags:
-  - category/personal
-  - aesthetic/editorial
-  - aesthetic/light
-  - pattern/long-form-essay
-  - pattern/editorial
-  - pattern/typographic
-  - pattern/fluid-type
-  - pattern/high-contrast
-  - pattern/light-mode
-  - pattern/reading
-  - tech/lightningcss
-  - tech/visitors-now-analytics
-  - tech/google-fonts
-  - color/light
-  - font/open-sauce-one-taste
+  - vertical/personal-blog
+  - vibe/editorial
+  - topic/ai
+  - topic/design
+  - mode/light
 ---
 # On AI, systems, taste and the human filter
 > An essay on what AI means for creativity, design and building your own things.  ·  [shedsgns.me](https://shedsgns.me/taste)
 
 ![shedsgns.me](../../screenshots/shedsgnsme.png)
+
+**Vertical:** #vertical/personal-blog  ·  **Vibe:** #vibe/editorial  ·  **Topics:** #topic/ai #topic/design  ·  **Mode:** #mode/light
 
 ## What it is
 A long-form personal essay by Juliette (shedsgns), titled (verbatim h1) 'on AI, systems, taste, and the human filter' — reflections on what AI means for creativity, design and building your own things.
@@ -44,6 +39,7 @@ Bold, high-contrast editorial design: a lilac page (rgb(238,219,240) / ~#eedbf0)
 - **Fonts:** Open Sauce One Taste (display headline); system SF Pro / -apple-system (body, no webfont)
 - **Fonts loaded:** Open Sauce One Taste 400, Open Sauce One Taste 500
 - **Tech stack:** LightningCSS, visitors.now analytics, Google Fonts
+- **Keywords:** long-form-essay, editorial, typographic, fluid-type, high-contrast, light-mode, reading
 - **Media mix:** 
 - **Page height:** 4854px (single-screen: False)
 - **Responsive:** At 390x844 the headline scales fluidly from 100px down to ~33px and the essay reflows into a single narrow column (scrollHeight ~4,215px).
@@ -52,7 +48,9 @@ Bold, high-contrast editorial design: a lilac page (rgb(238,219,240) / ~#eedbf0)
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile pass), logged_out: true
 
 ## Related sites
-[[interfaces.dev]] [[joonasvirtanen.com]] [[sensory-ui.com]] [[12matcha.com]] [[akira.sachi.dev]] [[animations.dev]]
-
-## Tags
-#category/personal #aesthetic/editorial #aesthetic/light #pattern/long-form-essay #pattern/editorial #pattern/typographic #pattern/fluid-type #pattern/high-contrast #pattern/light-mode #pattern/reading #tech/lightningcss #tech/visitors-now-analytics #tech/google-fonts #color/light #font/open-sauce-one-taste
+- [[emilkowal.ski]] — shared: personal-blog, ai, design, light
+- [[21st.dev]] — shared: editorial, ai, design, light
+- [[amanml.com]] — shared: personal-blog, ai, light
+- [[anyblockers.com]] — shared: personal-blog, editorial, light
+- [[nehasharma.dev]] — shared: personal-blog, ai, light
+- [[nicolasbustamante.com]] — shared: personal-blog, ai, light

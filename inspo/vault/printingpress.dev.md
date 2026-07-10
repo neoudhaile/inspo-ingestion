@@ -2,35 +2,26 @@
 url: https://printingpress.dev/
 domain: printingpress.dev
 title: "Printing Press — agent-native CLIs from a single prompt"
-category: tutorial
+vertical: startup-product
+mode: light
+vibe: [editorial, organic-warm, technical]
+topics: [engineering, ai]
 extracted_at: 2026-06-06
 tags:
-  - category/tutorial
-  - aesthetic/developer-product
-  - aesthetic/editorial
-  - pattern/product-landing
-  - pattern/developer-tool
-  - pattern/open-source
-  - pattern/warm-cream
-  - pattern/editorial-serif
-  - pattern/serif-mono-pairing
-  - pattern/single-scroll
-  - pattern/agents
-  - pattern/mcp
-  - pattern/tailwind-v4
-  - tech/next-js-app-router
-  - tech/tailwind-v4
-  - tech/vercel
-  - color/warm
-  - color/cool
-  - font/newsreader
-  - font/geist
-  - font/geist-mono
+  - vertical/startup-product
+  - vibe/editorial
+  - vibe/organic-warm
+  - vibe/technical
+  - topic/engineering
+  - topic/ai
+  - mode/light
 ---
 # Printing Press — agent-native CLIs from a single prompt
 > Welcome to the Printing Press. Print an agent-native CLI for any API, app, or site — from a single prompt.  ·  [printingpress.dev](https://printingpress.dev/)
 
 ![printingpress.dev](../../screenshots/printingpressdev.png)
+
+**Vertical:** #vertical/startup-product  ·  **Vibe:** #vibe/editorial #vibe/organic-warm #vibe/technical  ·  **Topics:** #topic/engineering #topic/ai  ·  **Mode:** #mode/light
 
 ## What it is
 Printing Press (printingpress.dev) is the landing page for an open-source project by Matt Van Horn (@mvanhorn) and Trevin Chow (@trevin). The pitch, per its meta: “From an API spec, a website with no public API, or a community fan project — one command prints a Go CLI, a Claude Code skill, an OpenClaw skill, and an MCP server. Muscle memory for agents.” It fronts two GitHub repos — cli-printing-press (PressCLI, ★2.9k) and printing-press-library (Public Library, ★1.4k) — and is the subject of Garry Tan's tweet (“My OpenClaw/Hermes Agent setup just got way smarter”).
@@ -50,6 +41,7 @@ An editorial, literary “printing press” aesthetic on warm cream #f4efe6 (var
 - **Fonts:** Newsreader serif for headlines (h1 60px), Geist sans for body, Geist Mono for CLI/code (all loaded).
 - **Fonts loaded:** Newsreader 400, Geist 400, Geist Mono 400
 - **Tech stack:** Next.js (App Router), Tailwind v4, Vercel
+- **Keywords:** product-landing, developer-tool, open-source, warm-cream, editorial-serif, serif-mono-pairing, single-scroll, agents, mcp, tailwind-v4
 - **Media mix:** img 1 · svg 30
 - **Page height:** 7487px (single-screen: False)
 - **Responsive:** At 390x844 the serif h1 drops 60px→32px and the page reflows to a single column (scrollHeight 7487→13578); no hamburger — the nav stays minimal.
@@ -58,7 +50,9 @@ An editorial, literary “printing press” aesthetic on warm cream #f4efe6 (var
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
-[[cofounder.co]] [[hofai.io]] [[todesktop.com]] [[itshover.com]] [[patterncraft.fun]] [[sensory-ui.com]]
-
-## Tags
-#category/tutorial #aesthetic/developer-product #aesthetic/editorial #pattern/product-landing #pattern/developer-tool #pattern/open-source #pattern/warm-cream #pattern/editorial-serif #pattern/serif-mono-pairing #pattern/single-scroll #pattern/agents #pattern/mcp #pattern/tailwind-v4 #tech/next-js-app-router #tech/tailwind-v4 #tech/vercel #color/warm #color/cool #font/newsreader #font/geist #font/geist-mono
+- [[cofounder.co]] — shared: startup-product, editorial, organic-warm, technical, ai
+- [[sinceerly.com]] — shared: startup-product, editorial, organic-warm, ai, light
+- [[crustdata.com]] — shared: startup-product, technical, engineering, ai
+- [[daytona.io]] — shared: startup-product, technical, engineering, ai
+- [[hw.cafe]] — shared: startup-product, editorial, technical, engineering
+- [[langchain.com]] — shared: startup-product, technical, engineering, ai
