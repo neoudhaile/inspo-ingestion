@@ -7,3 +7,4 @@ __pycache__/
 # pipeline transient/state (match wherever the project dir lives)
 _inbox/
 _backfill_attempted.json
+.obsidian/workspace*.json
