@@ -124,6 +124,7 @@ The 155 existing sites were backfilled by a chunked, text-only `claude -p` class
 
 ## Open threads
 
+- **Node 20 pin still unverified live:** Iteration 12's `enrich.sh`/plist fix landed at 00:32; the enrichment run for the very next export (3 items, 2026-06-04 batch) had already started at 00:21 under the old process environment (a shell's exported `PATH` is fixed at spawn time — editing the script on disk mid-run doesn't change it), so it still hit "`npx @playwright/mcp` exits, Node <20" and fell back to no-teardown enrichment (`site_designs` entries marked "not captured", grounded in WebFetch text-fetches instead). The fix itself looks right; it just hasn't been exercised by a fresh, cleanly-spawned run yet — confirm on the next natural trigger (new bookmark export) that Playwright MCP actually connects end-to-end.
 - **Queued bookmarks:** the enrichment inbox (`inspo/_inbox/`) still holds items mid-flight; confirm the daemon fully drains the current backlog unattended, end to end.
 - **Taxonomy evolution:** values may be added "sparingly" per the contract, but there's no consolidation process yet — no review cadence for merging near-duplicate vibes/topics or re-classifying when definitions drift.
 - **Media descriptions are uneven:** only items ingested after Iteration 5 have viewed-and-described photos/videos; older items were never backfilled.
