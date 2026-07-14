@@ -8,6 +8,13 @@ links as a best-effort bonus.
 
 ## Rules
 
+0. **Direct URL submissions:** items with `"source": "manual-url"` are not tweets — they
+   are URLs submitted directly (pasted link, browser bookmark, another app). Skip the
+   tweet-opening (2b) and media (6) steps; the given URL IS the subject: set it as
+   `primary_url` and ALWAYS include its domain in `teardown_domains` (that's why it was
+   submitted). If the URL is a specific page (not the homepage), tear down THAT page.
+   Copy the null author/tweet fields through unchanged.
+
 1. **Keep every item.** Never drop one. Link-free items still get a title, category, tags.
 
 2. **Resolve every link to its REAL destination.** Tweets only contain `t.co` stubs.

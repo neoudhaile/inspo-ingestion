@@ -122,6 +122,14 @@ The 155 existing sites were backfilled by a chunked, text-only `claude -p` class
 
 **What replaced it and why.** `enrich.sh` and the plist now pin nvm's **v20.20.2** (overridable via `NEOUD_NODE_BIN`), with the requirement documented in both the script comment and the README's setup section.
 
+## Iteration 13 — Beyond X: the universal URL adapter (2026-07-14)
+
+**What we built.** The ingestion opened up to any medium. The realization: the pipeline's real seam is `new-items.json` — everything downstream (enrichment, teardown, facet classification, vault) doesn't care where an item came from. So `tools/ingest/add_urls.py` became the universal adapter: give it URLs (CLI args or a file of one-per-line), it builds normalized items with `source: "manual-url"`, dedupes by URL-hash against the ledger and by domain against existing teardowns, and drives the same chunked enrich→apply→render chain. The daemon grew a second watched medium: drop `inspo-urls*.txt` in `~/Downloads` and it ingests the list and archives the file. Browser bookmark exports, Raindrop/Pocket CSVs, pasted links — all reduce to a URL list, so all now feed the vault.
+
+**What broke or what we learned.** Nothing broke — this one was pure leverage from earlier decisions. Because the deterministic/judgment split already isolated "where items come from" (deterministic) from "what to do with them" (model), a new medium cost ~130 lines and one prompt rule (`manual-url` items skip the tweet/media steps; the submitted URL is always torn down, and a deep link is torn down as that page, not its homepage).
+
+**What replaced it and why.** Nothing replaced — added. First site through the new path: [[vivekhaldar.com]] (`/ideaverse/chord.html`), submitted as a bare URL in chat.
+
 ## Open threads
 
 - **Node 20 pin still unverified live:** Iteration 12's `enrich.sh`/plist fix landed at 00:32; the enrichment run for the very next export (3 items, 2026-06-04 batch) had already started at 00:21 under the old process environment (a shell's exported `PATH` is fixed at spawn time — editing the script on disk mid-run doesn't change it), so it still hit "`npx @playwright/mcp` exits, Node <20" and fell back to no-teardown enrichment (`site_designs` entries marked "not captured", grounded in WebFetch text-fetches instead). The fix itself looks right; it just hasn't been exercised by a fresh, cleanly-spawned run yet — confirm on the next natural trigger (new bookmark export) that Playwright MCP actually connects end-to-end.

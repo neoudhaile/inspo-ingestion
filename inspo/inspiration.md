@@ -3316,4 +3316,12 @@ _Appended automatically from X bookmark exports. Move into curated sections by h
 
 > the new tanvir .io is live;) https://t.co/pNA3UHuP9Y
 
+### Vivek Haldar — “Theme Connections”: a D3 chord diagram visualizing how themes co-occur across 321 of his blog essays
+
+**Site:** [vivekhaldar.com](https://vivekhaldar.com/ideaverse/chord.html)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-07-14  
+**Tags:** `data-viz` `tool` `d3` `manual-add`  
+
+
 <!-- AUTO-INGEST:END -->

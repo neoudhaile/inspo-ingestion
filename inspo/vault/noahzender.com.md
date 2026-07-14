@@ -54,4 +54,4 @@ A quiet, warm-minimalist theme: an off-white stone ground (oklch(0.985 0.001 106
 - [[richzou.com]] — shared: personal-blog, minimal, writing, light
 - [[rvivek.com]] — shared: personal-blog, minimal, writing, light
 - [[geniusmargins.com]] — shared: minimal, writing, productivity, light
-- [[amanml.com]] — shared: personal-blog, minimal, light
+- [[vivekhaldar.com]] — shared: minimal, writing, productivity, light

@@ -8861,6 +8861,41 @@
       "source": "bookmarks-export",
       "source_export": "twitter-Bookmarks-1783657273446.json",
       "ingested_at": "2026-07-10T00:35:58"
+    },
+    {
+      "id": "url-b344e368efea",
+      "title": "Vivek Haldar — “Theme Connections”: a D3 chord diagram visualizing how themes co-occur across 321 of his blog essays",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-07-14",
+      "category": "tools-build",
+      "tags": [
+        "data-viz",
+        "tool",
+        "d3",
+        "manual-add"
+      ],
+      "primary_url": "https://vivekhaldar.com/ideaverse/chord.html",
+      "primary_domain": "vivekhaldar.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://vivekhaldar.com/ideaverse/chord.html"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://vivekhaldar.com/ideaverse/chord.html",
+          "resolved": "https://vivekhaldar.com/ideaverse/chord.html",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "manual-urls",
+      "ingested_at": "2026-07-14T08:41:41"
     }
   ],
   "site_designs": {
@@ -25625,6 +25660,138 @@
       "is_single_screen": null,
       "headings": [],
       "responsive_note": "unavailable — site not probed (Playwright MCP outage this run)."
+    },
+    "vivekhaldar.com": {
+      "url": "https://vivekhaldar.com/ideaverse/chord.html",
+      "title": "Theme Connections — Vivek Haldar",
+      "tagline": "Chord diagram of theme co-occurrence across 321 articles",
+      "screenshot": "screenshots/vivekhaldarcom.png",
+      "extracted_at": "2026-07-14",
+      "extracted_via": "Playwright MCP, viewports 1440×900 (primary capture + DOM probe) and 390×844 (responsive check); logged_out: true (no auth required — static personal-site page).",
+      "what_it_is": "A single page from Vivek Haldar's personal “ideaverse” (a knowledge-visualization corner of his site vivekhaldar.com): a D3.js chord diagram titled “Theme Connections,” subtitled “Chord diagram of theme co-occurrence across 321 articles.” It's a self-analytics artifact — he's run his own ~321 blog posts through some theme-extraction pass and is visualizing which pairs of themes tend to appear together in the same piece of writing.",
+      "what_it_shows": "A circular chord diagram with 10 colored theme arcs around the ring — AI & LLMs, Programming & Software Engineering, Work Culture & Professional Life, Tools & Technology, Cognitive Science & Learning, Philosophy & Epistemology, Economics & Social Issues, Personal Essays & Culture, Technical Tutorials, and Linguistics & Language — connected by ribbons whose thickness encodes how often two themes co-occur in the same article. AI & LLMs is clearly the fattest arc with the thickest ribbons, dominated by a strong connection to Programming & Software Engineering and a secondary one to Work Culture & Professional Life, while most other themes are linked by thin, low-saturation threads. An empty results panel (“Click a theme arc or chord to see articles”) sits to the right of the diagram.",
+      "how_it_works": "Hovering a theme arc (confirmed on “AI & LLMs”) highlights it and pops a small tooltip reading the theme name, its article count (“49 articles”), and “Click to see articles” — clicking presumably filters the side panel to the underlying article list, though that click-through wasn't exercised in this pass. It's built directly on D3 v7 (loaded from the d3js.org CDN) plus a same-origin `articles-data.js` payload — no framework, no build step, no analytics: just a static HTML file, D3, and a JSON-like data file computing and rendering the chord layout client-side.",
+      "how_its_designed": "Restrained, print-like chrome: the `<h1>` and body copy render in a `baskerville, palatino, georgia, serif` stack (confirmed via `getComputedStyle`; `document.fonts` is empty, so this is a pure system/fallback serif — no webfont is fetched at all) on a plain white page (`rgb(255,255,255)` background, `rgb(0,0,0)` text; no CSS custom properties are defined anywhere on the page). All color comes from the visualization itself: each of the 10 theme arcs has its own D3-assigned hex fill (verified per-arc via the SVG `<g>`/`<path>` pairing) — AI & LLMs `#3a5ba0`, Programming & Software Engineering `#b04040`, Work Culture & Professional Life `#d4880e`, Tools & Technology `#2a7a5a`, Cognitive Science & Learning `#7b4ea3`, Philosophy & Epistemology `#5a7aaa`, Economics & Social Issues `#c06020`, Personal Essays & Culture `#6a8a3a`, Technical Tutorials `#1a8a9a`, Linguistics & Language `#9a5a7a` — a muted, desaturated 10-hue set that reads more like a print infographic than a typical SaaS dashboard palette. The whole page is a single SVG (1 `<svg>`, 51 `<path>` elements, zero `<canvas>`/`<img>`/`<video>`) at a fixed ~960×960px size that does not respond to viewport width.",
+      "palette": "White ground, black serif text, 10 muted/desaturated D3-assigned arc hues (navy `#3a5ba0`, brick `#b04040`, amber `#d4880e`, teal-green `#2a7a5a`, plum `#7b4ea3`, slate-blue `#5a7aaa`, burnt-orange `#c06020`, olive `#6a8a3a`, cyan-teal `#1a8a9a`, mauve `#9a5a7a`) — all sampled from rendered SVG fills.",
+      "fonts": "System/fallback serif stack only — `baskerville, palatino, georgia, serif` — no webfont loaded (`document.fonts` empty).",
+      "pattern_keywords": [
+        "chord-diagram",
+        "d3",
+        "data-viz",
+        "svg",
+        "personal-corpus-analysis",
+        "theme-co-occurrence",
+        "fixed-width-not-responsive",
+        "self-analytics"
+      ],
+      "tech_stack": [
+        "D3.js v7 (CDN: d3js.org)",
+        "Static HTML/JS, same-origin data file",
+        "No analytics detected"
+      ],
+      "palette_tokens": [
+        {
+          "name": "background",
+          "value": "#ffffff",
+          "kind": "rendered"
+        },
+        {
+          "name": "text",
+          "value": "#000000",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-ai-llms",
+          "value": "#3a5ba0",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-programming-software",
+          "value": "#b04040",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-work-culture",
+          "value": "#d4880e",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-tools-technology",
+          "value": "#2a7a5a",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-cognitive-science",
+          "value": "#7b4ea3",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-philosophy-epistemology",
+          "value": "#5a7aaa",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-economics-social-issues",
+          "value": "#c06020",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-personal-essays-culture",
+          "value": "#6a8a3a",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-technical-tutorials",
+          "value": "#1a8a9a",
+          "kind": "rendered"
+        },
+        {
+          "name": "arc-linguistics-language",
+          "value": "#9a5a7a",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [],
+      "meta": {
+        "description": null,
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": null
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 0,
+        "video": 0,
+        "svg": 1,
+        "iframe": 0
+      },
+      "page_height_px": 1096,
+      "is_single_screen": false,
+      "headings": [
+        "Theme Connections"
+      ],
+      "responsive_note": "At 390×844 the fixed ~960px-wide D3 SVG doesn't reflow or scale — its bounding box runs from roughly −455px to 505px, overflowing both viewport edges and forcing horizontal scroll; no breakpoint, hidden nav, or layout change was detected (there's no nav to begin with).",
+      "weight": {
+        "requests": 3,
+        "hosts": [
+          "d3js.org",
+          "vivekhaldar.com"
+        ]
+      },
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial",
+          "experimental"
+        ],
+        "topics": [
+          "writing",
+          "productivity"
+        ]
+      }
     }
   }
 }

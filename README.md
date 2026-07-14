@@ -113,6 +113,33 @@ JSON remains the fallback for complex ad-hoc queries.
    enriches + tears down + classifies them, and rebuilds the vault. Watch the macOS
    notifications, or `tail -f /tmp/neoud-ingest.log`.
 
+### Any other medium (not just X)
+
+The pipeline's seam is a normalized item list — so **anything that produces URLs can
+feed it**. Two entry points:
+
+```bash
+# 1. Directly, right now:
+.venv/bin/python -m tools.ingest.add_urls https://some-cool-site.com https://another.com
+
+# 2. Drop-file (daemon-watched): put one URL per line (# comments ok) in
+#    ~/Downloads/inspo-urls.txt — the daemon ingests it and archives the file.
+echo "https://some-cool-site.com" >> ~/Downloads/inspo-urls.txt
+```
+
+That drop-file is the universal adapter. Examples of reducing other mediums to it:
+
+```bash
+# a browser bookmarks .html export
+grep -oE 'HREF="[^"]*"' bookmarks.html | cut -d'"' -f2 > ~/Downloads/inspo-urls.txt
+# a Raindrop/Pocket CSV export (url column)
+cut -d, -f2 raindrop-export.csv | tail +2 > ~/Downloads/inspo-urls.txt
+```
+
+Direct URLs skip the tweet-specific steps and always get a full teardown (URL = the
+subject; a specific page is torn down as that page, not the homepage). Dedup is by
+URL hash + by domain against existing teardowns, so re-drops are harmless.
+
 Manual controls, if you ever want them:
 
 ```bash

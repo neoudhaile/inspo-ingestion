@@ -8,6 +8,12 @@ CHUNK=5   # enrich at most this many new items per claude -p call
 # macOS pop-up (top-right) so the owner can see the daemon working. Never fatal.
 notify() { /usr/bin/osascript -e "display notification \"$1\" with title \"Inspiration Daemon\"" >/dev/null 2>&1 || true; }
 
+# Other-medium adapter: any file of URLs (one per line) dropped in ~/Downloads as
+# inspo-urls*.txt gets ingested through the same pipeline. Every medium — browser
+# bookmarks, Raindrop/Pocket exports, pasted links — reduces to a URL list.
+URLFILES=()
+for f in "$HOME"/Downloads/inspo-urls*.txt; do [ -e "$f" ] && URLFILES+=("$f"); done
+
 # Cheap no-op guard (before locking): is there anything new at all?
 if ! GUARD="$("$VENV" -m tools.ingest.ingest --limit "$CHUNK" 2>&1)"; then
   notify "Ingest failed — check /tmp/neoud-ingest.err"
@@ -15,7 +21,9 @@ if ! GUARD="$("$VENV" -m tools.ingest.ingest --limit "$CHUNK" 2>&1)"; then
 fi
 HEAD="$(printf '%s\n' "$GUARD" | head -n1)"
 case "$HEAD" in
-  NO_EXPORT|NO_NEW_ITEMS) echo "nothing to do"; exit 0 ;;
+  NO_EXPORT|NO_NEW_ITEMS)
+    if [ "${#URLFILES[@]}" -eq 0 ]; then echo "nothing to do"; exit 0; fi
+    HEAD="NEW_ITEMS 0 of 0" ;;
 esac
 TOTAL="$(printf '%s\n' "$HEAD" | awk '/^NEW_ITEMS/ {print $4}')"   # "NEW_ITEMS 5 of 53 ..."
 TOTAL="${TOTAL:-?}"
@@ -54,6 +62,20 @@ while true; do
   fi
   "$VENV" -m tools.ingest.apply_enriched
   DONE=$((DONE + ${N:-0}))
+done
+
+# URL drop-files (the universal non-X medium): ingest each, then archive the file.
+for f in "${URLFILES[@]:-}"; do
+  [ -e "$f" ] || continue
+  N_URLS="$(grep -cvE '^\s*(#|$)' "$f" || true)"
+  notify "Ingesting $N_URLS URL(s) from $(basename "$f")"
+  if NEOUD_HAVE_LOCK=1 "$VENV" -m tools.ingest.add_urls --file "$f" --no-render \
+       --label "$(basename "$f")"; then
+    mkdir -p inspo/_archive && mv "$f" "inspo/_archive/$(date +%Y%m%d-%H%M%S)-$(basename "$f")"
+    DONE=$((DONE + N_URLS))
+  else
+    notify "URL ingest failed — file kept, will retry next fire"
+  fi
 done
 
 # Rebuild the Obsidian graph vault from the updated JSON (once per run, deterministic).

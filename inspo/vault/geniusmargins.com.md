@@ -49,8 +49,8 @@ The quiet, serif-forward Substack editorial theme on a cream/off-white ground wi
 
 ## Related sites
 - [[letters.thedankoe.com]] — shared: publication-newsletter, minimal, editorial, writing
+- [[vivekhaldar.com]] — shared: minimal, editorial, productivity, writing, light
 - [[interfaces.dev]] — shared: publication-newsletter, minimal, editorial, light
 - [[anyblockers.com]] — shared: minimal, editorial, writing, light
 - [[noahzender.com]] — shared: minimal, productivity, writing, light
 - [[rvivek.com]] — shared: minimal, editorial, writing, light
-- [[serif.sh]] — shared: minimal, editorial, writing, light
