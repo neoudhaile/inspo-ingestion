@@ -162,3 +162,11 @@ and the plist from `tools/ingest/` loaded via `launchctl`.
 The full build story — every architecture iteration, dead end, and macOS fight — is
 documented in [`inspo/vault/ITERATIONS.md`](inspo/vault/ITERATIONS.md), updated
 continuously as the system evolves.
+
+## Where it might go
+
+[`docs/autonomous-growth.md`](docs/autonomous-growth.md) — an idea dump (nothing
+decided, nothing built) on escaping the one remaining manual step: letting the corpus
+discover its own inputs, and the larger idea of a public, open-source search engine
+over design characteristics. It also restates the v1 design and its five invariants,
+so the current architecture stays referenceable as the ambition moves.
