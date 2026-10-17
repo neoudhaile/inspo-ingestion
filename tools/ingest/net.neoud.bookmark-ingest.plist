@@ -10,6 +10,10 @@
   </array>
   <key>WatchPaths</key>
   <array><string>/Users/neoudhaile/Downloads</string></array>
+  <!-- WatchPaths cannot see a PR merged on GitHub, so also poll. run.sh exits on the
+       cheap no-op guard when there is nothing queued, and the mkdir lock keeps a
+       tick from colliding with a Downloads-triggered run, so this is near-free. -->
+  <key>StartInterval</key><integer>1800</integer>
   <key>StandardOutPath</key><string>/tmp/neoud-ingest.log</string>
   <key>StandardErrorPath</key><string>/tmp/neoud-ingest.err</string>
   <key>EnvironmentVariables</key>

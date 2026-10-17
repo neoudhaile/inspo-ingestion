@@ -116,7 +116,7 @@ JSON remains the fallback for complex ad-hoc queries.
 ### Any other medium (not just X)
 
 The pipeline's seam is a normalized item list — so **anything that produces URLs can
-feed it**. Two entry points:
+feed it**. Three entry points:
 
 ```bash
 # 1. Directly, right now:
@@ -125,7 +125,16 @@ feed it**. Two entry points:
 # 2. Drop-file (daemon-watched): put one URL per line (# comments ok) in
 #    ~/Downloads/inspo-urls.txt — the daemon ingests it and archives the file.
 echo "https://some-cool-site.com" >> ~/Downloads/inspo-urls.txt
+
+# 3. In-repo queue (same format), for a remote agent with no access to this Mac:
+#    it opens a PR adding inspo/_queue/<date>-<slug>.txt; the daemon fetches main,
+#    drains the queue, and git-rm's each file it finishes. See inspo/_queue/README.md.
 ```
+
+Entry point 3 is how an agent that can watch things this Mac cannot — a video, say —
+feeds the pipeline: it finds the sites and writes its observations as `#` comments,
+while the teardown itself still happens locally. Because `WatchPaths` cannot see a
+merge on GitHub, the daemon also polls every 30 min (`StartInterval` in the plist).
 
 That drop-file is the universal adapter. Examples of reducing other mediums to it:
 
