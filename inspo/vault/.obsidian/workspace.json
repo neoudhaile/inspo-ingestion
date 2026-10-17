@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hw.cafe.md",
+                "file": "21st.dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hw.cafe"
+              "title": "21st.dev"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "f5e0769269b48fd8",
   "lastOpenFiles": [
+    "hw.cafe.md",
     "arneshbanerjee.github.io.md",
     "nucleoapp.com.md",
     "crsanchez.es.md",
@@ -211,7 +212,6 @@
     "21st.dev.md",
     "vivekhaldar.com.md",
     "photon.codes.md",
-    "linkeddit.com.md",
-    "ankit-rai.com.md"
+    "linkeddit.com.md"
   ]
 }
