@@ -46,7 +46,13 @@ fi
 HEAD="$(printf '%s\n' "$GUARD" | head -n1)"
 case "$HEAD" in
   NO_EXPORT|NO_NEW_ITEMS)
-    if [ "${#URLFILES[@]}" -eq 0 ] && [ "$QUEUED" -eq 0 ]; then echo "nothing to do"; exit 0; fi
+    if [ "${#URLFILES[@]}" -eq 0 ] && [ "$QUEUED" -eq 0 ]; then
+      # The sync above may have committed generated output; push it before leaving,
+      # or it sits unpushed and the next sync has to merge instead of fast-forward.
+      echo "no-op publish: $("$VENV" -m tools.ingest.sync_repo publish \
+            --message "Data: daemon output (no new items)" 2>&1 | tail -n1)"
+      echo "nothing to do"; exit 0
+    fi
     HEAD="NEW_ITEMS 0 of 0" ;;
 esac
 TOTAL="$(printf '%s\n' "$HEAD" | awk '/^NEW_ITEMS/ {print $4}')"   # "NEW_ITEMS 5 of 53 ..."

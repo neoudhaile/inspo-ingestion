@@ -214,3 +214,77 @@ def test_main_never_fails_the_run(repo, capsys):
     finally:
         sys.argv = argv
     assert "FOREIGN" in capsys.readouterr().out
+
+
+def test_pull_pushes_when_it_leaves_local_ahead(repo, origin):
+    """run.sh can exit at its no-op guard before publish, so pull must not leave
+    an unpushed commit behind — that is the diverged state pushing exists to avoid."""
+    bare, _ = origin
+    (repo / "inspo" / "inspiration.json").write_text('{"local":1}\n')
+    status = sr.do_pull(repo)
+    assert "COMMITTED" in status and "PUSH_OK" in status, status
+    remote_head = subprocess.run(["git", "rev-parse", "main"], cwd=str(bare),
+                                 capture_output=True, text=True).stdout.strip()
+    assert remote_head == head(repo), "the commit this pull made must reach origin"
+    assert not sr.is_ahead(repo)
+
+
+def test_pull_pushes_a_merge_commit_it_created(repo, origin):
+    bare, seed = origin
+    qdir = seed / "inspo" / "_queue"; qdir.mkdir(parents=True, exist_ok=True)
+    (qdir / "q.txt").write_text("https://example.com\n")
+    git(seed, "add", "-A"); git(seed, "commit", "-m", "queue"); git(seed, "push", "origin", "main")
+
+    (repo / "inspo" / "inspiration.json").write_text('{"local":1}\n')
+    git(repo, "add", "-A"); git(repo, "commit", "-m", "local daemon commit")
+
+    status = sr.do_pull(repo)
+    assert "MERGE_OK" in status and "PUSH_OK" in status, status
+    assert not sr.is_ahead(repo)
+
+
+def test_pull_does_not_push_a_clean_up_to_date_repo(repo):
+    assert sr.do_pull(repo) == "SYNC CLEAN FF_UP_TO_DATE"
+
+
+def test_commit_generated_count_matches_the_commit(repo):
+    """The status number must be what landed, not what was dirty."""
+    (repo / "inspo" / "inspiration.json").write_text('{"a":1}\n')
+    (repo / "inspo" / "extra.json").write_text("{}\n")
+    assert sr.commit_generated(repo, "msg") == "COMMITTED 2"
+    files = git(repo, "show", "--stat", "--format=", "--name-only", "HEAD").stdout.split()
+    assert sorted(files) == ["inspo/extra.json", "inspo/inspiration.json"]
+
+
+# ---------- the no-op run must still push ----------
+
+def test_publish_pushes_a_commit_the_sync_step_left_behind(repo, origin):
+    """A run that syncs, commits generated output, then finds no work must still push.
+
+    Leaving it unpushed is what turns the next run's clean fast-forward into a merge.
+    """
+    bare, _ = origin
+    (repo / "inspo" / "inspiration.json").write_text('{"synced":1}\n')
+    assert sr.commit_generated(repo, "Data: daemon output before sync").startswith("COMMITTED")
+    git(repo, "fetch", "origin", "main")
+    assert sr.local_is_ahead(repo)
+
+    assert sr.do_publish(repo, "Data: no new items") == "PUBLISH_PUSH_ONLY PUSH_OK"
+    remote_head = subprocess.run(["git", "rev-parse", "main"], cwd=str(bare),
+                                 capture_output=True, text=True).stdout.strip()
+    assert remote_head == head(repo)
+    assert not sr.local_is_ahead(repo)
+
+
+def test_publish_still_a_noop_when_clean_and_in_sync(repo):
+    git(repo, "fetch", "origin", "main")
+    assert not sr.local_is_ahead(repo)
+    assert sr.do_publish(repo, "Data: run") == "PUBLISH_NOTHING"
+
+
+def test_local_is_ahead_false_when_only_the_remote_moved(repo, origin):
+    bare, seed = origin
+    (seed / "r.md").write_text("r\n")
+    git(seed, "add", "-A"); git(seed, "commit", "-m", "r"); git(seed, "push", "origin", "main")
+    git(repo, "fetch", "origin", "main")
+    assert not sr.local_is_ahead(repo)

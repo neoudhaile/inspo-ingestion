@@ -43,6 +43,12 @@ def _git(repo, *args, check=False):
                           text=True, check=check)
 
 
+def _rev(repo, ref):
+    """Resolved sha for a ref, or "" when it does not resolve."""
+    r = _git(repo, "rev-parse", ref)
+    return r.stdout.strip() if r.returncode == 0 else ""
+
+
 def unquote_path(p):
     """git quotes paths containing specials: "inspo/a b.md" -> inspo/a b.md."""
     if len(p) >= 2 and p.startswith('"') and p.endswith('"'):
@@ -95,13 +101,15 @@ def commit_generated(repo, message):
     # Stage the detected paths, not the prefixes: `git add -- inspo/ screenshots/`
     # fails as a whole if either directory does not exist, silently staging nothing.
     _git(repo, "add", "--", *daemon)
-    # Re-check: an ignored-only change can still leave nothing staged.
-    if not _git(repo, "diff", "--cached", "--name-only").stdout.strip():
+    # Count what is actually staged, not what was merely detected dirty — `add` can
+    # drop a path (ignored, or a pathspec that did not match) and a status line that
+    # disagrees with the commit is worse than no status line.
+    staged = [l for l in _git(repo, "diff", "--cached", "--name-only").stdout.splitlines() if l]
+    if not staged:
         return "CLEAN"
-    r = _git(repo, "commit", "-m", message)
-    if r.returncode != 0:
+    if _git(repo, "commit", "-m", message).returncode != 0:
         return "CLEAN"
-    return f"COMMITTED {len(daemon)}"
+    return f"COMMITTED {len(staged)}"
 
 
 def fetch_and_integrate(repo):
@@ -149,11 +157,38 @@ def push(repo):
     return "PUSH_OK"
 
 
+def is_ahead(repo):
+    """Does local main hold commits origin/main lacks?"""
+    remote = _git(repo, "rev-parse", f"{REMOTE}/{BRANCH}").stdout.strip()
+    if not remote:
+        return False
+    return _git(repo, "merge-base", "--is-ancestor", "HEAD", remote).returncode != 0
+
+
 def do_pull(repo):
+    """Commit generated output, integrate origin, and never end up ahead unpushed.
+
+    That last clause is load-bearing. run.sh can exit at its no-op guard — which is
+    AFTER this sync but BEFORE the publish step — so a commit made here would other-
+    wise sit unpushed until some later run happened to publish. Local would then be
+    diverged the next time a PR landed on origin, which is exactly the state pushing
+    exists to prevent. So push here too whenever this leaves local ahead.
+    """
     c = commit_generated(repo, "Data: daemon output before sync")
     if c.startswith("FOREIGN"):
         return f"SYNC_SKIPPED_FOREIGN {c.split()[1]}"
-    return f"SYNC {c} {fetch_and_integrate(repo)}"
+    status = f"SYNC {c} {fetch_and_integrate(repo)}"
+    if is_ahead(repo):
+        status += f" {push(repo)}"
+    return status
+
+
+def local_is_ahead(repo):
+    """True when HEAD has commits origin/main lacks (needs a push)."""
+    local, remote = _rev(repo, "HEAD"), _rev(repo, f"{REMOTE}/{BRANCH}")
+    if not local or not remote or local == remote:
+        return False
+    return _git(repo, "merge-base", "--is-ancestor", remote, local).returncode == 0
 
 
 def do_publish(repo, message):
@@ -161,6 +196,12 @@ def do_publish(repo, message):
     if c.startswith("FOREIGN"):
         return f"PUBLISH_SKIPPED_FOREIGN {c.split()[1]}"
     if c == "CLEAN":
+        # Nothing new to commit, but the sync step may have committed generated
+        # output on a run that then found no work and exited. Leaving that commit
+        # unpushed is what turns the NEXT sync's clean fast-forward into a merge,
+        # so push it even when this run produced nothing.
+        if local_is_ahead(repo):
+            return f"PUBLISH_PUSH_ONLY {push(repo)}"
         return "PUBLISH_NOTHING"
     return f"PUBLISH {c} {push(repo)}"
 
