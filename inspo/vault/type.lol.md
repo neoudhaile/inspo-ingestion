@@ -51,6 +51,6 @@ A restrained monochrome editorial system: getComputedStyle reports a white body 
 - [[21st.dev]] — shared: directory-gallery, minimal, editorial, design, light
 - [[designtools.fyi]] — shared: directory-gallery, minimal, editorial, design, light
 - [[are.na]] — shared: directory-gallery, minimal, editorial, light
+- [[ciggies.app]] — shared: directory-gallery, minimal, editorial, light
 - [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
 - [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
-- [[nicelydone.club]] — shared: directory-gallery, minimal, design, light

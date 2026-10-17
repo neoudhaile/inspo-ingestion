@@ -42,7 +42,7 @@ Confident dark-app aesthetic: near-black panels (#0d0d0f / #141417) with crisp o
 ## Related sites
 - [[zendex.spyrosigma.in]] — shared: tool-app, technical, minimal, dark
 - [[akira.sachi.dev]] — shared: tool-app, technical, minimal
+- [[humanatlas.quest]] — shared: tool-app, technical, minimal
 - [[itshover.com]] — shared: tool-app, technical, minimal
 - [[stitch.withgoogle.com]] — shared: tool-app, technical, dark
 - [[tryponcho.com]] — shared: tool-app, technical, dark
-- [[ankit-rai.com]] — shared: minimal, art, dark

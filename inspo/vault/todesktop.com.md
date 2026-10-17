@@ -48,9 +48,9 @@ A clean, high-contrast light theme: white canvas, pure-black headings (rendered 
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
+- [[hermeus.com]] — shared: startup-product, technical, engineering, light
 - [[printingpress.dev]] — shared: startup-product, technical, engineering, light
 - [[vercel.com]] — shared: startup-product, minimal, engineering, light
 - [[akira.sachi.dev]] — shared: minimal, technical, engineering, light
 - [[crustdata.com]] — shared: startup-product, technical, engineering
 - [[daytona.io]] — shared: startup-product, technical, engineering
-- [[designengineer.tools]] — shared: minimal, technical, engineering, light

@@ -53,5 +53,5 @@ Clean light theme — Chakra's default body bg #FFFFFF with body text rgb(26,32,
 - [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, minimal, playful, light
 - [[farza.com]] — shared: portfolio, minimal, startups, light
+- [[gyanl.com]] — shared: portfolio, minimal, playful, light
 - [[kmk0.com]] — shared: portfolio, minimal, playful, light
-- [[ryancarson.com]] — shared: portfolio, minimal, startups, light

@@ -3324,4 +3324,364 @@ _Appended automatically from X bookmark exports. Move into curated sections by h
 **Tags:** `data-viz` `tool` `d3` `manual-add`  
 
 
+### Chris Barber's Breakout List — the 20 startups (of 92) with 25 or fewer employees
+
+**Author:** [@chrisbarber](https://twitter.com/chrisbarber)  
+**Source:** [tweet](https://twitter.com/chrisbarber/status/2100260552513884581) · 2026-09-16  
+**Tags:** `startups` `directory`  
+
+> I made a list of great startups to join. It's called the Breakout List.  The list has 92 companies. These are the 20 with 25 or fewer employees: - Hone (@moritz_stephan, @CarloWillem, @oqbrady) - Norm…
+
+### "Made in Figma motion" — a 3D calendar/stamp animation for an invoicing app
+
+**Author:** [@SolutionB2u](https://twitter.com/SolutionB2u)  
+**Source:** [tweet](https://twitter.com/SolutionB2u/status/2099695046178083303) · 2026-09-14  
+**Tags:** `animation` `ui-pattern`  
+
+> made in Figma motion :) https://t.co/gtV5rSoUYa
+
+### pengzhe.ng — Peng Zheng's personal site that renders every place he checks into as a tiny 3D clay-style storefront
+
+**Site:** [pengzhe.ng](https://www.pengzhe.ng/)  
+**Author:** [@pengzheng_](https://twitter.com/pengzheng_)  
+**Source:** [tweet](https://twitter.com/pengzheng_/status/2096994904836649430) · 2026-09-07  
+**Tags:** `3d` `generative` `personal`  
+
+> everybody's making 3d games now, so i made every storefront I checked in at on my website a tiny 3d miniature, still generated from a single photo.  what's the ugliest storefront in your city? i want …
+
+### techbimbo (@jameygannon): "jesus this is fire" — no link or media, subject unknown
+
+**Author:** [@jameygannon](https://twitter.com/jameygannon)  
+**Source:** [tweet](https://twitter.com/jameygannon/status/2097185326460518714) · 2026-09-08  
+**Tags:** `uncategorized`  
+
+> jesus this is fire
+
+### Y Combinator — "How to Spend Your 20s in the AI Era" (7 principles, curated by Ruben Dominguez Ibar)
+
+**Author:** [@rdominguezibar](https://twitter.com/rdominguezibar)  
+**Source:** [tweet](https://twitter.com/rdominguezibar/status/2096343613445673435) · 2026-09-05  
+**Tags:** `startups` `career`  
+
+> the uncomfortable version of YC's advice: the safe path stopped being safe, and nobody announced it https://t.co/JTsVLUAYyI
+
+### ashebytes — Human Atlas, a GPT-6 Astra–built 3D interactive human anatomy explorer with 2,234 modeled pieces
+
+**Site:** [humanatlas.quest](https://humanatlas.quest/)  
+**Author:** [@ashebytes](https://twitter.com/ashebytes)  
+**Source:** [tweet](https://twitter.com/ashebytes/status/2096221988763173186) · 2026-09-05  
+**Tags:** `3d` `ai` `tool`  
+
+> since you guys loved the exploding tesla..   I used GPT-6 Astra to create a 3D website that pulls apart the male anatomy into 2,234 modeled pieces!  we are in a renaissance of learning https://t.co/9C…
+
+### Daniel White — drawably, an npm package that renders real UI controls with a fresh hand-drawn sketch on every mount
+
+**Site:** [drawably.dev](https://www.drawably.dev/)  
+**Author:** [@dwhitedesign](https://twitter.com/dwhitedesign)  
+**Source:** [tweet](https://twitter.com/dwhitedesign/status/2094737661835571309) · 2026-09-01  
+**Tags:** `tool` `open-source` `ui-pattern`  
+
+> Your UI is too perfect.  npm i drawably  https://t.co/x3svmHJShi https://t.co/nkhcMQzHJh
+
+### Felix Haas — a concept multi-agent OS sidebar that reads Gmail/Calendar/Slack, drafts replies, and holds time on your behalf
+
+**Author:** [@felixhhaas](https://twitter.com/felixhhaas)  
+**Source:** [tweet](https://twitter.com/felixhhaas/status/2095202955918008622) · 2026-09-02  
+**Tags:** `ai` `agents` `ui-pattern`  
+
+> I built the multi-agent interface I wanted. https://t.co/u0hgLYifh9
+
+### Kevin Ngo — a personal website Claude Fable 5 designed for itself, with hand-drawn nature scenes and poetic captions
+
+**Author:** [@kevin_t_ngo](https://twitter.com/kevin_t_ngo)  
+**Source:** [tweet](https://twitter.com/kevin_t_ngo/status/2093500169723814093) · 2026-08-28  
+**Tags:** `ai` `art` `generative` `personal`  
+
+> I asked Claude Fable 5 to make its own personal website https://t.co/xvco9Y4cj6
+
+### Vinz — a Figma concept for a macOS notch-side widget that tracks Claude/ChatGPT/other AI session usage limits at a glance
+
+**Author:** [@hivinz_](https://twitter.com/hivinz_)  
+**Source:** [tweet](https://twitter.com/hivinz_/status/2092996055248126353) · 2026-08-27  
+**Tags:** `ai` `product` `design`  
+
+> I had an idea to built a side-notch tools for mac. For those who annoyed to keep checking their session limits for Claude, Codex, etc.   Is this a good idea? Or it's too saturated?  Anyways, this conc…
+
+### mikes.cv
+
+**Site:** [mikes.cv](https://mikes.cv)  
+**Author:** [@mjbarton_](https://twitter.com/mjbarton_)  
+**Source:** [tweet](https://twitter.com/mjbarton_/status/2093354383379399012) · 2026-08-28  
+**Tags:** `portfolio` `personal` `animation` `ui-pattern`  
+
+> Window controlled dark mode? why not  🛫 https://t.co/avwTECXTwe https://t.co/Zl5zgrmbjS
+
+### reactiverobot
+
+**Author:** [@reactiverobot](https://twitter.com/reactiverobot)  
+**Source:** [tweet](https://twitter.com/reactiverobot/status/2092638003789439075) · 2026-08-26  
+**Tags:** `design` `ai` `career`  
+
+> Here's my advice for engineers looking to up their design game. https://t.co/oBFur0Izaf
+
+### Palakonweb
+
+**Author:** [@Palakonweb](https://twitter.com/Palakonweb)  
+**Source:** [tweet](https://twitter.com/Palakonweb/status/2090632922659508367) · 2026-08-20  
+**Tags:** `ai` `art` `design`  
+
+> The design vs The image https://t.co/QPou8ubm07
+
+### hermeus.com
+
+**Site:** [hermeus.com](https://www.hermeus.com/)  
+**Author:** [@RobertJohns](https://twitter.com/RobertJohns)  
+**Source:** [tweet](https://twitter.com/RobertJohns/status/2090832456081608791) · 2026-08-21  
+**Tags:** `animation` `ui-pattern` `typography`  
+
+> One of the coolest uses of a text effect that I've seen in a long while. Bravo @hermeuscorp! https://t.co/Ybro5dL7iP
+
+### gyanl.com
+
+**Site:** [gyanl.com](https://gyanl.com/)  
+**Author:** [@gyanl](https://twitter.com/gyanl)  
+**Source:** [tweet](https://twitter.com/gyanl/status/2089092627421618474) · 2026-08-16  
+**Tags:** `portfolio` `personal` `animation`  
+
+> Just shipped a new version of my personal website 🚀 https://t.co/T5OwViUF6K
+
+### b1rdmania
+
+**Author:** [@b1rdmania](https://twitter.com/b1rdmania)  
+**Source:** [tweet](https://twitter.com/b1rdmania/status/2086786543113384440) · 2026-08-10  
+**Tags:** `ai` `claude-code` `tool`  
+
+> Updated my plain-english claude skill. Now runs ASD-STE100 Simplified Technical English - the controlled language aerospace has used for maintenance manuals since 1983 - alongside George Orwell & Gowe…
+
+### canivibecodeit.com
+
+**Site:** [canivibecodeit.com](https://canivibecodeit.com/)  
+**Author:** [@robj3d3](https://twitter.com/robj3d3)  
+**Source:** [tweet](https://twitter.com/robj3d3/status/2086722247180632514) · 2026-08-10  
+**Tags:** `directory` `ai` `tool` `startups`  
+
+> The site btw: https://t.co/939VCGXC1g  996 apps.  One question each: can AI build you a replacement today, or is it still worth paying for?
+
+### zodchiii
+
+**Author:** [@zodchiii](https://twitter.com/zodchiii)  
+**Source:** [tweet](https://twitter.com/zodchiii/status/2083134599832408208) · 2026-07-31  
+**Tags:** `claude-code` `agents` `ai` `video`  
+
+> Anthropic engineer:  “90% of our engineers were using self‑improving loops. Now everyone shifted to building agentic Graphs"  "No more prompting”  In 10 minutes she shows her full Claude Code setup an…
+
+### SerenaTaN5
+
+**Author:** [@SerenaTaN5](https://twitter.com/SerenaTaN5)  
+**Source:** [tweet](https://twitter.com/SerenaTaN5/status/2082219340259328489) · 2026-07-28  
+**Tags:** `ai` `claude-code`  
+
+> sell ur remaining claude subscription token https://t.co/3Y6j42on9R
+
+### carrabre
+
+**Author:** [@carrabre](https://twitter.com/carrabre)  
+**Source:** [tweet](https://twitter.com/carrabre/status/2081930429435875694) · 2026-07-27  
+**Tags:** `portfolio` `design` `open-source` `3d` `animation`  
+
+> I built an open source version of stripe press's site! https://t.co/unXHXG9mhR
+
+### Motion graphics in the docs (speech-to-text waveform-to-letters animation)
+
+**Author:** [@ray_barrera](https://twitter.com/ray_barrera)  
+**Source:** [tweet](https://twitter.com/ray_barrera/status/2081467894790304242) · 2026-07-26  
+**Tags:** `animation` `design` `ui-pattern`  
+
+> Motion graphics in the docs? @benjitaylor is cooking https://t.co/14gPkMALZD
+
+### Nader Dabit's portfolio turned into a Canvas UI shader playground (via Devin AI)
+
+**Author:** [@dabit3](https://twitter.com/dabit3)  
+**Source:** [tweet](https://twitter.com/dabit3/status/2081588448293445840) · 2026-07-26  
+**Tags:** `portfolio` `design` `animation` `ai` `webgl` `experimental`  
+
+> Blown away at how simple to use, fun, and beautiful Canvas UI is! My portfolio site is a living experiment, so today I decided prompt @DevinAI to make it a Canvas UI playground.  https://t.co/XjjbEiuN…
+
+### Portolan: a live map of world trade, tariffs, and maritime chokepoints
+
+**Author:** [@yumahey](https://twitter.com/yumahey)  
+**Source:** [tweet](https://twitter.com/yumahey/status/2081473121953911112) · 2026-07-26  
+**Tags:** `data-viz` `product` `finance` `startups`  
+
+> Most people have no idea of the magnitude of tariffs, sanctions, and global trade deals  I created Portolan with 300 bilateral trade flows worth ~$15 trillion, 10 maritime chokepoints, and 200+ signif…
+
+### First personal webpage, built with paper shaders (Context7 creator's site)
+
+**Author:** [@abdushbag](https://twitter.com/abdushbag)  
+**Source:** [tweet](https://twitter.com/abdushbag/status/2081453995697086592) · 2026-07-26  
+**Tags:** `personal` `portfolio` `design` `webgl` `animation`  
+
+> my first personal webpage  inspired by @emilkowalski's   using @paper shaders https://t.co/wdY8L1mUpj
+
+### World Cup goals visualized as a 3D bracket of cartoon soccer balls (Three.js)
+
+**Author:** [@makio64](https://twitter.com/makio64)  
+**Source:** [tweet](https://twitter.com/makio64/status/2079265483208155433) · 2026-07-20  
+**Tags:** `threejs` `data-viz` `animation` `3d` `generative`  
+
+> The World Cup is over ⚽️  To celebrate I built a terrible data-viz with @threejs &amp; @threejsconf balls 😗  Looking at the balls on the final &amp; 3rd place, I really though there are really 2 types…
+
+### A website for opening blind boxes and collecting memes as trading cards
+
+**Author:** [@itsjessyin](https://twitter.com/itsjessyin)  
+**Source:** [tweet](https://twitter.com/itsjessyin/status/2079304397847150728) · 2026-07-20  
+**Tags:** `app` `product` `design` `playful`  
+
+> i made a website where you can open blind boxes and collect memes as trading cards https://t.co/AwLDIEzzJu
+
+### The Pennsylvania Railroad Company's 1966 annual report (Edwin Schmidt illustrations)
+
+**Author:** [@jacob__titus](https://twitter.com/jacob__titus)  
+**Source:** [tweet](https://twitter.com/jacob__titus/status/2078970179183075628) · 2026-07-19  
+**Tags:** `design` `typography` `vintage-print`  
+
+> Just found the best annual report https://t.co/6g1Go6lYAS
+
+### JB Eudeline's personal portfolio, "my little corner on the internet"
+
+**Site:** [jib.design](https://jib.design)  
+**Author:** [@jbedln](https://twitter.com/jbedln)  
+**Source:** [tweet](https://twitter.com/jbedln/status/2079144999187574942) · 2026-07-20  
+**Tags:** `personal` `portfolio` `design` `minimalist`  
+
+> 7 years of procrastination later, I finally have my little corner on the internet https://t.co/xxu55KSGiS https://t.co/acUo5G31xG
+
+### "Cool internet things pt. 13" — a five-site design/data-viz roundup
+
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2079246871063568437) · 2026-07-20  
+**Tags:** `directory` `thread` `design` `data-viz` `product`  
+
+> cool internet things pt. 13  https://t.co/cStc7hfBwx - a product gallery https://t.co/KBRwINRWge - humanoid map https://t.co/1M2rglmlxr - air quality, in cigarettes https://t.co/gEyR1MxJRK - personal …
+
+### "i-have-adhd" — a Claude Code skill for action-first, no-fluff replies
+
+**Author:** [@jjacky](https://twitter.com/jjacky)  
+**Source:** [tweet](https://twitter.com/jjacky/status/2078689662118314318) · 2026-07-18  
+**Tags:** `claude-code` `tool` `productivity` `ai`  
+
+> whoever shared the "i have adhd" skill with me  thank you  it's made my claude replies so good https://t.co/f8ymvXoe2d
+
+### A cigarette-pack UI ("Ciggie Index") that converts a city's air quality into cigarettes smoked
+
+**Author:** [@pauline_makes](https://twitter.com/pauline_makes)  
+**Source:** [tweet](https://twitter.com/pauline_makes/status/2078501391312564711) · 2026-07-18  
+**Tags:** `tool` `data-viz` `app`  
+
+> made a website that shows your air quality in cigarettes https://t.co/dleKEiZhpz
+
+### A tldraw board that reorganizes a wall of images into an AI semantic-similarity layout
+
+**Author:** [@anikrisn](https://twitter.com/anikrisn)  
+**Source:** [tweet](https://twitter.com/anikrisn/status/2078082085923758145) · 2026-07-17  
+**Tags:** `tool` `ai` `app`  
+
+> https://t.co/p06OjPzcpH
+
+### Cartographer — draw a country from memory and get scored against its real outline
+
+**Author:** [@pauline_makes](https://twitter.com/pauline_makes)  
+**Source:** [tweet](https://twitter.com/pauline_makes/status/2077955127378321577) · 2026-07-16  
+**Tags:** `tool` `game`  
+
+> made a game where you draw countries from memory https://t.co/QWIU6bUHCh
+
+### "Cool internet things pt. 12" — a five-site design/toy roundup
+
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2077488853401620893) · 2026-07-15  
+**Tags:** `directory` `thread` `design`  
+
+> cool internet things pt. 12   https://t.co/uMoGajLIhP - desktop pixel cat https://t.co/MDjXfKluer - link bouquet https://t.co/nSEiL3TogC - endless highway https://t.co/ALq0hfk8fH - design experiment h…
+
+### "Nobody asked us to build this website" — a year-long, after-hours case-study reel for Microsoft's "Zero"
+
+**Author:** [@whossanjay](https://twitter.com/whossanjay)  
+**Source:** [tweet](https://twitter.com/whossanjay/status/2077255170833203213) · 2026-07-15  
+**Tags:** `thread` `product`  
+
+> nobody asked us to build this website. never on the roadmap. so for a year it lived on the last leg of everything, built after 15-16 hour days. we'd wrap the real work and then, instead of sleeping, o…
+
+### Linedash — a scratchy, colour-accented line-illustration style
+
+**Author:** [@OVolosin82152](https://twitter.com/OVolosin82152)  
+**Source:** [tweet](https://twitter.com/OVolosin82152/status/2076791759183429831) · 2026-07-13  
+**Tags:** `art` `design` `illustration`  
+
+> Linedash style on https://t.co/kWsJzCrjBF https://t.co/wBUTgLm37F
+
+### chiefkeef.md — a 724K-character prompt file trained to kill AI-slop design
+
+**Author:** [@chhddavid](https://twitter.com/chhddavid)  
+**Source:** [tweet](https://twitter.com/chhddavid/status/2077363947062136840) · 2026-07-15  
+**Tags:** `design` `ai` `tool` `ui-pattern`  
+
+> Introducing chiefkeef.md  A 724,300+ Character .MD File that's specifically trained to ignore all vibe coded AI Slop design language.  - 0 box shadows - 0 emojis - badges like '🟢 LIVE ' - 0 purple-to-…
+
+### Thijs's Wardrobe — an AI-built closet cataloguer and outfit generator
+
+**Author:** [@cdngdev](https://twitter.com/cdngdev)  
+**Source:** [tweet](https://twitter.com/cdngdev/status/2076812846793650485) · 2026-07-13  
+**Tags:** `ai` `app` `tool` `fashion`  
+
+> i gave 5.6 sol access to my camera roll and had it extract pictures of every piece of clothing i own from my photos  then, told it to find new outfits for me and render them on me with gpt-image!  its…
+
+### Joe Lee's portfolio — a playful desktop-style whimsy interaction
+
+**Author:** [@_joerl](https://twitter.com/_joerl)  
+**Source:** [tweet](https://twitter.com/_joerl/status/2075366965472903490) · 2026-07-09  
+**Tags:** `portfolio` `design` `ui-pattern` `animation`  
+
+> there's always room for more whimsy 💫 https://t.co/avGlpl9X6E
+
+### Melius — a node-based creative canvas for AI branding agents
+
+**Author:** [@n0w00j](https://twitter.com/n0w00j)  
+**Source:** [tweet](https://twitter.com/n0w00j/status/2075594907285139867) · 2026-07-10  
+**Tags:** `ai` `agents` `product` `design` `tool`  
+
+> If you’re a creative not using AI you’re fcked.  Introducing Melius: the world’s first creative canvas for agents.  Here’s how it works:
+
+### Stagger grid reveal — a Motion.dev design-engineering tip
+
+**Author:** [@gabriell_lab](https://twitter.com/gabriell_lab)  
+**Source:** [tweet](https://twitter.com/gabriell_lab/status/2075575648282722679) · 2026-07-10  
+**Tags:** `animation` `ui-pattern` `design`  
+
+> Design Engineering Tip:  Don’t reveal a grid all at once. Use stagger() to give every item a tiny delay. You can add an extra motion detail to give the reveal more character, like this tiny swing.  im…
+
+### emilkowalski/skills — a Claude Code skill distilling Apple's WWDC design principles
+
+**Author:** [@emilkowalski](https://twitter.com/emilkowalski)  
+**Source:** [tweet](https://twitter.com/emilkowalski/status/2075188252877672732) · 2026-07-09  
+**Tags:** `claude-code` `design` `tool` `ai`  
+
+> New skill: /apple-design  Apple’s WWDC videos are a goldmine of knowledge. I’ve combed through my favorite ones and came up with 17 design and motion principles.  Use them to review existing work or w…
+
+### Four AI-generated SaaS landing pages — a 'different league' design-quality flex
+
+**Author:** [@uihssn](https://twitter.com/uihssn)  
+**Source:** [tweet](https://twitter.com/uihssn/status/2075335893192523951) · 2026-07-09  
+**Tags:** `ai` `design` `ui-pattern`  
+
+> Respect to Fable 5, but this is a different league. https://t.co/ADS4CgBSvS
+
+### Idiom-to-collage animation — a Claude skill using Nano Banana 2 + Seedance via Arcads MCP
+
+**Author:** [@rom1trs](https://twitter.com/rom1trs)  
+**Source:** [tweet](https://twitter.com/rom1trs/status/2074119000137601528) · 2026-07-06  
+**Tags:** `ai` `claude-code` `animation` `tool` `mcp`  
+
+> I built a Claude skill that makes motion-style animation.  &gt; Paste a reference image &gt; It generates frames with Nano Banana 2  &gt; and animates the video with Seedance 2.0  Everything runs in C…
+
 <!-- AUTO-INGEST:END -->

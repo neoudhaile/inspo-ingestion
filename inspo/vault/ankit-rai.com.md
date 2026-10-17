@@ -54,4 +54,4 @@ Restrained, gallery-like dark layout: a #121212 ground with white display headin
 - [[asekachov.com]] — shared: portfolio, minimal, editorial
 - [[christophlocher.com]] — shared: portfolio, minimal, editorial
 - [[daviskeene.com]] — shared: portfolio, minimal, editorial
-- [[joonasvirtanen.com]] — shared: portfolio, minimal, editorial
+- [[jib.design]] — shared: portfolio, minimal, editorial

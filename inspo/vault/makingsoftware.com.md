@@ -50,8 +50,8 @@ A crisp editorial-technical look. getComputedStyle reports a body background rgb
 
 ## Related sites
 - [[animations.dev]] — shared: docs-resource, editorial, engineering, design, light
+- [[humanityslastmachine.com]] — shared: docs-resource, editorial, technical, engineering, light
 - [[transitions.dev]] — shared: docs-resource, technical, engineering, design, light
 - [[walkinglabs.github.io]] — shared: docs-resource, editorial, engineering, light
 - [[21st.dev]] — shared: editorial, engineering, design, light
 - [[designengineer.tools]] — shared: technical, engineering, design, light
-- [[interfaces.dev]] — shared: editorial, engineering, design, light

@@ -53,5 +53,5 @@ A dark, product-y SaaS look: near-black ground (rendered body bg rgb 23,23,23) w
 - [[stitch.withgoogle.com]] — shared: corporate-clean, technical, design, ai, dark
 - [[killedbyopenai.com]] — shared: directory-gallery, technical, ai, dark
 - [[21st.dev]] — shared: directory-gallery, design, ai
+- [[canivibecodeit.com]] — shared: directory-gallery, technical, ai
 - [[coolsites.ai]] — shared: directory-gallery, design, ai
-- [[daytona.io]] — shared: corporate-clean, technical, ai, dark

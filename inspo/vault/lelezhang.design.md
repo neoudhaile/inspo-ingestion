@@ -47,9 +47,9 @@ Soft, papery, glassmorphic. From :root tokens the page is warm off-white (--draw
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
+- [[clipart.studio]] — shared: tool-app, playful, organic-warm, art, light
+- [[appdrop.com]] — shared: tool-app, playful, organic-warm, light
 - [[cafe.endofday.studio]] — shared: tool-app, playful, organic-warm
 - [[coolsites.ai]] — shared: playful, organic-warm, ai, light
 - [[nehasharma.dev]] — shared: playful, organic-warm, ai, light
-- [[colf.dev]] — shared: tool-app, ai, light
-- [[spencer.place]] — shared: playful, organic-warm, art
-- [[are.na]] — shared: ai, art, light
+- [[cig-index.vercel.app]] — shared: tool-app, playful, light

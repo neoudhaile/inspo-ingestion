@@ -44,5 +44,5 @@ A near-black ground makes the colorful icon renders pop like objects laid out on
 - [[nucleoapp.com]] — shared: ecommerce, minimal, design
 - [[templatoria.com]] — shared: ecommerce, minimal, design
 - [[designrebuilds.vercel.app]] — shared: playful, minimal, design
-- [[kmk0.com]] — shared: playful, minimal, design
-- [[mo1.app]] — shared: playful, minimal, design
+- [[drawably.dev]] — shared: playful, minimal, design
+- [[gyanl.com]] — shared: playful, minimal, design

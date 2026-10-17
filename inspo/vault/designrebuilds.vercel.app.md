@@ -50,8 +50,8 @@ Stripped-back and friendly: a white page with near-black text (rgb(17,17,17)) an
 
 ## Related sites
 - [[kmk0.com]] — shared: portfolio, minimal, playful, design, engineering, light
-- [[lab01.dev]] — shared: portfolio, minimal, design, engineering
-- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
-- [[asekachov.com]] — shared: portfolio, minimal, design, light
-- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
-- [[christophlocher.com]] — shared: portfolio, minimal, design, light
+- [[gyanl.com]] — shared: portfolio, minimal, playful, design, light
+- [[jib.design]] — shared: portfolio, minimal, design, engineering, light
+- [[mikes.cv]] — shared: portfolio, minimal, playful, design, light
+- [[pengzhe.ng]] — shared: portfolio, minimal, playful, design, light
+- [[drawably.dev]] — shared: minimal, playful, design, engineering, light

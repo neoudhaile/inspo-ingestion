@@ -54,4 +54,4 @@ A clean, high-contrast light theme — white ground rgb(255,255,255) with deep s
 - [[photon.codes]] — shared: corporate-clean, playful, engineering, light
 - [[animations.dev]] — shared: docs-resource, engineering, light
 - [[heyneuma.com]] — shared: docs-resource, education, light
-- [[makingsoftware.com]] — shared: docs-resource, engineering, light
+- [[humanityslastmachine.com]] — shared: docs-resource, engineering, light

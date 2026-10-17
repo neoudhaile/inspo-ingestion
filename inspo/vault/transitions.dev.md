@@ -53,5 +53,5 @@ Clean, near-white editorial UI (--bg #fdfdfd, --text #0d0d0d) sitting on a soft 
 - [[makingsoftware.com]] — shared: docs-resource, technical, engineering, design, light
 - [[designengineer.tools]] — shared: minimal, technical, engineering, design, light
 - [[itshover.com]] — shared: minimal, technical, engineering, design, light
+- [[humanityslastmachine.com]] — shared: docs-resource, technical, engineering, light
 - [[lab01.dev]] — shared: minimal, technical, engineering, design
-- [[21st.dev]] — shared: minimal, engineering, design, light

@@ -51,7 +51,7 @@ A monochrome dark 'lab' aesthetic driven by a single monospace typeface. getComp
 ## Related sites
 - [[khairallah.xyz]] — shared: portfolio, minimal, technical, engineering, dark
 - [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, engineering
+- [[jib.design]] — shared: portfolio, minimal, design, engineering
 - [[kmk0.com]] — shared: portfolio, minimal, design, engineering
 - [[siddz.com]] — shared: portfolio, minimal, technical, engineering
 - [[spyrosigma.in]] — shared: portfolio, minimal, technical, engineering
-- [[designengineer.tools]] — shared: minimal, technical, design, engineering

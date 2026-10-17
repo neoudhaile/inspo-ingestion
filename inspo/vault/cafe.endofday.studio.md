@@ -47,9 +47,9 @@ Snug, storybook warmth. From getComputedStyle the stage is a deep warm brown (bo
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
+- [[appdrop.com]] — shared: tool-app, organic-warm, playful
+- [[clipart.studio]] — shared: tool-app, organic-warm, playful
 - [[lelezhang.design]] — shared: tool-app, organic-warm, playful
 - [[tryponcho.com]] — shared: tool-app, productivity, dark
 - [[zendex.spyrosigma.in]] — shared: tool-app, productivity, dark
-- [[everynoise.com]] — shared: tool-app, music
-- [[spencer.place]] — shared: organic-warm, playful, dark
-- [[vivekhaldar.com]] — shared: tool-app, productivity
+- [[cig-index.vercel.app]] — shared: tool-app, playful

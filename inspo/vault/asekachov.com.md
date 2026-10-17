@@ -48,8 +48,8 @@ Stark editorial minimalism. From getComputedStyle the canvas is pure white (html
 
 ## Related sites
 - [[christophlocher.com]] — shared: portfolio, minimal, editorial, design, light
+- [[jib.design]] — shared: portfolio, minimal, editorial, design, light
 - [[joonasvirtanen.com]] — shared: portfolio, minimal, editorial, design, light
 - [[daryl.cv]] — shared: portfolio, minimal, design, light
 - [[daviskeene.com]] — shared: portfolio, minimal, editorial, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
-- [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light

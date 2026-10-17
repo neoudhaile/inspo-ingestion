@@ -50,7 +50,7 @@ A cozy, lo-fi 'soft internet' aesthetic: a charcoal/teal ground (rgb(47,51,54)) 
 ## Related sites
 - [[jessa.art]] — shared: portfolio, organic-warm, playful
 - [[jessyin.world]] — shared: portfolio, organic-warm, playful
+- [[sneakers.charmiekapoor.com]] — shared: portfolio, organic-warm, playful
 - [[ankit-rai.com]] — shared: portfolio, art, dark
+- [[clipart.studio]] — shared: organic-warm, playful, art
 - [[davekrugman.com]] — shared: portfolio, art, dark
-- [[lelezhang.design]] — shared: organic-warm, playful, art
-- [[mrdoob.com]] — shared: portfolio, art, dark

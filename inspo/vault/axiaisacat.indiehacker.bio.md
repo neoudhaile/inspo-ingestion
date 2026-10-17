@@ -53,4 +53,4 @@ Deliberately minimal, document-like layout: near-white background (hsl(220 14% 9
 - [[debarghyadas.com]] — shared: portfolio, minimal, startups, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, minimal, engineering, light
 - [[farza.com]] — shared: portfolio, minimal, startups, light
-- [[julian.ai]] — shared: portfolio, minimal, startups, light
+- [[jib.design]] — shared: portfolio, minimal, engineering, light

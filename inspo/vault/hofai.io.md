@@ -51,6 +51,6 @@ A warm dark theme built on Tailwind v4: the CSS exposes lab() color tokens, a fu
 - [[heyneuma.com]] — shared: docs-resource, ai, education
 - [[midu.dev]] — shared: docs-resource, playful, education
 - [[walkinglabs.github.io]] — shared: docs-resource, ai, education
+- [[canivibecodeit.com]] — shared: technical, playful, ai
 - [[cofounder.co]] — shared: technical, ai, mixed
-- [[makingsoftware.com]] — shared: docs-resource, technical
-- [[transitions.dev]] — shared: docs-resource, technical
+- [[humanityslastmachine.com]] — shared: docs-resource, technical

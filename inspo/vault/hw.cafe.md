@@ -55,4 +55,4 @@ Full developer-terminal aesthetic done with taste: an almost-black #0a0d12 backg
 - [[daytona.io]] — shared: startup-product, technical, engineering, dark
 - [[langchain.com]] — shared: startup-product, technical, engineering, dark
 - [[cofounder.co]] — shared: startup-product, technical, editorial
-- [[todesktop.com]] — shared: startup-product, technical, engineering
+- [[hermeus.com]] — shared: startup-product, technical, engineering

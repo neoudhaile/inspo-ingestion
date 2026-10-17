@@ -40,8 +40,8 @@ Soft, tactile, personal: a warm cream ground (#f5f0e8) with rose-pink highlights
 
 ## Related sites
 - [[jessa.art]] — shared: portfolio, playful, organic-warm, light
+- [[sneakers.charmiekapoor.com]] — shared: portfolio, playful, organic-warm, light
 - [[spencer.place]] — shared: portfolio, playful, organic-warm
 - [[chusmargallo.space]] — shared: portfolio, playful, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, playful, light
-- [[julian.ai]] — shared: portfolio, playful, light
-- [[kiira.in]] — shared: portfolio, organic-warm, light
+- [[gyanl.com]] — shared: portfolio, playful, light

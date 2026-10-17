@@ -8896,6 +8896,1830 @@
       "source": "manual-url",
       "source_export": "manual-urls",
       "ingested_at": "2026-07-14T08:41:41"
+    },
+    {
+      "id": "2100260552513884581",
+      "title": "Chris Barber's Breakout List — the 20 startups (of 92) with 25 or fewer employees",
+      "author": "chrisbarber",
+      "name": "Chris Barber",
+      "author_profile": "https://twitter.com/chrisbarber",
+      "tweet": "https://twitter.com/chrisbarber/status/2100260552513884581",
+      "date": "2026-09-16",
+      "category": "reading",
+      "tags": [
+        "startups",
+        "directory"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HSWf1sVbMAIV9wO?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HSWf1sVbMAIV9wO?format=jpg&name=thumb",
+          "description": "A screenshot of 'Breakout List' (breakoutlist.com) — Chris Barber's curated ranking of 92 promising early-stage startups. It lists the 20 companies with 25 or fewer employees (Hone, Normal, Standard Intelligence, Tacit Labs, American Terawatt, Conduit, Convergent, Core Automation, Engram, Instinct, Keenable, Lumaril, Neion Bio, Pangram Labs, Quadrillion, Re, Ricursive, Sail Research, Trajectory, Watney Robotics), each with a logo, founder headshots, and a one-line pitch, plus a row of headshots for the 15 investors (Elad Gil, Keith Rabois, Sonya Huang, Charlie Songhurst, etc.) who picked the full 92-company list."
+        }
+      ],
+      "resolved_links": [],
+      "text": "I made a list of great startups to join. It's called the Breakout List.\n\nThe list has 92 companies. These are the 20 with 25 or fewer employees:\n- Hone (@moritz_stephan, @CarloWillem, @oqbrady)\n- Normal (@ansonyuu, @hudzah)\n- Standard Intelligence (@G413N, @devanshpandey)\n- Tacit Labs (@ninklefitz, @AmDroste)\n- American Terawatt (@atroyn, @rslparker, @aranibatta)\n- Conduit (@clemvonstengel, @riopopper)\n- Convergent (Omkar Savant, Vivek Katara, @debnilsur)\n- Core Automation (@MillionInt, @_arohan_)\n- Engram (@dan_biderman, @EyubogluSabri, @realJessyLin)\n- Instinct (@noahrshinn)\n- Keenable (@styskin, Matthias Petri)\n- Lumaril (Mark Elliot, Ben Duffield)\n- Neion Bio (@Dimkell, Sam Levin)\n- Pangram Labs (@max_spero_, @bradley_emi)\n- Quadrillion (@echinaceous)\n- Re (@karnsaroya, @AnandDhillon, @thecliffwhite, @benaneesh)\n- Ricursive (@annadgoldie, @Azaliamirh)\n- Sail Research (@neilmovva, @blintzbase)\n- Trajectory (@rronak_, @michaelelabd, @QuantumArjun)\n- Watney Robotics (Sean Cheong, Ryan Gannon)\n\nPicks from Elad Gil, Charlie Songhurst, Keith Rabois, Mike Vernal, Alana Goyal, Sonya Huang, Ramtin Naimi, Marc Bhargava, Cory Levy, Aashay Sanghvi, Konstantine Buhler, John Luttig, Varun Gupta, Ray Tonsing and Avichal Garg.\n\nDisclosure: I'm a small investor in American Terawatt, Convergent, Standard Intelligence and Trajectory (in this post), and in Factory, Physical Intelligence and SF Compute (elsewhere on the list). I didn't vote.\n\nThe full list is on Breakout List.",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:23:02"
+    },
+    {
+      "id": "2099695046178083303",
+      "title": "\"Made in Figma motion\" — a 3D calendar/stamp animation for an invoicing app",
+      "author": "SolutionB2u",
+      "name": "Solutionb",
+      "author_profile": "https://twitter.com/SolutionB2u",
+      "tweet": "https://twitter.com/SolutionB2u/status/2099695046178083303",
+      "date": "2026-09-14",
+      "category": "design",
+      "tags": [
+        "animation",
+        "ui-pattern"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2099694865067999232/vid/avc1/1080x720/s03qKByL8vApYHUB.mp4?tag=14",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099694865067999232/img/gtErZ7ggehUv2z9p.jpg?name=thumb",
+          "description": "An 8-second Figma motion prototype for an invoicing app (\"FeralUI Studio\"). A 3D perspective calendar/date-picker card tips forward and lands flush on an invoice document, revealing a red \"PAID 15 SEP 2026\" stamp seal; the UI then settles flat into a confirmation screen reading \"Invoice FUI-0067 — Marked as paid on Tuesday, 15 September 2026\" with a line-item breakdown ($1,572.50 total) and Download PDF / Next invoice buttons."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/gtV5rSoUYa",
+          "resolved": "https://twitter.com/SolutionB2u/status/2099695046178083303/video/1",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "made in Figma motion :) https://t.co/gtV5rSoUYa",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:23:02"
+    },
+    {
+      "id": "2096994904836649430",
+      "title": "pengzhe.ng — Peng Zheng's personal site that renders every place he checks into as a tiny 3D clay-style storefront",
+      "author": "pengzheng_",
+      "name": "Peng Zheng",
+      "author_profile": "https://twitter.com/pengzheng_",
+      "tweet": "https://twitter.com/pengzheng_/status/2096994904836649430",
+      "date": "2026-09-07",
+      "category": "tools-build",
+      "tags": [
+        "3d",
+        "generative",
+        "personal"
+      ],
+      "primary_url": "https://www.pengzhe.ng/",
+      "primary_domain": "pengzhe.ng",
+      "related_urls": [],
+      "all_urls": [
+        "https://www.pengzhe.ng/"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2096862546582294528/vid/avc1/2048x1536/1eh57Qg2Et0zXxB0.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2096862546582294528/img/4X8jEkxZCjOc71Zs.jpg?name=thumb",
+          "description": "A screen recording of pengzhe.ng, Peng Zheng's personal check-in site: a warm-lit, clay-render 3D miniature storefront (a corner cafe, then a grand cinema facade, then a narrow SF rowhouse entry) sits above a caption naming who he was last seen with and when; the camera then pulls back into a horizontal carousel scrolling through dozens of these generated miniature buildings — ADAN CAFE, Apple Cinemas Van Ness IMAX, Sushi Sato, and more — each dated and credited to the friends he was with."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/jmjY19DLt9",
+          "resolved": "https://twitter.com/pengzheng_/status/2096994904836649430/video/1",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "pengzhe.ng URL visible in the demo video's browser chrome",
+          "resolved": "https://www.pengzhe.ng/",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "everybody's making 3d games now, so i made every storefront I checked in at on my website a tiny 3d miniature, still generated from a single photo.\n\nwhat's the ugliest storefront in your city? i want to see if the pipeline survives it. https://t.co/jmjY19DLt9",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:23:02"
+    },
+    {
+      "id": "2097185326460518714",
+      "title": "techbimbo (@jameygannon): \"jesus this is fire\" — no link or media, subject unknown",
+      "author": "jameygannon",
+      "name": "techbimbo",
+      "author_profile": "https://twitter.com/jameygannon",
+      "tweet": "https://twitter.com/jameygannon/status/2097185326460518714",
+      "date": "2026-09-08",
+      "category": "uncategorized",
+      "tags": [
+        "uncategorized"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [],
+      "resolved_links": [],
+      "text": "jesus this is fire",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:23:02"
+    },
+    {
+      "id": "2096343613445673435",
+      "title": "Y Combinator — \"How to Spend Your 20s in the AI Era\" (7 principles, curated by Ruben Dominguez Ibar)",
+      "author": "rdominguezibar",
+      "name": "Ruben",
+      "author_profile": "https://twitter.com/rdominguezibar",
+      "tweet": "https://twitter.com/rdominguezibar/status/2096343613445673435",
+      "date": "2026-09-05",
+      "category": "reading",
+      "tags": [
+        "startups",
+        "career"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HReaF4aXMAMtY6B?format=png&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HReaF4aXMAMtY6B?format=png&name=thumb",
+          "description": "A screenshot of the Y Combinator blog post \"How to Spend Your 20s in the AI Era\" by Garry, Harj, Diana, and Jared. Seven numbered principles argue the traditional career ladder is disappearing, that startups are where the real action is now, to not wait for permission, to focus on solving real problems over pure growth, to go deep rather than wide early on, to keep learning from failure, and to use AI as leverage — closing with \"the world judges you by what you do, not what you intend.\" Curated by Ruben Dominguez Ibar for The VC Corner newsletter."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/JTsVLUAYyI",
+          "resolved": "https://twitter.com/rdominguezibar/status/2096343613445673435/photo/1",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "the uncomfortable version of YC's advice: the safe path stopped being safe, and nobody announced it https://t.co/JTsVLUAYyI",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:23:02"
+    },
+    {
+      "id": "2096221988763173186",
+      "title": "ashebytes — Human Atlas, a GPT-6 Astra–built 3D interactive human anatomy explorer with 2,234 modeled pieces",
+      "author": "ashebytes",
+      "name": "ashe",
+      "author_profile": "https://twitter.com/ashebytes",
+      "tweet": "https://twitter.com/ashebytes/status/2096221988763173186",
+      "date": "2026-09-05",
+      "category": "tools-build",
+      "tags": [
+        "3d",
+        "ai",
+        "tool"
+      ],
+      "primary_url": "https://humanatlas.quest/",
+      "primary_domain": "humanatlas.quest",
+      "related_urls": [],
+      "all_urls": [
+        "https://humanatlas.quest/"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2096218474930405376/vid/avc1/3958x2160/Z1emO-cwwuzzoNXj.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2096218474930405376/img/3zH8etf7LevKQRr2.jpg?name=thumb",
+          "description": "A screen recording of Human Atlas, an interactive 3D human anatomy explorer: the cursor hovers a dense grid of individually modeled muscle and bone pieces (each highlighting a tooltip like \"Left Longissimus Thoracis\") while a right-hand info panel shows the selected structure's system, a plain-language description, and its atlas reference ID; a left sidebar lists 15 toggleable anatomical systems (Skeleton, Muscles, Heart, Arteries, Veins, Nervous system, etc.) with per-system piece counts, and a bottom \"Explode anatomy\" slider scrubs from a fully exploded flat grid of parts down to 0% — the final frame shows the reassembled full-body skeleton/circulatory/organ model glowing in red and blue with only Heart, Arteries, Veins, and Respiratory layers switched on."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/9CGmHcdhnk",
+          "resolved": "https://twitter.com/ashebytes/status/2096221988763173186/video/1",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "found via web search (the tool shown is BodyParts3D-based; several public GitHub forks named human-atlas point to the live site)",
+          "resolved": "https://humanatlas.quest/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "since you guys loved the exploding tesla.. \n\nI used GPT-6 Astra to create a 3D website that pulls apart the male anatomy into 2,234 modeled pieces!\n\nwe are in a renaissance of learning https://t.co/9CGmHcdhnk",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:37:49"
+    },
+    {
+      "id": "2094737661835571309",
+      "title": "Daniel White — drawably, an npm package that renders real UI controls with a fresh hand-drawn sketch on every mount",
+      "author": "dwhitedesign",
+      "name": "Daniel White",
+      "author_profile": "https://twitter.com/dwhitedesign",
+      "tweet": "https://twitter.com/dwhitedesign/status/2094737661835571309",
+      "date": "2026-09-01",
+      "category": "tools-build",
+      "tags": [
+        "tool",
+        "open-source",
+        "ui-pattern"
+      ],
+      "primary_url": "https://www.drawably.dev/",
+      "primary_domain": "drawably.dev",
+      "related_urls": [],
+      "all_urls": [
+        "https://www.drawably.dev/"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2094737333597753345/vid/avc1/1920x1080/JD9QYO1ZR7GQ98ly.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2094737333597753345/img/NY1rWplcHGAG9DiA.jpg?name=thumb",
+          "description": "A demo reel for drawably: a hand-drawn-style button labeled \"Continue\" wobbles inside a blue squiggly-line outline reading \"Never the same twice / Seed 277\"; it cuts to a fully hand-sketched sign-up form (\"Create account\", email field pre-filled with jane@example.com, a checked \"Remember me\" checkbox, a toggled \"Email me updates\" switch, and a green \"✓ Account created\" button) captioned \"Real elements. Fake chrome.\"; the reel closes on the wordmark \"drawably\" drawn in the same wobbly blue ink, each stroke visibly hand-jittered rather than a static logo."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/x3svmHJShi",
+          "resolved": "https://www.drawably.dev/",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/nkhcMQzHJh",
+          "resolved": "https://twitter.com/dwhitedesign/status/2094737661835571309/video/1",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "Your UI is too perfect.\n\nnpm i drawably\n\nhttps://t.co/x3svmHJShi https://t.co/nkhcMQzHJh",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:37:49"
+    },
+    {
+      "id": "2095202955918008622",
+      "title": "Felix Haas — a concept multi-agent OS sidebar that reads Gmail/Calendar/Slack, drafts replies, and holds time on your behalf",
+      "author": "felixhhaas",
+      "name": "Felix Haas",
+      "author_profile": "https://twitter.com/felixhhaas",
+      "tweet": "https://twitter.com/felixhhaas/status/2095202955918008622",
+      "date": "2026-09-02",
+      "category": "product",
+      "tags": [
+        "ai",
+        "agents",
+        "ui-pattern"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2095202829765898244/vid/avc1/2688x2160/sbSyKgdoK1NZkPsM.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2095202829765898244/img/uPtUPRl6FjXYgsuM.jpg?name=thumb",
+          "description": "A screen recording of a concept macOS desktop widget: a dark, translucent chat panel docked mid-screen with a per-app identity chip (Gmail, then Calendar, then Slack) at top-left and small floating app cards (Calendar, Lovable, Notion, Gmail) peeking in from the right edge. In the Gmail pane the user asks it to accept a keynote invite and reply to a headcount question; it drafts and sends both replies and attaches a PDF. In the Calendar pane it blocks focus time around a keynote, declines two conflicting invites with a note, and shows the updated day agenda inline. In the Slack pane it declines a meeting, sets a status, and surfaces a shared design-system cover image — each pane ending in a row of one-tap suggested-action chips (e.g. \"Hold Oct 21–23\", \"Draft reply to Marc\", \"Summarise #design-review\")."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/u0hgLYifh9",
+          "resolved": "https://twitter.com/felixhhaas/status/2095202955918008622/video/1",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "I built the multi-agent interface I wanted. https://t.co/u0hgLYifh9",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:37:49"
+    },
+    {
+      "id": "2093500169723814093",
+      "title": "Kevin Ngo — a personal website Claude Fable 5 designed for itself, with hand-drawn nature scenes and poetic captions",
+      "author": "kevin_t_ngo",
+      "name": "Kevin Ngo",
+      "author_profile": "https://twitter.com/kevin_t_ngo",
+      "tweet": "https://twitter.com/kevin_t_ngo/status/2093500169723814093",
+      "date": "2026-08-28",
+      "category": "design",
+      "tags": [
+        "ai",
+        "art",
+        "generative",
+        "personal"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2093499233827717120/vid/avc1/1080x1080/_iVE97G8-oLRmFUf.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2093499233827717120/img/JnmPGW6TJT9ufzK9.jpg?name=thumb",
+          "description": "A slow scroll through a generative, sketchbook-style personal website on a sage-green ground: hand-drawn grass and dandelions give way to loose constellation-like line drawings, a torn-paper note with a red spiral, and the handwritten line \"patterns keep finding me\"; further down the page turns near-black with concentric ripple-circle diagrams radiating from two points captioned \"two of us, one water\" and a faint aside \"(this was something once)\"; the final frame shows a dense grid of small hand-drawn circular and molecule-like glyphs in alternating black and red ink fading into soft arcs at the bottom — the whole piece reads as generative, diary-like digital art rather than a conventional portfolio layout."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/xvco9Y4cj6",
+          "resolved": "https://twitter.com/kevin_t_ngo/status/2093500169723814093/video/1",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "I asked Claude Fable 5 to make its own personal website https://t.co/xvco9Y4cj6",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:37:49"
+    },
+    {
+      "id": "2092996055248126353",
+      "title": "Vinz — a Figma concept for a macOS notch-side widget that tracks Claude/ChatGPT/other AI session usage limits at a glance",
+      "author": "hivinz_",
+      "name": "Vinz",
+      "author_profile": "https://twitter.com/hivinz_",
+      "tweet": "https://twitter.com/hivinz_/status/2092996055248126353",
+      "date": "2026-08-27",
+      "category": "product",
+      "tags": [
+        "ai",
+        "product",
+        "design"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HQtjF_nawAAUzjS?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HQtjF_nawAAUzjS?format=jpg&name=thumb",
+          "description": "A macOS menu bar mockup showing a speech-bubble-style \"Claude Usage\" popover anchored to a notch-side pill: it lists \"Current session\" at 73% used (resets in 51 min, orange progress bar) and \"All models\" at 7% used (green bar, resets Thursday midnight). To the right, three stacked circular ring gauges sit flush against the display notch — a Claude sparkle icon at 73% (orange ring), an OpenAI icon at 21% (green ring), and a third AI icon at 52% (yellow ring) — turning the notch into a persistent multi-provider usage dashboard."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HQtjGBAbEAAmCVR?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HQtjGBAbEAAmCVR?format=jpg&name=thumb",
+          "description": "The same notch-side usage widget shown from a rotated/angled Figma canvas view, confirming the same three circular ring gauges (73% orange Claude, 21% green OpenAI, 52% yellow third icon) and the expanded \"Claude Usage\" popover with current-session and all-models progress bars — presented as a design exploration frame rather than a live screenshot."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/ihVyeI6Muy",
+          "resolved": "https://twitter.com/hivinz_/status/2092996055248126353/photo/1",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "I had an idea to built a side-notch tools for mac. For those who annoyed to keep checking their session limits for Claude, Codex, etc. \n\nIs this a good idea? Or it's too saturated?\n\nAnyways, this concept is totally designed in Figma. https://t.co/ihVyeI6Muy",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T22:37:49"
+    },
+    {
+      "id": "2093354383379399012",
+      "date": "2026-08-28",
+      "author": "mjbarton_",
+      "name": "mikey",
+      "author_profile": "https://twitter.com/mjbarton_",
+      "tweet": "https://twitter.com/mjbarton_/status/2093354383379399012",
+      "text": "Window controlled dark mode? why not\n\n🛫 https://t.co/avwTECXTwe https://t.co/Zl5zgrmbjS",
+      "source": "bookmarks-export",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "personal",
+        "animation",
+        "ui-pattern"
+      ],
+      "primary_url": "https://mikes.cv",
+      "primary_domain": "mikes.cv",
+      "related_urls": [],
+      "all_urls": [
+        "https://mikes.cv",
+        "https://x.com/mjbarton_/status/2093354383379399012/video/1"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2093351091878424576/vid/avc1/1132x720/KByYHetXO4_wGuUU.mp4?tag=14",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2093351091878424576/img/tIZhNpds2YSJfQHf.jpg?name=thumb",
+          "description": "A cursor drags the plastic shade of an airplane window shut over the hero image on mikes.cv, and as it closes the whole page dims from a cream light mode to a charcoal dark mode — the site's dark-mode toggle is literally the window shade, tied to the flight/boarding-pass motif that runs through the rest of the CV."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/avwTECXTwe",
+          "resolved": "https://mikes.cv",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/Zl5zgrmbjS",
+          "resolved": "https://x.com/mjbarton_/status/2093354383379399012/video/1",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:06:26"
+    },
+    {
+      "id": "2092638003789439075",
+      "date": "2026-08-26",
+      "author": "reactiverobot",
+      "name": "Matt Dailey",
+      "author_profile": "https://twitter.com/reactiverobot",
+      "tweet": "https://twitter.com/reactiverobot/status/2092638003789439075",
+      "text": "Here's my advice for engineers looking to up their design game. https://t.co/oBFur0Izaf",
+      "source": "bookmarks-export",
+      "category": "reading",
+      "tags": [
+        "design",
+        "ai",
+        "career"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [
+        "https://x.com/i/article/2092403772534460416"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/oBFur0Izaf",
+          "resolved": "https://x.com/i/article/2092403772534460416",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:06:26"
+    },
+    {
+      "id": "2090632922659508367",
+      "date": "2026-08-20",
+      "author": "Palakonweb",
+      "name": "Palak",
+      "author_profile": "https://twitter.com/Palakonweb",
+      "tweet": "https://twitter.com/Palakonweb/status/2090632922659508367",
+      "text": "The design vs The image https://t.co/QPou8ubm07",
+      "source": "bookmarks-export",
+      "category": "design",
+      "tags": [
+        "ai",
+        "art",
+        "design"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HQNrjNeaUAAOkNY?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HQNrjNeaUAAOkNY?format=jpg&name=thumb",
+          "description": "A finished AI-startup landing page called \"MoonLight\" (\"The AI Agent That Keeps Everything Aligned\") — nav, logo, headline, subcopy and a \"Get Started\" button laid directly on top of a moody blue generative-art illustration of a figure standing in concentric sand ripples under a crescent moon."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HQNrj2qbAAAm_rv?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HQNrj2qbAAAm_rv?format=jpg&name=thumb",
+          "description": "The raw source illustration with none of the landing-page UI: the same crescent moon and lone silhouette in a swirling sand/water pattern, cropped wider to show it's a piece of standalone generative art rather than a product screenshot."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/QPou8ubm07",
+          "resolved": "https://x.com/Palakonweb/status/2090632922659508367/photo/1",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:06:26"
+    },
+    {
+      "id": "2090832456081608791",
+      "date": "2026-08-21",
+      "author": "RobertJohns",
+      "name": "Robert Johns",
+      "author_profile": "https://twitter.com/RobertJohns",
+      "tweet": "https://twitter.com/RobertJohns/status/2090832456081608791",
+      "text": "One of the coolest uses of a text effect that I've seen in a long while. Bravo @hermeuscorp! https://t.co/Ybro5dL7iP",
+      "source": "bookmarks-export",
+      "category": "design",
+      "tags": [
+        "animation",
+        "ui-pattern",
+        "typography"
+      ],
+      "primary_url": "https://www.hermeus.com/",
+      "primary_domain": "hermeus.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://www.hermeus.com/"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2090832390952525824/vid/avc1/1320x2398/V8aIAmkQFwr6VAkY.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2090832390952525824/img/q39qcSTYXEED13Zc.jpg?name=thumb",
+          "description": "A phone-sized screen recording of hermeus.com's hero: over a close-up of a jet engine and tail fin, the tagline \"Building Fast Planes Fast.\" sits heavily motion-blurred and keeps sharpening and re-blurring in and out of focus as the page scrolls, like a camera racking focus on the copy."
+        }
+      ],
+      "resolved_links": [],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:06:26"
+    },
+    {
+      "id": "2089092627421618474",
+      "date": "2026-08-16",
+      "author": "gyanl",
+      "name": "GYAN!",
+      "author_profile": "https://twitter.com/gyanl",
+      "tweet": "https://twitter.com/gyanl/status/2089092627421618474",
+      "text": "Just shipped a new version of my personal website 🚀 https://t.co/T5OwViUF6K",
+      "source": "bookmarks-export",
+      "category": "personal",
+      "tags": [
+        "portfolio",
+        "personal",
+        "animation"
+      ],
+      "primary_url": "https://gyanl.com/",
+      "primary_domain": "gyanl.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://gyanl.com/",
+        "https://x.com/gyanl/status/2089092627421618474/video/1"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2089092572606246912/vid/avc1/1280x720/PdfQEG7EaMiAfMlL.mp4?tag=14",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2089092572606246912/img/WFUy5HACXYSRtYPD.jpg?name=thumb",
+          "description": "A walkthrough of gyanl.com's redesign: the hero is a scattered corkboard of tappable stickers (a taxi, a plant, a cat photo, a \"TOUCH GRASS\" badge) around a chat-bubble avatar reading \"Gyan is snoozing,\" a sticky note inviting you to tap the stickers, then a cut to the dark about section where chat bubbles introduce Gyan Lakhwani as a New Delhi interaction designer with a decade of experience and a Master's from IDC School of Design, IIT Bombay."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/T5OwViUF6K",
+          "resolved": "https://x.com/gyanl/status/2089092627421618474/video/1",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:06:26"
+    },
+    {
+      "id": "2086786543113384440",
+      "date": "2026-08-10",
+      "author": "b1rdmania",
+      "name": "andy",
+      "author_profile": "https://twitter.com/b1rdmania",
+      "tweet": "https://twitter.com/b1rdmania/status/2086786543113384440",
+      "text": "Updated my plain-english claude skill. Now runs ASD-STE100 Simplified Technical English - the controlled language aerospace has used for maintenance manuals since 1983 - alongside George Orwell & Gowers' rules on written English.\n\nShould help de-slop your agent sessions, website, pitch deck.\n\nhttps://t.co/IPofiUr0bI",
+      "source": "bookmarks-export",
+      "category": "tools-build",
+      "tags": [
+        "ai",
+        "claude-code",
+        "tool"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [
+        "https://github.com/b1rdmania/claude-plain-english-skill"
+      ],
+      "all_urls": [
+        "https://github.com/b1rdmania/claude-plain-english-skill"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/IPofiUr0bI",
+          "resolved": "https://github.com/b1rdmania/claude-plain-english-skill",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:17:52"
+    },
+    {
+      "id": "2086722247180632514",
+      "date": "2026-08-10",
+      "author": "robj3d3",
+      "name": "Rob Hallam",
+      "author_profile": "https://twitter.com/robj3d3",
+      "tweet": "https://twitter.com/robj3d3/status/2086722247180632514",
+      "text": "The site btw: https://t.co/939VCGXC1g\n\n996 apps.\n\nOne question each: can AI build you a replacement today, or is it still worth paying for?",
+      "source": "bookmarks-export",
+      "category": "tools-build",
+      "tags": [
+        "directory",
+        "ai",
+        "tool",
+        "startups"
+      ],
+      "primary_url": "https://canivibecodeit.com/",
+      "primary_domain": "canivibecodeit.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://canivibecodeit.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/939VCGXC1g",
+          "resolved": "https://canivibecodeit.com/",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:17:52"
+    },
+    {
+      "id": "2083134599832408208",
+      "date": "2026-07-31",
+      "author": "zodchiii",
+      "name": "darkzodchi",
+      "author_profile": "https://twitter.com/zodchiii",
+      "tweet": "https://twitter.com/zodchiii/status/2083134599832408208",
+      "text": "Anthropic engineer:\n\n“90% of our engineers were using self‑improving loops. Now everyone shifted to building agentic Graphs\"\n\n\"No more prompting”\n\nIn 10 minutes she shows her full Claude Code setup and workflow live, from a blank terminal.\n\nWorth more than a $500 agentic course.\n\nWatch this video, then save the article below on how to become a graph architect👇",
+      "source": "bookmarks-export",
+      "category": "tutorial",
+      "tags": [
+        "claude-code",
+        "agents",
+        "ai",
+        "video"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2083133045704466432/vid/avc1/1280x720/r-kjVN5rzqHuuMb4.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2083133045704466432/img/JY9qEP-XYDWOR-Sb.jpg?name=thumb",
+          "description": "A ~10-minute conference talk (branded \"A\\\" stage backdrop) where an Anthropic engineer live-codes with Claude Code: one frame shows her beside a VS Code window running an agentic coding session against an Excalidraw fork under the caption \"Code w/ Claude,\" and a later frame shows a GitHub pull request where Claude has authored a commit (\"Docs: add documentation for the table element feature\") with all CI checks passed — the blank-terminal-to-agentic-graph workflow the tweet describes."
+        }
+      ],
+      "resolved_links": [],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:17:52"
+    },
+    {
+      "id": "2082219340259328489",
+      "date": "2026-07-28",
+      "author": "SerenaTaN5",
+      "name": "ST",
+      "author_profile": "https://twitter.com/SerenaTaN5",
+      "tweet": "https://twitter.com/SerenaTaN5/status/2082219340259328489",
+      "text": "sell ur remaining claude subscription token https://t.co/3Y6j42on9R",
+      "source": "bookmarks-export",
+      "category": "uncategorized",
+      "tags": [
+        "ai",
+        "claude-code"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [
+        "https://x.com/SerenaTaN5/status/2082219340259328489/video/1"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2082219162404089856/vid/avc1/1940x1406/m4reqctpA75eEHH7.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2082219162404089856/img/JsJ0_TAOA6UERJsp.jpg?name=thumb",
+          "description": "A screen recording of a mocked-up Claude app \"Usage\" settings panel: weekly rate-limit bars (77% of the current session, 68% of all-models weekly limit, 100% of the \"Fable\" model limit) sit above a \"Listed\" marketplace strip advertising 8.3M unused tokens for resale at $1.50/M in an isolated sandbox, plus an Earnings ledger showing $9.60 accrued from three completed sandbox runs — a concept for reselling unused subscription capacity, matching the tweet's pitch to \"sell ur remaining claude subscription token.\""
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/3Y6j42on9R",
+          "resolved": "https://x.com/SerenaTaN5/status/2082219340259328489/video/1",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:17:52"
+    },
+    {
+      "id": "2081930429435875694",
+      "date": "2026-07-27",
+      "author": "carrabre",
+      "name": "Alex Carrabre",
+      "author_profile": "https://twitter.com/carrabre",
+      "tweet": "https://twitter.com/carrabre/status/2081930429435875694",
+      "text": "I built an open source version of stripe press's site! https://t.co/unXHXG9mhR",
+      "source": "bookmarks-export",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "design",
+        "open-source",
+        "3d",
+        "animation"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [
+        "https://x.com/carrabre/status/2081930429435875694/video/1"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2081929705801035776/vid/avc1/1280x720/6N1uUyZ3iyFwjcp2.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2081929705801035776/img/Aozkj5mM47lSotge.jpg?name=thumb",
+          "description": "A screen capture of \"The Complete Shelf,\" an interactive 3D bookshelf built as an open-source homage to Stripe Press's site: dragging along a wooden shelf of 19 spines (Poor Charlie's Almanack, The Scaling Era, High Growth Handbook, and others) orbits the camera and swaps a detail panel with the selected book's title, author, pull-quote and a \"View Book\"/\"Inspect Volume\" link, while the highlighted volume pops forward with its cover rendered in a graphic halftone-portrait style."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/unXHXG9mhR",
+          "resolved": "https://x.com/carrabre/status/2081930429435875694/video/1",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:17:52"
+    },
+    {
+      "id": "2081467894790304242",
+      "title": "Motion graphics in the docs (speech-to-text waveform-to-letters animation)",
+      "author": "ray_barrera",
+      "name": "ray",
+      "author_profile": "https://twitter.com/ray_barrera",
+      "tweet": "https://twitter.com/ray_barrera/status/2081467894790304242",
+      "date": "2026-07-26",
+      "category": "design",
+      "tags": [
+        "animation",
+        "design",
+        "ui-pattern"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2081467657346494464/vid/avc1/1238x770/AM1MsQHE89tHxEm5.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2081467657346494464/img/xbDRomrUXsnyyht8.jpg?name=thumb",
+          "description": "A ~5-second product-docs animation on a slide titled \"Speech to Text\": a smooth white audio waveform on the left morphs and dissolves, its energy scattering into a loose cloud of tumbling letters, numbers, and symbols drifting across a black panel on the right — visualizing the concept of speech being transcribed into text."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Motion graphics in the docs? @benjitaylor is cooking https://t.co/14gPkMALZD",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:22:52"
+    },
+    {
+      "id": "2081588448293445840",
+      "title": "Nader Dabit's portfolio turned into a Canvas UI shader playground (via Devin AI)",
+      "author": "dabit3",
+      "name": "nader dabit",
+      "author_profile": "https://twitter.com/dabit3",
+      "tweet": "https://twitter.com/dabit3/status/2081588448293445840",
+      "date": "2026-07-26",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "design",
+        "animation",
+        "ai",
+        "webgl",
+        "experimental"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2081587653342842880/vid/avc1/1778x1080/WFqFvWeyDlPHlPHc.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2081587653342842880/img/nbVsVHCuU0ZE-BaD.jpg?name=thumb",
+          "description": "A screen capture of Nader Dabit's personal portfolio site cycling through a row of WebGL/canvas background modes selectable from a bottom toolbar (Liquid, Asciify, Bend, Grid, HexFloat, ParticleScroll, Shatter, Glitch, Frost) behind a fixed name/bio layout and halftone profile photo: shown are a glossy liquid \"Bubble\" blob morphing near the headline, a \"Shatter\" mode fracturing the page into overlapping glass-like shards, and a \"Frost\" mode covering the page in an icy, marbled frosted-glass texture — demonstrating the site as a live playground of generative shader effects."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Blown away at how simple to use, fun, and beautiful Canvas UI is! My portfolio site is a living experiment, so today I decided prompt @DevinAI to make it a Canvas UI playground.\n\nhttps://t.co/XjjbEiuNFs https://t.co/JFTAKYtryv",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:22:52"
+    },
+    {
+      "id": "2081473121953911112",
+      "title": "Portolan: a live map of world trade, tariffs, and maritime chokepoints",
+      "author": "yumahey",
+      "name": "Yuma",
+      "author_profile": "https://twitter.com/yumahey",
+      "tweet": "https://twitter.com/yumahey/status/2081473121953911112",
+      "date": "2026-07-26",
+      "category": "product",
+      "tags": [
+        "data-viz",
+        "product",
+        "finance",
+        "startups"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2081472265712021504/vid/avc1/3440x2160/naKfjcolT00-7Srm.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2081472265712021504/img/_n5FDuQPPryNwHI8.jpg?name=thumb",
+          "description": "A screen capture of \"Portolan,\" a live world-trade map: a detail panel on the Suez Canal shows daily ship transits, cargo tonnage, and a red \"Red Sea tensions\" alert; a bilateral-flow panel highlights a $117B China-to-Germany machinery trade line traced across Europe with labeled trade-value callouts on major routes; and a zoomed-out globe view shows a live world-trade dollar counter ticking upward, a list of currently disrupted/constrained maritime chokepoints (Strait of Hormuz, Bab-el-Mandeb, Suez, Panama), and a scrubbable tariff-events timeline spanning 1930 to 2026."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Most people have no idea of the magnitude of tariffs, sanctions, and global trade deals\n\nI created Portolan with 300 bilateral trade flows worth ~$15 trillion, 10 maritime chokepoints, and 200+ significant tariff events between 1930 to 2026\n\nhttps://t.co/sGpzLGVI3t https://t.co/PfWwHK0sQy",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:22:52"
+    },
+    {
+      "id": "2081453995697086592",
+      "title": "First personal webpage, built with paper shaders (Context7 creator's site)",
+      "author": "abdushbag",
+      "name": "abdush",
+      "author_profile": "https://twitter.com/abdushbag",
+      "tweet": "https://twitter.com/abdushbag/status/2081453995697086592",
+      "date": "2026-07-26",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "portfolio",
+        "design",
+        "webgl",
+        "animation"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2081453644860289024/vid/avc1/1688x1080/SMn5sSpxrAsGWPKM.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2081453644860289024/img/0XLIrt-LJV46Gv6p.jpg?name=thumb",
+          "description": "A screen capture of a minimal personal portfolio page set against a full-bleed animated grain/paper-shader background (grey dot-matrix texture over a soft blue gradient): the bio text introduces the author as a core contributor to Context7 (\"60K stars on GitHub\"), then scrolls into a \"Projects\" list — Context7, Hugeicons Animated, Distributed Concepts, and DKT Materyal, each with a one-line description — laid out in a clean browser-window card floating over the shader backdrop."
+        }
+      ],
+      "resolved_links": [],
+      "text": "my first personal webpage\n\ninspired by @emilkowalski's \n\nusing @paper shaders https://t.co/wdY8L1mUpj",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:22:52"
+    },
+    {
+      "id": "2079265483208155433",
+      "title": "World Cup goals visualized as a 3D bracket of cartoon soccer balls (Three.js)",
+      "author": "makio64",
+      "name": "David Ronai",
+      "author_profile": "https://twitter.com/makio64",
+      "tweet": "https://twitter.com/makio64/status/2079265483208155433",
+      "date": "2026-07-20",
+      "category": "design",
+      "tags": [
+        "threejs",
+        "data-viz",
+        "animation",
+        "3d",
+        "generative"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2079262715089199104/vid/avc1/1280x720/W6wwxBrC9pkGay6L.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2079262715089199104/img/6cHx1Gcx058ZjlyP.jpg?name=thumb",
+          "description": "A screen capture of a World Cup data-viz built with Three.js: a tournament bracket (Round of 32 through Quarters) rendered as rounded-rect match cards, each populated with cute animated 3D soccer balls painted like team jerseys and given googly-eyed cartoon faces to represent goalscorers; a top nav offers view modes (All Shots, Match Map, Chronology, By Time, Top Teams, Top Players); the camera pulls back to a final \"World Champions\" view where a crowned ball labeled \"F. TORRES 106'\" sits at the center of the fully converged bracket tree, credited \"Made with 🧡 by Makio64\" and branded for Three.js Conf."
+        }
+      ],
+      "resolved_links": [],
+      "text": "The World Cup is over ⚽️\n\nTo celebrate I built a terrible data-viz with @threejs &amp; @threejsconf balls 😗\n\nLooking at the balls on the final &amp; 3rd place, I really though there are really 2 types of goals.. https://t.co/Dq0SnwnSVV",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:22:52"
+    },
+    {
+      "id": "2079304397847150728",
+      "title": "A website for opening blind boxes and collecting memes as trading cards",
+      "author": "itsjessyin",
+      "name": "jess yin",
+      "author_profile": "https://twitter.com/itsjessyin",
+      "tweet": "https://twitter.com/itsjessyin/status/2079304397847150728",
+      "date": "2026-07-20",
+      "category": "product",
+      "tags": [
+        "app",
+        "product",
+        "design",
+        "playful"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2079304370823344128/vid/avc1/962x1920/Uwj74MfSJpDFMfr4.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2079304370823344128/img/IKRem3VkRUQsmEFq.jpg?name=thumb",
+          "description": "A vertical mobile-app screen capture of a \"blind box\" collecting game: a glossy 3D box shakes and pops open with a burst of confetti to reveal a meme rendered as a glossy trading card, which flips into a grid-based collection binder of previously unlocked meme cards, mimicking the physical ritual of opening toy blind boxes but for internet memes."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/AwLDIEzzJu",
+          "resolved": "https://x.com/itsjessyin/status/2079304397847150728",
+          "role": "reply-link",
+          "source": "metadata"
+        }
+      ],
+      "text": "i made a website where you can open blind boxes and collect memes as trading cards https://t.co/AwLDIEzzJu",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:32:51"
+    },
+    {
+      "id": "2078970179183075628",
+      "title": "The Pennsylvania Railroad Company's 1966 annual report (Edwin Schmidt illustrations)",
+      "author": "jacob__titus",
+      "name": "Jacob Titus",
+      "author_profile": "https://twitter.com/jacob__titus",
+      "tweet": "https://twitter.com/jacob__titus/status/2078970179183075628",
+      "date": "2026-07-19",
+      "category": "design",
+      "tags": [
+        "design",
+        "typography",
+        "vintage-print"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNn8Qx7bkAAeOzV?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNn8Qx7bkAAeOzV?format=jpg&name=thumb",
+          "description": "The cover of \"The Pennsylvania Railroad Company Annual Report 1966\": a hand-drawn illustration of a fan of orange, white, and black freight cars converging into a bundle of curving track lines on a pale olive-green ground, with the title set in a casual italic script above bold sans headline type."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNn8Qx2aEAE90DO?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNn8Qx2aEAE90DO?format=jpg&name=thumb",
+          "description": "An inside spread with a pen-and-wash sketch of three PRR executives (Saunders, Bevan, Greenough) around a boardroom table, paired with a \"Highlights of the Year\" bullet list and a table of contents set in a clean 1960s corporate serif/sans mix."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNn8QyNbQAAziKh?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNn8QyNbQAAziKh?format=jpg&name=thumb",
+          "description": "A two-page spread of dense freight-traffic copy on the left facing a dynamic full-bleed ink illustration of a streamlined high-speed passenger train nosing toward a red-tinted skyline with the U.S. Capitol dome, the PRR keystone logo bold on its flank."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNn8QyIaMAAFM57?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNn8QyIaMAAFM57?format=jpg&name=thumb",
+          "description": "A full-bleed pen-and-ink montage by artist Edwin Schmidt layering trains, trucks, a skyscraper, a helicopter, reel-to-reel tape, and a seated executive to symbolize the diversified transportation and real-estate businesses of the modern Pennsylvania Railroad system."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/6g1Go6lYAS",
+          "resolved": "https://x.com/jacob__titus/status/2078970179183075628",
+          "role": "reply-link",
+          "source": "metadata"
+        }
+      ],
+      "text": "Just found the best annual report https://t.co/6g1Go6lYAS",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:32:51"
+    },
+    {
+      "id": "2079144999187574942",
+      "title": "JB Eudeline's personal portfolio, \"my little corner on the internet\"",
+      "author": "jbedln",
+      "name": "Jib",
+      "author_profile": "https://twitter.com/jbedln",
+      "tweet": "https://twitter.com/jbedln/status/2079144999187574942",
+      "date": "2026-07-20",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "portfolio",
+        "design",
+        "minimalist"
+      ],
+      "primary_url": "https://jib.design",
+      "primary_domain": "jib.design",
+      "related_urls": [],
+      "all_urls": [
+        "https://jib.design"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNqbNf6bAAAMxfi?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNqbNf6bAAAMxfi?format=jpg&name=thumb",
+          "description": "A screenshot of the jib.design homepage set against a soft watercolor landscape background: a centered white card introduces \"JB Eudeline, a design engineer,\" with bio copy about designing 0→1 product for 50+ startups, followed by a \"selected work\" gallery of client site and mobile-app screenshots."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/xxu55KSGiS",
+          "resolved": "https://jib.design/",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://t.co/acUo5G31xG",
+          "resolved": "https://x.com/jbedln/status/2079144999187574942",
+          "role": "reply-link",
+          "source": "metadata"
+        }
+      ],
+      "text": "7 years of procrastination later, I finally have my little corner on the internet\nhttps://t.co/xxu55KSGiS https://t.co/acUo5G31xG",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:32:51"
+    },
+    {
+      "id": "2079246871063568437",
+      "title": "\"Cool internet things pt. 13\" — a five-site design/data-viz roundup",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2079246871063568437",
+      "date": "2026-07-20",
+      "category": "design",
+      "tags": [
+        "directory",
+        "thread",
+        "design",
+        "data-viz",
+        "product"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [
+        "https://www.naturalselection.so/",
+        "https://www.humanityslastmachine.com/humanoid-landscape",
+        "https://cig-index.vercel.app/",
+        "https://sneakers.charmiekapoor.com/",
+        "https://www.evebouffard.com/shapeofminds"
+      ],
+      "all_urls": [
+        "https://www.naturalselection.so/",
+        "https://www.humanityslastmachine.com/humanoid-landscape",
+        "https://cig-index.vercel.app/",
+        "https://sneakers.charmiekapoor.com/",
+        "https://www.evebouffard.com/shapeofminds"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNr27G6XEAEYOZ9?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNr27G6XEAEYOZ9?format=jpg&name=thumb",
+          "description": "A screenshot of \"Humanity's Last Machine\": an editorial deep-dive on humanoid robotics with a thumbnail grid of robot models under \"Choose Your Robot,\" a large noisy blue-lit hero photo of Apptronik's Apollo humanoid, and a spec strip (mass, height, speed, degrees of freedom)."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNr2_SWWYAAK196?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNr2_SWWYAAK196?format=jpg&name=thumb",
+          "description": "A screenshot of \"Natural Selection,\" a minimalist white product gallery with a left sidebar (category filters, price slider) and a dense grid of clean product photography — a pen tray, a glass vase, a tape dispenser, headphones, sunglasses, a Casio watch — each isolated on white."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNr3Ad3WcAAt7aY?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNr3Ad3WcAAt7aY?format=jpg&name=thumb",
+          "description": "A screenshot of a personal sneaker-collection site: eight sneakers (Nike, Adidas, Puma, New Balance, Fila) hang from labeled pegboard shelves with dangling \"SALE\" price tags against a dotted cream backdrop, branded \"sneak peek / my collection.\""
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNr3CF1WEAA76ef?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNr3CF1WEAA76ef?format=jpg&name=thumb",
+          "description": "A screenshot of \"Shape of Minds\": a butterfly-themed network graph on aged parchment mapping traits shared across historical geniuses, with an Albert Einstein detail panel (portrait, bio, religion tags) open on the right and a traits legend on the left."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/cStc7hfBwx",
+          "resolved": "https://www.naturalselection.so/",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://t.co/KBRwINRWge",
+          "resolved": "https://www.humanityslastmachine.com/humanoid-landscape",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://t.co/1M2rglmlxr",
+          "resolved": "https://cig-index.vercel.app/",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://t.co/gEyR1MxJRK",
+          "resolved": "https://sneakers.charmiekapoor.com/",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://t.co/0LKx17UsYl",
+          "resolved": "https://www.evebouffard.com/shapeofminds",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "cool internet things pt. 13\n\nhttps://t.co/cStc7hfBwx - a product gallery\nhttps://t.co/KBRwINRWge - humanoid map\nhttps://t.co/1M2rglmlxr - air quality, in cigarettes\nhttps://t.co/gEyR1MxJRK - personal sneaker collection\nhttps://t.co/0LKx17UsYl - a visual map of history's most inventive minds\n\nthe cool people behind these - @benwxng, @pau_wee_, @benwxng, @charmiekapoor, @zoeytang1007, @SourishJasti, @intelchentwo, @vishnuman0, @noorslens, @eve_bouff",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:32:51"
+    },
+    {
+      "id": "2078689662118314318",
+      "title": "\"i-have-adhd\" — a Claude Code skill for action-first, no-fluff replies",
+      "author": "jjacky",
+      "name": "jacky",
+      "author_profile": "https://twitter.com/jjacky",
+      "tweet": "https://twitter.com/jjacky/status/2078689662118314318",
+      "date": "2026-07-18",
+      "category": "tools-build",
+      "tags": [
+        "claude-code",
+        "tool",
+        "productivity",
+        "ai"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNj9NiAWgAAIu-L?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNj9NiAWgAAIu-L?format=jpg&name=thumb",
+          "description": "A screenshot of the \"i-have-adhd\" GitHub README (dark terminal theme, pink logo type): install commands via git clone and `claude plugin install`, then a \"Before / After\" comparison showing a rambling hedge-everything AI reply on the left replaced by a terse numbered action list (open file, replace lines, run test) on the right."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/f8ymvXoe2d",
+          "resolved": "https://x.com/jjacky/status/2078689662118314318",
+          "role": "reply-link",
+          "source": "metadata"
+        }
+      ],
+      "text": "whoever shared the \"i have adhd\" skill with me\n\nthank you\n\nit's made my claude replies so good https://t.co/f8ymvXoe2d",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:32:51"
+    },
+    {
+      "id": "2078501391312564711",
+      "title": "A cigarette-pack UI (\"Ciggie Index\") that converts a city's air quality into cigarettes smoked",
+      "author": "pauline_makes",
+      "name": "pauline",
+      "author_profile": "https://twitter.com/pauline_makes",
+      "tweet": "https://twitter.com/pauline_makes/status/2078501391312564711",
+      "date": "2026-07-18",
+      "category": "product",
+      "tags": [
+        "tool",
+        "data-viz",
+        "app"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2078501320940466176/vid/avc1/1144x1296/rHQT-jpWszl2c1HO.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2078501320940466176/img/M5Gf6lEZywYFH6Oj.jpg?name=thumb",
+          "description": "A card-style air-quality tool skinned as a cigarette pack labeled \"CIGGIE INDEX\": entering a city (shown here as Delhi) and hours spent outside (24), then tapping \"Open the pack\" animates the flap opening to reveal lit, smoking cigarettes and converts the exposure into a cigarette-equivalent count (\"DELHI, IN — AQI 662 — 24 HRS OUTSIDE = 9.4 CIGARETTES\")."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/dleKEiZhpz",
+          "resolved": "https://x.com/pau_wee_/status/2078501391312564711/video/1",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "made a website that shows your air quality in cigarettes https://t.co/dleKEiZhpz",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:47:18"
+    },
+    {
+      "id": "2078082085923758145",
+      "title": "A tldraw board that reorganizes a wall of images into an AI semantic-similarity layout",
+      "author": "anikrisn",
+      "name": "Ani",
+      "author_profile": "https://twitter.com/anikrisn",
+      "tweet": "https://twitter.com/anikrisn/status/2078082085923758145",
+      "date": "2026-07-17",
+      "category": "product",
+      "tags": [
+        "tool",
+        "ai",
+        "app"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2078082054395211776/vid/avc1/3022x1884/1QK5iIi3Z8JwCeBb.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2078082054395211776/img/8Mm4k0dW_0v9tqil.jpg?name=thumb",
+          "description": "A tldraw canvas holding 137 small reference images (labeled \"localmodel.tldraw\") pinned in a loose photo-wall grid; toggling from \"wall\" to \"semantic spread\" animates every image flying to a new position clustered by visual/semantic similarity, leaving related images (landscapes, interiors, archival photos, diagrams) grouped together on the open canvas."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/p06OjPzcpH",
+          "resolved": "https://x.com/anikrisn/status/2078082085923758145/video/1",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "https://t.co/p06OjPzcpH",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:47:18"
+    },
+    {
+      "id": "2077955127378321577",
+      "title": "Cartographer — draw a country from memory and get scored against its real outline",
+      "author": "pauline_makes",
+      "name": "pauline",
+      "author_profile": "https://twitter.com/pauline_makes",
+      "tweet": "https://twitter.com/pauline_makes/status/2077955127378321577",
+      "date": "2026-07-16",
+      "category": "product",
+      "tags": [
+        "tool",
+        "game"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2077954246863937536/vid/avc1/1208x1324/CwGvb2TV1FDZ1JTb.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2077954246863937536/img/M0lKgVpeea5XEWTg.jpg?name=thumb",
+          "description": "A \"Draw United States\" memory challenge, branded \"Cartographer\": the player free-hands the country's outline against a countdown timer (19s shown), then the app overlays the real coastline in grey against the drawn shape in black, scoring the attempt 85/100 with a 4.2% average deviation and marking each traced point red (outside) or blue (inside) the true border."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/QWIU6bUHCh",
+          "resolved": "https://x.com/pau_wee_/status/2077955127378321577/video/1",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "made a game where you draw countries from memory https://t.co/QWIU6bUHCh",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:47:18"
+    },
+    {
+      "id": "2077488853401620893",
+      "title": "\"Cool internet things pt. 12\" — a five-site design/toy roundup",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2077488853401620893",
+      "date": "2026-07-15",
+      "category": "design",
+      "tags": [
+        "directory",
+        "thread",
+        "design"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [
+        "https://comnyang.com/en",
+        "https://www.appdrop.com/marcgmbh/link-bouquet",
+        "https://arcade.pirillo.com/retrowave-road.html?seed=1092661269",
+        "https://x.com/marina_uiux/status/2076410277109645741",
+        "https://x.com/airlasart/status/2072730037619757490",
+        "https://clipart.studio/",
+        "https://www.ciggies.app/"
+      ],
+      "all_urls": [
+        "https://comnyang.com/en",
+        "https://www.appdrop.com/marcgmbh/link-bouquet",
+        "https://arcade.pirillo.com/retrowave-road.html?seed=1092661269",
+        "https://x.com/marina_uiux/status/2076410277109645741",
+        "https://x.com/airlasart/status/2072730037619757490",
+        "https://clipart.studio/",
+        "https://www.ciggies.app/"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNS5D_4WwAA6_hJ?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNS5D_4WwAA6_hJ?format=jpg&name=thumb",
+          "description": "A screenshot of ciggies.app, the Chinese Cigarette Museum: a dense photographic grid of cigarette pack designs (Sobranie, Dongfanghong, Huangshan, Baisha, Beijing, Zhongnanhai) surrounding a centered \"中国卷烟博物馆 / CHINESE CIGARETTE MUSEUM\" hero panel with a \"218 brands · 3,258 products\" stat and a \"Browse collection\" button."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNS5EGBW8AA4-42?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNS5EGBW8AA4-42?format=jpg&name=thumb",
+          "description": "A screenshot of \"Link Bouquet\" on AppDrop: a hand-lettered wordmark beside a generative floral bouquet collaged from Old-Master flower paintings, with small link-preview cards (including one for clipart.studio and one for the Chinese Cigarette Museum) blooming as flowers, plus a right-hand rail of image variants, color swatches, and \"Add Link\"/\"Save & Share\" buttons."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNS5EF8WgAALzx8?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNS5EF8WgAALzx8?format=jpg&name=thumb",
+          "description": "A screenshot of clipart.studio's collage editor: a left rail of vintage magazine covers (Popular Science, Macworld, Science Illustrated) to pick from, and a teal cutting mat showing a magazine photo of a tram and pedestrians being clipped with a knife cursor."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/30WaITXkol",
+          "resolved": "https://comnyang.com/en",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/FxqPEQRD6y",
+          "resolved": "https://www.appdrop.com/marcgmbh/link-bouquet",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/OpECUhRQ3L",
+          "resolved": "https://arcade.pirillo.com/retrowave-road.html?seed=1092661269",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/Fbz3Bgm8i7",
+          "resolved": "https://x.com/marina_uiux/status/2076410277109645741",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/2rN7yc741l",
+          "resolved": "https://x.com/airlasart/status/2072730037619757490",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "clipart (dot) studio",
+          "resolved": "https://clipart.studio/",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "ciggies (dot) app",
+          "resolved": "https://www.ciggies.app/",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "cool internet things pt. 12 \n\nhttps://t.co/uMoGajLIhP - desktop pixel cat\nhttps://t.co/MDjXfKluer - link bouquet\nhttps://t.co/nSEiL3TogC - endless highway\nhttps://t.co/ALq0hfk8fH - design experiment\nhttps://t.co/iSDpscsP8X - painting pomodoro timer \nclipart (dot) studio - magazine internet archive  \nciggies (dot) app - chinese cigarette museum   \n\nthe cool people behind these - @hellosami, @Com_nyang, @marcgmbh, @chrispirillo, @airlasart, @0x_ultra, @marina_uiux",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:47:18"
+    },
+    {
+      "id": "2077255170833203213",
+      "title": "\"Nobody asked us to build this website\" — a year-long, after-hours case-study reel for Microsoft's \"Zero\"",
+      "author": "whossanjay",
+      "name": "Sanjay Chauhan",
+      "author_profile": "https://twitter.com/whossanjay",
+      "tweet": "https://twitter.com/whossanjay/status/2077255170833203213",
+      "date": "2026-07-15",
+      "category": "design",
+      "tags": [
+        "thread",
+        "product"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2077244572586082304/vid/avc1/1280x720/UxfhjwqZHQzghPHz.mp4?tag=14",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2077244572586082304/img/c15Kav8ocAdcIQ1B.jpg?name=thumb",
+          "description": "A case-study reel for \"Zero,\" a speculative Microsoft-branded sustainable smart-city concept: it opens on a floating 3D eco-campus (glass towers, parks, a pond) branded \"zero\" with a \"500\" counter and the Microsoft logo, cuts to hand-drawn wrist/ring-wearable sketches with concentric motion-lines suggesting a haptic gesture, and closes on the serif line \"countless nights.\" in green — framing the concept as the product of many unpaid late-night sessions rather than a scheduled deliverable."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/QeCej9syxT",
+          "resolved": "https://x.com/whossanjay/status/2077255170833203213/video/1",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "nobody asked us to build this website.\nnever on the roadmap. so for a year it lived on the last leg of everything, built after 15-16 hour days. we'd wrap the real work and then, instead of sleeping, open the file again. /01 https://t.co/QeCej9syxT",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:47:18"
+    },
+    {
+      "id": "2076791759183429831",
+      "title": "Linedash — a scratchy, colour-accented line-illustration style",
+      "author": "OVolosin82152",
+      "name": "Olga Volosin",
+      "author_profile": "https://twitter.com/OVolosin82152",
+      "tweet": "https://twitter.com/OVolosin82152/status/2076791759183429831",
+      "date": "2026-07-13",
+      "category": "design",
+      "tags": [
+        "art",
+        "design",
+        "illustration"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNI-x1jXQAE0fQv?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNI-x1jXQAE0fQv?format=jpg&name=thumb",
+          "description": "A person tilts their head back to watch a frying pan tumble overhead, trailing looping orange crayon-marks like flame or motion lines against a cream ground — loose black outline figure with orange cheek/ear accents."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNI-x1jWcAAtNed?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNI-x1jWcAAtNed?format=jpg&name=thumb",
+          "description": "A seated figure works on a laptop with a steaming mug beside them, the steam and chair rendered in a scribbly blue crayon line over a black outline body — cozy, work-from-home vignette."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNI-x1lWsAADJse?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNI-x1lWsAADJse?format=jpg&name=thumb",
+          "description": "Two bundled-up figures walk arm in arm, one in a blue beanie and skirt, the other in a red puffer jacket with a black backpack and woven basket — flat color blocks over loose black linework, a winter-stroll scene."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HNI-x1iWoAAnIRy?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HNI-x1iWoAAnIRy?format=jpg&name=thumb",
+          "description": "A curly-haired basketball player leans into a crossover dribble, rendered mid-motion with a bright orange ball and criss-crossing blue motion lines over a black-outline figure — dynamic sports action pose."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Linedash style on https://t.co/kWsJzCrjBF https://t.co/wBUTgLm37F",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:53:29"
+    },
+    {
+      "id": "2077363947062136840",
+      "title": "chiefkeef.md — a 724K-character prompt file trained to kill AI-slop design",
+      "author": "chhddavid",
+      "name": "David Ch",
+      "author_profile": "https://twitter.com/chhddavid",
+      "tweet": "https://twitter.com/chhddavid/status/2077363947062136840",
+      "date": "2026-07-15",
+      "category": "tools-build",
+      "tags": [
+        "design",
+        "ai",
+        "tool",
+        "ui-pattern"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2077363771471712256/vid/avc1/2560x1440/UyyXJnNowP5g50v1.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2077363771471712256/img/prYZE0qc84s-F71q.jpg?name=thumb",
+          "description": "A screen recording pans over a clean, restrained settings UI for a product called \"Shipper\" — plain toggle rows like \"Enable Stripe\" and a \"Built-in Email Service\" panel with a description line and a single teal switch, no gradients or box-shadow clutter — then cuts to a black title card reading \"Shipper\" in a serif display face, showcasing the deliberately un-slop visual language the .md file is meant to instill."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Introducing chiefkeef.md\n\nA 724,300+ Character .MD File that's specifically trained to ignore all vibe coded AI Slop design language.\n\n- 0 box shadows\n- 0 emojis\n- badges like '🟢 LIVE '\n- 0 purple-to-blue gradients\n\n& kills 220 words AI loves to spam (robust, energy, delve ...)\n\nIt's the result of 11 months of 8 hrs/day Twitter doomscrolling and constant additions to the codebase of the vibecoding UI.\n\nSincerely hoping this finds the most design-needy builders.",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:53:29"
+    },
+    {
+      "id": "2076812846793650485",
+      "title": "Thijs's Wardrobe — an AI-built closet cataloguer and outfit generator",
+      "author": "cdngdev",
+      "name": "thijs",
+      "author_profile": "https://twitter.com/cdngdev",
+      "tweet": "https://twitter.com/cdngdev/status/2076812846793650485",
+      "date": "2026-07-13",
+      "category": "product",
+      "tags": [
+        "ai",
+        "app",
+        "tool",
+        "fashion"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2076811852571693056/vid/avc1/1722x1080/7LMhCx-Au6qMUEL7.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2076811852571693056/img/7uvb9kfhD02NxOer.jpg?name=thumb",
+          "description": "A locally-run app called \"Thijs's Wardrobe\" shows a cream-background grid of dozens of clothing items cut out from camera-roll photos (tees, shirts, jackets, denim); clicking one opens a detail panel with a GPT-rendered lifestyle photo of the item worn on a model, an auto-detected primary color swatch, and editable name/category/tag fields; a later \"Outfits\" tab shows 122 AI-composed looks (e.g. \"Navy Knit & Pale Stone\") each paired with a short styling blurb and occasion tags."
+        }
+      ],
+      "resolved_links": [],
+      "text": "i gave 5.6 sol access to my camera roll and had it extract pictures of every piece of clothing i own from my photos\n\nthen, told it to find new outfits for me and render them on me with gpt-image!\n\nits kinda cool to see your entire wardrobe in a collection like this https://t.co/SV796uScrB",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:53:29"
+    },
+    {
+      "id": "2075366965472903490",
+      "title": "Joe Lee's portfolio — a playful desktop-style whimsy interaction",
+      "author": "_joerl",
+      "name": "Joe Lee",
+      "author_profile": "https://twitter.com/_joerl",
+      "tweet": "https://twitter.com/_joerl/status/2075366965472903490",
+      "date": "2026-07-09",
+      "category": "design",
+      "tags": [
+        "portfolio",
+        "design",
+        "ui-pattern",
+        "animation"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2075366364873732096/vid/avc1/3012x2160/Mr4QhkXuhodS9j73.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2075366364873732096/img/b1Fi_ZhHjK_rR2a1.jpg?name=thumb",
+          "description": "A designer's minimal white portfolio page (bio for \"Joe Lee, Amsterdam\" and a plain project list) comes alive when a desktop-style blue folder icon is clicked: an iMessage-style bubble pops up saying \"Coming soon to web,\" then a faux macOS window opens showing a fake app called \"SweeperOS\" with draggable, overlapping panels of screenshots and copy — a whimsical, OS-chrome easter egg layered over an otherwise plain resume-style layout."
+        }
+      ],
+      "resolved_links": [],
+      "text": "there's always room for more whimsy 💫 https://t.co/avGlpl9X6E",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:53:29"
+    },
+    {
+      "id": "2075594907285139867",
+      "title": "Melius — a node-based creative canvas for AI branding agents",
+      "author": "n0w00j",
+      "name": "joowon",
+      "author_profile": "https://twitter.com/n0w00j",
+      "tweet": "https://twitter.com/n0w00j/status/2075594907285139867",
+      "date": "2026-07-10",
+      "category": "product",
+      "tags": [
+        "ai",
+        "agents",
+        "product",
+        "design",
+        "tool"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2075594307562536960/vid/avc1/1920x1080/p7BnoighDbC-2nBg.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2075594307562536960/img/iejgU_J7_SkYWG0y.jpg?name=thumb",
+          "description": "A dark-mode node-graph canvas app called \"Melius\" branches a single creative brief out into connected cards of AI-generated product photography, packaging mockups, and model shots for a fictional skincare line (\"Lumen Blue\"); a screen-recording cuts to two founders narrating at a laptop as a orange-bordered \"Branding\" node generates a full logo system (wordmark, monogram, seal) captioned with its own AI-written art-direction notes, showing the tool orchestrating multiple image-gen \"agent\" outputs into one branching workspace."
+        }
+      ],
+      "resolved_links": [],
+      "text": "If you’re a creative not using AI you’re fcked.\n\nIntroducing Melius: the world’s first creative canvas for agents.\n\nHere’s how it works:",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:53:29"
+    },
+    {
+      "id": "2075575648282722679",
+      "title": "Stagger grid reveal — a Motion.dev design-engineering tip",
+      "author": "gabriell_lab",
+      "name": "Gabriel",
+      "author_profile": "https://twitter.com/gabriell_lab",
+      "tweet": "https://twitter.com/gabriell_lab/status/2075575648282722679",
+      "date": "2026-07-10",
+      "category": "tutorial",
+      "tags": [
+        "animation",
+        "ui-pattern",
+        "design"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2075575564253925376/vid/avc1/1920x1346/C8I9wL-iifI1RIS9.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2075575564253925376/img/wLCqzFxM9Eo2a4kD.jpg?name=thumb",
+          "description": "A screen recording of an 8-card image grid (moody stock photos like 'Full Gas', 'Whiteout', 'White Monolith', 'Golden Hour') with a 'Reveal / Hide' toggle and a 'Swing' button above it; clicking Hide then Reveal re-triggers each card fading/sliding in with a small per-card stagger delay and a subtle rotational swing, demonstrating the Motion.dev `stagger()` code snippet from the tweet."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Design Engineering Tip:\n\nDon’t reveal a grid all at once.\nUse stagger() to give every item a tiny delay.\nYou can add an extra motion detail to give the reveal more character, like this tiny swing.\n\nimport { stagger } from \"motion\"\n\nanimateView(update)\n  .add(\".item\")\n  .enter(\n    { opacity: [0, 1], y: [12, 0], rotate: [-2, 0] },\n    { delay: stagger(0.05, { from: \"center\" }) }\n  )",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:57:40"
+    },
+    {
+      "id": "2075188252877672732",
+      "title": "emilkowalski/skills — a Claude Code skill distilling Apple's WWDC design principles",
+      "author": "emilkowalski",
+      "name": "Emil Kowalski",
+      "author_profile": "https://twitter.com/emilkowalski",
+      "tweet": "https://twitter.com/emilkowalski/status/2075188252877672732",
+      "date": "2026-07-09",
+      "category": "tools-build",
+      "tags": [
+        "claude-code",
+        "design",
+        "tool",
+        "ai"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [
+        "https://github.com/emilkowalski/skills"
+      ],
+      "all_urls": [
+        "https://github.com/emilkowalski/skills"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/jCwhthpi20",
+          "resolved": "https://github.com/emilkowalski/skills",
+          "role": "primary",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "New skill: /apple-design\n\nApple’s WWDC videos are a goldmine of knowledge. I’ve combed through my favorite ones and came up with 17 design and motion principles.\n\nUse them to review existing work or when working on something new to get it right.\n\nhttps://t.co/jCwhthpi20",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:57:40"
+    },
+    {
+      "id": "2075335893192523951",
+      "title": "Four AI-generated SaaS landing pages — a 'different league' design-quality flex",
+      "author": "uihssn",
+      "name": "Ahmed Hassan",
+      "author_profile": "https://twitter.com/uihssn",
+      "tweet": "https://twitter.com/uihssn/status/2075335893192523951",
+      "date": "2026-07-09",
+      "category": "design",
+      "tags": [
+        "ai",
+        "design",
+        "ui-pattern"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HM0SpGhaAAATQRd?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HM0SpGhaAAATQRd?format=jpg&name=thumb",
+          "description": "A dark cybersecurity SaaS landing page for 'Phantom': a faint ASCII/glyph-textured shield glow above a large serif headline 'Stop cyber attacks before they happen.', a muted subhead, and a cream pill 'Start Free Trial' button — moody black background with sparse plus-mark accents."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HM0SzVvakAAa89k?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HM0SzVvakAAa89k?format=jpg&name=thumb",
+          "description": "A bright SEO-automation SaaS page for 'Verdant': a sky-and-flower-meadow background behind a big serif/script headline 'Turn Content into endless Organic traffic', a green 'Start scaling traffic' button, and a light dashboard panel below showing pages-published, indexed and organic-visit stats."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HM0S5e4awAA-hhT?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HM0S5e4awAA-hhT?format=jpg&name=thumb",
+          "description": "A dark, editorial business-intelligence landing page for 'Dune': a desert dune photo at dusk behind a pixel/mono display headline 'FIND CLARITY IN COMPLEX BUSINESS DECISIONS', a dark 'Book a demo' button, and a row of muted client logos (Airbnb, Amazon, Zoom, Atlassian) along the bottom."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HM0S9npacAA2hff?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HM0S9npacAA2hff?format=jpg&name=thumb",
+          "description": "A light two-column workflow-tool landing page for 'Luma': left column has a plain sans headline 'Simplify modern team workflows.' with a purple 'Book a demo' button, right column is a full-bleed abstract blue-and-peach vertical light-streak render filling the hero."
+        }
+      ],
+      "resolved_links": [],
+      "text": "Respect to Fable 5, but this is a different league. https://t.co/ADS4CgBSvS",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:57:40"
+    },
+    {
+      "id": "2074119000137601528",
+      "title": "Idiom-to-collage animation — a Claude skill using Nano Banana 2 + Seedance via Arcads MCP",
+      "author": "rom1trs",
+      "name": "Romain Torres",
+      "author_profile": "https://twitter.com/rom1trs",
+      "tweet": "https://twitter.com/rom1trs/status/2074119000137601528",
+      "date": "2026-07-06",
+      "category": "tools-build",
+      "tags": [
+        "ai",
+        "claude-code",
+        "animation",
+        "tool",
+        "mcp"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2074118838505865216/vid/avc1/2446x2160/PuMbUvw4AGcYbuHf.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2074118838505865216/img/BZqTjIunupPskBkU.jpg?name=thumb",
+          "description": "A screen recording showing a small reference card animating up into a large vintage-halftone paper-collage illustration of an English idiom: first a man in a suit thrashing inside a filling water glass, captioned 'DROWNING IN A GLASS OF WATER', then a shirtless boxer taking a punch with a burst graphic at his jaw, captioned 'GLASS JAW' — each built from a torn-paper reference sticker plus a '100% automated' badge showing the two tool logos (skill + MCP) used to generate it."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/4YQq5d3E7g",
+          "resolved": null,
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "I built a Claude skill that makes motion-style animation.\n\n&gt; Paste a reference image\n&gt; It generates frames with Nano Banana 2 \n&gt; and animates the video with Seedance 2.0\n\nEverything runs in Claude through the Arcads MCP\n\nComment \"Motion\", and I'll send you the skill https://t.co/4YQq5d3E7g",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1790129556814.json",
+      "ingested_at": "2026-09-22T23:57:40"
     }
   ],
   "site_designs": {
@@ -25791,6 +27615,1688 @@
           "writing",
           "productivity"
         ]
+      }
+    },
+    "pengzhe.ng": {
+      "url": "https://www.pengzhe.ng/",
+      "title": "Peng Zheng",
+      "tagline": "Product designer's personal site — every real-world check-in rendered as a 3D clay-style miniature storefront",
+      "screenshot": "screenshots/pengzheng.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "Playwright MCP, viewports 1440×900 (primary capture + DOM probe) and 390×844 (responsive check); logged_out: true (no auth required — public personal site).",
+      "what_it_is": "The personal homepage of Peng Zheng, a product designer (per the on-page bio: \"a designer at SpaceXAI, previously Zoom, IDEO, and frog\", confirmed by the meta description \"Peng Zheng is a product designer obsessed with the intrinsic beauty of crafts and fluid interactions between human and interfaces\"). Rather than a conventional portfolio, the page's centerpiece is a running log of real-world places he's checked into, each one rendered as a tiny 3D clay-style building generated from a single photo of the storefront.",
+      "what_it_shows": "A hero building — a warm, backlit 3D miniature of the most recent check-in (a 'Cyber Racoon Pc Cafe' storefront at capture time) — sits above a one-line caption naming who he was with and how long ago, each name and the place linking out (Google Maps for the venue, Instagram/X for companions). Below that, a horizontal carousel holds dozens more of these generated miniatures going back months (Marshall St Parking Garage, Eria Marina, Holmes Amphitheatre, ADAN CAFE, Apple Cinemas Van Ness IMAX, Sushi Sato, Twin Peaks, The Sea Ranch, California Academy of Sciences, and more), each dated and credited. A separate \"Work\" section lists his design credits (Grok Bot, Cursor, Zoom AI Companion, Zoom Workplace, Zoom design system, Zoom on TV, Zoom Rooms) as a simple linked list, and the footer holds X/LinkedIn/Instagram/Email links plus a light/dark toggle and a Chinese-language version.",
+      "how_it_works": "The check-in carousel is built from 25 `<img>` elements (all clay-render photos, no `<canvas>`/`<svg>`/`<video>` on the page — the 3D look is pre-rendered imagery, not a live WebGL scene) with a \"Show all check-ins\" expand control and per-card \"View the [place] check-in\" buttons. No SPA framework globals were detected (`__NUXT__`, `__NEXT_DATA__`, a Vue `data-v-app` root, `__sveltekit`, and a `#root`/`#__next` React mount were all absent), and the only third-party script host is Google Tag Manager — this reads as a hand-built static site rather than a framework app. The DOM simultaneously carries both English (\"Work\") and Chinese (\"作品\") copies of headings, toggled by the `/cn` locale route rather than client-side i18n.",
+      "how_its_designed": "Quiet, editorial-adjacent chrome built entirely on custom CSS variables: `--color-text: #1a1a1a`, `--color-secondary: #8a8a8a`, `--color-faint: #b3b3b3`, `--color-border: #ececec`, `--color-bg: #fff`, and a single custom typeface token `--font-sans: \"Sunghyun Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif`. `document.fonts` confirms the webfont actually loads (\"Sunghyun Sans\" 400/500, plus a \"Sunghyun Sans JP Balanced\" 500 variant for CJK glyphs). All the visual richness comes from the photographic 3D miniatures themselves rather than from UI chrome — the surrounding page is flat white, near-black text, and no accent color at all (button and link colors both resolve to the same `rgb(26, 26, 26)` as body text). The page is content-driven rather than fixed-height: `scrollHeight` runs to ~1132px against a 900px viewport, well past a single screen.",
+      "palette": "White ground (#fff), near-black text (#1a1a1a), mid-gray secondary (#8a8a8a), faint gray (#b3b3b3), hairline border (#ececec) — no accent color; all warmth comes from the photographic clay-render miniatures, not the UI.",
+      "fonts": "Sunghyun Sans (400/500) with a Sunghyun Sans JP Balanced 500 variant for Chinese text — both confirmed loaded via `document.fonts`, referenced through a single `--font-sans` CSS variable.",
+      "pattern_keywords": [
+        "check-in-log",
+        "3d-miniatures",
+        "photo-to-3d-generation",
+        "clay-render",
+        "personal-homepage",
+        "css-custom-properties",
+        "bilingual-en-zh",
+        "static-site"
+      ],
+      "tech_stack": [
+        "Static/custom-built (no SPA framework detected)",
+        "Google Tag Manager"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--color-text",
+          "value": "#1a1a1a",
+          "kind": "var"
+        },
+        {
+          "name": "--color-secondary",
+          "value": "#8a8a8a",
+          "kind": "var"
+        },
+        {
+          "name": "--color-faint",
+          "value": "#b3b3b3",
+          "kind": "var"
+        },
+        {
+          "name": "--color-border",
+          "value": "#ececec",
+          "kind": "var"
+        },
+        {
+          "name": "--color-bg",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "body-background",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body-text",
+          "value": "rgb(26, 26, 26)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Sunghyun Sans 400",
+        "Sunghyun Sans 500",
+        "Sunghyun Sans JP Balanced 500"
+      ],
+      "meta": {
+        "description": "Peng Zheng is a product designer obsessed with the intrinsic beauty of crafts and fluid interactions between human and interfaces.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "https://www.pengzhe.ng/favicon.svg"
+      },
+      "media_mix": {
+        "img": 25,
+        "canvas": 0,
+        "video": 0,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 1132,
+      "is_single_screen": false,
+      "headings": [
+        "Work",
+        "作品"
+      ],
+      "responsive_note": "At 390×844 the page stays a fluid single column with almost the same content height (scrollHeight 1148px vs 1132px on desktop) — no nav collapse or section hiding was needed since there was no multi-column layout to begin with.",
+      "links_out": [
+        {
+          "label": "X",
+          "href": "https://x.com/pengzheng_"
+        },
+        {
+          "label": "LinkedIn",
+          "href": "https://www.linkedin.com/in/pengzheng1"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/peng.zheng_/"
+        },
+        {
+          "label": "Email",
+          "href": "mailto:hi@pengzhe.ng"
+        },
+        {
+          "label": "Cursor (work credit)",
+          "href": "https://cursor.com"
+        },
+        {
+          "label": "Grok Bot (work credit)",
+          "href": "https://x.ai/bot"
+        }
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful"
+        ],
+        "topics": [
+          "design",
+          "travel-places"
+        ]
+      }
+    },
+    "humanatlas.quest": {
+      "url": "https://humanatlas.quest/",
+      "title": "Human Atlas — Interactive Anatomy",
+      "tagline": "An interactive 3D atlas of the adult human body: 2,234 modeled anatomical pieces, explorable by system and explodable into an inventory",
+      "screenshot": "screenshots/humanatlasquest.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "Playwright MCP, viewports 1440×900 (primary capture + DOM probe) and 390×844 (responsive check); logged_out: true.",
+      "what_it_is": "A single-page, single-screen 3D anatomy viewer (per its own meta description: \"An interactive 3D atlas of the adult human body: 2,234 modeled anatomical pieces from BodyParts3D, explorable by system, explodable into an inventory, and searchable by structure\"), built on the open BodyParts3D 4.0 adult male reference anatomy dataset (CC BY 4.0) and shipped as an open-source React/Three.js/shadcn project.",
+      "what_it_shows": "A left sidebar lists 15 toggleable anatomical systems (Skeleton 296, Muscles 402, Heart 23, Sensory organs 45, Arteries 639, Veins 404, Nervous system 139, Respiratory 119, etc.) each with a piece count and its own on/off switch, plus \"All/Skeleton/Organs\" quick filters. The center stage holds the 3D model itself — either assembled into a full standing figure or, via a bottom \"Explode anatomy\" percent slider, pulled apart into a flat inventory grid of every individual piece. Clicking any piece (skeletal bone, muscle, vessel) opens a right-hand detail card: system, a plain-language one-paragraph explainer of that structure's function, its FMA atlas reference ID, and an \"Isolate structure\" action. A top search box (\"Find a structure\") jumps straight to any of the 3,432 named anatomical concepts.",
+      "how_it_works": "Interaction is drag-to-orbit / pinch-to-zoom / tap-to-inspect on the single WebGL `<canvas>` element (the DOM probe found exactly one canvas and zero video/iframe elements). React is mounted (a `#root`/`#__next`-style root was detected) but no Nuxt/Next/Vue/Svelte globals were present, and the only script/stylesheet hosts are the site's own domain plus Google Fonts — no analytics or third-party embeds. The page is exactly one screen tall at both desktop and mobile (`scrollHeight` == `innerHeight` at 1440×900 and again at 390×844): all navigation happens inside the fixed canvas/panel layout rather than by scrolling.",
+      "how_its_designed": "A restrained, clinical light UI built on CSS custom properties: `--bg: #eceef0`, `--bg-2: #e4e7ea`, `--card: #fff`, `--text: #1f2328`, `--text-2: #4b5563`, `--muted: #6b7280`, `--faint: #9aa3ad`, a navy accent pair (`--navy: #22313f`, `--navy-2: #2b3a4a`), and a single teal accent (`--teal: #2f8f83`) reserved for active/selected states, all on an 18px card radius with a soft drop shadow. Typography is Inter throughout (`document.fonts` confirms 400/500/600 actually loaded, 700 unloaded/unused) — the chrome is deliberately quiet (white cards, gray-scale panels) so the warm, red/beige-toned anatomical renders stay the only source of color on screen.",
+      "palette": "Cool light gray-blue ground (#eceef0) with white cards, near-black text (#1f2328), and a single teal accent (#2f8f83) reserved for active states; the anatomical 3D renders (warm reds/creams) are the only other color on the page.",
+      "fonts": "Inter (400/500/600 confirmed loaded via document.fonts; 700 loaded but unused) — no display/accent typeface, everything is set in the same sans.",
+      "pattern_keywords": [
+        "3d-explorer",
+        "explode-view",
+        "layer-toggle-sidebar",
+        "structure-search",
+        "single-screen-app",
+        "webgl-canvas",
+        "open-source-data-viz"
+      ],
+      "tech_stack": [
+        "React",
+        "WebGL canvas (single <canvas>; specific renderer not exposed via DOM globals)",
+        "Google Fonts (Inter)"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--bg",
+          "value": "#eceef0",
+          "kind": "var"
+        },
+        {
+          "name": "--bg-2",
+          "value": "#e4e7ea",
+          "kind": "var"
+        },
+        {
+          "name": "--card",
+          "value": "#ffffff",
+          "kind": "var"
+        },
+        {
+          "name": "--text",
+          "value": "#1f2328",
+          "kind": "var"
+        },
+        {
+          "name": "--text-2",
+          "value": "#4b5563",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#6b7280",
+          "kind": "var"
+        },
+        {
+          "name": "--faint",
+          "value": "#9aa3ad",
+          "kind": "var"
+        },
+        {
+          "name": "--navy",
+          "value": "#22313f",
+          "kind": "var"
+        },
+        {
+          "name": "--navy-2",
+          "value": "#2b3a4a",
+          "kind": "var"
+        },
+        {
+          "name": "--teal",
+          "value": "#2f8f83",
+          "kind": "var"
+        },
+        {
+          "name": "body-background",
+          "value": "rgb(236, 238, 240)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body-text",
+          "value": "rgb(31, 35, 40)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Inter 400",
+        "Inter 500",
+        "Inter 600"
+      ],
+      "meta": {
+        "description": "An interactive 3D atlas of the adult human body: 2,234 modeled anatomical pieces from BodyParts3D, explorable by system, explodable into an inventory, and searchable by structure.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": null
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 1,
+        "video": 0,
+        "svg": 6,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "Human Atlas 3D",
+        "Systems"
+      ],
+      "responsive_note": "At 390×844 the app stays exactly one screen tall (scrollHeight matches innerHeight, as on desktop) — the canvas/panel layout resizes to fit rather than reflowing into a scrolling page.",
+      "links_out": [],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "health",
+          "education"
+        ]
+      }
+    },
+    "drawably.dev": {
+      "url": "https://www.drawably.dev/",
+      "title": "drawably — hand-drawn UI controls",
+      "tagline": "A zero-dependency component library that renders real, functional UI controls with a hand-sketched look — a fresh pen stroke generated on every mount",
+      "screenshot": "screenshots/drawablydev.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "Playwright MCP, viewports 1440×900 (primary capture + DOM probe) and 390×844 (responsive check); logged_out: true.",
+      "what_it_is": "The marketing/docs site for drawably, an open-source (MIT, v0.4.2) npm package — per its own meta description, \"Hand-drawn UI controls. Every mount a fresh pen sketch. Zero dependencies.\" It ships real, functional buttons/checkboxes/inputs/cards/etc. whose borders are redrawn with a new procedurally-jittered ink stroke each time the component mounts, rather than using a static hand-drawn-style SVG or font.",
+      "what_it_shows": "A hero (`<h1>drawably</h1>`) reading \"Hand-drawn UI. Fresh pen sketch every mount.\" sits above a live-sketching demo panel (Done/Cancel, Save/Wait buttons, Pen/Pencil radio, a \"Ship it\" checkbox, a name textbox) that visibly re-inks on hover. Below that, a \"Pick a sketch\" section exposes the full component catalog as tabs — Button, Solid, Scribble, Checkbox, Radio, Toggle, Input, Select, Textarea, Badge, Card, List, Divider, Underline, Highlight, Circle, Arrow, Chip, Tabs, Tooltip, Alert, Steps, Kbd, Quote, Pager — with ink-color radios (mixed/pen/ink/red/teal/amber/violet), roughness and boil sliders, a shuffle button, and a scrollable list of saved random seeds (each an already-drawn button like \"Save #1681515469\") that can be locked and copied as JSX (`<DrawablyButton seed={...}>`). An Install section shows the `npm i drawably` command plus license/version, and an API section documents the vanilla-JS functions (`drawablyButton`, `drawablyCheckbox`, `drawablyInput`, `drawablyCard`, `drawablyRadio`, `drawablyToggle`, `drawablyDivider`, `drawablyArrow`).",
+      "how_it_works": "A sticky on-page nav (Drawably / Pick / Install / API) anchors to each section. The \"Pick a sketch\" tool is a full interactive playground — selecting a component tab, ink color, roughness/boil slider, or hitting shuffle regenerates the stroke live and updates the seed list and copyable code snippet; every visible control on the page (56 total across 55 `<svg>` elements) is itself drawn using the library it's demonstrating, so the docs site doubles as the component gallery. No SPA framework globals (`__NUXT__`, `__NEXT_DATA__`, Vue `data-v-app`, `__sveltekit`, `#root`/`#__next`) were detected in the DOM — consistent with the package's own \"zero deps\" pitch.",
+      "how_its_designed": "A flat, paper-toned palette driven entirely by CSS custom properties: `--paper: #e3e3e1` (page ground), `--ink: #18181b` (body text), `--ink-2: #474645`, `--ink-3: #a1a1aa`, and a single cobalt `--pen: #2724d1` used for every hand-drawn stroke/outline plus matching code-syntax tokens (`--code-k`, `--code-s`, `--code-o`). The headline and the wordmark render in a custom `Drawably Pen` webfont (confirmed loaded via `document.fonts`) layered over `Inter`/system-ui for body copy — monospace UI chrome (`Geist Mono` 400/500, also confirmed loaded) is used for code blocks and the seed IDs. The page runs long (`scrollHeight` ~3600px against a 900px viewport) rather than single-screen, structured as a documentation-style scroll through demo → catalog → install → API.",
+      "palette": "Warm paper gray ground (#e3e3e1) with near-black ink text (#18181b) and a single cobalt-blue pen accent (#2724d1) used for every hand-drawn stroke and code keyword.",
+      "fonts": "A custom hand-drawn display face \"Drawably Pen\" for the wordmark/headline, Geist Mono (400/500) for code and UI labels, Inter as the system-ui fallback — all confirmed loaded via document.fonts.",
+      "pattern_keywords": [
+        "hand-drawn-ui",
+        "generative-stroke",
+        "component-gallery-as-docs",
+        "live-playground",
+        "zero-dependency-library",
+        "seed-based-randomization",
+        "monospace-code-chrome"
+      ],
+      "tech_stack": [
+        "No SPA framework detected in DOM globals (consistent with page's own \"zero deps\" claim)",
+        "Google Fonts"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--ink",
+          "value": "#18181b",
+          "kind": "var"
+        },
+        {
+          "name": "--ink-2",
+          "value": "#474645",
+          "kind": "var"
+        },
+        {
+          "name": "--ink-3",
+          "value": "#a1a1aa",
+          "kind": "var"
+        },
+        {
+          "name": "--pen",
+          "value": "#2724d1",
+          "kind": "var"
+        },
+        {
+          "name": "--paper",
+          "value": "#e3e3e1",
+          "kind": "var"
+        },
+        {
+          "name": "--code-k",
+          "value": "#2724d1",
+          "kind": "var"
+        },
+        {
+          "name": "--code-s",
+          "value": "#0f766e",
+          "kind": "var"
+        },
+        {
+          "name": "--code-o",
+          "value": "#b45309",
+          "kind": "var"
+        },
+        {
+          "name": "body-background",
+          "value": "rgb(227, 227, 225)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body-text",
+          "value": "rgb(24, 24, 27)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Geist Mono 400",
+        "Geist Mono 500",
+        "Drawably Pen 400"
+      ],
+      "meta": {
+        "description": "Hand-drawn UI controls. Every mount a fresh pen sketch. Zero dependencies.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": "https://www.drawably.dev/",
+        "favicon": "https://www.drawably.dev/favicon.svg"
+      },
+      "media_mix": {
+        "img": 1,
+        "canvas": 0,
+        "video": 0,
+        "svg": 55,
+        "iframe": 0
+      },
+      "page_height_px": 3600,
+      "is_single_screen": false,
+      "headings": [
+        "drawably",
+        "Every mount is a new sketch. Pick the one you like and keep it."
+      ],
+      "responsive_note": "At 390×844 the page reflows to a single column but stays nearly the same total length (scrollHeight 3664px vs 3600px on desktop); the component tabs and \"on this page\" nav both remain visible rather than collapsing behind a menu.",
+      "links_out": [
+        {
+          "label": "drawably on GitHub",
+          "href": "https://github.com/danielwh2/drawably"
+        }
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
+    },
+    "mikes.cv": {
+      "url": "https://www.mikes.cv/",
+      "title": "Mike Barton",
+      "tagline": "Software Designer & Creative Technologist",
+      "screenshot": "screenshots/mikescv.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "desktop 1440x900, mobile 390x844 (layout check only); logged_out: true",
+      "what_it_is": "Mike Barton's personal CV/portfolio site, built entirely around an airline boarding-pass conceit: the flight metaphor covers the entry gate, the resume timeline (labeled \"Flight Plan\"), and the dark-mode toggle.",
+      "what_it_shows": "An entry screen renders a photorealistic boarding pass for \"MIKE BARTON, Software Designer\" next to an old ticket-validator device reading \"READY,\" prompting you to swipe the pass to enter (or hit Skip). Past the gate, an airplane window sits above the pitch line \"Software Designer & Creative Technologist / Pushing pixels for 8 years with an engineering mindset, obsessing over the details and the why behind great products,\" then a dotted flight-path timeline lists his roles (Studio, Matter Neuroscience, Contact, Fueled) each with small project thumbnails, and the page signs off with \"Thank you for flying. See you again soon.\"",
+      "how_it_works": "The bookmarked clip shows the window's roller shade being dragged shut by hand — as it closes over the cloud view, the entire page's color scheme crossfades from a light cream ground to a dark charcoal one, i.e. the plane window IS the dark-mode switch. React-rendered (`data-v-app` absent, no Nuxt/Next globals, but a React root is present) and entirely self-hosted with no third-party scripts or analytics detected.",
+      "how_its_designed": "Restrained, editorial CV layout: a single ~40rem measure column, small caps mono labels (\"FLIGHT PLAN,\" \"NYC>MAN 2025\") standing in for date stamps, and a muted cream/charcoal duotone rather than a busy palette. Custom typeface pairing (\"MB Sans\" for text, \"MB Mono\" for labels, an \"MB LCD\" face reserved for the ticket-validator readout) keeps the aviation bit feeling designed rather than gimmicky.",
+      "palette": "Cream light mode (#faf5f5) / charcoal dark mode (#191817), ink text #17160f, a single green accent #1e9e52, plus an unused blue token (#3a53ed) likely reserved for links.",
+      "fonts": "Custom \"MB Sans\" (400/500) and \"MB Mono\" (400/500) webfonts, both self-hosted and loaded; an \"MB LCD\" display face reserved for the boarding-pass validator screen.",
+      "pattern_keywords": [
+        "scroll-triggered theme toggle",
+        "boarding-pass gate",
+        "timeline resume",
+        "custom typeface",
+        "duotone light/dark"
+      ],
+      "tech_stack": [
+        "React",
+        "self-hosted (no CDN/analytics scripts detected)"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--veil-light",
+          "value": "#faf5f5",
+          "kind": "var"
+        },
+        {
+          "name": "--veil-dark",
+          "value": "#191817",
+          "kind": "var"
+        },
+        {
+          "name": "--ink",
+          "value": "#17160f",
+          "kind": "var"
+        },
+        {
+          "name": "--faint",
+          "value": "#8c8b82",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#1e9e52",
+          "kind": "var"
+        },
+        {
+          "name": "--folio-blue",
+          "value": "#3a53ed",
+          "kind": "var"
+        },
+        {
+          "name": "body background (rendered)",
+          "value": "rgb(250, 245, 245)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body text (rendered)",
+          "value": "rgb(23, 22, 15)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "MB Sans 400",
+        "MB Sans 500",
+        "MB Mono 500"
+      ],
+      "meta": {
+        "description": null,
+        "og_image": "https://www.mikes.cv/og-image.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.mikes.cv/favicon.svg"
+      },
+      "media_mix": {
+        "img": 35,
+        "canvas": 2,
+        "video": 0,
+        "svg": 3,
+        "iframe": 0
+      },
+      "page_height_px": 1956,
+      "is_single_screen": false,
+      "headings": [],
+      "responsive_note": "At 390x844 the same single centered column just narrows (scrollHeight grows from 1956px to 2446px); no separate mobile nav since the desktop layout never had one to begin with.",
+      "links_out": [],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
+    },
+    "hermeus.com": {
+      "url": "https://www.hermeus.com/",
+      "title": "Hermeus | Fast Planes, Fast.",
+      "tagline": "Building Fast Planes Fast.",
+      "screenshot": "screenshots/hermeuscom.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "desktop 1440x900, mobile 390x844 (layout check only); logged_out: true",
+      "what_it_is": "The marketing site for Hermeus, a hypersonic-aircraft manufacturer (Meta description: \"Reclaiming the lost art of rapid iterative prototyping to build fast and powerful aircraft on relevant timelines...\").",
+      "what_it_shows": "A full-bleed hero of a jet's tail fin and afterburner nozzle glowing orange, with the blurred/sharpening tagline \"Building Fast Planes Fast.\" over it, followed by a full-width photo of an aircraft wing against clouds, then sections headed \"Mission\" further down the page.",
+      "how_it_works": "The bookmarked clip is the hero's scroll-tied text effect: the tagline sits permanently defocused and racks in and out of sharp focus as you scroll past it, like a camera pulling focus rather than a simple fade. Built on Webflow (assets served from cdn.prod.website-files.com), with Google Fonts (ajax.googleapis.com) and a Cloudfront-hosted (d3e54v103j8qbb.cloudfront.net) asset pipeline alongside it.",
+      "how_its_designed": "Aerospace-defense-contractor restraint: light gray ground (#ececec), a single amber accent (#f2a500) reserved for CTAs/hover states, and a condensed grotesque (Tex Gyre Heros) doing double duty as both display and body type — no separate display serif or script, just scale.",
+      "palette": "Light gray ground #ececec with near-black body text #454343 and one amber accent #f2a500; imagery (metal, orange engine glow) supplies the rest of the color.",
+      "fonts": "Tex Gyre Heros (400 and 700 loaded) for everything; Inter is referenced in the stylesheet but never actually loaded/used.",
+      "pattern_keywords": [
+        "scroll-focus text effect",
+        "full-bleed hero photography",
+        "single-accent industrial palette",
+        "Webflow"
+      ],
+      "tech_stack": [
+        "Webflow",
+        "Google Fonts",
+        "Cloudflare/Cloudfront CDN"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--_palette---swatches--light-225 (body bg)",
+          "value": "#ececec",
+          "kind": "var"
+        },
+        {
+          "name": "--_palette---swatches--dark-600 (body text)",
+          "value": "#454343",
+          "kind": "var"
+        },
+        {
+          "name": "--_palette---swatches--brand-amber (accent)",
+          "value": "#f2a500",
+          "kind": "var"
+        },
+        {
+          "name": "--_palette---swatches--dark-900",
+          "value": "#000",
+          "kind": "var"
+        },
+        {
+          "name": "body background (rendered)",
+          "value": "rgb(236, 236, 236)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color (rendered)",
+          "value": "rgb(69, 67, 67)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Texgyreheros 400",
+        "Texgyreheros 700"
+      ],
+      "meta": {
+        "description": "Reclaiming the lost art of rapid iterative prototyping to build fast and powerful aircraft on relevant timelines, delivering the high-speed systems our nation and its allies need to command the skies and deter global threats.",
+        "og_image": "https://cdn.prod.website-files.com/6a3ed66a32181498bd681180/6a5a2f758a84f70dc3f9a6f0_HermTeaser.png",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://cdn.prod.website-files.com/6a5e2c525789418b1ea09fd7/6a5e2c525789418b1ea0a3a4_HermeusIcon_02.png"
+      },
+      "media_mix": {
+        "img": 10,
+        "canvas": 2,
+        "video": 1,
+        "svg": 30,
+        "iframe": 0
+      },
+      "page_height_px": 5733,
+      "is_single_screen": false,
+      "headings": [
+        "Mission"
+      ],
+      "responsive_note": "At 390x844 scrollHeight drops to 3519px (from 5733px desktop) — the vw-clamped hero/section spacing that makes the desktop page feel cinematic simply compresses on mobile rather than the layout restructuring.",
+      "links_out": [],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "luxury",
+          "technical"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
+    },
+    "gyanl.com": {
+      "url": "https://gyanl.com/",
+      "title": "Gyan Lakhwani | New Delhi based interaction designer with a decade of experience working with pixels, systems, and code.",
+      "tagline": "Gyan Lakhwani, Interaction Designer, New Delhi",
+      "screenshot": "screenshots/gyanlcom.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "desktop 1440x900, mobile 390x844 (layout check only); logged_out: true",
+      "what_it_is": "Gyan Lakhwani's personal portfolio site — a New Delhi-based interaction designer with a decade of experience (per its own meta description).",
+      "what_it_shows": "A hero scattered with tappable illustrated stickers (a red Hong Kong taxi, a potted plant, a skateboarding caterpillar-thing, a cat photo, a \"TOUCH GRASS\" badge) around a chat-bubble avatar that idles through lines like \"Gyan is snoozing\"/\"Gyan is thinking,\" a sticky note explaining you can tap the stickers, then an \"Experience\" timeline and a \"Recent work\" list of case studies (Synamore, Sarvam, Hammock Map's literary map, NeuroSonic, Boba Cakery, Bionik, Anveli Foundation for the Arts, Vibely.ai).",
+      "how_it_works": "Static Jekyll site (self-reported generator meta tag) hosted at gyanl.com, with Google Tag Manager for analytics and the Phosphor icon font pulled from unpkg. CSS custom properties expose a full light/dark theming system (`data-theme` attribute) plus a `--reveal-1..6` rainbow token set and hero/sticker animation timing variables, suggesting the sticker burst and chat-bubble idling are all driven by CSS custom-property transitions rather than a JS animation library.",
+      "how_its_designed": "Toy-like and personal rather than corporate: hand-drawn/sticker-style imagery scattered with intentional randomness, a warm off-white ground, and a single muted maroon-red accent (hsl(348, 70%, 40%)) instead of a saturated brand color. Typography is entirely the system UI stack (-apple-system/Segoe UI/Roboto) — no custom webfont beyond the Phosphor icon set — which keeps the page fast and lets the sticker illustrations carry the personality.",
+      "palette": "Warm off-white ground #FFFFFF/#faf9f9, charcoal text #2A2A2A, one muted maroon-red accent hsl(348,70%,40%), plus a reserved rainbow token set (green/yellow/orange/red/purple/blue) for sticker-reveal accents.",
+      "fonts": "System fonts only (-apple-system, Segoe UI, Roboto stack) for both headings and body; Phosphor is the only actual webfont load, and it's an icon font.",
+      "pattern_keywords": [
+        "sticker-board hero",
+        "chat-bubble micro-copy",
+        "CSS custom-property theming",
+        "case-study list",
+        "system-font portfolio"
+      ],
+      "tech_stack": [
+        "Jekyll",
+        "Google Tag Manager",
+        "Phosphor Icons (unpkg)"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background-color",
+          "value": "#FFFFFF",
+          "kind": "var"
+        },
+        {
+          "name": "--slightly-warm-gray",
+          "value": "#faf9f9",
+          "kind": "var"
+        },
+        {
+          "name": "--charcoal / --text-reg",
+          "value": "rgb(42, 42, 42)",
+          "kind": "var"
+        },
+        {
+          "name": "--accent-color",
+          "value": "hsl(348, 70%, 40%)",
+          "kind": "var"
+        },
+        {
+          "name": "--reveal-1..6",
+          "value": "#61BB46 / #FDB827 / #F5821F / #E03A3E / #963D97 / #009DDC",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Phosphor (icon font only)"
+      ],
+      "meta": {
+        "description": "New Delhi based interaction designer with a decade of experience working with pixels, systems, and code.",
+        "og_image": "https://gyanl.com/assets/gyanl-og-image.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://gyanl.com/",
+        "favicon": "https://gyanl.com/assets/favicon.ico"
+      },
+      "media_mix": {
+        "img": 30,
+        "canvas": 0,
+        "video": 0,
+        "svg": 4,
+        "iframe": 0
+      },
+      "page_height_px": 8011,
+      "is_single_screen": false,
+      "headings": [
+        "Gyan Lakhwani, Interaction Designer, New Delhi",
+        "Experience",
+        "Recent work"
+      ],
+      "responsive_note": "At 390x844 scrollHeight is 7351px (vs 8011px desktop) — the sticker hero and case-study thumbnails just resize down rather than restructuring, so the page stays roughly the same shape, only slightly more compact.",
+      "links_out": [],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
+    },
+    "canivibecodeit.com": {
+      "url": "https://canivibecodeit.com/",
+      "title": "Can I Vibecode It? · what AI can rebuild, what survives",
+      "tagline": "The live scoreboard of what AI can and can't replace, and which moats actually hold.",
+      "screenshot": "screenshots/canivibecodeitcom.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "desktop 1440x900, mobile 390x844 (layout check only); logged_out: true",
+      "what_it_is": "canivibecodeit.com (\"Can I Vibecode It?\") is a live scoreboard site tracking which paid SaaS products AI coding agents can plausibly replace, per its own meta description: \"The live scoreboard of what AI can and can't replace, and which moats actually hold. Honest verdicts on 1093 apps, the exact prompt to run, free.\"",
+      "what_it_shows": "A hero headlined \"Can I vibecode ___?\" sits above quick category chips (design, audio & video, website builders, scheduling, finance & accounting) and a scrolling ticker tallying \"$2,295/mo\" in SaaS bills already replaced, then the page drops into \"The Death List\" — a sortable, filterable leaderboard of 1,093+ apps (Granola, Wispr Flow, SuperX, Sleek, ...) each with a category, price, a YES/KINDA/NOT REALLY verdict badge, and a \"replaced it\" vote count, framed by small sponsor cards down each rail.",
+      "how_it_works": "Built on Astro (astro-transition-scope markers on the html element; no Vue/Nuxt/Next globals present) with Cloudflare Insights for analytics. The entire leaderboard renders as one continuous scroll — 66,871px tall on desktop — rather than paginating, and theming runs through a `data-theme` attribute on `<html>` (defaulted to the visitor's light preference here) with a full parallel dark palette defined in the same CSS custom properties.",
+      "how_its_designed": "Terminal/stock-ticker aesthetic: a variable JetBrains Mono face carries the data-dense ticker and list rows while Space Grotesk Variable handles display headlines, and a green/amber/red verdict system (`--primary` #0b7c39 for YES, `--kinda-bg` #f5b300 for KINDA, `--no-bg` #e03131 for NOT REALLY) stands in for a stock up/down convention rather than a conventional brand palette.",
+      "palette": "Light-mode ground #f7f8f9 with white #ffffff card surfaces and ink text #15181d; verdict badges in green #0b7c39 (yes), amber #f5b300 (kinda), and red #e03131 (not really). A full dark theme (#0b0d0b ground, #33e667 accent) is defined in the same tokens but isn't the default here.",
+      "fonts": "Space Grotesk Variable (weight range 300–700, loaded) for display type; JetBrains Mono Variable (100–800, loaded) for the ticker and list data.",
+      "pattern_keywords": [
+        "leaderboard/scoreboard",
+        "verdict badges",
+        "ticker marquee",
+        "directory of apps",
+        "light/dark theme tokens",
+        "Astro"
+      ],
+      "tech_stack": [
+        "Astro",
+        "Cloudflare Insights",
+        "Cloudflare (self-hosted assets)"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--bg",
+          "value": "#f7f8f9",
+          "kind": "var"
+        },
+        {
+          "name": "--surface",
+          "value": "#ffffff",
+          "kind": "var"
+        },
+        {
+          "name": "--border",
+          "value": "#d8dbe1",
+          "kind": "var"
+        },
+        {
+          "name": "--fg",
+          "value": "#15181d",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#5b6370",
+          "kind": "var"
+        },
+        {
+          "name": "--primary (yes)",
+          "value": "#0b7c39",
+          "kind": "var"
+        },
+        {
+          "name": "--kinda-bg (kinda)",
+          "value": "#f5b300",
+          "kind": "var"
+        },
+        {
+          "name": "--no-bg (not really)",
+          "value": "#e03131",
+          "kind": "var"
+        },
+        {
+          "name": "body background (rendered)",
+          "value": "rgb(247, 248, 249)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body text (rendered)",
+          "value": "rgb(21, 24, 29)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Space Grotesk Variable 300-700",
+        "JetBrains Mono Variable 100-800"
+      ],
+      "meta": {
+        "description": "The live scoreboard of what AI can and can't replace, and which moats actually hold. Honest verdicts on 1093 apps, the exact prompt to run, free.",
+        "og_image": "https://canivibecodeit.com/og/home.png?v=mu4cyfs1",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://canivibecodeit.com/",
+        "favicon": "https://canivibecodeit.com/favicon.svg"
+      },
+      "media_mix": {
+        "img": 1119,
+        "canvas": 1,
+        "video": 0,
+        "svg": 1102,
+        "iframe": 0
+      },
+      "page_height_px": 66871,
+      "is_single_screen": false,
+      "headings": [
+        "Can I vibecode ___?",
+        "The Death List",
+        "Every week, more subscriptions die.",
+        "Sign in"
+      ],
+      "responsive_note": "At 390x844 the leaderboard just narrows into a single-column list — scrollHeight grows from 66,871px to 82,502px as the same rows stack taller rather than the layout restructuring.",
+      "links_out": [],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "technical",
+          "playful"
+        ],
+        "topics": [
+          "ai",
+          "startups"
+        ]
+      }
+    },
+    "jib.design": {
+      "url": "https://jib.design/",
+      "title": "JB Eudeline — Design Engineer",
+      "tagline": "Hey, I'm JB Eudeline, a design engineer.",
+      "screenshot": "screenshots/jibdesign.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "The personal portfolio of JB Eudeline (\"Jib\"), a design engineer who designs and builds product for startups, framed by the bookmarking tweet as \"my little corner on the internet\" after 7 years of procrastination.",
+      "what_it_shows": "A single-page site: a hero bio (\"Hey, I'm JB Eudeline, a design engineer... I help founders ship products that feel effortless\"), a client-logo strip (\"they trusted me\"), a two-up \"selected work\" case-study gallery of desktop and mobile app screenshots, an experience timeline, services, stack, and a contact section.",
+      "how_it_works": "Built on Next.js (Geist Sans/Mono via next/font, no exposed framework globals but Geist font tokens and a Vercel-style design-token CSS-var system are the tell). 18 images, 8 canvases and 2 videos are present on the page — likely subtle canvas-driven hover/background effects in the case-study cards rather than a hero animation.",
+      "how_its_designed": "Quiet, editorial-minimal: a warm off-white background (rgb(250,250,250)) with near-black text (lab(0 0 0 / 0.92)), Geist Sans for UI type and Geist Mono for labels/code accents. The card system uses an extensive black/white/grey/red/amber/green/blue alpha-ramp token set (--primitive-black-1 through -12, etc.) for consistent elevation and hover states, plus a full spacing/radius/duration token scale — the hallmarks of a design engineer's own component system rather than an off-the-shelf template.",
+      "palette": "Off-white background, near-black text, restrained greyscale UI with red/amber/green/blue accent ramps reserved for state (not seen live on this pass)",
+      "fonts": "Geist Sans (headings/body) + Geist Mono (labels), both self-hosted via next/font — no third-party font CDN",
+      "pattern_keywords": [
+        "portfolio",
+        "case-study-grid",
+        "design-tokens",
+        "minimal"
+      ],
+      "tech_stack": [
+        "Next.js",
+        "Geist font"
+      ],
+      "palette_tokens": [
+        {
+          "name": "background",
+          "value": "rgb(250, 250, 250)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body-color",
+          "value": "lab(0 0 0 / 0.92)",
+          "kind": "rendered"
+        },
+        {
+          "name": "--primitive-red-500",
+          "value": "#f02f38",
+          "kind": "var"
+        },
+        {
+          "name": "--primitive-amber-500",
+          "value": "#ec9500",
+          "kind": "var"
+        },
+        {
+          "name": "--primitive-green-500",
+          "value": "#00bb53",
+          "kind": "var"
+        },
+        {
+          "name": "--primitive-blue-500",
+          "value": "#0096f5",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "geistSans 400-900",
+        "geistMono 400-900"
+      ],
+      "meta": {
+        "description": "Hey, I'm JB Eudeline, a design engineer. Over the past 7 years I've designed product for 50+ startups, mostly 0→1, and my work helped them raise over $100M.",
+        "og_image": "https://jib.design/opengraph-image?3b1cbed55379e643",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://jib.design/",
+        "favicon": "https://jib.design/favicon-black.png"
+      },
+      "media_mix": {
+        "img": 18,
+        "canvas": 8,
+        "video": 2,
+        "svg": 1,
+        "iframe": 0
+      },
+      "page_height_px": 2080,
+      "is_single_screen": false,
+      "headings": [
+        "JB Eudeline",
+        "they trusted me",
+        "selected work",
+        "experiences",
+        "services",
+        "stack",
+        "contact"
+      ],
+      "responsive_note": "Single-column stack at 390px; scrollHeight grows from 2080px to 2585px as the case-study grid and timeline reflow to one column.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
+    },
+    "naturalselection.so": {
+      "url": "https://www.naturalselection.so/",
+      "title": "Natural Selection",
+      "tagline": "A curated gallery of favorite products.",
+      "screenshot": "screenshots/naturalselectionso.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A personal product-curation gallery — one person's list of favorite physical objects (decor, wardrobe, gear) presented like a minimalist e-commerce catalog, per its own meta description \"A curated gallery of favorite products.\"",
+      "what_it_shows": "A dense uniform grid (94 images) of isolated product photos — a pen tray, a glass carafe, a tape dispenser, an air purifier, headphones, a rice cooker, sunglasses, sneakers — with a left sidebar offering category filters (Decor, Wardrobe, Gear), a price slider ($0–$5000+), and sort controls, under the single heading \"Items we appreciate.\"",
+      "how_it_works": "No exposed SPA framework globals; Cloudflare Insights analytics script present. Layout is driven by CSS custom properties (--grid-cols: 6, --grid-gap: 36px, --row-ratio: .5) that a media query collapses to --grid-cols: 3 on mobile — a CSS-variable-driven responsive grid rather than a JS masonry library.",
+      "how_its_designed": "Stark white-background e-commerce aesthetic (background #fff, foreground #171717) with no framing chrome around the products — just a numeric grid, letting the photography do the work. Body copy loads a self-hosted monospace display face (berkeleyMono) while Geist, Geist Mono, Inter, and ppNeue are declared but unloaded, suggesting they're reserved for hover/detail states not triggered on this pass.",
+      "palette": "Pure white background, near-black (#171717) text/UI — a stripped e-commerce palette with no accent color",
+      "fonts": "Berkeley Mono (loaded, primary display); Geist, Geist Mono, Inter, ppNeue declared but unloaded on the grid view",
+      "pattern_keywords": [
+        "product-grid",
+        "minimal",
+        "catalog",
+        "monospace"
+      ],
+      "tech_stack": [
+        "Cloudflare Insights",
+        "Cloudflare"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#171717",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Berkeley Mono 400"
+      ],
+      "meta": {
+        "description": "A curated gallery of favorite products.",
+        "og_image": "https://www.naturalselection.so/opengraph-image?4f363bb8a1d00375",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.naturalselection.so/favicon.ico?favicon.0729w196mjhsx.ico"
+      },
+      "media_mix": {
+        "img": 94,
+        "canvas": 0,
+        "video": 0,
+        "svg": 3,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "Items we appreciate"
+      ],
+      "responsive_note": "Grid collapses from 6 columns to 3 columns at 390px (--grid-cols var switches 6→3) with no other layout change.",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal"
+        ],
+        "topics": []
+      }
+    },
+    "humanityslastmachine.com": {
+      "url": "https://www.humanityslastmachine.com/humanoid-landscape",
+      "title": "Humanity's Last Machine",
+      "tagline": "A deep dive on humanoid robotics hardware and the technology shaping our future",
+      "screenshot": "screenshots/humanityslastmachinecomhumanoid-landscape.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "An editorial data page mapping the humanoid-robotics landscape — per its own meta description, \"a deep dive on humanoid robotics hardware and the technology shaping our future\" — letting readers browse robot models by manufacturer.",
+      "what_it_shows": "A \"Choose Your Robot\" thumbnail grid of ~13 humanoid robots in saturated color-blocked studio photography, a large noisy hero image of the selected robot (Apptronik's Apollo), a spec strip (73kg mass, 173cm height, 1.1 m/s speed, 71 total degrees of freedom), and an \"Apollo by Apptronik\" detail card noting its Aug '23 launch and logistics/warehousing target market.",
+      "how_it_works": "Server-rendered with no SPA framework globals detected; ships Google Tag Manager and Cloudflare Insights. Grain/noise texture on the hero photos appears to be a CSS/SVG filter overlay rather than canvas (0 canvas elements found).",
+      "how_its_designed": "An editorial print-meets-tech mode: a warm off-white ground (#f5f2eb) with charcoal text (#1a1a1a) and a single burnt-orange highlight (#c4561a), pairing a display serif (Cormorant Garamond, weights 300–700) for headings against Geist Sans/Mono for UI labels and data — a magazine layout applied to a hardware-spec database.",
+      "palette": "Warm parchment background (#f5f2eb), charcoal text (#1a1a1a), burnt-orange accent (#c4561a), muted grey (#6b6b6b) for secondary copy",
+      "fonts": "Cormorant Garamond (display serif, 300-700) for headings; Geist Sans + Geist Mono for UI/labels",
+      "pattern_keywords": [
+        "editorial",
+        "data-viz",
+        "spec-sheet",
+        "serif-display"
+      ],
+      "tech_stack": [
+        "Google Tag Manager",
+        "Cloudflare Insights",
+        "Cloudflare"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#f5f2eb",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#1a1a1a",
+          "kind": "var"
+        },
+        {
+          "name": "--highlight",
+          "value": "#c4561a",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#6b6b6b",
+          "kind": "var"
+        },
+        {
+          "name": "--surface",
+          "value": "#e8e5de",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Geist 400",
+        "Geist Mono 400",
+        "Cormorant Garamond 400/500/600/700"
+      ],
+      "meta": {
+        "description": "A deep dive on humanoid robotics hardware and the technology shaping our future",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "https://www.humanityslastmachine.com/icon.png?icon.a469ac0b.png"
+      },
+      "media_mix": {
+        "img": 14,
+        "canvas": 0,
+        "video": 0,
+        "svg": 4,
+        "iframe": 0
+      },
+      "page_height_px": 2291,
+      "is_single_screen": false,
+      "headings": [
+        "Humanity's Last Machine",
+        "Overview",
+        "Apptronik"
+      ],
+      "responsive_note": "Page grows from 2291px to 3371px scroll height at 390px as the robot thumbnail grid and spec strip stack into a single column.",
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "technical"
+        ],
+        "topics": [
+          "engineering"
+        ]
+      }
+    },
+    "cig-index.vercel.app": {
+      "url": "https://cig-index.vercel.app/",
+      "title": "ciggie index",
+      "tagline": "your air quality index, but in ciggies",
+      "screenshot": "screenshots/cig-indexvercelapp.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A single-purpose novelty calculator, per its own meta description \"your air quality index, but in ciggies\" — it converts a city's air pollution exposure over a chosen number of hours into an equivalent number of cigarettes smoked.",
+      "what_it_shows": "A minimal form: a CITY search field (defaulting to New York City), an \"HOURS OUTSIDE\" number spinner (24), and two buttons, \"OPEN THE PACK\" and \"USE MY LOCATION\" — framed as a literal cigarette pack, with CSS variables for pack width/height/depth/lid/base suggesting the result renders as an illustrated pack opening.",
+      "how_it_works": "Next.js-adjacent (hosted on Vercel) with Google Tag Manager for analytics; no canvas/SVG/video on the initial form screen — the pack visualization is presumably deferred markup that renders after a city/hours submission.",
+      "how_its_designed": "A literal, illustrative concept execution: CSS variables model an actual cigarette pack's geometry (--W: 196px, --H: 322px, --D: 74px, --lid: 98px, --base: 224px) with a red/tan Marlboro-esque palette, set entirely in Apercu Mono for a deadpan, spec-sheet tone that plays against the absurd premise.",
+      "palette": "White paper background (#fff) with near-black ink (#141414), red (#d33127) and tan (#d8a75f) pack-branding accents",
+      "fonts": "Apercu Mono (400) — the only loaded font, used throughout",
+      "pattern_keywords": [
+        "single-purpose-tool",
+        "novelty",
+        "monospace",
+        "data-viz"
+      ],
+      "tech_stack": [
+        "Next.js",
+        "Vercel",
+        "Google Tag Manager"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--ink",
+          "value": "#141414",
+          "kind": "var"
+        },
+        {
+          "name": "--paper",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--red",
+          "value": "#d33127",
+          "kind": "var"
+        },
+        {
+          "name": "--tan",
+          "value": "#d8a75f",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Apercu Mono 400"
+      ],
+      "meta": {
+        "description": "your air quality index, but in ciggies",
+        "og_image": "https://cig-index.vercel.app/og.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://cig-index.vercel.app/icon.svg?f186b292a1ec76ed"
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 0,
+        "video": 0,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "responsive_note": "Form stays single-screen and single-column at 390px with no scroll growth (844px viewport = 844px scroll height).",
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "health"
+        ]
+      }
+    },
+    "sneakers.charmiekapoor.com": {
+      "url": "https://sneakers.charmiekapoor.com/",
+      "title": "sneak peek",
+      "tagline": "Welcome to my sneaker collection :)",
+      "screenshot": "screenshots/sneakerscharmiekapoorcom.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A personal sneaker-collection showcase by Charmie Kapoor — per its own meta description, \"Welcome to my sneaker collection :)\" — presenting an individual's shoes as a browsable, playful mini-catalog.",
+      "what_it_shows": "Eight sneakers (Nike, Adidas, Puma, New Balance, Fila) rendered on illustrated wooden pegboard shelves against a cream dot-grid backdrop, each hung with a dangling \"SALE\" price tag, under the header \"sneak peek / my collection\" with a \"WHAT IS THIS?\" link and cart/profile icons.",
+      "how_it_works": "A React app (React root detected) pulling six Google Fonts (Gaegu, Gloria Hallelujah, Inter, Radio Canada Big, plus a custom Geist Pixel Square) and shipping Google Tag Manager for analytics — the handwritten/pixel font mix signals a hand-styled personal project rather than a generated template.",
+      "how_its_designed": "Playful and handcrafted: a warm off-white ground (rgb(247,247,244)) with near-black text, pairing a casual handwriting font (Gaegu) for personality against Inter for structured UI text and a blocky pixel display face (Geist Pixel Square) for the wordmark — leaning into a scrapbook, sticker-tag aesthetic (16 SVGs likely powering the tag/pin illustrations).",
+      "palette": "Warm off-white background (rgb(247,247,244)), near-black text (rgb(23,23,23)), tan pegboard-shelf tones with cream \"SALE\" tags",
+      "fonts": "Gaegu (handwriting accents), Gloria Hallelujah, Inter (UI text), Radio Canada Big, Geist Pixel Square (wordmark)",
+      "pattern_keywords": [
+        "personal-collection",
+        "playful",
+        "illustrated",
+        "pegboard-layout"
+      ],
+      "tech_stack": [
+        "React",
+        "Google Fonts",
+        "Google Tag Manager"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body-color",
+          "value": "rgb(23, 23, 23)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body-background",
+          "value": "rgb(247, 247, 244)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Gloria Hallelujah 400",
+        "Inter 400/500/600/700",
+        "Radio Canada Big 600",
+        "Geist Pixel Square 500"
+      ],
+      "meta": {
+        "description": "Welcome to my sneaker collection :)",
+        "og_image": "https://sneakers.charmiekapoor.com/favicon/meta.jpg?v=2",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://sneakers.charmiekapoor.com/",
+        "favicon": "https://sneakers.charmiekapoor.com/favicon/32.svg?v=4"
+      },
+      "media_mix": {
+        "img": 29,
+        "canvas": 0,
+        "video": 0,
+        "svg": 16,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "responsive_note": "Content reflows to a tall single column at 390px, growing scroll height from 900px to 7481px as the pegboard grid stacks vertically.",
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "organic-warm"
+        ],
+        "topics": [
+          "fashion"
+        ]
+      }
+    },
+    "evebouffard.com": {
+      "url": "https://www.evebouffard.com/shapeofminds",
+      "title": "Shape of Minds",
+      "tagline": "An attempt to visually map the commonality across the most beautiful, fertile, and inventive minds of history",
+      "screenshot": "screenshots/evebouffardcomshapeofminds.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A generative-art data-visualization project by Eve Bouffard, hosted as a page on her personal site, mapping shared traits (thinking, habits, religion, etc.) across historical geniuses like Einstein, Newton, and da Vinci.",
+      "what_it_shows": "A force-directed network graph where each historical figure is represented by a hand-illustrated butterfly (color/pattern encoding trait clusters), connected by fine web-like lines; selecting a figure (Albert Einstein shown) opens a detail panel with portrait, bio, and tagged traits (spinozist, pantheist, agnostic) plus a left-hand legend ranking traits by how many minds share them.",
+      "how_it_works": "A React app (2 canvas elements — the butterfly graph is canvas-rendered, not SVG/DOM nodes) with a dimension switcher (Thinking, Obsessions, Quirks, Origins, Routines, Lifestyle, Love, Interests, Worldview, Religion, Habits, Knowledge, Family, Siblings, Journaling, Music, Idols, Alchemy) that presumably re-renders the graph per selected trait.",
+      "how_its_designed": "An aged-paper, naturalist-illustration mode: a warm parchment background (rgb(239,230,208)) with near-black text (rgb(23,23,23)), pairing an elegant display serif (Cormorant Garamond) for the title against a compressed grotesk (roc-grotesk-compressed) and Satoshi for supporting UI — echoing a vintage lepidopterist's specimen board rendered as an interactive knowledge graph.",
+      "palette": "Warm parchment/cream background (rgb(239,230,208)), near-black text (rgb(23,23,23))",
+      "fonts": "Cormorant Garamond (display serif, title), roc-grotesk-compressed, Quilon, Satoshi (UI weights)",
+      "pattern_keywords": [
+        "network-graph",
+        "canvas",
+        "editorial",
+        "data-viz",
+        "generative-illustration"
+      ],
+      "tech_stack": [
+        "React"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body-color",
+          "value": "rgb(23, 23, 23)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body-background",
+          "value": "rgb(239, 230, 208)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Cormorant Garamond 500"
+      ],
+      "meta": {
+        "description": "I design and write software at Y Combinator",
+        "og_image": "https://www.evebouffard.com/og/shape-of-minds.png",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.evebouffard.com/venus-favicon.png"
+      },
+      "media_mix": {
+        "img": 11,
+        "canvas": 2,
+        "video": 0,
+        "svg": 17,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "Shape of Minds"
+      ],
+      "responsive_note": "Stays single-screen at 390px with no scroll growth (844px viewport = 844px scroll height), implying the graph canvas simply resizes rather than reflowing to a list.",
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "organic-warm"
+        ],
+        "topics": [
+          "art"
+        ]
+      }
+    },
+    "comnyang.com": {
+      "url": "https://comnyang.com/en",
+      "title": "Comnyang, the pixel cat in your computer",
+      "tagline": "A pixel cat that follows your cursor, reacts to your keystrokes, and nudges you to stretch",
+      "screenshot": "screenshots/comnyangcom.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "The product landing page for Comnyang, a desktop-pet app: a tiny pixel cat that lives on your macOS or Windows desktop, follows your cursor, reacts to keystrokes, and nudges you to stretch.",
+      "what_it_shows": "A hero (\"A PIXEL CAT THAT LIVES IN YOUR COMPUTER\"), a \"Look what Comnyang can do!\" demo section with looping clips of the cat's behaviors, a \"ONE CAT. READY FOR YOUR DESKTOP.\" pitch repeated near a waitlist/purchase flow (Tally form, Lemon Squeezy checkout).",
+      "how_it_works": "A static/vanilla site with no exposed SPA framework globals; 19 short looping videos carry the product demos (no canvas/svg used for that), backed by TikTok Pixel, Google Tag Manager, and Cloudflare Insights analytics, a Tally embedded form, and a Lemon Squeezy checkout widget.",
+      "how_its_designed": "Dark pixel-terminal styling: near-black ground (--bg #0a0a0a) with off-white text (--fg #f5f5f5) and one loud accent-pop yellow (--accent-pop #ffd23f), hard-edged white drop shadows (4px 4px 0 #fff) instead of blur, a pixel display face (Born2bSporty FS / Cafe24ProUp) for headings, JetBrains Mono for UI labels, and VT323 loaded as a retro-terminal accent.",
+      "palette": "Near-black ground (#0a0a0a), off-white text (#f5f5f5), one loud accent-pop yellow (#ffd23f), hard-edged white drop shadows",
+      "fonts": "Pixel display face (Born2bSporty FS / Cafe24ProUp) for headings, JetBrains Mono for UI text, VT323 loaded as a retro-terminal accent",
+      "pattern_keywords": [
+        "pixel-art",
+        "desktop-pet",
+        "retro",
+        "dark-mode",
+        "product-landing"
+      ],
+      "tech_stack": [
+        "Static/vanilla JS",
+        "TikTok Pixel",
+        "Google Tag Manager",
+        "Cloudflare",
+        "Tally",
+        "Lemon Squeezy"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--bg",
+          "value": "#0a0a0a",
+          "kind": "var"
+        },
+        {
+          "name": "--fg",
+          "value": "#f5f5f5",
+          "kind": "var"
+        },
+        {
+          "name": "--accent-pop",
+          "value": "#ffd23f",
+          "kind": "var"
+        },
+        {
+          "name": "--line",
+          "value": "#1f1f1f",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Born2bSporty FS 400",
+        "JetBrains Mono 400",
+        "JetBrains Mono 600",
+        "VT323 400"
+      ],
+      "meta": {
+        "description": "Comnyang is a tiny pixel cat that follows your cursor, reacts to your keystrokes, and nudges you to stretch. Available now for macOS and Windows.",
+        "og_image": null,
+        "twitter_card": "summary",
+        "canonical": "https://comnyang.com/en",
+        "favicon": "https://comnyang.com/favicon.ico"
+      },
+      "media_mix": {
+        "img": 13,
+        "canvas": 0,
+        "video": 19,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 7114,
+      "is_single_screen": false,
+      "headings": [
+        "A PIXEL CAT THAT LIVES IN YOUR COMPUTER",
+        "ONE CAT. READY FOR YOUR DESKTOP.",
+        "Look what Comnyang can do!"
+      ],
+      "responsive_note": "Single-column stack at 390px; scrollHeight roughly doubles from 7114px to 14980px as sections restack.",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "retro",
+          "playful"
+        ],
+        "topics": []
+      }
+    },
+    "appdrop.com": {
+      "url": "https://www.appdrop.com/marcgmbh/link-bouquet",
+      "title": "Link Bouquet by marcgmbh · Danger Testing",
+      "tagline": "Create and share beautiful bouquets of your favorite links",
+      "screenshot": "screenshots/appdropcommarcgmbhlink-bouquet.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop viewport capture (fullPage timed out) + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A mini-app hosted on AppDrop (a platform for small personal web apps/\"makers\"), built by marcgmbh, that turns a list of favorite links into a generative floral bouquet.",
+      "what_it_shows": "A single hero screen: a hand-lettered \"LINK BOUQUET\" wordmark beside a botanical bouquet collaged from Old-Master flower paintings, with small link-preview cards (clipart.studio, the Chinese Cigarette Museum) blooming as individual flowers, plus a right-hand rail of image variants, color swatches, and \"Add Link\"/\"Save & Share\" actions.",
+      "how_it_works": "A Next.js app (Geist Sans/Mono font tokens) carrying a large shadcn/ui-style CSS custom-property system in lab() color space, plus an embedded Privy wallet/auth widget and unrelated \"maker\" design tokens (birth-time dial, gender colors) that leak in from AppDrop's shared component library used across its many mini-apps.",
+      "how_its_designed": "Warm editorial-illustration style: a real flower-painting bouquet cut up and re-collaged, black hand-lettered display type over a plain white ground, small link cards pinned into the flowers like chat bubbles; the surrounding chrome (rail, buttons) is a plain light UI set in Inter.",
+      "palette": "White ground, black hand-lettering, natural bouquet colors (rose pink, deep green, indigo) inside the illustration, utilitarian light-grey UI chrome around it",
+      "fonts": "Geist Mono/Inter for the app chrome; the \"LINK BOUQUET\" wordmark itself is a hand-drawn marker illustration, not a webfont",
+      "pattern_keywords": [
+        "generative",
+        "collage",
+        "mini-app",
+        "playful",
+        "directory-of-links"
+      ],
+      "tech_stack": [
+        "Next.js (Geist font)",
+        "shadcn/ui token system",
+        "Privy (wallet/auth)"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "lab(100% 0 0)",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "lab(2.75% 0 0)",
+          "kind": "var"
+        },
+        {
+          "name": "--primary",
+          "value": "lab(7.78% 0 0)",
+          "kind": "var"
+        },
+        {
+          "name": "--maker-color-primary-action",
+          "value": "lab(77.2% -31.79 -35.26)",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Inter 100-900"
+      ],
+      "meta": {
+        "description": "Create and share beautiful bouquets of your favorite links",
+        "og_image": "https://linkbouquet.com/og.png",
+        "twitter_card": null,
+        "canonical": "https://dangertesting.com/marcgmbh/link-bouquet",
+        "favicon": "https://www.appdrop.com/favicon.ico?favicon.15mpomabnphn2.ico"
+      },
+      "media_mix": {
+        "img": 26,
+        "canvas": 0,
+        "video": 12,
+        "svg": 11,
+        "iframe": 1
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "Chat",
+        "Replace him",
+        "Anna's Garden",
+        "Neue Blumen",
+        "Youuutube",
+        "Songs That Hold Memories",
+        "Celestune",
+        "East Asian Graphics Archive",
+        "Criterion Wrapped",
+        "NYC Eats"
+      ],
+      "responsive_note": "At 390px the reported scrollHeight (844px) exactly equals the viewport height, so the bouquet canvas appears to scale/clip to fit rather than reflow into a scrolling column.",
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "organic-warm"
+        ],
+        "topics": []
+      }
+    },
+    "arcade.pirillo.com": {
+      "url": "https://arcade.pirillo.com/retrowave-road.html",
+      "title": "Retrowave Road: Infinite Synthwave Night Drive",
+      "tagline": "Retrowave Road generates an endless synthwave highway — seeded neon worlds, a generative 80s soundtrack. Like, totally tubular. Awesome!",
+      "screenshot": "screenshots/arcadepirillocomretrowave-road.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A browser toy/game in Chris Pirillo's \"arcade\" collection of seeded mini-games: an endless, procedurally generated synthwave night drive.",
+      "what_it_shows": "A single-screen canvas game with a \"Record the Drive\" capture feature, plus an FAQ section and repeated \"Retrowave Road\" heading blocks below the fold.",
+      "how_it_works": "A from-scratch canvas renderer (1 canvas, 8 svg icons, 0 img/video) seeded by a URL query param; the only third-party scripts are Google Tag Manager and Cloudflare Insights — no game-engine globals exposed.",
+      "how_its_designed": "Deep-purple/near-black ground (#0a0416) with a neon orange-to-yellow gradient accent (--a #fa6e38 → --b #fac738) and lavender-white text (#e9e4ff), glassy dark panels (rgba(12,6,26,.86)), Audiowide for the display wordmark and Share Tech Mono for UI/labels — a straightforward synthwave/retro-arcade visual language.",
+      "palette": "Near-black purple ground (#0a0416), neon orange→yellow gradient accent (#fa6e38→#fac738), lavender-white text (#e9e4ff)",
+      "fonts": "Audiowide (display/wordmark) + Share Tech Mono (UI/labels) — both classic retro-arcade webfont picks",
+      "pattern_keywords": [
+        "synthwave",
+        "canvas-game",
+        "seeded-generative",
+        "single-screen",
+        "retro"
+      ],
+      "tech_stack": [
+        "Vanilla Canvas/JS",
+        "Google Tag Manager",
+        "Cloudflare"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--a",
+          "value": "rgb(250,110,56)",
+          "kind": "var"
+        },
+        {
+          "name": "--b",
+          "value": "rgb(250,199,56)",
+          "kind": "var"
+        },
+        {
+          "name": "--ink",
+          "value": "#0a0416",
+          "kind": "var"
+        },
+        {
+          "name": "--tx",
+          "value": "#e9e4ff",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Audiowide 400",
+        "Share Tech Mono 400"
+      ],
+      "meta": {
+        "description": "Retrowave Road generates an endless synthwave highway — seeded neon worlds, a generative 80s soundtrack. Like, totally tubular. Awesome!",
+        "og_image": "https://arcade.pirillo.com/images/retrowave-road.jpg",
+        "twitter_card": null,
+        "canonical": "https://arcade.pirillo.com/retrowave-road.html",
+        "favicon": "https://arcade.pirillo.com/favicon.ico"
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 1,
+        "video": 0,
+        "svg": 8,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "Retrowave Road: Infinite Synthwave Night Drive",
+        "Record the Drive",
+        "Retrowave Road",
+        "FAQ"
+      ],
+      "responsive_note": "At 390px the reported scrollHeight (844px) equals the viewport height; the game canvas fills a fixed single screen at both sizes rather than reflowing.",
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "dark",
+        "vibe": [
+          "retro",
+          "experimental"
+        ],
+        "topics": [
+          "gaming"
+        ]
+      }
+    },
+    "clipart.studio": {
+      "url": "https://clipart.studio/",
+      "title": "clipart.studio — magazine collage maker",
+      "tagline": "Digital collage studio. Pick a magazine from the Internet Archive, clip the pieces you want, arrange them on the page.",
+      "screenshot": "screenshots/clipartstudio.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "A free digital collage-making tool that lets you cut clippings from real vintage magazines (sourced from the Internet Archive's magazine rack) and Wikimedia Commons CC0 images and arrange them on a virtual cutting mat.",
+      "what_it_shows": "A left rail of magazine covers by category (\"Tech & Science\": Popular Science, Macworld, Science Illustrated…) plus an \"Images\" tab and upload option; the main canvas is a teal cutting mat with a magazine photo open, complete with a knife cursor and cut guides for clipping.",
+      "how_it_works": "A canvas-based editor (1 canvas, 36 svg tool icons, 12 img) with custom knife/rotate cursors defined as inline SVG data-URIs; credited \"made by Sami Smith,\" powered by the Internet Archive magazine rack + Wikimedia Commons CC0, with Cloudflare as the only third-party script host.",
+      "how_its_designed": "A literal analog-craft-desk aesthetic: warm cream paper background (--paper #fffaeb), warm brown ink (--ink #5e3a1a), a mustard-butter accent (--butter #f3d77a), and a teal cutting mat (--mat #1e8273); IM Fell English (old-book serif) for display type, IBM Plex Sans for UI/body, plus a subtle SVG paper-grain texture overlay.",
+      "palette": "Cream paper background (#fffaeb), warm brown ink (#5e3a1a), mustard-butter accent (#f3d77a), teal cutting mat (#1e8273)",
+      "fonts": "IM Fell English (old-book serif display) + IBM Plex Sans (UI/body)",
+      "pattern_keywords": [
+        "collage",
+        "craft-desk",
+        "magazine-clippings",
+        "canvas-editor",
+        "organic-warm"
+      ],
+      "tech_stack": [
+        "Vanilla Canvas/JS",
+        "Cloudflare"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--paper",
+          "value": "#fffaeb",
+          "kind": "var"
+        },
+        {
+          "name": "--ink",
+          "value": "#5e3a1a",
+          "kind": "var"
+        },
+        {
+          "name": "--butter",
+          "value": "#f3d77a",
+          "kind": "var"
+        },
+        {
+          "name": "--mat",
+          "value": "#1e8273",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "IBM Plex Sans 400"
+      ],
+      "meta": {
+        "description": "Digital collage studio. Pick a magazine from the Internet Archive, clip the pieces you want, arrange them on the page.",
+        "og_image": "https://clipart.studio/assets/og.png",
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "https://clipart.studio/assets/favicon.svg"
+      },
+      "media_mix": {
+        "img": 12,
+        "canvas": 1,
+        "video": 0,
+        "svg": 36,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "clipart studio — magazine collage"
+      ],
+      "responsive_note": "At 390px the reported scrollHeight (844px) equals the viewport height; the cutting-mat editor is a fixed single-screen canvas rather than a scrolling page.",
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "playful"
+        ],
+        "topics": [
+          "art"
+        ]
+      }
+    },
+    "ciggies.app": {
+      "url": "https://www.ciggies.app/",
+      "title": "中国卷烟博物馆 · Chinese Cigarette Museum",
+      "tagline": "The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings.",
+      "screenshot": "screenshots/ciggiesapp.png",
+      "extracted_at": "2026-09-22",
+      "extracted_via": "1440x900 desktop viewport capture (fullPage timed out) + 390x844 mobile pass, logged_out: true",
+      "what_it_is": "An exhaustive bilingual digital museum/archive cataloguing thousands of Chinese cigarette pack designs by brand, credited to @0x_ultra.",
+      "what_it_shows": "A dense photographic grid of cigarette packs (SOBRANIE, Beijing, Baisha, Dujiang, Zhongnanhai, and more) surrounding a centered hero panel with the Chinese title \"中国卷烟博物馆\" / \"CHINESE CIGARETTE MUSEUM,\" a \"218 brands · 3,258 products\" stat line, a \"Browse collection\" CTA, and \"How it works\"/\"Why this exists\" links.",
+      "how_it_works": "A straightforward image-catalog site (110 img, 14 svg, no canvas/video on the landing view) with Collection/Discover/Brands/Community/Feed navigation and Sign In, built with a Tailwind CSS custom-property system and Cloudflare Insights as the only third-party script.",
+      "how_its_designed": "Clean white ground with near-black ink and a single loud red accent (--color-gold, oddly named but rendered rgb(255,59,48)); DM Sans for Latin UI text paired with Noto Serif SC for the museum's Chinese wordmark — an editorial-archive look that makes a huge product grid read like a gallery wall. No semantic h1/h2 was found in the DOM; the pitch copy is rendered via styled divs.",
+      "palette": "White ground, near-black ink, single red accent (--color-gold, rgb(255,59,48))",
+      "fonts": "DM Sans (UI/body) + Noto Serif SC (Chinese display serif for the museum wordmark)",
+      "pattern_keywords": [
+        "archive",
+        "product-grid",
+        "bilingual",
+        "editorial",
+        "directory-gallery"
+      ],
+      "tech_stack": [
+        "Tailwind CSS",
+        "Cloudflare"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--color-gold",
+          "value": "rgb(255,59,48)",
+          "kind": "var"
+        },
+        {
+          "name": "--color-ink",
+          "value": "rgb(255,255,255)",
+          "kind": "var"
+        },
+        {
+          "name": "--color-ash",
+          "value": "rgb(11,11,13)",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "DM Sans 400",
+        "DM Sans 500",
+        "DM Sans 600",
+        "DM Sans 700",
+        "Noto Serif SC 500",
+        "Noto Serif SC 700"
+      ],
+      "meta": {
+        "description": "The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings. Browse Zhonghua, Panda, Liqun, Yellow Crane Tower, and thousands more.",
+        "og_image": "https://ciggies.app/opengraph-image?5b77838236e879ec",
+        "twitter_card": null,
+        "canonical": "https://ciggies.app/",
+        "favicon": "https://www.ciggies.app/favicon.ico"
+      },
+      "media_mix": {
+        "img": 110,
+        "canvas": 0,
+        "video": 0,
+        "svg": 14,
+        "iframe": 0
+      },
+      "page_height_px": 3705,
+      "is_single_screen": false,
+      "headings": [],
+      "responsive_note": "At 390px scrollHeight grows to 8104px as the pack grid collapses into a narrower, taller column layout.",
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": []
       }
     }
   }

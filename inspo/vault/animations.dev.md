@@ -52,5 +52,5 @@ Warm, refined, light editorial. From getComputedStyle the canvas is a warm off-w
 - [[transitions.dev]] — shared: docs-resource, minimal, design, engineering, light
 - [[21st.dev]] — shared: minimal, editorial, design, engineering, light
 - [[interfaces.dev]] — shared: minimal, editorial, design, engineering, light
+- [[jib.design]] — shared: minimal, editorial, design, engineering, light
 - [[sensory-ui.com]] — shared: minimal, editorial, design, engineering, light
-- [[walkinglabs.github.io]] — shared: docs-resource, editorial, engineering, light

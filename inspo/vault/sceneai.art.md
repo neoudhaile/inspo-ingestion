@@ -51,5 +51,5 @@ A dark, near-black neutral canvas (--background #171717, rendered rgb(23,23,23))
 - [[killedbyopenai.com]] — shared: directory-gallery, technical, ai, dark
 - [[roam.neesh.page]] — shared: directory-gallery, experimental, design, dark
 - [[21st.dev]] — shared: directory-gallery, design, ai
+- [[canivibecodeit.com]] — shared: directory-gallery, technical, ai
 - [[coolsites.ai]] — shared: directory-gallery, design, ai
-- [[crustdata.com]] — shared: experimental, technical, ai, dark

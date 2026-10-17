@@ -49,7 +49,7 @@ Serene, Muji-like minimalism. From getComputedStyle the canvas is light grey (bo
 ## Related sites
 - [[poolsuite.net]] — shared: experiment-art, playful, music, light
 - [[mercuryos.com]] — shared: experiment-art, minimal, light
+- [[cig-index.vercel.app]] — shared: minimal, playful, light
 - [[designrebuilds.vercel.app]] — shared: minimal, playful, light
-- [[julian.ai]] — shared: minimal, playful, light
-- [[kmk0.com]] — shared: minimal, playful, light
-- [[mo1.app]] — shared: minimal, playful, light
+- [[drawably.dev]] — shared: minimal, playful, light
+- [[gyanl.com]] — shared: minimal, playful, light

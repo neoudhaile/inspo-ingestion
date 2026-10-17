@@ -40,9 +40,9 @@ Restrained editorial minimalism: generous whitespace, a single centered measure 
 - **Extracted:** 2026-06-04 · playwright-mcp @ 1440x900
 
 ## Related sites
+- [[jib.design]] — shared: portfolio, minimal, editorial, engineering, light
 - [[addyosmani.com]] — shared: portfolio, minimal, editorial, engineering
 - [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
 - [[asekachov.com]] — shared: portfolio, minimal, editorial, light
 - [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
 - [[christophlocher.com]] — shared: portfolio, minimal, editorial, light
-- [[designrebuilds.vercel.app]] — shared: portfolio, minimal, engineering, light

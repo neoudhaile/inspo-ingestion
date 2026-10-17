@@ -41,8 +41,8 @@ Wall-to-wall retro-computing nostalgia, rendered entirely in the Silkscreen pixe
 
 ## Related sites
 - [[designrebuilds.vercel.app]] — shared: portfolio, playful, design, light
+- [[gyanl.com]] — shared: portfolio, playful, design, light
 - [[jessa.art]] — shared: portfolio, playful, design, light
 - [[kiira.in]] — shared: portfolio, retro, design, light
 - [[kmk0.com]] — shared: portfolio, playful, design, light
 - [[maximin.design]] — shared: portfolio, playful, design, light
-- [[asekachov.com]] — shared: portfolio, design, light

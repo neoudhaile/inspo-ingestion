@@ -50,7 +50,7 @@ Warm 'paper café' aesthetic rendered in a light theme — an off-white canvas (
 ## Related sites
 - [[21st.dev]] — shared: directory-gallery, editorial, light
 - [[are.na]] — shared: directory-gallery, editorial, light
+- [[ciggies.app]] — shared: directory-gallery, editorial, light
 - [[coolsites.ai]] — shared: directory-gallery, organic-warm, light
 - [[designtools.fyi]] — shared: directory-gallery, editorial, light
 - [[type.lol]] — shared: directory-gallery, editorial, light
-- [[typo.love]] — shared: directory-gallery, organic-warm, light

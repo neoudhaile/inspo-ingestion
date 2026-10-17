@@ -50,7 +50,7 @@ A soft, editorial-illustrative system driven by CSS variables. getComputedStyle 
 ## Related sites
 - [[chusmargallo.space]] — shared: portfolio, playful, design, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, playful, design, light
+- [[gyanl.com]] — shared: portfolio, playful, design, light
 - [[jessyin.world]] — shared: portfolio, organic-warm, playful, light
 - [[kiira.in]] — shared: portfolio, organic-warm, design, light
 - [[kmk0.com]] — shared: portfolio, playful, design, light
-- [[maximin.design]] — shared: portfolio, playful, design, light

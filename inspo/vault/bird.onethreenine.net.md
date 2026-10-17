@@ -47,6 +47,8 @@ A warm paper-and-ink scheme defined entirely in CSS variables — --paper #fcfcf
 - **Extracted:** 2026-06-06 · Playwright MCP, 1440x900 + 390x844, logged_out: true
 
 ## Related sites
+- [[evebouffard.com]] — shared: experiment-art, organic-warm, art, light
+- [[clipart.studio]] — shared: organic-warm, art, light
 - [[iacopoapps.appspot.com]] — shared: experiment-art, art
 - [[lelezhang.design]] — shared: organic-warm, art, light
 - [[zzz.zoomquilt.org]] — shared: experiment-art, art

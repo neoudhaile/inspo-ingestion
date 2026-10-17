@@ -53,6 +53,6 @@ A calm, editorial docs aesthetic on a warm ‘paper’ ground (rendered body bg 
 - [[heyneuma.com]] — shared: docs-resource, organic-warm, ai, education, light
 - [[printingpress.dev]] — shared: editorial, organic-warm, engineering, ai, light
 - [[animations.dev]] — shared: docs-resource, editorial, engineering, light
+- [[humanityslastmachine.com]] — shared: docs-resource, editorial, engineering, light
 - [[makingsoftware.com]] — shared: docs-resource, editorial, engineering, light
 - [[midu.dev]] — shared: docs-resource, engineering, education, light
-- [[21st.dev]] — shared: editorial, engineering, ai, light

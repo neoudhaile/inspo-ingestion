@@ -51,3 +51,4 @@ Pure dark theme: a true-black body (rgb(0,0,0)) with white text, accented by nea
 - [[eko.lumaris.works]] — shared: startup-product, luxury, dark
 - [[b150.ai]] — shared: startup-product, experimental
 - [[contralabs.com]] — shared: startup-product, luxury
+- [[hermeus.com]] — shared: startup-product, luxury

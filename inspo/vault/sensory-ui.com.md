@@ -49,9 +49,9 @@ Crisp editorial light theme with a single bold accent: a white ground (--backgro
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
+- [[drawably.dev]] — shared: tool-app, minimal, engineering, design, light
 - [[itshover.com]] — shared: tool-app, minimal, engineering, design, light
 - [[patterncraft.fun]] — shared: tool-app, minimal, engineering, design, light
 - [[serif.sh]] — shared: tool-app, editorial, minimal, design, light
 - [[21st.dev]] — shared: editorial, minimal, engineering, design, light
 - [[animations.dev]] — shared: editorial, minimal, engineering, design, light
-- [[interfaces.dev]] — shared: editorial, minimal, engineering, design, light

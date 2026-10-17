@@ -50,8 +50,8 @@ Friendly, OS-widget aesthetic: a light grey ground with rounded, frosted/elevate
 
 ## Related sites
 - [[designrebuilds.vercel.app]] — shared: portfolio, playful, minimal, engineering, design, light
-- [[lab01.dev]] — shared: portfolio, minimal, engineering, design
-- [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, light
-- [[asekachov.com]] — shared: portfolio, minimal, design, light
-- [[axiaisacat.indiehacker.bio]] — shared: portfolio, minimal, engineering, light
-- [[christophlocher.com]] — shared: portfolio, minimal, design, light
+- [[gyanl.com]] — shared: portfolio, playful, minimal, design, light
+- [[jib.design]] — shared: portfolio, minimal, engineering, design, light
+- [[mikes.cv]] — shared: portfolio, playful, minimal, design, light
+- [[pengzhe.ng]] — shared: portfolio, playful, minimal, design, light
+- [[drawably.dev]] — shared: playful, minimal, engineering, design, light

@@ -53,7 +53,7 @@ With Your Systems / Varick Agents Live in Production / Explore what AI agents co
 ## Related sites
 - [[drafts9.com]] — shared: studio-agency, corporate-clean, startups, light
 - [[ignytlabs.com]] — shared: studio-agency, corporate-clean, startups, light
+- [[canivibecodeit.com]] — shared: technical, ai, startups, light
 - [[creao.ai]] — shared: corporate-clean, ai, startups, light
 - [[nicolasbustamante.com]] — shared: technical, ai, startups, light
 - [[shipper.now]] — shared: corporate-clean, ai, startups, light
-- [[cofounder.co]] — shared: technical, ai, startups

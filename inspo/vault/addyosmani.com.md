@@ -51,7 +51,7 @@ Monochrome and editorial: alternating light and dark bands — a white content g
 ## Related sites
 - [[arneshbanerjee.github.io]] — shared: portfolio, minimal, engineering, ai
 - [[daviskeene.com]] — shared: portfolio, minimal, editorial, engineering
+- [[jib.design]] — shared: portfolio, minimal, editorial, engineering
 - [[spyrosigma.in]] — shared: portfolio, minimal, engineering, ai
 - [[21st.dev]] — shared: minimal, editorial, engineering, ai
 - [[alisawuffles.github.io]] — shared: portfolio, minimal, ai
-- [[ankit-rai.com]] — shared: portfolio, minimal, editorial

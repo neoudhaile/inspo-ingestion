@@ -50,7 +50,7 @@ Light, Apple-ish and playful: a cream/white ground with a soft warm-peach radial
 ## Related sites
 - [[gatheros.co]] — shared: startup-product, minimal, design, light
 - [[designrebuilds.vercel.app]] — shared: playful, minimal, design, light
+- [[drawably.dev]] — shared: playful, minimal, design, light
+- [[gyanl.com]] — shared: playful, minimal, design, light
 - [[kmk0.com]] — shared: playful, minimal, design, light
-- [[apps.ankiweb.net]] — shared: startup-product, minimal, light
-- [[b150.ai]] — shared: startup-product, playful, light
-- [[backdoorai.app]] — shared: startup-product, minimal, light
+- [[mikes.cv]] — shared: playful, minimal, design, light

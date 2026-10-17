@@ -49,9 +49,9 @@ Clean light docs-style UI in a slate palette: white ground (--background #fff) w
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844, logged_out: true
 
 ## Related sites
+- [[drawably.dev]] — shared: tool-app, minimal, design, engineering, light
 - [[itshover.com]] — shared: tool-app, minimal, design, engineering, light
 - [[sensory-ui.com]] — shared: tool-app, minimal, design, engineering, light
 - [[akira.sachi.dev]] — shared: tool-app, minimal, engineering, light
 - [[serif.sh]] — shared: tool-app, minimal, design, light
 - [[21st.dev]] — shared: minimal, design, engineering, light
-- [[animations.dev]] — shared: minimal, design, engineering, light

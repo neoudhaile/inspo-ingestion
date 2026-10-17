@@ -47,9 +47,9 @@ Pure content-forward — the painting is the design. Chrome is minimal: from get
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
+- [[arcade.pirillo.com]] — shared: experiment-art, experimental, retro, dark
 - [[iacopoapps.appspot.com]] — shared: experiment-art, experimental, art, dark
 - [[ytch.tv]] — shared: experiment-art, retro, dark
 - [[backgrounds.supply]] — shared: experimental, art, dark
 - [[bird.onethreenine.net]] — shared: experiment-art, art
-- [[mrdoob.com]] — shared: experimental, art, dark
-- [[poolsuite.net]] — shared: experiment-art, retro
+- [[evebouffard.com]] — shared: experiment-art, art

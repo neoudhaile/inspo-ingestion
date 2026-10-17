@@ -49,7 +49,7 @@ A vivid purple-to-indigo gradient hero sits over a white body; project cards are
 ## Related sites
 - [[chusmargallo.space]] — shared: portfolio, playful, design, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, playful, design, light
+- [[gyanl.com]] — shared: portfolio, playful, design, light
 - [[jessa.art]] — shared: portfolio, playful, design, light
 - [[kmk0.com]] — shared: portfolio, playful, design, light
-- [[asekachov.com]] — shared: portfolio, design, light
-- [[christophlocher.com]] — shared: portfolio, design, light
+- [[mikes.cv]] — shared: portfolio, playful, design, light

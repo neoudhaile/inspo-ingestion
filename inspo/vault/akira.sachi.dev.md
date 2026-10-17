@@ -50,7 +50,7 @@ Technical, mono, near-monochrome: a white ground (--background #fff) with near-b
 ## Related sites
 - [[itshover.com]] — shared: tool-app, technical, minimal, engineering, light
 - [[colf.dev]] — shared: tool-app, technical, engineering, light
+- [[drawably.dev]] — shared: tool-app, minimal, engineering, light
+- [[humanatlas.quest]] — shared: tool-app, technical, minimal, light
 - [[patterncraft.fun]] — shared: tool-app, minimal, engineering, light
 - [[sensory-ui.com]] — shared: tool-app, minimal, engineering, light
-- [[designengineer.tools]] — shared: technical, minimal, engineering, light
-- [[ditther.com]] — shared: tool-app, technical, minimal

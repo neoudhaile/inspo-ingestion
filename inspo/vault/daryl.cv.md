@@ -53,4 +53,4 @@ Radical restraint, used as a designer's flex. From the DOM the page uses the sys
 - [[christophlocher.com]] — shared: portfolio, minimal, design, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
 - [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light
-- [[joonasvirtanen.com]] — shared: portfolio, minimal, design, light
+- [[gyanl.com]] — shared: portfolio, minimal, design, light

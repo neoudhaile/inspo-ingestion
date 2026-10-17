@@ -49,5 +49,6 @@ Full pixel-art nostalgia. The loaded faces are bitmap/retro display fonts — Pi
 ## Related sites
 - [[typatone.com]] — shared: experiment-art, playful, music, light
 - [[ytch.tv]] — shared: experiment-art, retro, playful
+- [[arcade.pirillo.com]] — shared: experiment-art, retro
 - [[chusmargallo.space]] — shared: retro, playful, light
 - [[zzz.zoomquilt.org]] — shared: experiment-art, retro

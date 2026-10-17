@@ -54,4 +54,4 @@ Ultra-minimal developer-blog aesthetic built on the Geist typeface and a shadcn/
 - [[richzou.com]] — shared: personal-blog, minimal, startups, light
 - [[ashpreetbedi.com]] — shared: personal-blog, technical, ai
 - [[backdoorai.app]] — shared: minimal, ai, startups, light
-- [[debarghyadas.com]] — shared: minimal, ai, startups, light
+- [[canivibecodeit.com]] — shared: technical, ai, startups, light

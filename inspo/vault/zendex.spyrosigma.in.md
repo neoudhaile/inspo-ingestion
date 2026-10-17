@@ -53,5 +53,5 @@ A clean dark utility built on Tailwind v4 design tokens: a near-black background
 - [[ditther.com]] — shared: tool-app, minimal, technical, dark
 - [[tryponcho.com]] — shared: tool-app, technical, productivity, dark
 - [[akira.sachi.dev]] — shared: tool-app, minimal, technical
+- [[humanatlas.quest]] — shared: tool-app, minimal, technical
 - [[itshover.com]] — shared: tool-app, minimal, technical
-- [[serif.sh]] — shared: tool-app, minimal, writing

@@ -50,7 +50,7 @@ Near-white paper (body background rgb(252,252,252)) with near-black ink, set in 
 ## Related sites
 - [[21st.dev]] — shared: editorial, minimal, design, engineering, light
 - [[animations.dev]] — shared: editorial, minimal, design, engineering, light
+- [[jib.design]] — shared: editorial, minimal, design, engineering, light
 - [[sensory-ui.com]] — shared: editorial, minimal, design, engineering, light
 - [[claude.com]] — shared: publication-newsletter, editorial, engineering, light
 - [[geniusmargins.com]] — shared: publication-newsletter, editorial, minimal, light
-- [[anyblockers.com]] — shared: editorial, minimal, engineering, light

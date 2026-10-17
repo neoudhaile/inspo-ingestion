@@ -48,8 +48,8 @@ Crisp Swiss/editorial layout with an unusually confident colour block. The palet
 
 ## Related sites
 - [[asekachov.com]] — shared: portfolio, editorial, minimal, design, light
+- [[jib.design]] — shared: portfolio, editorial, minimal, design, light
 - [[joonasvirtanen.com]] — shared: portfolio, editorial, minimal, design, light
 - [[daryl.cv]] — shared: portfolio, minimal, design, light
 - [[daviskeene.com]] — shared: portfolio, editorial, minimal, light
 - [[designrebuilds.vercel.app]] — shared: portfolio, minimal, design, light
-- [[gaspardhedde.fr]] — shared: portfolio, minimal, design, light

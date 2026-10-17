@@ -51,7 +51,7 @@ Warm, paper-like editorial: a cream ground (rgb(253,252,249)) with near-black in
 ## Related sites
 - [[sensory-ui.com]] — shared: tool-app, editorial, minimal, design, light
 - [[vivekhaldar.com]] — shared: tool-app, editorial, minimal, writing, light
+- [[drawably.dev]] — shared: tool-app, minimal, design, light
 - [[itshover.com]] — shared: tool-app, minimal, design, light
 - [[patterncraft.fun]] — shared: tool-app, minimal, design, light
 - [[21st.dev]] — shared: editorial, minimal, design, light
-- [[animations.dev]] — shared: editorial, minimal, design, light

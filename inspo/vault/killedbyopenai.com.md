@@ -49,7 +49,7 @@ A terminal/obituary aesthetic in monospace on near-black, with the palette decla
 ## Related sites
 - [[motionsites.ai]] — shared: directory-gallery, technical, ai, dark
 - [[sceneai.art]] — shared: directory-gallery, technical, ai, dark
+- [[canivibecodeit.com]] — shared: directory-gallery, technical, ai
 - [[21st.dev]] — shared: directory-gallery, ai
 - [[are.na]] — shared: directory-gallery, ai
 - [[ashpreetbedi.com]] — shared: technical, ai, dark
-- [[coolsites.ai]] — shared: directory-gallery, ai

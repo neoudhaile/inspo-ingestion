@@ -51,6 +51,6 @@ A crisp editorial 'zine' look on white with a retro pixel-typewriter headline. g
 - [[21st.dev]] — shared: directory-gallery, editorial, minimal, design, light
 - [[type.lol]] — shared: directory-gallery, editorial, minimal, design, light
 - [[are.na]] — shared: directory-gallery, editorial, minimal, light
+- [[ciggies.app]] — shared: directory-gallery, editorial, minimal, light
 - [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
 - [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
-- [[nicelydone.club]] — shared: directory-gallery, minimal, design, light

@@ -47,5 +47,7 @@ A pure retro-terminal aesthetic. Black ground (rgb(0,0,0)) with IBM Plex Mono (5
 
 ## Related sites
 - [[poolsuite.net]] — shared: experiment-art, retro, playful
+- [[arcade.pirillo.com]] — shared: experiment-art, retro, dark
 - [[zzz.zoomquilt.org]] — shared: experiment-art, retro, dark
+- [[comnyang.com]] — shared: retro, playful, dark
 - [[typatone.com]] — shared: experiment-art, playful
