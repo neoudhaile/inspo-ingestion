@@ -1,0 +1,38 @@
+# source: instagram saved "tech" collection — 44 videos parsed 2026-10-17 (batch: ig-tech-saved)
+# why: design-teardown-worthy sites surfaced across the batch — webgl/3d studios, animation libraries, creative-tool uis, and one full site design breakdown
+https://getartcraft.com/apps
+# ^ video demoed ai-built open-source clones of adobe apps (photocraft, vectorcraft, etc.);
+#   the teardown target is the cloned app uis themselves, not the marketing page
+https://www.fabra.com/
+# ^ browser-based fashion design platform; video showed 2d-to-3d garment fitting in the browser —
+#   the canvas/garment interaction model is what to capture
+https://mobbin.com/
+# ^ curated mobile/web ui reference library; named in a founder's app-building playbook as the design reference to steal from
+https://cavalry.studio/
+# ^ free procedural 2d motion design software; cited in a branding breakdown video — the product/marketing site's own motion work
+https://lenis.dev/
+# ^ buttery smooth-scroll js library; the site itself is the demo — scroll feel is the whole pitch
+https://basement.studio/
+# ^ studio behind interactive 3d landing pages; cited as a go-to reference for web design inspiration
+https://shadergradient.co/
+# ^ customizable 3d animated gradient backgrounds; fully interactive — the gradient controls are the design artifact
+https://www.unicorn.studio/
+# ^ no-code webgl effects tool + inspiration gallery; the gallery shows what's achievable in-browser
+https://componentry.dev/
+# ^ animated react ui components (tailwind/framer motion); cited among "websites that changed my life as a vibecoder"
+https://manus.im/
+# ^ agentic ai builder; cited twice as a site that "doesn't look ai-made" — the marketing site is the artifact
+https://motion.dev/
+# ^ animation library for react/js/vue (formerly framer motion); docs site is well-regarded design
+https://21st.dev/
+# ^ community react component library with copyable prompts; cited as a source of non-ai-looking sites
+https://animejs.com/
+# ^ lightweight js animation library; docs/playground are famously playful — interaction design is the point
+https://gsap.com/
+# ^ industry-standard js animation library; timelines + scroll-effect demos are the teardown material
+https://beatspark.com/
+# ^ "duolingo for ableton" — interactive step-by-step music-production lessons; the lesson interaction model is the artifact
+https://palmier.io/
+# ^ open-source ai-operated video editor; video demoed natural-language editing — the editor ui is the artifact
+https://terminalindustries.com/
+# ^ the entire video is a design breakdown of this site, praised as premium web design — capture hero, type, and motion
