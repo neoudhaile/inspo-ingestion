@@ -28,7 +28,6 @@ Set NEOUD_SKIP_URLCHECK=1 to bypass entirely (offline runs).
 import concurrent.futures
 import os
 import re
-import ssl
 import sys
 import urllib.error
 import urllib.request
@@ -61,6 +60,22 @@ PARKING_MARKERS = (
 
 # Server said no, but a real browser may still get in — never a rejection.
 INCONCLUSIVE_STATUSES = (401, 403, 406, 429)
+
+
+class _Follow308(urllib.request.HTTPRedirectHandler):
+    """Python 3.9's urllib follows 301/302/303/307 but NOT 308.
+
+    Without this, a site on a permanent 308 (gregisenberg.com, killedbyopenai.com)
+    returns its 15-byte "Redirecting..." body, which looks exactly like a parked stub.
+    Real sites were being rejected for using a standard redirect.
+    """
+
+    def http_error_308(self, req, fp, code, msg, headers):
+        return self.http_error_301(req, fp, 301, msg, headers)
+
+
+def _opener():
+    return urllib.request.build_opener(_Follow308())
 
 
 class Verdict:
@@ -115,6 +130,11 @@ def classify(status=None, final_url="", body=None, err=None):
     if any(host == p or host.endswith("." + p) for p in PARKING_HOSTS):
         return False, f"parked (redirects to {host})"
 
+    if body is not None and not body.strip():
+        # Empty response. Under load this is a truncated read, not a dead site —
+        # measuring the corpus flagged claude.com this way. Never evidence.
+        return True, "allowed (empty response — nothing learned)"
+
     if body is not None:
         small = len(body.strip()) < max(STUB_BYTES * 2, 4000)
         low = body.lower()
@@ -130,10 +150,15 @@ def classify(status=None, final_url="", body=None, err=None):
 def fetch(url, timeout=TIMEOUT):
     """GET the first READ_BYTES. Returns (status, final_url, body, err)."""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    ctx = ssl.create_default_context()
     try:
-        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
-            return r.status, r.url, r.read(READ_BYTES).decode("utf-8", "replace"), None
+        with _opener().open(req, timeout=timeout) as r:
+            try:
+                body = r.read(READ_BYTES).decode("utf-8", "replace")
+            except Exception as e:
+                # A read that times out mid-body tells us nothing about the site.
+                # Report it as an error, never as an empty page.
+                return r.status, r.url, None, f"read failed: {type(e).__name__}"
+            return r.status, r.url, body, None
     except urllib.error.HTTPError as e:
         try:
             body = e.read(READ_BYTES).decode("utf-8", "replace")

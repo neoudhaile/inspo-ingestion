@@ -88,3 +88,34 @@ def test_check_many_preserves_order(monkeypatch):
 
 def test_check_many_is_empty_for_no_urls():
     assert uc.check_many([]) == []
+
+
+def test_an_empty_body_is_never_a_rejection():
+    """A truncated read says nothing about the site.
+
+    Measuring the live corpus flagged claude.com as dead this way: under 12 concurrent
+    workers its body came back empty, and the stub rule read that as 'no page here'.
+    """
+    for body in ("", "   ", "\n\n"):
+        ok, reason = uc.classify(200, "https://claude.com/", body)
+        assert ok is True, body
+        assert "nothing learned" in reason
+
+
+def test_a_read_failure_is_reported_as_unreachable_not_as_an_empty_page():
+    ok, reason = uc.classify(200, "https://x.example/", None, err="read failed: timeout")
+    assert ok is False and "unreachable" in reason
+
+
+def test_308_redirects_are_followed():
+    """Python 3.9's urllib stops at 307; a 308 site would look like a parked stub."""
+    import urllib.request
+    assert hasattr(uc._Follow308, "http_error_308")
+    assert issubclass(uc._Follow308, urllib.request.HTTPRedirectHandler)
+    assert any(isinstance(h, uc._Follow308) for h in uc._opener().handlers)
+
+
+def test_a_redirect_notice_body_is_not_treated_as_a_real_page():
+    """What a 308 used to surface — now unreachable only if it truly resolves there."""
+    ok, _ = uc.classify(200, "https://x.example/", "Redirecting...\n")
+    assert ok is False, "a bare redirect stub that actually resolves is still no page"
