@@ -11,10 +11,14 @@
             "id": "f5e0769269b48fd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "hw.cafe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hw.cafe"
             }
           }
         ]
@@ -183,6 +187,9 @@
   },
   "active": "f5e0769269b48fd8",
   "lastOpenFiles": [
+    "arneshbanerjee.github.io.md",
+    "nucleoapp.com.md",
+    "crsanchez.es.md",
     "motionsites.ai.md",
     "palmier.io.md",
     "beatspark.com.md",
@@ -205,9 +212,6 @@
     "vivekhaldar.com.md",
     "photon.codes.md",
     "linkeddit.com.md",
-    "ankit-rai.com.md",
-    "affiliatenetwork.com.md",
-    "davekrugman.com.md",
-    "inspicado.com.md"
+    "ankit-rai.com.md"
   ]
 }
