@@ -19,11 +19,13 @@ import argparse
 import os
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from tools.ingest.config import REPO
 from tools.ingest.add_urls import normalize
+from tools.ingest import urlcheck
 
 QUEUE_DIRNAME = "_queue"
 
@@ -44,6 +46,76 @@ def count_urls(path):
     """How many real URLs a queue file carries (comments/blanks excluded). Pure."""
     text = Path(path).read_text(errors="replace")
     return sum(1 for line in text.splitlines() if normalize(line))
+
+
+def parse_blocks(text):
+    """Split a queue file into (header_lines, [(url, [its comment lines])]).
+
+    A queue file's value is not the URLs — it is the agent's note about what the
+    video showed, written as `#` comments under each URL. So filtering has to move
+    those notes with their URL rather than leave them dangling under the next one.
+    Comments before the first URL are the file header and are always kept. Pure.
+    """
+    header, blocks = [], []
+    for line in text.splitlines():
+        url = normalize(line)
+        if url:
+            blocks.append((url, []))
+        elif blocks:
+            blocks[-1][1].append(line)
+        else:
+            header.append(line)
+    return header, blocks
+
+
+def render_blocks(header, blocks):
+    out = list(header)
+    for url, comments in blocks:
+        out.append(url)
+        out.extend(comments)
+    return "\n".join(out).rstrip("\n") + "\n"
+
+
+def prefilter(repo, path, log=print, checker=urlcheck.check_many):
+    """Drop URLs that are not worth an enrichment chunk, keeping their notes together.
+
+    Returns (kept_file | None, n_kept, rejects). Rejected blocks are written to
+    inspo/_archive/ with the reason, so a wrong call is auditable rather than a
+    silent disappearance — and so a domain that comes back to life can be re-queued.
+    A URL whose final address differs (a redirect) is rewritten to the real one.
+    """
+    header, blocks = parse_blocks(Path(path).read_text(errors="replace"))
+    if not blocks:
+        return None, 0, []
+    verdicts = {v.url: v for v in checker([u for u, _ in blocks])}
+    kept, rejects = [], []
+    for url, comments in blocks:
+        v = verdicts.get(url)
+        if v is None or v.ok:
+            final = v.final_url if (v and v.final_url != url) else url
+            if final != url:
+                log(f"QUEUE_REDIRECT {url} -> {final}")
+            kept.append((final, comments))
+        else:
+            rejects.append((url, comments, v.reason))
+            log(f"QUEUE_REJECT {url} — {v.reason}")
+    if rejects:
+        archive = Path(repo) / "inspo" / "_archive"
+        archive.mkdir(parents=True, exist_ok=True)
+        stamp = time.strftime("%Y%m%d-%H%M%S")
+        dest = archive / f"{stamp}-{Path(path).stem}.rejected.txt"
+        dest.write_text(render_blocks(
+            [f"# rejected by tools.ingest.urlcheck at {stamp}",
+             f"# from {Path(path).name} — re-queue any of these if the site comes back"],
+            [(u, [f"# reason: {why}"] + c) for u, c, why in rejects]))
+        log(f"QUEUE_REJECTS_ARCHIVED {dest.name} ({len(rejects)})")
+    if not kept:
+        return None, 0, rejects
+    inbox = Path(repo) / "inspo" / "_inbox"
+    inbox.mkdir(parents=True, exist_ok=True)
+    kept_file = inbox / f"queue-checked-{Path(path).stem}.txt"
+    kept_file.write_text(render_blocks(header, kept))
+    return kept_file, len(kept), rejects
 
 
 def default_runner(repo, path, label):
@@ -75,11 +147,13 @@ def git_rm(repo, path):
     return not path.exists()
 
 
-def drain(repo, runner=default_runner, remover=git_rm, log=print):
+def drain(repo, runner=default_runner, remover=git_rm, log=print,
+          checker=None):
     """Ingest each queued file, removing only the ones that succeed.
 
     Returns (drained_files, drained_urls, failed_files). Keeps going past a failure
-    so one bad file cannot block the rest of the batch.
+    so one bad file cannot block the rest of the batch. URLs are prefiltered first,
+    so a parked or dead domain never costs an enrichment chunk.
     """
     drained, urls, failed = 0, 0, 0
     for path in queue_files(repo):
@@ -89,12 +163,20 @@ def drain(repo, runner=default_runner, remover=git_rm, log=print):
             remover(repo, path)
             continue
         label = f"queue/{path.name}"
-        log(f"QUEUE_INGEST {path.name} ({n} url(s))")
-        if runner(repo, path, label):
+        checked, n_kept, rejects = prefilter(
+            repo, path, log=log, checker=checker or urlcheck.check_many)
+        if checked is None:
+            # Everything in the file failed the check: nothing to enrich, and the
+            # file is handled — the rejects are archived with their reasons.
+            log(f"QUEUE_ALL_REJECTED {path.name} ({len(rejects)} url(s)) — removing")
+            remover(repo, path)
+            continue
+        log(f"QUEUE_INGEST {path.name} ({n_kept} of {n} url(s) passed the check)")
+        if runner(repo, checked, label):
             if not remover(repo, path):
                 log(f"QUEUE_RM_FAILED {path.name} — may re-ingest next run")
             drained += 1
-            urls += n
+            urls += n_kept
         else:
             failed += 1
             log(f"QUEUE_FAILED {path.name} — kept, will retry next fire")

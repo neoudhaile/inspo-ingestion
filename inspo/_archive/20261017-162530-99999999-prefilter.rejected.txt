@@ -1,0 +1,5 @@
+# rejected by tools.ingest.urlcheck at 20261017-162530
+# from 99999999-prefilter.txt — re-queue any of these if the site comes back
+https://terminalindustries.com/
+# reason: parked (page is a '/lander' stub)
+# ^ the entire video is a design breakdown of this site

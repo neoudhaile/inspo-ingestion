@@ -74,6 +74,12 @@ The teardown itself still happens here, on this machine, with a real browser. Th
 remote agent finds and annotates; it never writes design data. That split is
 deliberate — see the anti-hallucination rule below.
 
+An agent that cannot fetch cannot validate, so every URL it sends is a claim. Each one
+is resolved at drain time and dropped if it is dead or parked before enrichment spends
+anything on it, with the reason and the agent's note kept in `inspo/_archive/`. The
+first batch needed this: its most confidently recommended site was a parked domain
+answering 200 OK with a 114-byte redirect to a GoDaddy lander.
+
 ## How it works
 
 ```
@@ -83,7 +89,8 @@ deliberate — see the anti-hallucination rule below.
              │   and every 30 min so a merged PR gets noticed too
 ┌─ sync ─────┴───────────────────────────────────────────────────────┐
 │ commit this machine's generated output → fetch origin → fast-      │
-│ forward or merge → drain inspo/_queue/ → git rm what landed        │
+│ forward or merge → drain inspo/_queue/ (dead/parked URLs dropped   │
+│ here, with reasons) → git rm what landed                           │
 └──────────────────────────────┬─────────────────────────────────────┘
                                ▼
 ┌─ deterministic Python (tools/ingest) ──────────────────────────────┐
@@ -138,7 +145,7 @@ Decisions that carry weight:
 | `inspo/_ledger.json` | Processed ids and provenance — the dedup authority |
 | `inspo/_archive/` | Raw exports, kept forever |
 | `screenshots/` | Full-page PNG per torn-down site |
-| `tools/ingest/` | The pipeline: `ingest.py` (diff/harvest) · `add_urls.py` (the universal URL adapter) · `drain_queue.py` + `sync_repo.py` (the PR medium) · `enrich.sh` + `enrich_prompt.md` (the model SOP) · `writers.py` / `apply_enriched.py` (merge) · `render_vault.py` · `taxonomy.json` · `classify_facets.py` · `backfill.py` · launchd plist + `INSTALL.md` |
+| `tools/ingest/` | The pipeline: `ingest.py` (diff/harvest) · `add_urls.py` (the universal URL adapter) · `drain_queue.py` + `sync_repo.py` + `urlcheck.py` (the PR medium) · `enrich.sh` + `enrich_prompt.md` (the model SOP) · `writers.py` / `apply_enriched.py` (merge) · `render_vault.py` · `taxonomy.json` · `classify_facets.py` · `backfill.py` · launchd plist + `INSTALL.md` |
 | `run.sh` | Daemon entrypoint: lock → sync → guard → chunk loop → queue drain → vault rebuild → archive → publish |
 | `tests/` | pytest suite covering every deterministic stage |
 
