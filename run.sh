@@ -135,6 +135,7 @@ echo "publish: $PUB"
 case "$PUB" in
   *PUSH_FAILED*) notify "Committed locally but push failed — next sync may be blocked" ;;
   *FOREIGN*)     notify "Nothing published — uncommitted hand edits outside inspo/" ;;
+  *ADD_FAILED*)  notify "Publish aborted — could not stage the run (git index busy)" ;;
 esac
 
 notify "Done ✓ $DONE bookmark(s) processed — vault updated"

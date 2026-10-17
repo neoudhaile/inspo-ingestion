@@ -24,6 +24,7 @@ Callers read the STATUS line from stdout.
 import argparse
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
@@ -100,7 +101,18 @@ def commit_generated(repo, message):
         return "CLEAN"
     # Stage the detected paths, not the prefixes: `git add -- inspo/ screenshots/`
     # fails as a whole if either directory does not exist, silently staging nothing.
-    _git(repo, "add", "--", *daemon)
+    r = _git(repo, "add", "--", *daemon)
+    if r.returncode != 0 and "index.lock" in (r.stderr or ""):
+        # Another git process (a second session, or an overlapping fire) held the
+        # index. Brief retry — this is contention, not a real error.
+        time.sleep(2)
+        r = _git(repo, "add", "--", *daemon)
+    if r.returncode != 0:
+        # Must not fall through to the commit. Something else may already have
+        # staged part of the run (drain_queue's `git rm` stages its deletion), so
+        # committing here would publish a PARTIAL set and report it as success —
+        # which is how a 93-file vault rebuild once landed as a 1-file commit.
+        return "ADD_FAILED"
     # Count what is actually staged, not what was merely detected dirty — `add` can
     # drop a path (ignored, or a pathspec that did not match) and a status line that
     # disagrees with the commit is worse than no status line.
@@ -157,12 +169,16 @@ def push(repo):
     return "PUSH_OK"
 
 
-def is_ahead(repo):
-    """Does local main hold commits origin/main lacks?"""
-    remote = _git(repo, "rev-parse", f"{REMOTE}/{BRANCH}").stdout.strip()
-    if not remote:
+def local_is_ahead(repo):
+    """True when HEAD has commits origin/main lacks, i.e. a push is owed.
+
+    Strict: a DIVERGED local is not "ahead", because pushing it would be rejected —
+    that case has to go through fetch_and_integrate first.
+    """
+    local, remote = _rev(repo, "HEAD"), _rev(repo, f"{REMOTE}/{BRANCH}")
+    if not local or not remote or local == remote:
         return False
-    return _git(repo, "merge-base", "--is-ancestor", "HEAD", remote).returncode != 0
+    return _git(repo, "merge-base", "--is-ancestor", remote, local).returncode == 0
 
 
 def do_pull(repo):
@@ -177,24 +193,22 @@ def do_pull(repo):
     c = commit_generated(repo, "Data: daemon output before sync")
     if c.startswith("FOREIGN"):
         return f"SYNC_SKIPPED_FOREIGN {c.split()[1]}"
+    if c == "ADD_FAILED":
+        return "SYNC_ADD_FAILED"
     status = f"SYNC {c} {fetch_and_integrate(repo)}"
-    if is_ahead(repo):
+    if local_is_ahead(repo):
         status += f" {push(repo)}"
     return status
-
-
-def local_is_ahead(repo):
-    """True when HEAD has commits origin/main lacks (needs a push)."""
-    local, remote = _rev(repo, "HEAD"), _rev(repo, f"{REMOTE}/{BRANCH}")
-    if not local or not remote or local == remote:
-        return False
-    return _git(repo, "merge-base", "--is-ancestor", remote, local).returncode == 0
 
 
 def do_publish(repo, message):
     c = commit_generated(repo, message)
     if c.startswith("FOREIGN"):
         return f"PUBLISH_SKIPPED_FOREIGN {c.split()[1]}"
+    if c == "ADD_FAILED":
+        # Do not push: part of the run may be staged, and the run's real output is
+        # still sitting dirty. Next fire picks it all up.
+        return "PUBLISH_ADD_FAILED"
     if c == "CLEAN":
         # Nothing new to commit, but the sync step may have committed generated
         # output on a run that then found no work and exited. Leaving that commit

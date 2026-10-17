@@ -226,7 +226,7 @@ def test_pull_pushes_when_it_leaves_local_ahead(repo, origin):
     remote_head = subprocess.run(["git", "rev-parse", "main"], cwd=str(bare),
                                  capture_output=True, text=True).stdout.strip()
     assert remote_head == head(repo), "the commit this pull made must reach origin"
-    assert not sr.is_ahead(repo)
+    assert not sr.local_is_ahead(repo)
 
 
 def test_pull_pushes_a_merge_commit_it_created(repo, origin):
@@ -240,7 +240,7 @@ def test_pull_pushes_a_merge_commit_it_created(repo, origin):
 
     status = sr.do_pull(repo)
     assert "MERGE_OK" in status and "PUSH_OK" in status, status
-    assert not sr.is_ahead(repo)
+    assert not sr.local_is_ahead(repo)
 
 
 def test_pull_does_not_push_a_clean_up_to_date_repo(repo):
@@ -288,3 +288,57 @@ def test_local_is_ahead_false_when_only_the_remote_moved(repo, origin):
     git(seed, "add", "-A"); git(seed, "commit", "-m", "r"); git(seed, "push", "origin", "main")
     git(repo, "fetch", "origin", "main")
     assert not sr.local_is_ahead(repo)
+
+
+def test_commit_generated_refuses_to_commit_when_add_fails(repo, monkeypatch):
+    """A failed `git add` must not fall through into a partial commit.
+
+    drain_queue's `git rm` stages its deletion before publish runs, so if `add`
+    fails and we commit anyway, that lone staged deletion ships as the whole run —
+    which is exactly how a 93-file vault rebuild once landed as a 1-file commit
+    reported as 'COMMITTED 1'.
+    """
+    (repo / "inspo" / "inspiration.json").write_text('{"a":1}\n')
+    (repo / "inspo" / "staged_already.json").write_text("{}\n")
+    git(repo, "add", "inspo/staged_already.json")   # stands in for the `git rm`
+    before = head(repo)
+
+    real = sr._git
+
+    def fake(r, *args, **kw):
+        if args and args[0] == "add":
+            class R:
+                returncode, stderr, stdout = 1, "fatal: Unable to create index.lock", ""
+            return R()
+        return real(r, *args, **kw)
+
+    monkeypatch.setattr(sr, "_git", fake)
+    monkeypatch.setattr(sr.time, "sleep", lambda _: None)
+    assert sr.commit_generated(repo, "msg") == "ADD_FAILED"
+    assert head(repo) == before, "nothing may be committed when staging failed"
+
+
+def test_add_failure_surfaces_in_pull_and_publish(repo, monkeypatch):
+    (repo / "inspo" / "inspiration.json").write_text('{"a":1}\n')
+    monkeypatch.setattr(sr, "commit_generated", lambda *a, **k: "ADD_FAILED")
+    assert sr.do_pull(repo) == "SYNC_ADD_FAILED"
+    assert sr.do_publish(repo, "m") == "PUBLISH_ADD_FAILED"
+
+
+def test_add_retries_once_on_index_lock_then_succeeds(repo, monkeypatch):
+    (repo / "inspo" / "inspiration.json").write_text('{"a":1}\n')
+    real, calls = sr._git, []
+
+    def fake(r, *args, **kw):
+        if args and args[0] == "add":
+            calls.append(1)
+            if len(calls) == 1:
+                class R:
+                    returncode, stderr, stdout = 1, "fatal: Unable to create index.lock", ""
+                return R()
+        return real(r, *args, **kw)
+
+    monkeypatch.setattr(sr, "_git", fake)
+    monkeypatch.setattr(sr.time, "sleep", lambda _: None)
+    assert sr.commit_generated(repo, "msg") == "COMMITTED 1"
+    assert len(calls) == 2, "contention should be retried exactly once"
