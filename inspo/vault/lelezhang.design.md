@@ -52,4 +52,4 @@ Soft, papery, glassmorphic. From :root tokens the page is warm off-white (--draw
 - [[cafe.endofday.studio]] — shared: tool-app, playful, organic-warm
 - [[coolsites.ai]] — shared: playful, organic-warm, ai, light
 - [[nehasharma.dev]] — shared: playful, organic-warm, ai, light
-- [[cig-index.vercel.app]] — shared: tool-app, playful, light
+- [[shadergradient.co]] — shared: tool-app, playful, art

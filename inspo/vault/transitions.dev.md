@@ -49,9 +49,9 @@ Clean, near-white editorial UI (--bg #fdfdfd, --text #0d0d0d) sitting on a soft 
 - **Extracted:** 2026-06-05 · playwright-mcp @ 1440x900 (fullPage) + mobile 390x844
 
 ## Related sites
+- [[componentry.dev]] — shared: docs-resource, minimal, technical, engineering, design
+- [[motion.dev]] — shared: docs-resource, minimal, technical, engineering, design
 - [[animations.dev]] — shared: docs-resource, minimal, engineering, design, light
 - [[makingsoftware.com]] — shared: docs-resource, technical, engineering, design, light
+- [[animejs.com]] — shared: docs-resource, technical, engineering, design
 - [[designengineer.tools]] — shared: minimal, technical, engineering, design, light
-- [[itshover.com]] — shared: minimal, technical, engineering, design, light
-- [[humanityslastmachine.com]] — shared: docs-resource, technical, engineering, light
-- [[lab01.dev]] — shared: minimal, technical, engineering, design

@@ -48,8 +48,8 @@ A near-black canvas (rendered rgb(0,0,0)) with light-grey headline text (rgb(222
 
 ## Related sites
 - [[linkeddit.com]] — shared: startup-product, corporate-clean, marketing
+- [[cavalry.studio]] — shared: startup-product, corporate-clean, dark
 - [[daytona.io]] — shared: startup-product, corporate-clean, dark
 - [[flowstate.com]] — shared: startup-product, corporate-clean, dark
 - [[langchain.com]] — shared: startup-product, corporate-clean, dark
-- [[bigideasdb.com]] — shared: startup-product, corporate-clean
-- [[creao.ai]] — shared: startup-product, corporate-clean
+- [[palmier.io]] — shared: startup-product, corporate-clean, dark

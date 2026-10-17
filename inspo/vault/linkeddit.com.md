@@ -52,5 +52,5 @@ A clean light theme: white background, near-black ink (rgb(10,10,10)), a blue-vi
 - [[shipper.now]] — shared: startup-product, corporate-clean, playful, light
 - [[simple.ink]] — shared: startup-product, corporate-clean, playful, light
 - [[affiliatenetwork.com]] — shared: startup-product, corporate-clean, marketing
+- [[cavalry.studio]] — shared: startup-product, corporate-clean, playful
 - [[b150.ai]] — shared: startup-product, playful, light
-- [[bigideasdb.com]] — shared: startup-product, corporate-clean, light

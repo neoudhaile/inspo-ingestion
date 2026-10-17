@@ -54,4 +54,4 @@ Pure monochrome restraint: a #fff background and #000 foreground driven by two C
 - [[ravalabs.com]] — shared: studio-agency, minimal, design, light
 - [[ribbit.dk]] — shared: studio-agency, experimental, design, light
 - [[rotimi.design]] — shared: studio-agency, minimal, design, light
-- [[gaspardhedde.fr]] — shared: minimal, experimental, design, light
+- [[basement.studio]] — shared: studio-agency, experimental, design

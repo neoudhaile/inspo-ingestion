@@ -49,9 +49,9 @@ A clean, near-monochrome SaaS-marketing look. From :root the canvas is white (--
 - **Extracted:** 2026-07-05 · Playwright MCP, 1440x900 + 390x844 mobile pass, logged_out: true
 
 ## Related sites
+- [[mobbin.com]] — shared: directory-gallery, minimal, corporate-clean, design, light
 - [[21st.dev]] — shared: directory-gallery, minimal, design, light
 - [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
 - [[designtools.fyi]] — shared: directory-gallery, minimal, design, light
 - [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
 - [[recent.design]] — shared: directory-gallery, minimal, design, light
-- [[type.lol]] — shared: directory-gallery, minimal, design, light

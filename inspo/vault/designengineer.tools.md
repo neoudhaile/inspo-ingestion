@@ -51,7 +51,7 @@ Deliberately plain, editorial and near-monochrome so the tool list is the whole 
 ## Related sites
 - [[21st.dev]] — shared: directory-gallery, minimal, design, engineering, light
 - [[humanoid-index.com]] — shared: directory-gallery, minimal, technical, engineering, light
+- [[getartcraft.com]] — shared: minimal, technical, design, engineering, light
 - [[itshover.com]] — shared: minimal, technical, design, engineering, light
 - [[transitions.dev]] — shared: minimal, technical, design, engineering, light
-- [[designtools.fyi]] — shared: directory-gallery, minimal, design, light
-- [[lab01.dev]] — shared: minimal, technical, design, engineering
+- [[componentry.dev]] — shared: minimal, technical, design, engineering

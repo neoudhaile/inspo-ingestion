@@ -53,5 +53,5 @@ Editorial-product minimalism on white (--background #fff, text #111) with a warm
 - [[rork.com]] — shared: startup-product, minimal, startups, ai
 - [[b150.ai]] — shared: startup-product, startups, ai, light
 - [[creao.ai]] — shared: startup-product, startups, ai, light
+- [[manus.im]] — shared: startup-product, minimal, ai, light
 - [[printingpress.dev]] — shared: startup-product, organic-warm, ai, light
-- [[shipper.now]] — shared: startup-product, startups, ai, light

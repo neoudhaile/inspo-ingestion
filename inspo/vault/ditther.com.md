@@ -44,5 +44,5 @@ Confident dark-app aesthetic: near-black panels (#0d0d0f / #141417) with crisp o
 - [[akira.sachi.dev]] — shared: tool-app, technical, minimal
 - [[humanatlas.quest]] — shared: tool-app, technical, minimal
 - [[itshover.com]] — shared: tool-app, technical, minimal
+- [[shadergradient.co]] — shared: tool-app, art, dark
 - [[stitch.withgoogle.com]] — shared: tool-app, technical, dark
-- [[tryponcho.com]] — shared: tool-app, technical, dark

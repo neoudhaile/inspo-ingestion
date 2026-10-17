@@ -50,6 +50,6 @@ A literal analog-craft-desk aesthetic: warm cream paper background (--paper #fff
 - [[lelezhang.design]] — shared: tool-app, organic-warm, playful, art, light
 - [[appdrop.com]] — shared: tool-app, organic-warm, playful, light
 - [[cafe.endofday.studio]] — shared: tool-app, organic-warm, playful
+- [[shadergradient.co]] — shared: tool-app, playful, art
 - [[cig-index.vercel.app]] — shared: tool-app, playful, light
 - [[drawably.dev]] — shared: tool-app, playful, light
-- [[spencer.place]] — shared: organic-warm, playful, art

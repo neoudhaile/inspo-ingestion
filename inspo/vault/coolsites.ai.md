@@ -50,7 +50,7 @@ A warm, almost analog palette — cream canvas (#efdec8) carrying bold cherry-re
 ## Related sites
 - [[21st.dev]] — shared: directory-gallery, design, ai, light
 - [[canivibecodeit.com]] — shared: directory-gallery, playful, ai, light
+- [[mobbin.com]] — shared: directory-gallery, design, ai, light
 - [[jessa.art]] — shared: playful, organic-warm, design, light
 - [[lelezhang.design]] — shared: playful, organic-warm, ai, light
 - [[motionsites.ai]] — shared: directory-gallery, design, ai
-- [[nehasharma.dev]] — shared: playful, organic-warm, ai, light

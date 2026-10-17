@@ -51,7 +51,7 @@ Dark developer-product aesthetic: pure-black canvas with white 55px Inter Displa
 ## Related sites
 - [[daytona.io]] — shared: startup-product, technical, ai, engineering, dark
 - [[langchain.com]] — shared: startup-product, technical, ai, engineering, dark
+- [[lenis.dev]] — shared: startup-product, technical, experimental, engineering, dark
 - [[printingpress.dev]] — shared: startup-product, technical, ai, engineering
 - [[hw.cafe]] — shared: startup-product, technical, engineering, dark
-- [[ashpreetbedi.com]] — shared: technical, ai, engineering, dark
-- [[b150.ai]] — shared: startup-product, experimental, ai
+- [[palmier.io]] — shared: startup-product, technical, ai, dark

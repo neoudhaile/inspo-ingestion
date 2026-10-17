@@ -51,7 +51,7 @@ Deep-navy near-black canvas (rgb(3,7,16)) with pale-blue text (rgb(204,233,255))
 ## Related sites
 - [[daytona.io]] — shared: startup-product, corporate-clean, technical, ai, engineering, dark
 - [[crustdata.com]] — shared: startup-product, technical, ai, engineering, dark
+- [[palmier.io]] — shared: startup-product, corporate-clean, technical, ai, dark
 - [[photon.codes]] — shared: startup-product, corporate-clean, ai, engineering
 - [[printingpress.dev]] — shared: startup-product, technical, ai, engineering
 - [[hw.cafe]] — shared: startup-product, technical, engineering, dark
-- [[ashpreetbedi.com]] — shared: technical, ai, engineering, dark

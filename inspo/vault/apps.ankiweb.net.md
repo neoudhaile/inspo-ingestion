@@ -49,8 +49,8 @@ Clean and documentation-like, almost austere. One self-hosted webfont does all t
 
 ## Related sites
 - [[gatheros.co]] — shared: startup-product, minimal, productivity, light
+- [[manus.im]] — shared: startup-product, minimal, productivity, light
+- [[beatspark.com]] — shared: startup-product, minimal, education
 - [[flowstate.com]] — shared: startup-product, minimal, productivity
 - [[backdoorai.app]] — shared: startup-product, minimal, light
-- [[jenni.ai]] — shared: startup-product, education, light
-- [[mo1.app]] — shared: startup-product, minimal, light
-- [[simple.ink]] — shared: startup-product, productivity, light
+- [[getartcraft.com]] — shared: startup-product, minimal, light

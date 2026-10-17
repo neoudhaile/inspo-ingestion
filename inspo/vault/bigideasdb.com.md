@@ -52,4 +52,4 @@ A bright, light SaaS aesthetic: white background with a black 60px InterDisplay 
 - [[b150.ai]] — shared: startup-product, startups, light
 - [[backdoorai.app]] — shared: startup-product, startups, light
 - [[deel.com]] — shared: startup-product, corporate-clean, light
-- [[gatheros.co]] — shared: startup-product, corporate-clean, light
+- [[fabra.com]] — shared: startup-product, corporate-clean, light

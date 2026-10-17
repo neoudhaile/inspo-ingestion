@@ -49,6 +49,6 @@ Restrained, spec-sheet minimalism built on a proper neutral design system read f
 - [[designengineer.tools]] — shared: directory-gallery, minimal, technical, engineering, light
 - [[21st.dev]] — shared: directory-gallery, minimal, engineering, light
 - [[akira.sachi.dev]] — shared: minimal, technical, engineering, light
+- [[getartcraft.com]] — shared: minimal, technical, engineering, light
 - [[itshover.com]] — shared: minimal, technical, engineering, light
 - [[siddz.com]] — shared: minimal, technical, engineering, light
-- [[spyrosigma.in]] — shared: minimal, technical, engineering, light

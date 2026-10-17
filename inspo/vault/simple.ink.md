@@ -51,5 +51,5 @@ Built on Webflow (all assets served from cdn.prod.website-files.com, a single We
 - [[linkeddit.com]] — shared: startup-product, corporate-clean, playful, light
 - [[photon.codes]] — shared: startup-product, corporate-clean, playful, light
 - [[shipper.now]] — shared: startup-product, corporate-clean, playful, light
+- [[cavalry.studio]] — shared: startup-product, corporate-clean, playful
 - [[flowstate.com]] — shared: startup-product, corporate-clean, productivity
-- [[apps.ankiweb.net]] — shared: startup-product, productivity, light

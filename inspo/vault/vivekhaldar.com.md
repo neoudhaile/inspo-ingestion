@@ -55,4 +55,4 @@ Restrained, print-like chrome: the `<h1>` and body copy render in a `baskerville
 - [[zendex.spyrosigma.in]] — shared: tool-app, minimal, writing, productivity
 - [[sensory-ui.com]] — shared: tool-app, minimal, editorial, light
 - [[anyblockers.com]] — shared: minimal, editorial, writing, light
-- [[noahzender.com]] — shared: minimal, writing, productivity, light
+- [[manus.im]] — shared: minimal, editorial, productivity, light

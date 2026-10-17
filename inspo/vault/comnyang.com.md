@@ -46,9 +46,9 @@ Dark pixel-terminal styling: near-black ground (--bg #0a0a0a) with off-white tex
 - **Extracted:** 2026-09-22 · 1440x900 desktop + 390x844 mobile pass, logged_out: true
 
 ## Related sites
+- [[cavalry.studio]] — shared: startup-product, playful, dark
 - [[b150.ai]] — shared: startup-product, playful
 - [[linkeddit.com]] — shared: startup-product, playful
 - [[mo1.app]] — shared: startup-product, playful
 - [[photon.codes]] — shared: startup-product, playful
 - [[shipper.now]] — shared: startup-product, playful
-- [[simple.ink]] — shared: startup-product, playful

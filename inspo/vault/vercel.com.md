@@ -49,8 +49,8 @@ Textbook Geist Design System: the :root exposes the full --ds-* and --geist-* to
 
 ## Related sites
 - [[gatheros.co]] — shared: startup-product, minimal, corporate-clean, light
+- [[getartcraft.com]] — shared: startup-product, minimal, engineering, light
 - [[photon.codes]] — shared: startup-product, corporate-clean, engineering, light
 - [[todesktop.com]] — shared: startup-product, minimal, engineering, light
 - [[daytona.io]] — shared: startup-product, corporate-clean, engineering
 - [[flowstate.com]] — shared: startup-product, minimal, corporate-clean
-- [[langchain.com]] — shared: startup-product, corporate-clean, engineering

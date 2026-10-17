@@ -54,4 +54,4 @@ A bold dark showcase: a black ground with white Satoshi display headings (h1 rgb
 - [[jasonyuan.design]] — shared: experimental, minimal, design, dark
 - [[nucleoapp.com]] — shared: ecommerce, minimal, design
 - [[roam.neesh.page]] — shared: experimental, minimal, design, dark
-- [[templatoria.com]] — shared: ecommerce, minimal, design
+- [[shadergradient.co]] — shared: experimental, design, art, dark

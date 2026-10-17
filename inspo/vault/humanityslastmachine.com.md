@@ -51,5 +51,5 @@ An editorial print-meets-tech mode: a warm off-white ground (#f5f2eb) with charc
 - [[animations.dev]] — shared: docs-resource, editorial, engineering, light
 - [[transitions.dev]] — shared: docs-resource, technical, engineering, light
 - [[walkinglabs.github.io]] — shared: docs-resource, editorial, engineering, light
-- [[printingpress.dev]] — shared: editorial, technical, engineering, light
-- [[hw.cafe]] — shared: editorial, technical, engineering
+- [[animejs.com]] — shared: docs-resource, technical, engineering
+- [[componentry.dev]] — shared: docs-resource, technical, engineering

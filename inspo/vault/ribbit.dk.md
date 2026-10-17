@@ -50,8 +50,8 @@ Bold, toylike and tactile: an off-white ground (--lightgrey #FAFAFA, rendered rg
 
 ## Related sites
 - [[northgarden.com]] — shared: studio-agency, experimental, design, light
+- [[basement.studio]] — shared: studio-agency, experimental, design
+- [[cavalry.studio]] — shared: playful, design, film-video
 - [[drafts9.com]] — shared: studio-agency, design, light
 - [[ignytlabs.com]] — shared: studio-agency, design, light
 - [[offthewall.studio]] — shared: studio-agency, design, light
-- [[ravalabs.com]] — shared: studio-agency, design, light
-- [[rotimi.design]] — shared: studio-agency, design, light

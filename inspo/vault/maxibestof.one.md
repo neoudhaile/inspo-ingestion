@@ -43,6 +43,6 @@ Not assessed. No getComputedStyle / document.fonts / CSS-variable data was obtai
 - [[21st.dev]] — shared: directory-gallery, minimal, design, light
 - [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
 - [[designtools.fyi]] — shared: directory-gallery, minimal, design, light
+- [[mobbin.com]] — shared: directory-gallery, minimal, design, light
 - [[nicelydone.club]] — shared: directory-gallery, minimal, design, light
 - [[recent.design]] — shared: directory-gallery, minimal, design, light
-- [[type.lol]] — shared: directory-gallery, minimal, design, light

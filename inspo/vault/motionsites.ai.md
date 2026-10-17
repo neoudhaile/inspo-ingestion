@@ -50,8 +50,8 @@ A dark, product-y SaaS look: near-black ground (rendered body bg rgb 23,23,23) w
 
 ## Related sites
 - [[sceneai.art]] — shared: directory-gallery, technical, design, ai, dark
+- [[mobbin.com]] — shared: directory-gallery, corporate-clean, design, ai
 - [[stitch.withgoogle.com]] — shared: corporate-clean, technical, design, ai, dark
 - [[killedbyopenai.com]] — shared: directory-gallery, technical, ai, dark
 - [[21st.dev]] — shared: directory-gallery, design, ai
 - [[canivibecodeit.com]] — shared: directory-gallery, technical, ai
-- [[coolsites.ai]] — shared: directory-gallery, design, ai

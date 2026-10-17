@@ -10720,6 +10720,571 @@
       "source": "bookmarks-export",
       "source_export": "twitter-Bookmarks-1790129556814.json",
       "ingested_at": "2026-09-22T23:57:40"
+    },
+    {
+      "id": "url-146d41d6d2ab",
+      "title": "ArtCraft Apps — thirteen open-source creative tools",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "product",
+      "tags": [
+        "app",
+        "open-source",
+        "design",
+        "tool"
+      ],
+      "primary_url": "https://getartcraft.com/apps",
+      "primary_domain": "getartcraft.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://getartcraft.com/apps"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://getartcraft.com/apps",
+          "resolved": "https://getartcraft.com/apps",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:54:30"
+    },
+    {
+      "id": "url-317d1826760f",
+      "title": "Fabra — 3D product design studio and tech packs",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "product",
+      "tags": [
+        "product",
+        "3d",
+        "design",
+        "app"
+      ],
+      "primary_url": "https://www.fabra.com/",
+      "primary_domain": "fabra.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://www.fabra.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://www.fabra.com/",
+          "resolved": "https://www.fabra.com/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:54:30"
+    },
+    {
+      "id": "url-8347b01dee78",
+      "title": "Mobbin — UI & UX design inspiration library",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "design",
+      "tags": [
+        "directory",
+        "design",
+        "ui-pattern",
+        "mcp",
+        "product"
+      ],
+      "primary_url": "https://mobbin.com/",
+      "primary_domain": "mobbin.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://mobbin.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://mobbin.com/",
+          "resolved": "https://mobbin.com/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:54:30"
+    },
+    {
+      "id": "url-6149e87b1d84",
+      "title": "Cavalry — real-time 2D animation and motion design software",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "product",
+      "tags": [
+        "app",
+        "animation",
+        "design",
+        "video"
+      ],
+      "primary_url": "https://cavalry.studio/",
+      "primary_domain": "cavalry.studio",
+      "related_urls": [],
+      "all_urls": [
+        "https://cavalry.studio/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://cavalry.studio/",
+          "resolved": "https://cavalry.studio/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:54:30"
+    },
+    {
+      "id": "url-cd21699cf3ac",
+      "title": "Lenis — the smooth scroll library",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "tools-build",
+      "tags": [
+        "open-source",
+        "animation",
+        "experimental",
+        "tool"
+      ],
+      "primary_url": "https://lenis.dev/",
+      "primary_domain": "lenis.dev",
+      "related_urls": [],
+      "all_urls": [
+        "https://lenis.dev/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://lenis.dev/",
+          "resolved": "https://lenis.dev/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:54:30"
+    },
+    {
+      "id": "url-711cb80861ba",
+      "title": "basement.studio",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "design",
+      "tags": [
+        "studio",
+        "3d",
+        "webgl",
+        "portfolio",
+        "animation"
+      ],
+      "primary_url": "https://basement.studio/",
+      "primary_domain": "basement.studio",
+      "related_urls": [],
+      "all_urls": [
+        "https://basement.studio/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://basement.studio/",
+          "resolved": "https://basement.studio/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:56:25"
+    },
+    {
+      "id": "url-9d38d47619b1",
+      "title": "Shader Gradient",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "tools-build",
+      "tags": [
+        "tool",
+        "webgl",
+        "3d",
+        "react",
+        "generative",
+        "animation"
+      ],
+      "primary_url": "https://shadergradient.co/",
+      "primary_domain": "shadergradient.co",
+      "related_urls": [],
+      "all_urls": [
+        "https://shadergradient.co/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://shadergradient.co/",
+          "resolved": "https://shadergradient.co/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:56:25"
+    },
+    {
+      "id": "url-0eab840cc95c",
+      "title": "Unicorn Studio",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "tools-build",
+      "tags": [
+        "tool",
+        "webgl",
+        "animation",
+        "design"
+      ],
+      "primary_url": "https://www.unicorn.studio/",
+      "primary_domain": "www.unicorn.studio",
+      "related_urls": [],
+      "all_urls": [
+        "https://www.unicorn.studio/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://www.unicorn.studio/",
+          "resolved": "https://www.unicorn.studio/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:56:25"
+    },
+    {
+      "id": "url-dcc75036effe",
+      "title": "Componentry",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "tools-build",
+      "tags": [
+        "react",
+        "ui-pattern",
+        "design-system",
+        "animation",
+        "nextjs"
+      ],
+      "primary_url": "https://componentry.dev/",
+      "primary_domain": "componentry.dev",
+      "related_urls": [],
+      "all_urls": [
+        "https://componentry.dev/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://componentry.dev/",
+          "resolved": "https://componentry.dev/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:56:25"
+    },
+    {
+      "id": "url-5e22337bb766",
+      "title": "Manus",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "product",
+      "tags": [
+        "ai",
+        "agents",
+        "product",
+        "minimalist"
+      ],
+      "primary_url": "https://manus.im/",
+      "primary_domain": "manus.im",
+      "related_urls": [],
+      "all_urls": [
+        "https://manus.im/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://manus.im/",
+          "resolved": "https://manus.im/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:56:25"
+    },
+    {
+      "id": "url-5c01101fa0c2",
+      "title": "Motion",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "design",
+      "tags": [
+        "tool",
+        "animation",
+        "react",
+        "design-system",
+        "manual-add"
+      ],
+      "primary_url": "https://motion.dev/",
+      "primary_domain": "motion.dev",
+      "related_urls": [],
+      "all_urls": [
+        "https://motion.dev/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://motion.dev/",
+          "resolved": "https://motion.dev/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:58:11"
+    },
+    {
+      "id": "url-edaec987c146",
+      "title": "Anime.js",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "design",
+      "tags": [
+        "tool",
+        "animation",
+        "open-source",
+        "manual-add"
+      ],
+      "primary_url": "https://animejs.com/",
+      "primary_domain": "animejs.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://animejs.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://animejs.com/",
+          "resolved": "https://animejs.com/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:58:11"
+    },
+    {
+      "id": "url-98632446a624",
+      "title": "GSAP",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "design",
+      "tags": [
+        "tool",
+        "animation",
+        "manual-add"
+      ],
+      "primary_url": "https://gsap.com/",
+      "primary_domain": "gsap.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://gsap.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://gsap.com/",
+          "resolved": "https://gsap.com/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:58:11"
+    },
+    {
+      "id": "url-cb8e3af6fe8a",
+      "title": "beatspark",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "product",
+      "tags": [
+        "product",
+        "music",
+        "app",
+        "manual-add"
+      ],
+      "primary_url": "https://beatspark.com/",
+      "primary_domain": "beatspark.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://beatspark.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://beatspark.com/",
+          "resolved": "https://beatspark.com/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:58:11"
+    },
+    {
+      "id": "url-d82f54a50a1b",
+      "title": "Palmier Pro",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "product",
+      "tags": [
+        "product",
+        "ai",
+        "video",
+        "app",
+        "manual-add"
+      ],
+      "primary_url": "https://palmier.io/",
+      "primary_domain": "palmier.io",
+      "related_urls": [],
+      "all_urls": [
+        "https://palmier.io/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://palmier.io/",
+          "resolved": "https://www.palmier.io/",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "manual-url",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:58:11"
+    },
+    {
+      "id": "url-967fcaa63926",
+      "title": "terminalindustries.com (domain parked, for sale)",
+      "author": null,
+      "name": null,
+      "author_profile": null,
+      "tweet": null,
+      "date": "2026-10-17",
+      "category": "uncategorized",
+      "tags": [
+        "manual-add",
+        "uncategorized",
+        "todo-find-url"
+      ],
+      "primary_url": "https://terminalindustries.com/",
+      "primary_domain": "terminalindustries.com",
+      "related_urls": [],
+      "all_urls": [
+        "https://terminalindustries.com/"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://terminalindustries.com/",
+          "resolved": "https://forsale.godaddy.com/forsale/terminalindustries.com",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "",
+      "source": "bookmarks-export",
+      "source_export": "queue/20261017-ig-tech-saved.txt",
+      "ingested_at": "2026-10-17T15:58:29"
     }
   ],
   "site_designs": {
@@ -29297,6 +29862,1633 @@
           "minimal"
         ],
         "topics": []
+      }
+    },
+    "getartcraft.com": {
+      "url": "https://getartcraft.com/apps",
+      "title": "Crafting Apps: open-source creative tools — ArtCraft",
+      "tagline": "Thirteen apps. One craft.",
+      "screenshot": "screenshots/getartcraftcom.png",
+      "what_it_is": "The apps index of ArtCraft: a catalog of thirteen native, open-source creative tools (image editing, vector illustration, video, photography, PDFs, motion graphics, page layout, interface design, word processing, audio, presentations, CAD, spreadsheets) built in Rust and free to use.",
+      "what_it_shows": "The h1 pitch is 'Thirteen apps. One craft.' followed by a long scroll of app cards with imagery (41 img elements), plus download-launcher, Discord and GitHub calls to action.",
+      "how_it_works": "Top nav links to Home, Image, Video, Download, Support, Craft Apps and Pricing, with a LAUNCH APP button pointing at app.getartcraft.com and a macOS .dmg launcher served from GitHub releases. The page is a single long scroll (5066px) with share links to X, Reddit and Bluesky.",
+      "how_its_designed": "A warm off-white ground (--bg #f2f1ee) with near-black ink (#101014) and a single blue accent (--accent #2d81ff). Type is split three ways: Archivo for display (60px h1), Inter for body, Geist Mono for small uppercase labels. Tokens include a faint --scanline and hairline --line borders, giving a quiet instrument-panel feel.",
+      "palette": "Warm paper off-white #f2f1ee, ink #101014, blue accent #2d81ff, inverted dark #101014",
+      "fonts": "Archivo (display), Inter (body), Geist Mono (labels); Instrument Serif declared but not loaded on this page",
+      "pattern_keywords": [
+        "app-catalog",
+        "card-grid",
+        "uppercase-mono-labels",
+        "single-accent",
+        "download-cta"
+      ],
+      "tech_stack": [
+        "Custom CSS (lightningcss)",
+        "Google Tag Manager",
+        "GitHub Releases"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--bg",
+          "value": "#f2f1ee",
+          "kind": "var"
+        },
+        {
+          "name": "--bg-raised",
+          "value": "#faf9f7",
+          "kind": "var"
+        },
+        {
+          "name": "--bg-sunken",
+          "value": "#e9e8e4",
+          "kind": "var"
+        },
+        {
+          "name": "--ink",
+          "value": "#101014",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#2d81ff",
+          "kind": "var"
+        },
+        {
+          "name": "--accent-ink",
+          "value": "#1659c4",
+          "kind": "var"
+        },
+        {
+          "name": "--invert-bg",
+          "value": "#101014",
+          "kind": "var"
+        },
+        {
+          "name": "--danger",
+          "value": "#b3261e",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(242, 241, 238)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(0, 0, 0)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Archivo 100-900",
+        "Inter 100-900",
+        "Geist Mono 100-900"
+      ],
+      "meta": {
+        "description": "Image editing, vector illustration, video, photography, PDFs, motion graphics, page layout, interface design, word processing, audio, presentations, CAD and spreadsheets: thirteen native, open-source apps from the ArtCraft team, built in Rust and free to use.",
+        "og_image": "https://getartcraft.com/images/apps/og.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://getartcraft.com/apps",
+        "favicon": "https://getartcraft.com/artcraft-icon.svg"
+      },
+      "media_mix": {
+        "img": 41,
+        "canvas": 0,
+        "video": 0,
+        "svg": 30,
+        "iframe": 0
+      },
+      "page_height_px": 5066,
+      "is_single_screen": false,
+      "headings": [
+        "Thirteen apps. One craft."
+      ],
+      "responsive_note": "At 390px the h1 drops from 60px to 36px, grids collapse to a single ~388px column (app tiles to 4x72px), the nav moves behind a menu button, and page height grows from 5066px to 12907px.",
+      "links_out": [
+        {
+          "label": "Launch app",
+          "href": "https://app.getartcraft.com/"
+        },
+        {
+          "label": "Browse on GitHub",
+          "href": "https://github.com/storytold"
+        },
+        {
+          "label": "Join the Discord",
+          "href": "https://discord.gg/artcraft"
+        }
+      ],
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "getartcraft.com",
+          "www.googletagmanager.com"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      },
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright MCP, fullPage 1440x900 + 390x844 mobile text pass, DOM probe; logged_out: true"
+    },
+    "fabra.com": {
+      "url": "https://www.fabra.com/",
+      "title": "Fabra - Turn Ideas into Real Products",
+      "tagline": "Your product design studio",
+      "screenshot": "screenshots/fabracom.png",
+      "what_it_is": "A browser-based 3D apparel design platform: design garments in 3D, pull from thousands of assets, and generate production-ready tech packs.",
+      "what_it_shows": "The h1 reads 'YOUR PRODUCT DESIGN STUDIO'. Below it: category entry points (Streetwear, Merch, Sportswear, Athleisure, Swimwear, Kidswear, Sleepwear, Women's/Men's RTW, Denim), feature sections (Design Editor, Pattern Editing, Range Plan, Tech Pack), an AI generation block ('Your ideas, generated'), inspiration browsing, 'The Fabra Report' and the team.",
+      "how_it_works": "Navigation is organised by garment category (/category/*) and feature (/features/*). The long marketing scroll (13049px) walks from 'Pick a starting point' through editor features to community and a report/blog section. Segment and Amplitude events fire to events.fabra.com.",
+      "how_its_designed": "All-caps display headings in Signs with GT America (and GT America Condensed) for supporting text; the page is black type on a white canvas (html and body backgrounds are transparent, h1 rgb(0,0,0)). No CSS custom properties are declared on :root. Image-heavy: 208 img and 187 svg elements, much of it product and garment imagery.",
+      "palette": "Black on white; color comes from garment imagery rather than UI tokens",
+      "fonts": "Signs (display, all-caps), GT America and GT America Condensed (body/labels)",
+      "pattern_keywords": [
+        "category-grid",
+        "all-caps-display",
+        "feature-sections",
+        "product-imagery",
+        "tech-pack"
+      ],
+      "tech_stack": [
+        "Segment",
+        "Amplitude",
+        "Google Tag Manager",
+        "Facebook Pixel"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body text",
+          "value": "rgb(0, 0, 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1",
+          "value": "rgb(0, 0, 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "canvas",
+          "value": "transparent over white",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Signs 400",
+        "Signs 500",
+        "GT America 400",
+        "GT America 500",
+        "GT America Condensed 500"
+      ],
+      "meta": {
+        "description": "Design in 3D, access thousands of assets, and create production-ready tech packs – all in one easy-to-use platform. Now live.",
+        "og_image": "https://www.fabra.com/og-image.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://www.fabra.com/",
+        "favicon": "https://www.fabra.com/favicon.ico"
+      },
+      "media_mix": {
+        "img": 208,
+        "canvas": 0,
+        "video": 0,
+        "svg": 187,
+        "iframe": 0
+      },
+      "page_height_px": 13049,
+      "is_single_screen": false,
+      "headings": [
+        "YOUR PRODUCT DESIGN STUDIO",
+        "PICK A STARTING POINT",
+        "JOIN THE DESIGNERS ALREADY ON FABRA",
+        "PRO FOUNDATIONS, YOUR VISION",
+        "DESIGN EDITOR",
+        "PATTERN EDITING",
+        "RANGE PLAN",
+        "TECH PACK",
+        "EVERYTHING YOU NEED TO START",
+        "YOUR IDEAS, GENERATED",
+        "FIND YOUR CATEGORY",
+        "BROWSE YOUR NEXT INSPIRATION",
+        "THE FABRA REPORT"
+      ],
+      "responsive_note": "At 390px the h1 shrinks from 56px to 40px, the header links disappear behind a menu button, no horizontal overflow (scrollWidth 390), and page height is 12375px.",
+      "links_out": [
+        {
+          "label": "Design Editor",
+          "href": "https://www.fabra.com/features/design-editor"
+        },
+        {
+          "label": "Pattern Editing",
+          "href": "https://www.fabra.com/features/pattern-editing"
+        },
+        {
+          "label": "Streetwear",
+          "href": "https://www.fabra.com/category/streetwear"
+        }
+      ],
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "connect.facebook.net",
+          "events.fabra.com",
+          "cdn.segment.com",
+          "www.googletagmanager.com",
+          "cdn.amplitude.com"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "corporate-clean"
+        ],
+        "topics": [
+          "fashion",
+          "design"
+        ]
+      },
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright MCP, fullPage 1440x900 + 390x844 mobile text pass, DOM probe; logged_out: true"
+    },
+    "mobbin.com": {
+      "url": "https://mobbin.com/",
+      "title": "Mobbin — UI & UX design inspiration for mobile & web apps",
+      "tagline": "Where teams and agents find designs that work",
+      "screenshot": "screenshots/mobbincom.png",
+      "what_it_is": "A searchable library of 621,500+ mobile and web app screenshots and flows used for UI/UX research, now also exposed to AI agents through an MCP server.",
+      "what_it_shows": "An 80px h1 ('Where teams and agents find designs that work'), a 'One library for all your needs' section, a 'Give your AI agents access to Mobbin' MCP pitch, and a customer-logo band ('Trusted by teams that build world-class apps').",
+      "how_it_works": "CTAs are 'Join for free' and 'Open Mobbin' (/discover), with Log in, Pricing, Customers and MCP in the nav. The marketing page is a ~8155px scroll with one video and 295 images of app screens.",
+      "how_its_designed": "Near-black ink (rgb(20,20,20)) on white, set entirely in the saans family at weights 100-900; the h1 is broken across six short lines for rhythm. Color comes from the app screenshots themselves. Only one custom property matched a color pattern (--blog-page-background), so styling appears utility-class driven rather than token driven.",
+      "palette": "White ground, near-black #141414 ink; screenshots supply all color",
+      "fonts": "saans (variable, 100-900) throughout",
+      "pattern_keywords": [
+        "screenshot-library",
+        "stacked-headline",
+        "logo-wall",
+        "mcp-integration",
+        "freemium-cta"
+      ],
+      "tech_stack": [
+        "Sanity (image CDN)",
+        "Google Tag Manager"
+      ],
+      "palette_tokens": [
+        {
+          "name": "html background",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(20, 20, 20)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(20, 20, 20)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "saans 100-900"
+      ],
+      "meta": {
+        "description": "Save hours of UI & UX research with our library of 621,500+ fully searchable mobile & web app screenshots.",
+        "og_image": "https://cdn.sanity.io/images/7b5292cr/production/ad36b255f55774117dd68cfba7cfc447be19f5b5-1200x630.png?w=1200&h=630",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://mobbin.com/",
+        "favicon": "https://mobbin.com/mobbin-marketing-pages/images/favicon.svg"
+      },
+      "media_mix": {
+        "img": 295,
+        "canvas": 0,
+        "video": 1,
+        "svg": 34,
+        "iframe": 0
+      },
+      "page_height_px": 8155,
+      "is_single_screen": false,
+      "headings": [
+        "Where teams and agents find designs that work",
+        "One library for all your needs.",
+        "Give your AI agents access to Mobbin.",
+        "Trusted by teams that build world-class apps."
+      ],
+      "responsive_note": "At 390px the h1 drops from 80px to 40px, the header collapses to a menu button with one visible link, no horizontal overflow, and page height goes from 8155px to 9313px.",
+      "links_out": [
+        {
+          "label": "Join for free",
+          "href": "https://mobbin.com/signup"
+        },
+        {
+          "label": "MCP",
+          "href": "https://mobbin.com/mcp"
+        },
+        {
+          "label": "Pricing",
+          "href": "https://mobbin.com/pricing"
+        }
+      ],
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "mobbin.com",
+          "www.googletagmanager.com"
+        ]
+      },
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "corporate-clean"
+        ],
+        "topics": [
+          "design",
+          "ai"
+        ]
+      },
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright MCP, fullPage 1440x900 + 390x844 mobile text pass, DOM probe; logged_out: true"
+    },
+    "cavalry.studio": {
+      "url": "https://cavalry.studio/en/",
+      "title": "Free 2D animation & motion graphics software for Mac and Windows | Cavalry",
+      "tagline": "Motion design reinvented",
+      "screenshot": "screenshots/cavalrystudio.png",
+      "what_it_is": "The product site for Cavalry, a real-time 2D animation and motion design app for Mac and Windows with data-driven workflows. The site's CSS carries Canva branding (Canva Sans font, canva.com sales links).",
+      "what_it_shows": "The h1 is 'Motion design reinvented', followed by 'Move faster. Scale further.', a brands band, 'Professional 2D animation software, built for depth', a download section, 'Learn motion design with Cavalry' and an FAQ. 11 video elements carry the demos.",
+      "how_it_works": "Anchor navigation (#download, #features, #learn) plus Support. Download buttons link directly to Cavalry.dmg and Cavalry.msi; enterprise goes to a Canva contact-sales form. A OneTrust cookie banner is present. Total page height is 5097px.",
+      "how_its_designed": "A saturated purple page ground (body rgb(100,55,255), #6437ff) with white type, backed by a token set of grey, black, green (#4ffd7a), yellow (#ff0), pink (#ff24e0) and purple. Type is Canva Sans at 400/600/700 with a 64px h1. A 1280px max section width and a spacing scale of 8/16/24/40px, with 48 root custom properties in total.",
+      "palette": "Electric purple #6437ff ground, white type, neon green #4ffd7a / yellow #ff0 / pink #ff24e0 accents, black and #2d2d2d greys",
+      "fonts": "Canva Sans (400/600/700) only",
+      "pattern_keywords": [
+        "video-demos",
+        "anchor-nav",
+        "saturated-background",
+        "neon-accents",
+        "direct-download-cta"
+      ],
+      "tech_stack": [
+        "OneTrust",
+        "Canva"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--color-purple",
+          "value": "#6437ff",
+          "kind": "var"
+        },
+        {
+          "name": "--color-green",
+          "value": "#4ffd7a",
+          "kind": "var"
+        },
+        {
+          "name": "--color-yellow",
+          "value": "#ff0",
+          "kind": "var"
+        },
+        {
+          "name": "--color-pink",
+          "value": "#ff24e0",
+          "kind": "var"
+        },
+        {
+          "name": "--color-dark-grey",
+          "value": "#2d2d2d",
+          "kind": "var"
+        },
+        {
+          "name": "--color-grey",
+          "value": "#c8c8c8",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(100, 55, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Canva Sans 400",
+        "Canva Sans 600",
+        "Canva Sans 700"
+      ],
+      "meta": {
+        "description": "Download Cavalry free on Mac or Windows. Real-time 2D animation, motion design, and data-driven workflows - built for animators and motion designers.",
+        "og_image": "https://cavalry.studio/assets/images/og-image.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://cavalry.studio/en/",
+        "favicon": "https://cavalry.studio/favicon.svg"
+      },
+      "media_mix": {
+        "img": 22,
+        "canvas": 0,
+        "video": 11,
+        "svg": 44,
+        "iframe": 1
+      },
+      "page_height_px": 5097,
+      "is_single_screen": false,
+      "headings": [
+        "Motion design reinvented",
+        "Move faster. Scale further.",
+        "Trusted by some of the world’s biggest brands",
+        "Professional 2D animation software, built for depth",
+        "Download Cavalry today",
+        "Learn motion design with Cavalry",
+        "Frequently asked questions"
+      ],
+      "responsive_note": "At 390px the h1 drops from 64px to 36px, a menu button appears, there is no horizontal overflow, and page height grows from 5097px to 6464px.",
+      "links_out": [
+        {
+          "label": "Get for macOS",
+          "href": "https://cavalry.studio/downloads/latest/Cavalry.dmg"
+        },
+        {
+          "label": "Get for Windows",
+          "href": "https://cavalry.studio/downloads/latest/Cavalry.msi"
+        },
+        {
+          "label": "Contact sales",
+          "href": "https://www.canva.com/contact-sales/?ctaSource=cavalry-contact-sales"
+        }
+      ],
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "cdn-au.onetrust.com",
+          "cavalry.studio"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean",
+          "playful"
+        ],
+        "topics": [
+          "design",
+          "film-video"
+        ]
+      },
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright MCP, fullPage 1440x900 + 390x844 mobile text pass, DOM probe; logged_out: true"
+    },
+    "lenis.dev": {
+      "url": "https://lenis.dev/",
+      "title": "Lenis – Smooth Scroll",
+      "tagline": "The smooth scroll library, by darkroom.engineering",
+      "screenshot": "screenshots/lenisdev.png",
+      "what_it_is": "The site for Lenis, a lightweight open-source smooth-scroll library for JavaScript, React and Vue from darkroom.engineering, supporting horizontal and infinite scrolling, snapping and touch.",
+      "what_it_shows": "A tall (37462px) black scroll narrative: 'SMOOTH SCROLL', 'WHY SMOOTH SCROLL?', 'SO WE BUILT WEB SCROLLING', 'ENTER LENIS', 'AS IT SHOULD BE', backed by 16 video elements and a canvas. The h1 is a small 14px label: 'THE SMOOTH SCROLL LIBRARY BY DARKROOM.ENGINEERING'.",
+      "how_it_works": "Nav: Showcase, Templates, Submit, Documentation (GitHub README) and Sponsor. The page runs Lenis itself (a .lenis class/global is present), so the scroll feel is the demo.",
+      "how_its_designed": "Pure black ground (rgb(0,0,0)) with off-white text (rgb(239,239,239)); Anton for giant condensed display, Panchang 700 for accents, Roboto 400/900 for small copy. Layout is a 6-column grid on mobile driven by vw-scaled custom properties (--gap, --safe, --spacer-*, computed from a 375px design width) plus a full set of named easing curves (--ease-in-quad etc.).",
+      "palette": "Black #000 ground, off-white #efefef type; no accent colors in the root tokens",
+      "fonts": "Anton (display), Panchang 700 (accent), Roboto 400/900 (small text)",
+      "pattern_keywords": [
+        "scroll-narrative",
+        "giant-condensed-type",
+        "vw-scaled-layout",
+        "video-demos",
+        "showcase-submit"
+      ],
+      "tech_stack": [
+        "Lenis",
+        "darkroom.engineering stack"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body background",
+          "value": "rgb(0, 0, 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(239, 239, 239)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Anton 400",
+        "Roboto 400",
+        "Roboto 900",
+        "Panchang 700"
+      ],
+      "meta": {
+        "description": "Lenis is a lightweight, performant smooth scroll library for the web. Add butter-smooth scrolling to any site with Javascript, React, or Vue. Open-source, accessible, and used by top agencies worldwide. Including horizontal scrolling, infinite scrolling, scroll snapping and touch support.",
+        "og_image": "https://lenis.dev/og.png?v=1",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://lenis.dev/",
+        "favicon": "https://lenis.dev/favicon.ico"
+      },
+      "media_mix": {
+        "img": 18,
+        "canvas": 1,
+        "video": 16,
+        "svg": 29,
+        "iframe": 0
+      },
+      "page_height_px": 37462,
+      "is_single_screen": false,
+      "headings": [
+        "SMOOTH SCROLL",
+        "THE SMOOTH SCROLL LIBRARY BY DARKROOM.ENGINEERING",
+        "WHY SMOOTH SCROLL?",
+        "SO WE BUILT WEB SCROLLING",
+        "ENTER LENIS",
+        "AS IT SHOULD BE"
+      ],
+      "responsive_note": "At 390px the header collapses to a menu button, no horizontal overflow, and the 6-column vw-scaled grid shrinks the page from 37462px to 25898px.",
+      "links_out": [
+        {
+          "label": "Showcase",
+          "href": "https://lenis.dev/showcase"
+        },
+        {
+          "label": "Templates",
+          "href": "https://lenis.dev/templates"
+        },
+        {
+          "label": "Documentation",
+          "href": "https://github.com/darkroomengineering/lenis/blob/main/README.md"
+        }
+      ],
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "lenis.dev"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "technical"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      },
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright MCP, fullPage 1440x900 + 390x844 mobile text pass, DOM probe; logged_out: true"
+    },
+    "basement.studio": {
+      "url": "https://basement.studio/",
+      "title": "basement.studio | We make cool shit that performs.",
+      "tagline": "We make cool shit that performs.",
+      "screenshot": "screenshots/basementstudio.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright 1440x900 full-page + DOM probe; 390x844 text probe; logged_out: true",
+      "what_it_is": "Digital studio and branding agency site for basement.studio, which sells brand, web, 3D and product work.",
+      "what_it_shows": "The pitch is the h1 'A digital studio & branding powerhouse making cool shit that performs', followed by client logos (Trusted by Visionaries), Featured Projects, Capabilities and Contact.",
+      "how_it_works": "A long single-page scroll (6714px at 1440 wide) with 3 canvas elements for WebGL moments and 40 images. No Nuxt, Next or Vue globals were detected; the only third-party script host is Ahrefs analytics.",
+      "how_its_designed": "Pure black ground (body rgb(0,0,0)) with white text; the 87px h1 is Geist at weight 600 in rgb(230,230,230). Geist and Geist Mono variable fonts carry the whole UI, with a custom face 'flauta' loaded for display accents. Heavy type, no brand colour in the DOM, so the imagery and 3D do the colour work.",
+      "palette": "Black ground, white and light-grey (230) text, no accent colour",
+      "fonts": "Geist (100-900), Geist Mono, flauta",
+      "pattern_keywords": [
+        "dark studio",
+        "big sans h1",
+        "webgl canvas",
+        "client logo wall",
+        "3d showcase"
+      ],
+      "tech_stack": [
+        "Custom (framework unidentified)",
+        "WebGL canvas",
+        "Ahrefs Analytics"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body bg",
+          "value": "rgb(0, 0, 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(230, 230, 230)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Geist 100-900",
+        "Geist Mono 100-900",
+        "flauta normal"
+      ],
+      "meta": {
+        "description": "basement.studio is a digital studio crafting brands, websites, 3D experiences, and products. We design and engineer cool shit that actually performs.",
+        "og_image": "https://basement.studio/images/opengraph-image.gif",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://basement.studio/",
+        "favicon": "https://basement.studio/favicon.ico"
+      },
+      "media_mix": {
+        "img": 40,
+        "canvas": 3,
+        "video": 0,
+        "svg": 11,
+        "iframe": 0
+      },
+      "page_height_px": 6714,
+      "is_single_screen": false,
+      "headings": [
+        "A digital studio & branding powerhouse making cool shit that performs",
+        "Trusted by Visionaries",
+        "Featured Projects",
+        "Capabilities",
+        "Contact"
+      ],
+      "responsive_note": "At 390px the h1 drops from 87px to 46px, the nav collapses to a single visible link, and the page shortens from 6714px to 5335px with no horizontal overflow.",
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "luxury"
+        ],
+        "topics": [
+          "design"
+        ]
+      }
+    },
+    "shadergradient.co": {
+      "url": "https://shadergradient.co/",
+      "title": "Shader Gradient",
+      "tagline": "Create beautiful moving gradients on Framer, Figma and React",
+      "screenshot": "screenshots/shadergradientco.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright 1440x900 full-page + DOM probe; 390x844 text probe; logged_out: true",
+      "what_it_is": "Landing page for Shader Gradient, a library of animated WebGL gradients for Framer, Figma and React, built by ruucm.",
+      "what_it_shows": "A live gradient demo up top, then a stack of use cases (Make live websites on Framer, Randomize, Ruucm, Seungmee, Twitter, Instagram, Halo) and a 'Try on web' call to action.",
+      "how_it_works": "The page is a Framer site (assets on framerusercontent.com, Framer events script) with 8 canvas elements running the gradients, plus one iframe. Letters in every heading are split into separate elements for per-character animation, so the h1/h2 text reads as 'S h a d e r G r a d i e n t' in the DOM.",
+      "how_its_designed": "Near-black ground (body rgb(15,15,15)) with white text. Type mixes Anton (condensed display), Lora (serif), JetBrains Mono and Roboto Mono, with Inter as body. The colour comes from the gradients themselves rather than from UI chrome.",
+      "palette": "Near-black ground, white text, colour supplied by live gradient canvases",
+      "fonts": "Anton, Lora, JetBrains Mono, Roboto Mono, Inter",
+      "pattern_keywords": [
+        "shader gradient",
+        "split-letter headings",
+        "framer site",
+        "webgl canvas",
+        "product demo"
+      ],
+      "tech_stack": [
+        "Framer",
+        "WebGL canvas",
+        "Framer Events"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body bg",
+          "value": "rgb(15, 15, 15)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Anton 400",
+        "Lora 400",
+        "Lora 600",
+        "JetBrains Mono 400",
+        "Roboto Mono 400",
+        "Inter 300",
+        "Inter 400",
+        "Inter 500",
+        "Inter 600"
+      ],
+      "meta": {
+        "description": "Create beautiful moving gradients on Framer, Figma and React",
+        "og_image": "https://framerusercontent.com/images/ha9u6Qtcp2kivmMTouWYSaaXZ9g.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://shadergradient.co/",
+        "favicon": "https://framerusercontent.com/images/ddKsbSCnuwitwNKu4sRpXTfamkk.png"
+      },
+      "media_mix": {
+        "img": 7,
+        "canvas": 8,
+        "video": 0,
+        "svg": 9,
+        "iframe": 1
+      },
+      "page_height_px": 15880,
+      "is_single_screen": false,
+      "headings": [
+        "Shader Gradient",
+        "Make live websites",
+        "on Framer",
+        "Randomize",
+        "Ruucm",
+        "Seungmee",
+        "Twitter",
+        "Instagram",
+        "Halo",
+        "Try on web →"
+      ],
+      "responsive_note": "At 390px the page height barely changes (15880px to 15440px) and nothing overflows; the 8 canvases stay mounted.",
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "playful"
+        ],
+        "topics": [
+          "design",
+          "art"
+        ]
+      }
+    },
+    "www.unicorn.studio": {
+      "url": "https://www.unicorn.studio/",
+      "title": "Unicorn Studio — Craft Interactive Graphics that Ship",
+      "tagline": "Design production-ready web components with shaders, media, 3D, and interactive motion in a visual canvas.",
+      "screenshot": "screenshots/unicornstudio.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright 1440x900 full-page + DOM probe; 390x844 text probe; logged_out: true",
+      "what_it_is": "Marketing site for Unicorn Studio, a visual editor for building shader, 3D and interactive-motion web components that embed into production sites.",
+      "what_it_shows": "The h1 is 'Craft Interactive Graphics that Ship', followed by 'Go from playground to production in a few clicks.', a gallery of community work ('People are building cool sh*t (and winning awwwards)') and Pricing.",
+      "how_it_works": "A Vue app (data-v-app root) with PostHog analytics. The page carries 37 video elements and 7 canvases to show effects running live, and 41 inline SVGs.",
+      "how_its_designed": "Near-black page (body rgb(8,8,10)) with lavender-grey text rgb(218,215,222); the 64px h1 is Overused Grotesk 500 in rgb(174,170,192) with Sprat as a serif accent. The stylesheet defines the editor's own tokens on :root: purple --primary-color #8e6ce4, gold #f1a22b, black #1e1e1e, greys #f5f5f5 to #333 (these are the app's light theme, the marketing page itself renders dark).",
+      "palette": "Near-black with muted lavender text; purple #8e6ce4 and gold #f1a22b in the token set",
+      "fonts": "Overused Grotesk 500, Sprat 500",
+      "pattern_keywords": [
+        "shader showcase",
+        "video wall",
+        "dark product page",
+        "editor-to-production pitch"
+      ],
+      "tech_stack": [
+        "Vue",
+        "PostHog",
+        "WebGL canvas"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--primary-color",
+          "value": "#8e6ce4",
+          "kind": "var"
+        },
+        {
+          "name": "--gold",
+          "value": "#f1a22b",
+          "kind": "var"
+        },
+        {
+          "name": "--black",
+          "value": "#1e1e1e",
+          "kind": "var"
+        },
+        {
+          "name": "--gray10",
+          "value": "#f5f5f5",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(8, 8, 10)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(218, 215, 222)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(174, 170, 192)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Overused Grotesk 500",
+        "Sprat 500"
+      ],
+      "meta": {
+        "description": "Design production-ready web components with shaders, media, 3D, and interactive motion in a visual canvas.",
+        "og_image": "https://www.unicorn.studio/images/ogg_new.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://www.unicorn.studio/",
+        "favicon": "https://www.unicorn.studio/favicon.png"
+      },
+      "media_mix": {
+        "img": 8,
+        "canvas": 7,
+        "video": 37,
+        "svg": 41,
+        "iframe": 0
+      },
+      "page_height_px": 7396,
+      "is_single_screen": false,
+      "headings": [
+        "Craft Interactive Graphics that Ship",
+        "Go from playground to production in a few clicks.",
+        "People are building cool sh*t (and winning awwwards) with Unicorn Studio.",
+        "Pricing"
+      ],
+      "responsive_note": "At 390px the h1 shrinks from 64px to 48px and the page grows from 7396px to 10283px as columns stack; no horizontal overflow.",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "corporate-clean"
+        ],
+        "topics": [
+          "design",
+          "art"
+        ]
+      }
+    },
+    "componentry.dev": {
+      "url": "https://componentry.dev/",
+      "title": "Componentry — Beautiful Animated UI Components for React",
+      "tagline": "The component library for polished interfaces.",
+      "screenshot": "screenshots/componentrydev.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright 1440x900 full-page + DOM probe; 390x844 text probe; logged_out: true",
+      "what_it_is": "Landing page for Componentry, a library of 54 animated React UI components built on Tailwind CSS, TypeScript and Framer Motion.",
+      "what_it_shows": "The h1 is 'The component library for polished interfaces.' It shows live component previews, a 'Loved by builders with taste' testimonial section, and a 'Something in mind? Let's build it.' contact CTA.",
+      "how_it_works": "A Next.js site (Next script bundles present) with PostHog and Umami analytics. 87 inline SVGs and 4 canvases drive the previews; it is a short page at 3357px.",
+      "how_its_designed": "Dark shadcn-style theme: body and html rgb(10,10,10) with near-white text lab(98.26 0 0), Geist 500 at 56px for the h1 and JetBrains Mono for code. The :root tokens are the shadcn set (--primary #171717, --muted-foreground #686868, --destructive #e40014, --radius .625rem); the stylesheet defines the light values and the page renders its dark variant.",
+      "palette": "Near-black ground, near-white text, neutral greys, no accent colour",
+      "fonts": "Geist, JetBrains Mono",
+      "pattern_keywords": [
+        "shadcn tokens",
+        "component showcase",
+        "dark minimal",
+        "geist type"
+      ],
+      "tech_stack": [
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Framer Motion",
+        "PostHog",
+        "Umami"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--primary",
+          "value": "#171717",
+          "kind": "var"
+        },
+        {
+          "name": "--muted-foreground",
+          "value": "#686868",
+          "kind": "var"
+        },
+        {
+          "name": "--destructive",
+          "value": "#e40014",
+          "kind": "var"
+        },
+        {
+          "name": "--radius",
+          "value": ".625rem",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(10, 10, 10)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "lab(98.26 0 0)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Geist 100-900",
+        "JetBrains Mono 100-800"
+      ],
+      "meta": {
+        "description": "Beautiful, animated React UI components with styling and motion already handled. Built with Tailwind CSS, TypeScript, and Framer Motion.",
+        "og_image": "https://componentry.dev/opengraph-image.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://componentry.dev/",
+        "favicon": "https://componentry.dev/logo-new.svg"
+      },
+      "media_mix": {
+        "img": 28,
+        "canvas": 4,
+        "video": 0,
+        "svg": 87,
+        "iframe": 0
+      },
+      "page_height_px": 3357,
+      "is_single_screen": false,
+      "headings": [
+        "The component library for polished interfaces.",
+        "Loved by builders with taste",
+        "Something in mind? Let's build it.",
+        "COMPONENTS 54"
+      ],
+      "responsive_note": "At 390px the h1 drops from 56px to about 33px and the page grows from 3357px to 5264px as columns stack; no horizontal overflow.",
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      }
+    },
+    "manus.im": {
+      "url": "https://manus.im/",
+      "title": "Manus: Hands On AI",
+      "tagline": "What can I do for you?",
+      "screenshot": "screenshots/manusim.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "Playwright 1440x900 full-page + DOM probe; 390x844 text probe; logged_out: true",
+      "what_it_is": "Home page of Manus, a general-purpose AI agent product described as 'the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach'.",
+      "what_it_shows": "A single-screen entry point: the h1 'What can I do for you?' sits over a task prompt box, with a second heading 'Less structure, more intelligence.' further in.",
+      "how_it_works": "A Next.js app that behaves like a product shell rather than a marketing page: the page is exactly one viewport (900px) tall at desktop, with 4 iframes (Stripe and Google sign-in hosts appear in the scripts) and analytics through Google Tag Manager, Plausible and DoubleClick.",
+      "how_its_designed": "White ground (rgb(255,255,255)) with near-black text rgb(26,26,26) and a near-black primary button rgb(26,26,25). The h1 is set in Libre Baskerville at 36px, a serif against a system sans UI (-apple-system stack), which gives it a quiet editorial feel. No brand colour is defined in the stylesheet beyond a progress-bar blue (#0081f2).",
+      "palette": "White ground, near-black text, one serif headline face",
+      "fonts": "Libre Baskerville 400 (h1), system sans UI",
+      "pattern_keywords": [
+        "serif h1",
+        "prompt box",
+        "single screen",
+        "agent product",
+        "ink-black button"
+      ],
+      "tech_stack": [
+        "Next.js",
+        "Google Tag Manager",
+        "Plausible",
+        "Stripe"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body bg",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(26, 26, 26)",
+          "kind": "rendered"
+        },
+        {
+          "name": "primary button bg",
+          "value": "rgb(26, 26, 25)",
+          "kind": "rendered"
+        },
+        {
+          "name": "--bprogress-color",
+          "value": "#0081f2",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Libre Baskerville 400"
+      ],
+      "meta": {
+        "description": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
+        "og_image": "https://files.manuscdn.com/webapp/media/ogBanner.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://manus.im/",
+        "favicon": "https://manus.im/favicon.ico"
+      },
+      "media_mix": {
+        "img": 1,
+        "canvas": 0,
+        "video": 0,
+        "svg": 25,
+        "iframe": 4
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "What can I do for you?",
+        "Less structure, more intelligence."
+      ],
+      "responsive_note": "At 390px the h1 shrinks from 36px to 28px and the page stays a single screen (900px to 844px) with no horizontal overflow.",
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "ai",
+          "productivity"
+        ]
+      }
+    },
+    "motion.dev": {
+      "url": "https://motion.dev/",
+      "title": "Motion (prev Framer Motion): JavaScript & React animation library",
+      "tagline": "The animation library loved by humans and agents alike.",
+      "screenshot": "screenshots/motiondev.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "1440x900 full-page screenshot + 390x844 DOM pass (no mobile screenshot); Playwright, logged_out: true",
+      "logged_out": true,
+      "what_it_is": "Home page of Motion, the animation library formerly known as Framer Motion, covering React, JavaScript and Vue, plus its paid Motion+ tier.",
+      "what_it_shows": "Live animation demos, a 'Built with Motion' showcase, latest posts, and starting-point guides and examples. The pitch is small APIs and expressive interfaces, aimed at both developers and AI agents.",
+      "how_it_works": "A long, roughly 12,770px scrolling marketing page with 15 looping <video> clips, 59 images and a canvas. Analytics come from a self-hosted analytics.motion.dev, and Paddle and ProfitWell handle Motion+ billing. No SPA framework global was detected in the DOM probe.",
+      "how_its_designed": "Near-black teal-tinted canvas (--background #0d1111, body rgb(14,19,18)) with off-white text (#ededec) and a restrained pale accent (#e8eeee). A green Motion+ accent (oklch .76 .15 155) and lavender --accent-3 (#a5b4fc) appear sparingly. The h1 is 34.56px TASA Orbiter 700, with Geist Mono for kicker/code detail. CSS vars define diagonal 'dossier' stripe patterns and wide kicker tracking.",
+      "palette": "Deep teal-black #0d1111, off-white #ededec, pale #e8eeee accent, Motion+ green, lavender #a5b4fc",
+      "fonts": "TASA Orbiter (400-800), Geist Mono",
+      "pattern_keywords": [
+        "dark",
+        "dev-tool",
+        "video-demos",
+        "kicker-labels",
+        "stripe-texture",
+        "animation-library"
+      ],
+      "tech_stack": [
+        "Paddle",
+        "ProfitWell",
+        "Cloudflare Web Analytics",
+        "Self-hosted analytics"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#0d1111",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#ededec",
+          "kind": "var"
+        },
+        {
+          "name": "--layer",
+          "value": "#13181a",
+          "kind": "var"
+        },
+        {
+          "name": "--border",
+          "value": "#1e2427",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#e8eeee",
+          "kind": "var"
+        },
+        {
+          "name": "--accent-2 (motion-plus)",
+          "value": "oklch(.76 .15 155)",
+          "kind": "var"
+        },
+        {
+          "name": "--accent-3",
+          "value": "#a5b4fc",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(14, 19, 18)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "TASA Orbiter 400-800",
+        "Geist Mono 100-900"
+      ],
+      "meta": {
+        "description": "Motion (prev Framer Motion) is a fast, production-grade animation library for React, JavaScript and Vue. Build smooth UI animations at a tiny footprint.",
+        "og_image": "https://motion.dev/brand-lab/home-og.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://motion.dev/",
+        "favicon": "https://motion.dev/favicon.svg"
+      },
+      "media_mix": {
+        "img": 59,
+        "canvas": 1,
+        "video": 15,
+        "svg": 113,
+        "iframe": 0
+      },
+      "page_height_px": 12770,
+      "is_single_screen": false,
+      "headings": [
+        "The animation library loved by humans and agents alike.",
+        "Small APIs.\nExpressive interfaces.",
+        "Motion+ unlocks the full animation workflow.",
+        "Built with Motion.",
+        "Latest from Motion.",
+        "Choose where to start.",
+        "Our most popular\nguides and examples."
+      ],
+      "responsive_note": "At 390px the page reflows to a single column (scrollHeight 12,770 -> 14,209px) with no horizontal overflow (scrollWidth 390).",
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "analytics.motion.dev",
+          "cdn.paddle.com",
+          "public.profitwell.com",
+          "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "minimal"
+        ],
+        "topics": [
+          "engineering",
+          "design",
+          "ai"
+        ]
+      }
+    },
+    "animejs.com": {
+      "url": "https://animejs.com/",
+      "title": "Anime.js | JavaScript Animation Engine",
+      "tagline": "All-in-one animation engine.",
+      "screenshot": "screenshots/animejscom.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "1440x900 full-page screenshot + 390x844 DOM pass (no mobile screenshot); Playwright, logged_out: true",
+      "logged_out": true,
+      "what_it_is": "Home page of Anime.js, a lightweight JavaScript animation library, now billed as an 'all-in-one animation engine'.",
+      "what_it_shows": "A feature tour: intuitive API, enhanced transforms, Scroll Observer, advanced staggering, SVG toolset, springs and draggable, and responsive animations. It ends with sponsors and a 'Start animating' call to action.",
+      "how_it_works": "A very long page (about 21,142px) with 6 canvases and 110 inline SVGs, used for live demos of the library running on itself. Scripts come only from the site plus Google Tag Manager and Carbon Ads. No framework global was detected, so it is likely hand-built with the library itself.",
+      "how_its_designed": "Warm charcoal (--hex-black #252423, body rgb(37,36,35)) with warm off-white text (#f6f4f2) and a hot red accent (#ff4b4b), which is the SPONSOR button colour. The token system is a graded scale: --hex-white-1..8 and --hex-red-1..8. Type is the DIN family for UI plus a monospace for labels. The h1 is a 12px label-style element, so the big 'All-in-one animation engine' copy is an h2.",
+      "palette": "Warm charcoal #252423, off-white #f6f4f2, red #ff4b4b",
+      "fonts": "DIN (100-900), Mono",
+      "pattern_keywords": [
+        "dark",
+        "warm-neutral",
+        "canvas-demos",
+        "svg-demos",
+        "feature-tour",
+        "graded-token-scale"
+      ],
+      "tech_stack": [
+        "Google Tag Manager",
+        "Carbon Ads"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--hex-black-1",
+          "value": "#252423",
+          "kind": "var"
+        },
+        {
+          "name": "--hex-white-1",
+          "value": "#f6f4f2",
+          "kind": "var"
+        },
+        {
+          "name": "--hex-white-3",
+          "value": "#85827e",
+          "kind": "var"
+        },
+        {
+          "name": "--hex-red-1",
+          "value": "#ff4b4b",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(37, 36, 35)",
+          "kind": "rendered"
+        },
+        {
+          "name": "sponsor button",
+          "value": "rgb(255, 75, 75)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "DIN 100-900",
+        "Mono 400"
+      ],
+      "meta": {
+        "description": "A fast, multipurpose and lightweight JavaScript animation library",
+        "og_image": "https://animejs.com/media/pages/home/066c76f87b-1787698629/generated-og-image.en.png",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://animejs.com/assets/images/favicon.png"
+      },
+      "media_mix": {
+        "img": 58,
+        "canvas": 6,
+        "video": 0,
+        "svg": 110,
+        "iframe": 0
+      },
+      "page_height_px": 21142,
+      "is_single_screen": false,
+      "headings": [
+        "All-in-one animation engine.",
+        "The complete animator's toolbox",
+        "Intuitive API",
+        "Enhanced transforms",
+        "Scroll Observer",
+        "Advanced staggering",
+        "SVG toolset",
+        "Springs and draggable",
+        "Runs like clockwork",
+        "Responsive animations",
+        "A lightweight and modular API",
+        "Our sponsors",
+        "Start animating"
+      ],
+      "responsive_note": "At 390px the layout stacks into one column (scrollHeight 21,142 -> 20,202px) with no horizontal overflow; 7 header/nav links stay visible.",
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "www.googletagmanager.com",
+          "cdn.carbonads.com"
+        ]
+      },
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "experimental"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      }
+    },
+    "gsap.com": {
+      "url": "https://gsap.com/",
+      "title": "Homepage | GSAP",
+      "tagline": "Animate Anything",
+      "screenshot": "screenshots/gsapcom.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "1440x900 full-page screenshot + 390x844 DOM pass (no mobile screenshot); Playwright, logged_out: true",
+      "logged_out": true,
+      "what_it_is": "Home page of GSAP (GreenSock), the long-standing professional JavaScript animation library, now supported by Webflow.",
+      "what_it_shows": "The pitch 'Animate Anything', then demo categories (Scroll, SVG, UI, Text, Other), the tools and plugins, and a Connect section.",
+      "how_it_works": "A 9,770px page that runs on GSAP itself (window.gsap is present). It has 6 videos, 103 SVGs and 8 images, with Google Tag Manager and Cloudflare analytics. Mobile collapses the nav into a 'Menu' button.",
+      "how_its_designed": "Near-black #0e100f ground with cream text (--color-surface-white #fffce1) and a named, playful palette: shockingly-green #0ae448, shockingly-pink #f100cb, orangey #ff8709, lilac #9d95ff, blue #00bae2. Defined gradients include macha, orange-crush, lipstick, purple-haze and skyfall. Everything is set in Mori (400/600). The h1 is 32px at weight 400.",
+      "palette": "Black #0e100f, cream #fffce1, shocking green #0ae448, pink #f100cb, orange #ff8709, lilac #9d95ff",
+      "fonts": "Mori (400, 600)",
+      "pattern_keywords": [
+        "dark",
+        "neon-accents",
+        "gradient-tokens",
+        "menu-button",
+        "video-demos",
+        "animation-library"
+      ],
+      "tech_stack": [
+        "GSAP",
+        "Google Tag Manager",
+        "Cloudflare Web Analytics",
+        "Webflow (sponsor)"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--color-just-black",
+          "value": "#0e100f",
+          "kind": "var"
+        },
+        {
+          "name": "--color-surface-white",
+          "value": "#fffce1",
+          "kind": "var"
+        },
+        {
+          "name": "--color-shockingly-green",
+          "value": "#0ae448",
+          "kind": "var"
+        },
+        {
+          "name": "--color-shockingly-pink",
+          "value": "#f100cb",
+          "kind": "var"
+        },
+        {
+          "name": "--color-orangey",
+          "value": "#ff8709",
+          "kind": "var"
+        },
+        {
+          "name": "--color-lilac",
+          "value": "#9d95ff",
+          "kind": "var"
+        },
+        {
+          "name": "--color-blue",
+          "value": "#00bae2",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(14, 16, 15)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body text",
+          "value": "rgb(255, 252, 225)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Mori 400",
+        "Mori 600"
+      ],
+      "meta": {
+        "description": "Supported by Webflow. Animate Anything - A wildly robust JavaScript animation library built for professionals.",
+        "og_image": "https://gsap.com/GSAP-share-image.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://gsap.com/",
+        "favicon": "https://gsap.com/favicon-32x32.png"
+      },
+      "media_mix": {
+        "img": 8,
+        "canvas": 0,
+        "video": 6,
+        "svg": 103,
+        "iframe": 0
+      },
+      "page_height_px": 9770,
+      "is_single_screen": false,
+      "headings": [
+        "Animate Anything",
+        "GSAP",
+        "Scroll",
+        "SVG",
+        "UI",
+        "Text",
+        "Other",
+        "Connect"
+      ],
+      "responsive_note": "At 390px the nav collapses behind a 'Menu' button and the page shortens from 9,770 to 8,381px with no horizontal overflow.",
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "www.googletagmanager.com",
+          "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "dark",
+        "vibe": [
+          "playful",
+          "technical"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      }
+    },
+    "beatspark.com": {
+      "url": "https://beatspark.com/",
+      "title": "beatspark — step-by-step Ableton lessons",
+      "tagline": "Interactive music production lessons inside of Ableton Live.",
+      "screenshot": "screenshots/beatsparkcom.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "1440x900 full-page screenshot + 390x844 DOM pass (no mobile screenshot); Playwright, logged_out: true",
+      "logged_out": true,
+      "what_it_is": "A single-screen landing page for beatspark, a desktop app that teaches music production through interactive step-by-step lessons inside Ableton Live.",
+      "what_it_shows": "A wordmark h1 'beatspark', the one-line description, a neon-green 'Download beatspark' button, and an email waitlist form with confirmation states ('Check your inbox.', 'Downloading now.', 'You're on the list.').",
+      "how_it_works": "A static page of exactly 900px (one screen at 1440x900) with one image, one iframe and no SVGs, canvas or video. The only external host is Cloudflare analytics, and the DOM shows no webfont payload.",
+      "how_its_designed": "Dark navy #0d0d1a with white text, a raised panel colour #181828, dim text #a0a0b0, and a single neon mint accent #00ffaa (rendered as the button background rgb(0,255,170)). The system font stack (-apple-system / SF Pro) is used throughout. The h1 is 38px 700. It reads as a minimal dev-made product page with one strong colour accent.",
+      "palette": "Navy #0d0d1a, panel #181828, neon mint #00ffaa, white",
+      "fonts": "System fonts only (-apple-system, SF Pro Text, Helvetica Neue); no webfont payload",
+      "pattern_keywords": [
+        "dark",
+        "single-screen",
+        "neon-accent",
+        "system-fonts",
+        "waitlist-form",
+        "music-production"
+      ],
+      "tech_stack": [
+        "Cloudflare Web Analytics"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--bg",
+          "value": "#0d0d1a",
+          "kind": "var"
+        },
+        {
+          "name": "--bg-elev",
+          "value": "#181828",
+          "kind": "var"
+        },
+        {
+          "name": "--text-dim",
+          "value": "#a0a0b0",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#00ffaa",
+          "kind": "var"
+        },
+        {
+          "name": "--accent-dim",
+          "value": "#00cc88",
+          "kind": "var"
+        },
+        {
+          "name": "--border",
+          "value": "#2a2a3e",
+          "kind": "var"
+        },
+        {
+          "name": "button bg",
+          "value": "rgb(0, 255, 170)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [],
+      "meta": {
+        "description": "Interactive music production lessons inside of Ableton Live.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "https://beatspark.com/favicon.svg"
+      },
+      "media_mix": {
+        "img": 1,
+        "canvas": 0,
+        "video": 0,
+        "svg": 0,
+        "iframe": 1
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [
+        "beatspark",
+        "Check your inbox.",
+        "Downloading now.",
+        "You're on the list."
+      ],
+      "responsive_note": "At 390px the single screen simply fits the 844px viewport (scrollHeight 844, no overflow); there is no nav to collapse.",
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "static.cloudflareinsights.com"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "music",
+          "education"
+        ]
+      }
+    },
+    "palmier.io": {
+      "url": "https://www.palmier.io/",
+      "title": "Palmier Pro | The video editor built for AI",
+      "tagline": "Palmier Pro is the video editor built for AI.",
+      "screenshot": "screenshots/palmierio.png",
+      "extracted_at": "2026-10-17",
+      "extracted_via": "1440x900 full-page screenshot + 390x844 DOM pass (no mobile screenshot); Playwright, logged_out: true",
+      "logged_out": true,
+      "what_it_is": "Marketing site for Palmier Pro, a non-linear video editor designed to be driven by AI agents such as Claude, Codex and Cursor. palmier.io redirects to www.palmier.io.",
+      "what_it_shows": "Hero pitch, 'Teach Claude, Codex, Cursor, or your agent how to edit your videos', a single workspace for AI tools, a full NLE feature section, the Palmier Service, an FAQ and a closing download CTA.",
+      "how_it_works": "A 7,055px page with 2 videos, 52 images and 43 SVGs. Only first-party assets plus the Fontshare API for Satoshi are loaded. Geist and Geist Mono suggest a Next.js-style stack, but the probe found no framework global, so that is not confirmed.",
+      "how_its_designed": "Warm near-black #0d0c0a with light grey text #ececec, muted #b3b3b3, surfaces #161614 / #1e1e1c, hairline borders (#ffffff12) and a single red accent #e63535. Type is Satoshi for body and headlines (the h1 is 60px at weight 400), Geist Mono for detail and Instrument Serif available for editorial flourishes.",
+      "palette": "Warm black #0d0c0a, light grey #ececec, red #e63535",
+      "fonts": "Satoshi (300-900), Geist, Geist Mono, Instrument Serif",
+      "pattern_keywords": [
+        "dark",
+        "red-accent",
+        "hairline-borders",
+        "product-demo",
+        "ai-agents",
+        "video-editor"
+      ],
+      "tech_stack": [
+        "Fontshare"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#0d0c0a",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#ececec",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#b3b3b3",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#e63535",
+          "kind": "var"
+        },
+        {
+          "name": "--surface",
+          "value": "#161614",
+          "kind": "var"
+        },
+        {
+          "name": "--surface-elevated",
+          "value": "#1e1e1c",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(13, 12, 10)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Satoshi 300-900",
+        "Geist 100-900",
+        "Geist Mono 100-900",
+        "Instrument Serif 400"
+      ],
+      "meta": {
+        "description": "Automate repeatable video work with Claude or Codex, generate media on the timeline, and export to your professional editor.",
+        "og_image": "https://www.palmier.io/palmier.png",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.palmier.io/icon.png"
+      },
+      "media_mix": {
+        "img": 52,
+        "canvas": 0,
+        "video": 2,
+        "svg": 43,
+        "iframe": 0
+      },
+      "page_height_px": 7055,
+      "is_single_screen": false,
+      "headings": [
+        "Palmier Pro is the video editor\nbuilt for AI.",
+        "Teach Claude, Codex, Cursor, or your agent how to edit your videos.",
+        "One workspace for all your AI tools.",
+        "Made for AI agents.",
+        "Full NLE video editor.",
+        "Palmier Service",
+        "Common questions",
+        "Try Palmier Pro now."
+      ],
+      "responsive_note": "At 390px the nav collapses to a menu button (2 links remain visible) and the page shortens from 7,055 to 6,841px with no horizontal overflow.",
+      "weight": {
+        "requests": null,
+        "hosts": [
+          "api.fontshare.com"
+        ]
+      },
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "dark",
+        "vibe": [
+          "corporate-clean",
+          "technical"
+        ],
+        "topics": [
+          "ai",
+          "film-video"
+        ]
       }
     }
   }

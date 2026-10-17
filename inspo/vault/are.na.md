@@ -52,6 +52,6 @@ Utilitarian Swiss/editorial chrome that gets out of the artwork's way: a plain w
 - [[21st.dev]] — shared: directory-gallery, minimal, editorial, ai, light
 - [[ciggies.app]] — shared: directory-gallery, minimal, editorial, light
 - [[designtools.fyi]] — shared: directory-gallery, minimal, editorial, light
+- [[mobbin.com]] — shared: directory-gallery, minimal, ai, light
 - [[type.lol]] — shared: directory-gallery, minimal, editorial, light
 - [[contralabs.com]] — shared: editorial, ai, art, light
-- [[addyosmani.com]] — shared: minimal, editorial, ai

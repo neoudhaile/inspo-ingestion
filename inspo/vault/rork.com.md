@@ -51,5 +51,5 @@ A near-black, minimalist single-column hero (body background rgb(23,23,23), whit
 - [[b150.ai]] — shared: startup-product, ai, startups
 - [[cofounder.co]] — shared: startup-product, ai, startups
 - [[creao.ai]] — shared: startup-product, ai, startups
+- [[manus.im]] — shared: startup-product, minimal, ai
 - [[shipper.now]] — shared: startup-product, ai, startups
-- [[crustdata.com]] — shared: startup-product, ai, dark

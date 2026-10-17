@@ -50,7 +50,7 @@ Light, calm and product-forward: a near-white body (rgb(246,246,246)) with pure-
 ## Related sites
 - [[flowstate.com]] — shared: startup-product, corporate-clean, minimal, productivity
 - [[apps.ankiweb.net]] — shared: startup-product, minimal, productivity, light
+- [[fabra.com]] — shared: startup-product, corporate-clean, design, light
+- [[getartcraft.com]] — shared: startup-product, minimal, design, light
+- [[manus.im]] — shared: startup-product, minimal, productivity, light
 - [[mo1.app]] — shared: startup-product, minimal, design, light
-- [[simple.ink]] — shared: startup-product, corporate-clean, productivity, light
-- [[vercel.com]] — shared: startup-product, corporate-clean, minimal, light
-- [[drafts9.com]] — shared: corporate-clean, minimal, design, light

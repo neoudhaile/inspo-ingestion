@@ -50,8 +50,8 @@ A deliberately tool-like, almost engineering-UI look: stark white canvas, everyt
 
 ## Related sites
 - [[itshover.com]] — shared: tool-app, technical, design, light
+- [[shadergradient.co]] — shared: tool-app, experimental, design
 - [[stitch.withgoogle.com]] — shared: tool-app, technical, design
 - [[akira.sachi.dev]] — shared: tool-app, technical, light
+- [[animejs.com]] — shared: experimental, technical, design
 - [[colf.dev]] — shared: tool-app, technical, light
-- [[drawably.dev]] — shared: tool-app, design, light
-- [[everynoise.com]] — shared: tool-app, technical, light

@@ -50,7 +50,7 @@ A near-black developer aesthetic: page background is rgb(10,10,10) with white he
 ## Related sites
 - [[langchain.com]] — shared: startup-product, technical, corporate-clean, ai, engineering, dark
 - [[crustdata.com]] — shared: startup-product, technical, ai, engineering, dark
+- [[palmier.io]] — shared: startup-product, technical, corporate-clean, ai, dark
 - [[photon.codes]] — shared: startup-product, corporate-clean, ai, engineering
 - [[printingpress.dev]] — shared: startup-product, technical, ai, engineering
 - [[hw.cafe]] — shared: startup-product, technical, engineering, dark
-- [[ashpreetbedi.com]] — shared: technical, ai, engineering, dark

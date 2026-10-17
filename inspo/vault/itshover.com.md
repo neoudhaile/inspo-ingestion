@@ -54,4 +54,4 @@ Warm monospace developer aesthetic: a white ground (--background #fff) with near
 - [[patterncraft.fun]] — shared: tool-app, minimal, design, engineering, light
 - [[sensory-ui.com]] — shared: tool-app, minimal, design, engineering, light
 - [[designengineer.tools]] — shared: minimal, technical, design, engineering, light
-- [[transitions.dev]] — shared: minimal, technical, design, engineering, light
+- [[getartcraft.com]] — shared: minimal, technical, design, engineering, light

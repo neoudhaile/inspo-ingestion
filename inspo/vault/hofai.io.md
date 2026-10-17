@@ -48,9 +48,9 @@ A warm dark theme built on Tailwind v4: the CSS exposes lab() color tokens, a fu
 - **Extracted:** 2026-06-06 · playwright-mcp @ 1440x900 (+ 390x844 mobile), logged_out: true
 
 ## Related sites
+- [[gsap.com]] — shared: docs-resource, technical, playful
 - [[heyneuma.com]] — shared: docs-resource, ai, education
 - [[midu.dev]] — shared: docs-resource, playful, education
+- [[motion.dev]] — shared: docs-resource, technical, ai
 - [[walkinglabs.github.io]] — shared: docs-resource, ai, education
 - [[canivibecodeit.com]] — shared: technical, playful, ai
-- [[cofounder.co]] — shared: technical, ai, mixed
-- [[humanityslastmachine.com]] — shared: docs-resource, technical

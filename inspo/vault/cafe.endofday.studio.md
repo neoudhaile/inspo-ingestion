@@ -50,6 +50,6 @@ Snug, storybook warmth. From getComputedStyle the stage is a deep warm brown (bo
 - [[appdrop.com]] — shared: tool-app, organic-warm, playful
 - [[clipart.studio]] — shared: tool-app, organic-warm, playful
 - [[lelezhang.design]] — shared: tool-app, organic-warm, playful
+- [[shadergradient.co]] — shared: tool-app, playful, dark
 - [[tryponcho.com]] — shared: tool-app, productivity, dark
 - [[zendex.spyrosigma.in]] — shared: tool-app, productivity, dark
-- [[cig-index.vercel.app]] — shared: tool-app, playful

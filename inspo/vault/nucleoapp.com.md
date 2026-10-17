@@ -52,5 +52,5 @@ A refined near-white product system built on an explicit token scale. getCompute
 - [[backgrounds.supply]] — shared: ecommerce, minimal, design
 - [[drafts9.com]] — shared: minimal, corporate-clean, design, light
 - [[gatheros.co]] — shared: minimal, corporate-clean, design, light
+- [[mobbin.com]] — shared: minimal, corporate-clean, design, light
 - [[nicelydone.club]] — shared: minimal, corporate-clean, design, light
-- [[patterncraft.fun]] — shared: minimal, corporate-clean, design, light

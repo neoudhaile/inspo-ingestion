@@ -54,6 +54,6 @@ Premium dark agency look: a near-black #08080a ground with white text and white 
 - [[hex.inc]] — shared: studio-agency, luxury, marketing, design, dark
 - [[vanschneider.com]] — shared: studio-agency, luxury, editorial, design, dark
 - [[coldiq.com]] — shared: studio-agency, luxury, editorial, marketing
+- [[basement.studio]] — shared: studio-agency, luxury, design, dark
 - [[drafts9.com]] — shared: studio-agency, startups, design
 - [[ignytlabs.com]] — shared: studio-agency, startups, design
-- [[offthewall.studio]] — shared: studio-agency, editorial, design

@@ -48,8 +48,8 @@ Dark, high-contrast editorial. From the DOM the body background is pure black (r
 
 ## Related sites
 - [[contralabs.com]] — shared: startup-product, editorial, luxury
+- [[manus.im]] — shared: startup-product, editorial, productivity
 - [[fey.com]] — shared: startup-product, luxury, dark
 - [[flowstate.com]] — shared: startup-product, productivity, dark
 - [[hw.cafe]] — shared: startup-product, editorial, dark
 - [[thinkwithmark.com]] — shared: editorial, luxury, productivity
-- [[apps.ankiweb.net]] — shared: startup-product, productivity

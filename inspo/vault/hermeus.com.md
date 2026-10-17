@@ -47,9 +47,9 @@ Aerospace-defense-contractor restraint: light gray ground (#ececec), a single am
 - **Extracted:** 2026-09-22 · desktop 1440x900, mobile 390x844 (layout check only); logged_out: true
 
 ## Related sites
+- [[getartcraft.com]] — shared: startup-product, technical, engineering, light
 - [[printingpress.dev]] — shared: startup-product, technical, engineering, light
 - [[todesktop.com]] — shared: startup-product, technical, engineering, light
 - [[crustdata.com]] — shared: startup-product, technical, engineering
 - [[daytona.io]] — shared: startup-product, technical, engineering
 - [[hw.cafe]] — shared: startup-product, technical, engineering
-- [[langchain.com]] — shared: startup-product, technical, engineering

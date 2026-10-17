@@ -3684,4 +3684,132 @@ _Appended automatically from X bookmark exports. Move into curated sections by h
 
 > I built a Claude skill that makes motion-style animation.  &gt; Paste a reference image &gt; It generates frames with Nano Banana 2  &gt; and animates the video with Seedance 2.0  Everything runs in C…
 
+### ArtCraft Apps — thirteen open-source creative tools
+
+**Site:** [getartcraft.com](https://getartcraft.com/apps)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `app` `open-source` `design` `tool`  
+
+
+### Fabra — 3D product design studio and tech packs
+
+**Site:** [fabra.com](https://www.fabra.com/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `product` `3d` `design` `app`  
+
+
+### Mobbin — UI & UX design inspiration library
+
+**Site:** [mobbin.com](https://mobbin.com/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `directory` `design` `ui-pattern` `mcp` `product`  
+
+
+### Cavalry — real-time 2D animation and motion design software
+
+**Site:** [cavalry.studio](https://cavalry.studio/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `app` `animation` `design` `video`  
+
+
+### Lenis — the smooth scroll library
+
+**Site:** [lenis.dev](https://lenis.dev/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `open-source` `animation` `experimental` `tool`  
+
+
+### basement.studio
+
+**Site:** [basement.studio](https://basement.studio/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `studio` `3d` `webgl` `portfolio` `animation`  
+
+
+### Shader Gradient
+
+**Site:** [shadergradient.co](https://shadergradient.co/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `tool` `webgl` `3d` `react` `generative` `animation`  
+
+
+### Unicorn Studio
+
+**Site:** [www.unicorn.studio](https://www.unicorn.studio/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `tool` `webgl` `animation` `design`  
+
+
+### Componentry
+
+**Site:** [componentry.dev](https://componentry.dev/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `react` `ui-pattern` `design-system` `animation` `nextjs`  
+
+
+### Manus
+
+**Site:** [manus.im](https://manus.im/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `ai` `agents` `product` `minimalist`  
+
+
+### Motion
+
+**Site:** [motion.dev](https://motion.dev/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `tool` `animation` `react` `design-system` `manual-add`  
+
+
+### Anime.js
+
+**Site:** [animejs.com](https://animejs.com/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `tool` `animation` `open-source` `manual-add`  
+
+
+### GSAP
+
+**Site:** [gsap.com](https://gsap.com/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `tool` `animation` `manual-add`  
+
+
+### beatspark
+
+**Site:** [beatspark.com](https://beatspark.com/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `product` `music` `app` `manual-add`  
+
+
+### Palmier Pro
+
+**Site:** [palmier.io](https://palmier.io/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `product` `ai` `video` `app` `manual-add`  
+
+
+### terminalindustries.com (domain parked, for sale)
+
+**Site:** [terminalindustries.com](https://terminalindustries.com/)  
+**Author:** [@None]()  
+**Source:** [tweet]() · 2026-10-17  
+**Tags:** `manual-add` `uncategorized` `todo-find-url`  
+
+
 <!-- AUTO-INGEST:END -->

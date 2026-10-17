@@ -48,7 +48,7 @@ Confident SaaS brand system: a violet hero anchors an otherwise white, near-blac
 ## Related sites
 - [[bigideasdb.com]] — shared: startup-product, corporate-clean, light
 - [[creao.ai]] — shared: startup-product, corporate-clean, light
+- [[fabra.com]] — shared: startup-product, corporate-clean, light
 - [[gatheros.co]] — shared: startup-product, corporate-clean, light
 - [[jenni.ai]] — shared: startup-product, corporate-clean, light
 - [[linkeddit.com]] — shared: startup-product, corporate-clean, light
-- [[photon.codes]] — shared: startup-product, corporate-clean, light

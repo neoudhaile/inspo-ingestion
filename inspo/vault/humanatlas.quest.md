@@ -53,4 +53,4 @@ A restrained, clinical light UI built on CSS custom properties: `--bg: #eceef0`,
 - [[itshover.com]] — shared: tool-app, minimal, technical, light
 - [[ditther.com]] — shared: tool-app, minimal, technical
 - [[zendex.spyrosigma.in]] — shared: tool-app, minimal, technical
-- [[colf.dev]] — shared: tool-app, technical, light
+- [[beatspark.com]] — shared: minimal, technical, education

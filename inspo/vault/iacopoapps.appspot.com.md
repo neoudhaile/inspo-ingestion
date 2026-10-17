@@ -49,7 +49,7 @@ Classic dark-mode demoscene aesthetic: pure black background, 13px monospace HUD
 ## Related sites
 - [[zzz.zoomquilt.org]] — shared: experiment-art, experimental, art, dark
 - [[arcade.pirillo.com]] — shared: experiment-art, experimental, dark
+- [[animejs.com]] — shared: experimental, technical, dark
 - [[backgrounds.supply]] — shared: experimental, art, dark
 - [[bird.onethreenine.net]] — shared: experiment-art, art
 - [[crustdata.com]] — shared: experimental, technical, dark
-- [[davekrugman.com]] — shared: technical, art, dark

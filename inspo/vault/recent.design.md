@@ -50,5 +50,5 @@ A neutral, content-first shell that lets the thumbnails supply all the color. Fr
 - [[designengineer.tools]] — shared: directory-gallery, minimal, design, light
 - [[designtools.fyi]] — shared: directory-gallery, minimal, design, light
 - [[maxibestof.one]] — shared: directory-gallery, minimal, design, light
+- [[mobbin.com]] — shared: directory-gallery, minimal, design, light
 - [[nicelydone.club]] — shared: directory-gallery, minimal, design, light
-- [[type.lol]] — shared: directory-gallery, minimal, design, light

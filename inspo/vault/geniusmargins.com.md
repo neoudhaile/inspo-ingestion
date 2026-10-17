@@ -52,5 +52,5 @@ The quiet, serif-forward Substack editorial theme on a cream/off-white ground wi
 - [[vivekhaldar.com]] — shared: minimal, editorial, productivity, writing, light
 - [[interfaces.dev]] — shared: publication-newsletter, minimal, editorial, light
 - [[anyblockers.com]] — shared: minimal, editorial, writing, light
+- [[manus.im]] — shared: minimal, editorial, productivity, light
 - [[noahzender.com]] — shared: minimal, productivity, writing, light
-- [[rvivek.com]] — shared: minimal, editorial, writing, light

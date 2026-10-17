@@ -49,8 +49,8 @@ An editorial, gallery-grade aesthetic. From the DOM probe the canvas is a warm o
 
 ## Related sites
 - [[creao.ai]] — shared: startup-product, editorial, ai, light
+- [[manus.im]] — shared: startup-product, editorial, ai, light
 - [[printingpress.dev]] — shared: startup-product, editorial, ai, light
 - [[sinceerly.com]] — shared: startup-product, editorial, ai, light
 - [[are.na]] — shared: editorial, ai, art, light
 - [[cofounder.co]] — shared: startup-product, editorial, ai
-- [[eko.lumaris.works]] — shared: startup-product, editorial, luxury

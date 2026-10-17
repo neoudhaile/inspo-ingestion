@@ -49,7 +49,7 @@ Near-black ground (rendered rgb(13,13,13)) with white text, Montserrat for the b
 ## Related sites
 - [[gatheros.co]] — shared: startup-product, corporate-clean, minimal, productivity
 - [[apps.ankiweb.net]] — shared: startup-product, minimal, productivity
+- [[manus.im]] — shared: startup-product, minimal, productivity
 - [[simple.ink]] — shared: startup-product, corporate-clean, productivity
 - [[vercel.com]] — shared: startup-product, corporate-clean, minimal
 - [[affiliatenetwork.com]] — shared: startup-product, corporate-clean, dark
-- [[daytona.io]] — shared: startup-product, corporate-clean, dark

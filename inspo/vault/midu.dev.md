@@ -50,8 +50,8 @@ A clean, high-contrast light theme — white ground rgb(255,255,255) with deep s
 
 ## Related sites
 - [[walkinglabs.github.io]] — shared: docs-resource, education, engineering, light
+- [[gsap.com]] — shared: docs-resource, playful, engineering
 - [[hofai.io]] — shared: docs-resource, playful, education
 - [[photon.codes]] — shared: corporate-clean, playful, engineering, light
 - [[animations.dev]] — shared: docs-resource, engineering, light
 - [[heyneuma.com]] — shared: docs-resource, education, light
-- [[humanityslastmachine.com]] — shared: docs-resource, engineering, light

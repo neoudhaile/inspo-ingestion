@@ -51,6 +51,6 @@ Quiet, typographic, warm-minimal — the same house style as animations.dev. Fro
 - [[amanml.com]] — shared: personal-blog, minimal, ai, engineering, light
 - [[21st.dev]] — shared: minimal, design, ai, engineering, light
 - [[anyblockers.com]] — shared: personal-blog, minimal, engineering, light
+- [[motion.dev]] — shared: minimal, design, ai, engineering
 - [[nehasharma.dev]] — shared: personal-blog, ai, engineering, light
 - [[nicolasbustamante.com]] — shared: personal-blog, minimal, ai, light
-- [[performance.dev]] — shared: personal-blog, minimal, engineering, light
