@@ -11,10 +11,10 @@
             "id": "f5e0769269b48fd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mode/dark",
+                "query": "tag:#mode/light",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,6 +182,8 @@
   },
   "active": "f5e0769269b48fd8",
   "lastOpenFiles": [
+    "canivibecodeit.com.md",
+    "clipart.studio.md",
     "21st.dev.md",
     "vivekhaldar.com.md",
     "photon.codes.md",
@@ -205,8 +207,6 @@
     "gaspardhedde.fr.md",
     "daryl.cv.md",
     "kiira.in.md",
-    "vanschneider.com.md",
-    "ITERATIONS.md",
-    "coldiq.com.md"
+    "vanschneider.com.md"
   ]
 }
