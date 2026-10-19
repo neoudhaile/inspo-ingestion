@@ -11,3 +11,4 @@ _backfill_attempted.json
 _embeddings/
 _clusters/
 .env
+inspo/cluster-*/
