@@ -56,6 +56,13 @@ ESSENCE_KEYS = ("subject", "host", "does", "for_whom", "domain", "kind")
 REQUIRED_TEXT = ("subject", "does", "for_whom", "domain", "kind")
 PURPOSE_PROSE = ("what_it_is", "what_it_shows", "how_it_works")
 
+# What the live re-scrape found at the URL. Only "live" may replace stored prose: the
+# library records what the owner SAW. When a site has since died (404, 5xx, parked) or
+# been shut down (acquired, sunset, expired event), the original capture is worth more
+# than today's error page — the first live run replaced a researcher's homepage with
+# "nothing published at this address" and Fey's research terminal with its sunset notice.
+SITE_STATES = ("live", "gone", "sunset")
+
 # "kind" names what a thing IS. These name the page it was seen on.
 FORBIDDEN_KINDS = {"landing page", "home page", "homepage", "marketing site",
                    "marketing page", "website", "web site", "web page", "webpage",
@@ -162,9 +169,17 @@ def _sites(doc):
 
 
 def problem_sites(doc):
-    """{domain: reason} for sites whose stored teardown describes the wrong thing."""
+    """{domain: reason} for sites whose stored teardown describes the wrong thing.
+
+    Skips sites already settled by a live run — a live essence, or a recorded
+    site_state — so re-running is idempotent from the source itself, not from a
+    gitignored cache that a cleanup could delete (which would mean paying to re-scrape
+    the 24 deep-url sites, whose URLs never stop being deep).
+    """
     out = {}
     for dom, e in _sites(doc).items():
+        if e.get("site_state") or (e.get("essence_meta") or {}).get("source") == "live":
+            continue
         reasons = []
         if is_deep_url(e.get("url")):
             reasons.append("deep-url")
@@ -213,8 +228,18 @@ Steps:
     "how_it_works":  "2-4 sentences. The visitor's experience: what they do and what happens. No tech."
   }},
   "evidence":   ["the specific things on the live site your essence rests on: headlines, nav items, product names"],
-  "confidence": "high | medium | low, and a one-line reason"
+  "confidence": "high | medium | low, and a one-line reason",
+  "site_state": "live | gone | sunset"
 }}
+
+site_state:
+- "live"   the thing that was shared is up and you could see what it is.
+- "gone"   the shared URL is an error or empty: 404, 5xx, DNS failure, a parked
+           domain, or a platform's "nothing here" page.
+- "sunset" the thing has been shut down, acquired, closed or has ended, and the
+           page is now mostly a notice about that.
+When the state is not "live", still fill in every field from what you can learn,
+and say in "confidence" what you could not see.
 
 """ + RULES
 
@@ -300,6 +325,9 @@ def scrape_live(dom, url, model=MODEL, attempts=2):
             prose = d.get("prose") or {}
             errs += [f"prose.{k} empty" for k in PURPOSE_PROSE
                      if not str(prose.get(k, "")).strip()]
+            state = str(d.get("site_state", "")).strip().lower()
+            if state not in SITE_STATES:
+                errs.append(f"site_state {state!r} not in {SITE_STATES}")
             if errs:
                 raise ValueError("; ".join(errs))
             return {
@@ -307,6 +335,7 @@ def scrape_live(dom, url, model=MODEL, attempts=2):
                 "prose": {k: prose[k].strip() for k in PURPOSE_PROSE},
                 "evidence": [str(x) for x in (d.get("evidence") or [])][:20],
                 "confidence": str(d.get("confidence", "")),
+                "site_state": state,
                 "cost_usd": meta.get("total_cost_usd", 0.0),
                 "turns": meta.get("num_turns"),
                 "attempts": attempt + 1,
@@ -378,6 +407,11 @@ def apply_results(doc, results, source, model, when=None):
     selected precisely because their stored prose describes the wrong thing. The
     design prose and the DOM sidecar are never touched — they were DOM-grounded, and
     the live essence run does not repeat the probe. Git keeps the replaced text.
+
+    A live result whose site_state is not "live" writes NOTHING but the state: the
+    stored capture is a record of what the owner saw, and a dead or sunset site's
+    current page is not a better description of it. Its essence is then left for the
+    prose backfill, which derives it from that original capture.
     """
     when = when or datetime.now().isoformat(timespec="seconds")
     sd = doc["site_designs"]
@@ -386,6 +420,13 @@ def apply_results(doc, results, source, model, when=None):
         if dom not in sd:
             continue
         entry = sd[dom]
+        state = r.get("site_state", "live") if source == "live" else None
+        if state and state != "live":
+            entry["site_state"] = {"state": state, "at": when,
+                                   "note": r.get("confidence", "")}
+            continue
+        if state == "live":
+            entry.pop("site_state", None)
         entry["essence"] = r["essence"]
         entry["essence_status"] = "ok"
         entry["essence_meta"] = {
@@ -518,19 +559,26 @@ def main():
         results, failed = run_backfill(doms, args.model, args.batch, args.parallel)
         source = "prose"
 
+    not_live = sorted(d for d, r in results.items()
+                      if r.get("site_state", "live") != "live")
     cost = sum(r.get("cost_usd", 0.0) for r in results.values())
     low = sorted(d for d, r in results.items()
                  if confidence_level(r.get("confidence")) == "low")
     print(f"\n{source.upper()}: {len(results)} ok, {len(failed)} failed, ${cost:.2f}")
     if low:
         print(f"low confidence ({len(low)}): {', '.join(low)}")
+    if not_live:
+        print(f"site changed since capture, original prose kept ({len(not_live)}): "
+              + ", ".join(f"{d} [{results[d]['site_state']}]" for d in not_live))
     if failed:
         print("failed:")
         for d, why in sorted(failed.items()):
             print(f"  {d}: {why[:200]}")
     if not args.no_apply:
         n = commit_to_source(results, source, args.model)
-        print(f"APPLIED {n} essences to inspiration.json ({source})")
+        print(f"APPLIED {n} essences to inspiration.json ({source})"
+              + (f"; {len(not_live)} recorded as changed, left for backfill"
+                 if not_live else ""))
     return 1 if failed else 0
 
 

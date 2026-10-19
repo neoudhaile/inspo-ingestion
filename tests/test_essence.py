@@ -144,7 +144,8 @@ def live_result():
     return {"essence": good(subject="Link Bouquet", host="AppDrop"),
             "prose": {"what_it_is": "new is", "what_it_shows": "new shows",
                       "how_it_works": "new works"},
-            "evidence": ["Title: Link Bouquet"], "confidence": "high — clear"}
+            "evidence": ["Title: Link Bouquet"], "confidence": "high — clear",
+            "site_state": "live"}
 
 
 def test_live_results_replace_purpose_prose_but_never_design(doc):
@@ -212,7 +213,8 @@ def test_scrape_live_retries_once_on_invalid_output(monkeypatch):
         ('{"essence": {"kind": "landing page"}}', {}),
         (json.dumps({"essence": good(), "prose": {"what_it_is": "a", "what_it_shows": "b",
                                                     "how_it_works": "c"},
-                     "evidence": ["x"], "confidence": "high"}), {"total_cost_usd": 0.1}),
+                     "evidence": ["x"], "confidence": "high", "site_state": "live"}),
+         {"total_cost_usd": 0.1}),
     ])
     monkeypatch.setattr(es, "run_claude", lambda *a, **k: next(answers))
     r = es.scrape_live("fabra.com", "https://www.fabra.com/")
@@ -241,3 +243,44 @@ def test_material_scrubs_pipeline_narration():
                               "what_it_is": "A falling-sand toy. A WebFetch text-fetch succeeded.",
                               "what_it_shows": "Not captured."})
     assert "falling-sand" in m and "WebFetch" not in m and "Not captured" not in m
+
+
+# --- sites that changed after they were captured --------------------------------
+
+@pytest.mark.parametrize("state", ["gone", "sunset"])
+def test_a_dead_or_sunset_site_keeps_its_original_capture(doc, state):
+    """The library records what the owner SAW. A 404 or a sunset notice is not a
+    better description of a site than the teardown made while it was alive."""
+    r = live_result(); r["site_state"] = state
+    n = es.apply_results(doc, {"appdrop.com": r}, "live", "m", when="t")
+    e = doc["site_designs"]["appdrop.com"]
+    assert n == 0
+    assert e["what_it_is"] == "old is", "original prose must survive"
+    assert "essence" not in e, "left for the backfill to derive from the capture"
+    assert e["site_state"]["state"] == state
+
+
+def test_a_live_result_clears_a_stale_site_state(doc):
+    doc["site_designs"]["appdrop.com"]["site_state"] = {"state": "gone"}
+    r = live_result(); r["site_state"] = "live"
+    es.apply_results(doc, {"appdrop.com": r}, "live", "m")
+    assert "site_state" not in doc["site_designs"]["appdrop.com"]
+
+
+def test_scrape_live_requires_a_site_state(monkeypatch):
+    body = {"essence": good(), "prose": {"what_it_is": "a", "what_it_shows": "b",
+                                         "how_it_works": "c"}, "confidence": "high"}
+    answers = iter([(json.dumps(body), {}),
+                    (json.dumps({**body, "site_state": "sunset"}), {})])
+    monkeypatch.setattr(es, "run_claude", lambda *a, **k: next(answers))
+    r = es.scrape_live("fey.com", "https://fey.com/")
+    assert r["attempts"] == 2 and r["site_state"] == "sunset"
+
+
+def test_problem_sites_skips_sites_a_live_run_already_settled():
+    doc = {"site_designs": {
+        "a.com": {"url": "https://a.com/x", "essence_meta": {"source": "live"}},
+        "b.com": {"url": "https://b.com/x", "site_state": {"state": "gone"}},
+        "c.com": {"url": "https://c.com/x", "essence_meta": {"source": "prose"}},
+    }}
+    assert set(es.problem_sites(doc)) == {"c.com"}
