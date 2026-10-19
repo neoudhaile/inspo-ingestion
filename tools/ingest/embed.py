@@ -114,11 +114,14 @@ def space_text(dom, e, space):
     is worse than leaving it out of the graph and visibly unplaced.
     """
     if space == "purpose":
-        prose = [
-            _usable(e.get("what_it_is")),
-            _usable(e.get("what_it_shows")),
-            _usable(e.get("how_it_works")),
-        ]
+        # what_it_is ONLY, deliberately. what_it_shows and how_it_works describe the
+        # PAGE — "the h1 reads", "navigation is organised by", "19 looping videos,
+        # Google Tag Manager" — and they are four fifths of the text, so including
+        # them clustered sites by how the page was built rather than what the product
+        # is. A desktop-pet app and a link-bouquet toy landed together on shared
+        # Next.js-and-analytics vocabulary while fabra's "3D apparel design platform"
+        # was 17% of its own embedding. The essence lives in what_it_is.
+        prose = [_usable(e.get("what_it_is"))]
         head = [e.get("title") or dom]
     elif space == "design":
         prose = [

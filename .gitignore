@@ -12,3 +12,4 @@ _embeddings/
 _clusters/
 .env
 inspo/cluster-*/
+_essence/

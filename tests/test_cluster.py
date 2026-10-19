@@ -195,3 +195,23 @@ def test_cluster_names_drop_hostnames():
     names = cl.name_clusters(texts, [1, 1, 2, 2])
     assert "cloudflareinsights" not in " ".join(names.values())
     assert "marketplace" in names[1]
+
+
+def test_purpose_embeds_the_product_not_the_page():
+    """what_it_shows/how_it_works describe page furniture and swamped the signal."""
+    e = {"what_it_is": "A 3D apparel design platform for garments.",
+         "what_it_shows": "The h1 reads YOUR PRODUCT DESIGN STUDIO. Below it, feature sections.",
+         "how_it_works": "A Next.js app with Google Tag Manager and Cloudflare Insights."}
+    t = em.space_text("fabra.com", e, "purpose")
+    assert "apparel" in t
+    assert "Next.js" not in t and "h1 reads" not in t
+
+
+def test_cluster_names_do_not_stutter():
+    texts = ["browser-default-blue browser-default hyperlinks plain text",
+             "browser-default-blue browser-default hyperlinks plain text",
+             "terracotta paper warm ink", "terracotta paper warm ink"]
+    name = cl.name_clusters(texts, [1, 1, 2, 2])[1]
+    terms = name.split()
+    assert len(terms) == len(set(terms))
+    assert not any(a != b and (a in b or b in a) for a in terms for b in terms)

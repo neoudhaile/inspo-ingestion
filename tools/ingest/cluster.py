@@ -206,7 +206,16 @@ def name_clusters(texts, labels, top=4):
             idf = math.log(1 + ngroups / df[term])
             scored.append((tf * idf, term))
         scored.sort(reverse=True)
-        names[lab] = " ".join(t for _, t in scored[:top]) or "misc"
+        # Drop near-duplicates: "browser-default-blue browser-default" reads as a
+        # stutter and spends two of four slots saying one thing.
+        picked = []
+        for _, term in scored:
+            if any(term in p or p in term for p in picked):
+                continue
+            picked.append(term)
+            if len(picked) >= top:
+                break
+        names[lab] = " ".join(picked) or "misc"
     return names
 
 
