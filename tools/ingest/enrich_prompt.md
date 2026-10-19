@@ -12,7 +12,9 @@ links as a best-effort bonus.
    are URLs submitted directly (pasted link, browser bookmark, another app). Skip the
    tweet-opening (2b) and media (6) steps; the given URL IS the subject: set it as
    `primary_url` and ALWAYS include its domain in `teardown_domains` (that's why it was
-   submitted). If the URL is a specific page (not the homepage), tear down THAT page.
+   submitted). If the URL is a specific page (not the homepage), tear down THAT page —
+   and ALSO open the domain root, because the essence (7e) must say both what was
+   shared and what site it lives on.
    Copy the null author/tweet fields through unchanged.
 
 1. **Keep every item.** Never drop one. Link-free items still get a title, category, tags.
@@ -86,10 +88,43 @@ links as a best-effort bonus.
    d. **Optional weight:** if useful, `browser_network_requests` for an approximate request
       count + notable hosts (CDN, analytics). Don't add page-loads for it.
 
-   e. **Write the `site_designs` entry.** Prose stays the star — `what_it_is`,
-      `what_it_shows`, `how_it_works`, `how_its_designed` (prose), grounded in the probe
-      (quote the real `<h1>` as the pitch; name the real framework). Then the structured
-      sidecar from the probe (see schema). **Color and font claims MUST come from the DOM
+   e. **ESSENCE (MANDATORY — write this BEFORE any prose).** You have the live site;
+      this is the only stage in the pipeline where meaning comes from the source rather
+      than from a description of it. Everything downstream — clustering, cluster names,
+      the purpose vault — is built from this block, so get it right here. If the URL is
+      a sub-page, you must also have opened the domain root (rule 0).
+      ```
+      "essence": {
+        "subject":  the thing actually shared — product, project, article, app, person,
+        "host":     the site it lives on, if different from the subject; else null,
+        "does":     one sentence: what a user can concretely DO with the subject,
+        "for_whom": who it is for, a few words,
+        "domain":   the subject matter or industry it serves ("fashion and apparel",
+                    "music production", "indie games"; "general" only if truly none),
+        "kind":     what kind of thing it IS ("design tool", "marketplace", "personal
+                    portfolio", "open-source library", "newsletter", "web toy")
+      }
+      ```
+      Describe the product, publication, project or person — **never the page**.
+      `kind` may never be "landing page", "home page", "marketing site" or "website";
+      those name the page. A site that opens "the landing page for X" is X. Keep
+      `domain` separate from `kind`: a 3D garment tool is kind "design tool", domain
+      "fashion and apparel", and merging them loses whichever is weaker. Only state
+      what the site supports; never infer an identity from a fragment of a page title.
+      An invalid essence is dropped at apply time and backfilled later, so a guess is
+      worse than a plain answer.
+
+   f. **Write the `site_designs` entry.** Prose stays the star, and each field has one
+      job — keep them apart so the notes read cleanly and the embeddings stay sharp:
+      - `what_it_is` — the essence, in 2–3 sentences of prose. The thing, not the page.
+      - `what_it_shows` — the content and offering actually presented; quote the real
+        `<h1>` as the pitch. No layout chrome.
+      - `how_it_works` — the visitor's experience: what they do, what happens.
+      - `how_its_designed` — the visual and interaction craft, grounded in the probe.
+      **Frameworks, analytics, hosting and other tech go ONLY in the `tech_stack`
+      sidecar, never in any prose field** — in prose they make unrelated sites look
+      alike (two sites once clustered together on shared Next.js-and-analytics
+      vocabulary). Then the structured sidecar from the probe (see schema). **Color and font claims MUST come from the DOM
       probe (`getComputedStyle` / `document.fonts` / CSS vars), never from eyeballing the
       screenshot.** If a value isn't in the DOM, say so (e.g. "system fonts only, no webfont
       payload"). Keep the one-line `palette` / `fonts` as the human summary, backed by the
@@ -111,6 +146,10 @@ extracted_via` (record the viewport(s) actually captured AND `"logged_out": true
 site was viewed without auth, so logged-out captures are flagged not silently asserted),
 `what_it_is, what_it_shows, how_it_works, how_its_designed, palette, fonts,
 pattern_keywords[]`.
+
+…plus ESSENCE (MANDATORY — see 7e; validated at apply time, an invalid one is dropped):
+- `essence: {subject, host, does, for_whom, domain, kind}` — `host` is null when the
+  subject is the whole site; every other field is a non-empty string.
 
 …plus STRUCTURED sidecar (all from the DOM probe; omit a field only if truly unavailable):
 - `tech_stack: string[]` — framework + analytics + host, e.g. `["Nuxt/Vue","PostHog","Cloudflare"]`
