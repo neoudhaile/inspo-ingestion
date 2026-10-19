@@ -8,3 +8,6 @@ __pycache__/
 _inbox/
 _backfill_attempted.json
 .obsidian/workspace*.json
+_embeddings/
+_clusters/
+.env
