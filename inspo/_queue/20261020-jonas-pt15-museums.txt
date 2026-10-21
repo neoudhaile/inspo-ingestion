@@ -1,0 +1,12 @@
+# source: https://x.com/jonaasw1/status/2100282767711887766 (Jonas, @jonaasw1 — "cool internet things pt. 15")
+# why: "internet museums that come to life" — a curated set of interactive museum/archive sites
+https://bird.onethreenine.net
+# ^ live bird tracker (already torn down; kept for provenance, dedup will skip)
+https://human-atlas-seven.vercel.app/
+# ^ interactive human anatomy (via tinyurl.com/2jvhh8wu)
+https://danqiqian321.github.io/art
+# ^ famous artworks + economic history, as an interactive piece
+https://www.bubbbly.com/app/flower-life.html
+# ^ camellia blooms visualized across the seasons (via tinyurl.com/27z5ez6d)
+https://art-codec.ai.studio
+# ^ tap any part of a painting and it explains what the artist meant
