@@ -164,10 +164,15 @@ def render_note(dom, entry, info, labels, tagmap, space, screenshot_rel):
     edges = info.get("graph_edges")
     if edges is None:
         edges = info.get("neighbors") or []
-    linked = {n["domain"] for n in edges}
+    bridges = info.get("bridges") or []
+    linked = {n["domain"] for n in edges} | {n["domain"] for n in bridges}
     body += ["## Nearest in this space", ""]
     body += [f"- [[{n['domain']}]] — {n['score']:.3f}" for n in edges] or ["—"]
     body.append("")
+    if bridges:
+        body += ["## Bridges to other families", ""]
+        body += [f"- [[{n['domain']}]] — {n['score']:.3f}" for n in bridges]
+        body.append("")
     elsewhere = [n for n in (info.get("neighbors") or []) if n["domain"] not in linked
                  and n["domain"] in (info.get("_other_cluster") or ())]
     if elsewhere:
@@ -356,6 +361,9 @@ def result_from_vault(space_dir):
             names.setdefault(".".join(parts[:int(lvl)]), name)
         nb_block = t.split("## Nearest in this space", 1)[-1].split("\n## ", 1)[0]
         nb = [(d, float(s)) for d, s in NEIGHBOR.findall(nb_block)]
+        if "## Bridges to other families" in t:
+            br = t.split("## Bridges to other families", 1)[1].split("\n## ", 1)[0]
+            nb += [(d, float(s)) for d, s in NEIGHBOR.findall(br)]
         if "## Also close, in other clusters" in t:
             far = t.split("## Also close, in other clusters", 1)[1].split("\n## ", 1)[0]
             nb += [(d, float(s)) for d, s in NEIGHBOR_TEXT.findall(far)]
@@ -407,7 +415,7 @@ def add_structured_edges(results, doc, log=print):
     Uses the current text recipe's vectors (cached, so mostly free). If embedding is
     unavailable, falls back to plain neighbours rather than failing the render.
     """
-    from tools.ingest.cluster import structured_edges
+    from tools.ingest.cluster import bridge_edges, structured_edges
     from tools.ingest.embed import embed_space
     for res in results:
         try:
@@ -417,12 +425,23 @@ def add_structured_edges(results, doc, log=print):
             continue
         paths = {d: i["path"] for d, i in res["sites"].items()}
         keep = [i for i, d in enumerate(doms) if d in paths]
-        edges = structured_edges([doms[i] for i in keep], [vecs[i] for i in keep], paths)
+        kd, kv = [doms[i] for i in keep], [vecs[i] for i in keep]
+        edges = structured_edges(kd, kv, paths)
+        inner = sorted(sc for d, l in edges.items() for o, sc in l if paths[o] == paths[d])
+        threshold = inner[len(inner) // 2] if inner else 1.0
+        bridges = bridge_edges(kd, kv, paths, threshold)
+        brid = {}
+        for a, b, sc in bridges:
+            brid.setdefault(a, []).append((b, sc))
+            brid.setdefault(b, []).append((a, sc))
         for d, info in res["sites"].items():
             info["graph_edges"] = [{"domain": o, "score": round(sc, 4)}
                                    for o, sc in edges.get(d, [])]
+            info["bridges"] = [{"domain": o, "score": round(sc, 4)}
+                               for o, sc in sorted(brid.get(d, []), key=lambda x: -x[1])]
         same = sum(len(v) for v in edges.values())
-        log(f"  {res['space']}: {same // 2} in-cluster/sibling edges")
+        log(f"  {res['space']}: {same // 2} in-cluster/sibling edges, "
+            f"{len(bridges)} bridges across families (similarity >= {threshold:.3f})")
     return results
 
 

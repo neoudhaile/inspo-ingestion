@@ -391,3 +391,25 @@ def test_rebuild_reads_back_both_neighbour_lists(result, doc, tmp_path):
     out = rc.render_version([r], doc, tmp_path / "cluster-1")
     back = rc.result_from_vault(out / "design")
     assert back["sites"]["c.com"]["neighbors"] == [{"domain": "a.com", "score": 0.4}]
+
+
+def test_bridges_cross_families_at_most_once_per_site_and_only_when_strong():
+    doms = ["a.com", "b.com", "c.com", "d.com"]
+    vecs = np.array([[1, 0], [0.99, 0.1], [0, 1], [0.98, 0.2]], dtype=float)
+    paths = {"a.com": "1.1", "b.com": "1.1", "c.com": "2.1", "d.com": "2.1"}
+    got = cl.bridge_edges(doms, vecs, paths, threshold=0.9)
+    pairs = {(a, b) for a, b, _ in got}
+    assert ("a.com", "d.com") in pairs or ("b.com", "d.com") in pairs
+    assert not any("c.com" in pr for pr in pairs), "c is far from family 1: no bridge"
+    assert all(paths[a][0] != paths[b][0] for a, b, _ in got)
+
+
+def test_bridges_render_as_links_in_their_own_section(result, doc, tmp_path):
+    r = dict(result)
+    r["sites"] = {d: dict(i) for d, i in result["sites"].items()}
+    r["sites"]["a.com"]["bridges"] = [{"domain": "c.com", "score": 0.95}]
+    out = rc.render_version([r], doc, tmp_path / "cluster-1")
+    note = (out / "design" / "a.com.md").read_text()
+    assert "## Bridges to other families" in note and "[[c.com]] — 0.950" in note
+    back = rc.result_from_vault(out / "design")
+    assert "c.com" in {n["domain"] for n in back["sites"]["a.com"]["neighbors"]}

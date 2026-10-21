@@ -202,6 +202,33 @@ def structured_edges(doms, vecs, paths, k_in=4, k_sib=1):
     return out
 
 
+def bridge_edges(doms, vecs, paths, threshold):
+    """Cross-family links that are as real as an in-cluster one: [(a, b, score)].
+
+    structured_edges() drops every cross-family link so colours stay together, but
+    some are genuine — the same person's portfolio and gallery (daryl.cv and
+    recent.design), a course and its author's site (animations.dev and
+    emilkowal.ski). Each site gets at most ONE bridge, to its closest site in another
+    family, and only when that pair is at least `threshold` similar (the median
+    in-cluster edge). Few enough to keep the families apart, enough to show how they
+    connect.
+    """
+    sims = cosine_sim(vecs)
+    idx = {d: i for i, d in enumerate(doms)}
+    present = [d for d in doms if d in paths]
+    fam = {d: paths[d].split(".")[0] for d in present}
+    out = {}
+    for d in present:
+        others = [o for o in present if fam[o] != fam[d]]
+        if not others:
+            continue
+        o = max(others, key=lambda o: (sims[idx[d]][idx[o]], o))
+        sc = float(sims[idx[d]][idx[o]])
+        if sc >= threshold:
+            out[tuple(sorted((d, o)))] = sc
+    return sorted(((a, b, sc) for (a, b), sc in out.items()), key=lambda x: -x[2])
+
+
 # --- naming ---------------------------------------------------------------------
 
 def tokenize(text):
