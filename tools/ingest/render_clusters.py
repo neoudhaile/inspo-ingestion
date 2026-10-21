@@ -7,6 +7,7 @@ This is the feedback loop for the clustering spike. Each run writes
         purpose/     <- open this as an Obsidian vault
         design/      <- and this one
         README.md    <- the settings that produced them, and the cluster sizes
+        titles.json  <- the human title of every cluster (see cluster_titles.py)
 
 so a reclustering never overwrites the last one and two attempts can be compared
 side by side. Numbering is automatic: the next unused n.
@@ -18,9 +19,16 @@ The graph model, which is the whole point:
 - Edges are each site's nearest neighbours in embedding space, symmetrized. Sites sit
   near the sites they actually resemble, not near the sites that happen to share a
   tag.
-- Cluster membership rides in frontmatter as `cluster/<path>` tags, which the shipped
-  graph config uses for colour only, with tag display switched off. Tags that are
-  never displayed cannot become nodes, so the colouring is free.
+- Cluster membership rides in frontmatter as a NAMED, nested tag —
+  `#portfolios-and-studios/design-studios` — which the graph config uses for colour
+  only, with tag display switched off. Tags that are never displayed cannot become
+  nodes. The name has to be in the tag because Obsidian's colour groups have no label
+  field: the group shows its query, so `tag:#portfolios-and-studios` IS the label.
+
+`--relabel cluster-<n>` names an existing version in place: it rebuilds the result
+from that vault's own notes, so the clustering is exactly what was rendered even when
+the intermediate JSON has since been overwritten. The owner's graph settings (forces,
+zoom) are kept; only the colour groups are replaced.
 """
 import argparse
 import colorsys
@@ -33,7 +41,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from tools.ingest.config import INSPIRATION_JSON, INSPO, REPO
-from tools.ingest.jsonio import read_json
+from tools.ingest.jsonio import read_json, write_json_atomic
 
 CLUSTER_JSON = INSPO / "_clusters"
 
@@ -51,6 +59,10 @@ REST_FIELDS = [("what_it_is", "What it is"), ("what_it_shows", "What it shows"),
                ("palette", "Palette"), ("fonts", "Fonts")]
 
 
+def _key(p):
+    return tuple(int(x) for x in p.split("."))
+
+
 def next_version(base=INSPO):
     n = 1
     while (base / f"cluster-{n}").exists():
@@ -64,58 +76,69 @@ def cluster_color(i, total):
     return (int(r * 255) << 16) + (int(g * 255) << 8) + int(b * 255)
 
 
-def graph_config(top_level):
-    """An .obsidian/graph.json so the vault opens looking deliberate, not default.
+DEFAULT_GRAPH = {
+    "collapse-filter": True, "search": "", "showTags": False,
+    "showAttachments": False, "hideUnresolved": True, "showOrphans": True,
+    "collapse-color-groups": False,
+    "collapse-display": False, "showArrow": False, "textFadeMultiplier": -0.7,
+    "nodeSizeMultiplier": 1.4, "lineSizeMultiplier": 0.7,
+    "collapse-forces": False, "centerStrength": 0.42, "repelStrength": 12,
+    "linkStrength": 0.75, "linkDistance": 180, "scale": 0.55,
+    "close": False,
+}
 
-    showTags is false on purpose: the cluster tags exist to drive these colour
-    groups, and a displayed tag would appear as a node, which is exactly what this
-    whole redesign is getting rid of.
+
+def graph_config(top_tags, existing=None):
+    """An .obsidian/graph.json, one colour group per top-level cluster.
+
+    `top_tags` is ordered, one tag per top-level cluster. When the vault already has
+    a graph.json (the owner has opened it and tuned forces or zoom), everything in it
+    is kept and only the colour groups are replaced. showTags is false on purpose for
+    a fresh vault: a displayed tag would appear as a node.
     """
-    return {
-        "collapse-filter": True, "search": "", "showTags": False,
-        "showAttachments": False, "hideUnresolved": True, "showOrphans": True,
-        "collapse-color-groups": False,
-        "colorGroups": [
-            {"query": f"tag:#cluster/{c}", "color": {"a": 1, "rgb": cluster_color(i, len(top_level))}}
-            for i, c in enumerate(sorted(top_level, key=int))
-        ],
-        "collapse-display": False, "showArrow": False, "textFadeMultiplier": -0.7,
-        "nodeSizeMultiplier": 1.4, "lineSizeMultiplier": 0.7,
-        "collapse-forces": False, "centerStrength": 0.42, "repelStrength": 12,
-        "linkStrength": 0.75, "linkDistance": 180, "scale": 0.55,
-        "close": False,
-    }
+    g = dict(existing) if existing else dict(DEFAULT_GRAPH)
+    g["colorGroups"] = [
+        {"query": f"tag:#{t}", "color": {"a": 1, "rgb": cluster_color(i, len(top_tags))}}
+        for i, t in enumerate(top_tags)
+    ]
+    return g
 
 
-def tags_for(path):
-    """A tag per level: 3, 3.2, 3.2.1 -> cluster/3, cluster/3-2, cluster/3-2-1."""
+def numeric_tags(paths):
+    """Fallback when there are no titles: 3.2 -> cluster/3, cluster/3-2."""
+    return {p: "cluster/" + p.replace(".", "-") for p in paths}
+
+
+def tags_for(path, tagmap):
+    """One tag per level of `path`, so a note carries its parent's tag too."""
     parts = path.split(".")
-    return [f"cluster/{'-'.join(parts[:i + 1])}" for i in range(len(parts))]
+    return [tagmap[".".join(parts[:i + 1])] for i in range(len(parts))]
 
 
 def yaml_str(s):
     return '"' + str(s).replace('"', "'") + '"'
 
 
-def render_note(dom, entry, info, names, space, screenshot_rel):
+def render_note(dom, entry, info, labels, tagmap, space, screenshot_rel):
     path = info["path"]
     lead = LEAD_FIELDS[space]
     lead_keys = {k for k, _ in lead}
+    parts = path.split(".")
+    trail = [labels.get(".".join(parts[:i + 1]), "") for i in range(len(parts))]
 
     fm = ["---",
           f"domain: {dom}",
           f"url: {entry.get('url', '')}",
           f"title: {yaml_str(entry.get('title') or dom)}",
           f"cluster: {yaml_str(path)}",
-          f"cluster_name: {yaml_str(names.get(path, ''))}"]
-    for depth in range(len(path.split("."))):
-        prefix = ".".join(path.split(".")[:depth + 1])
-        fm.append(f"cluster_l{depth + 1}: {yaml_str(names.get(prefix, prefix))}")
-    fm += ["tags:"] + [f"  - {t}" for t in tags_for(path)] + ["---", ""]
+          f"cluster_name: {yaml_str(labels.get(path, ''))}"]
+    for depth, name in enumerate(trail):
+        fm.append(f"cluster_l{depth + 1}: {yaml_str(name)}")
+    fm += ["tags:"] + [f"  - {t}" for t in tags_for(path, tagmap)] + ["---", ""]
 
     body = [f"# {entry.get('title') or dom}",
-            f"> [{dom}]({entry.get('url', '')}) · cluster **{path}** — "
-            f"*{names.get(path, '')}*", ""]
+            f"> [{dom}]({entry.get('url', '')}) · **{' › '.join(n for n in trail if n)}**",
+            ""]
 
     scr = entry.get("screenshot")
     if scr:
@@ -143,14 +166,11 @@ def render_note(dom, entry, info, names, space, screenshot_rel):
     return "\n".join(fm + body)
 
 
-def render_index(result, names):
+def render_index(result, labels, tagmap):
     sites = result["sites"]
     by_path = {}
     for d, info in sites.items():
         by_path.setdefault(info["path"], []).append(d)
-
-    def key(p):
-        return tuple(int(x) for x in p.split("."))
 
     out = [f"# {result['space'].capitalize()} clusters", "",
            f"_{len(sites)} sites · {result['provider']}:{result['model']} · "
@@ -159,7 +179,7 @@ def render_index(result, names):
            "off — every node is a website, and the cluster tags are here only to "
            "colour them.", ""]
     seen = set()
-    for leaf in sorted(by_path, key=key):
+    for leaf in sorted(by_path, key=_key):
         parts = leaf.split(".")
         for depth in range(len(parts)):
             prefix = ".".join(parts[:depth + 1])
@@ -168,15 +188,35 @@ def render_index(result, names):
             seen.add(prefix)
             size = sum(len(v) for p, v in by_path.items()
                        if p == prefix or p.startswith(prefix + "."))
-            out.append(f"{'  ' * depth}- **{prefix}** ({size}) {names.get(prefix, '')}")
+            out.append(f"{'  ' * depth}- **{labels.get(prefix, prefix)}** ({size}) "
+                       f"`#{tagmap[prefix]}`")
             if depth == len(result["levels"]) - 1:
                 for m in sorted(by_path.get(prefix, [])):
                     out.append(f"{'  ' * depth}    - [[{m}]]")
     return "\n".join(out) + "\n"
 
 
+def all_paths(result):
+    out = set()
+    for info in result["sites"].values():
+        parts = info["path"].split(".")
+        out.update(".".join(parts[:i + 1]) for i in range(len(parts)))
+    return out
+
+
+def labels_and_tags(result):
+    """(labels, tagmap) for a result: human titles when present, else keyword names."""
+    from tools.ingest.cluster_titles import named_tags
+    titles = result.get("cluster_titles") or {}
+    paths = all_paths(result)
+    if titles and paths <= set(titles):
+        return titles, named_tags({p: titles[p] for p in paths})
+    names = result.get("cluster_names") or {}
+    return {p: names.get(p, "") for p in paths}, numeric_tags(paths)
+
+
 def render_space(result, doc, outdir):
-    names = result["cluster_names"]
+    labels, tagmap = labels_and_tags(result)
     sd = doc["site_designs"]
     outdir.mkdir(parents=True, exist_ok=True)
     # Path back to screenshots/ from inside this folder. relpath rather than
@@ -187,14 +227,21 @@ def render_space(result, doc, outdir):
     for dom, info in result["sites"].items():
         entry = sd.get(dom) or {}
         (outdir / f"{dom}.md").write_text(
-            render_note(dom, entry, info, names, result["space"], screenshot_rel))
+            render_note(dom, entry, info, labels, tagmap, result["space"], screenshot_rel))
 
-    (outdir / "INDEX.md").write_text(render_index(result, names))
+    (outdir / "INDEX.md").write_text(render_index(result, labels, tagmap))
 
     tops = sorted({i["path"].split(".")[0] for i in result["sites"].values()}, key=int)
     obs = outdir / ".obsidian"
     obs.mkdir(exist_ok=True)
-    (obs / "graph.json").write_text(json.dumps(graph_config(tops), indent=2))
+    gpath = obs / "graph.json"
+    existing = None
+    if gpath.exists():
+        try:
+            existing = json.loads(gpath.read_text())
+        except ValueError:
+            existing = None
+    gpath.write_text(json.dumps(graph_config([tagmap[t] for t in tops], existing), indent=2))
     return len(result["sites"])
 
 
@@ -204,46 +251,150 @@ def render_version(results, doc, version_dir):
              "Two Obsidian vaults from one clustering run. Open "
              f"`{version_dir.name}/purpose` or `{version_dir.name}/design` as a vault "
              "(File → Open folder as vault), then Graph view with **Tags off**.", ""]
+    titles_out = {}
     for res in results:
         n = render_space(res, doc, version_dir / res["space"])
+        labels, tagmap = labels_and_tags(res)
+        if res.get("cluster_titles"):
+            titles_out[res["space"]] = res["cluster_titles"]
         sizes = Counter(i["path"].split(".")[0] for i in res["sites"].values())
         ordered = [sizes[k] for k in sorted(sizes, key=int)]
+        mixed = sum(1 for p in labels if str(labels[p]).lower().startswith("mixed"))
         lines += [f"## {res['space']} ({n} sites)", "",
                   f"- model: `{res['provider']}:{res['model']}`",
                   f"- cuts: `{res['levels']}` · k: `{res['k']}`",
                   f"- top-level sizes: `{ordered}` "
-                  f"(largest {max(ordered) / n:.0%})", ""]
+                  f"(largest {max(ordered) / n:.0%})"]
+        if titles_out.get(res["space"]):
+            lines.append(f"- clusters titled \"Mixed:\" (members share no clear theme): "
+                         f"`{mixed}` of `{len(labels)}`")
+        lines.append("")
         for top in sorted(sizes, key=int):
-            lines.append(f"  - **{top}** ({sizes[top]}) {res['cluster_names'].get(top, '')}")
+            lines.append(f"  - **{labels.get(top, top)}** ({sizes[top]}) `#{tagmap[top]}`")
+            for sub in sorted((p for p in labels if p.startswith(top + ".")
+                               and p.count(".") == 1), key=_key):
+                cnt = sum(1 for i in res["sites"].values()
+                          if i["path"] == sub or i["path"].startswith(sub + "."))
+                lines.append(f"    - {labels.get(sub, sub)} ({cnt})")
         lines.append("")
     (version_dir / "README.md").write_text("\n".join(lines))
+    if titles_out:
+        write_json_atomic(version_dir / "titles.json", titles_out)
     return version_dir
 
 
+# --- rebuilding a result from a rendered vault -----------------------------------
+
+FM_PATH = re.compile(r'^cluster: "([^"]+)"', re.M)
+FM_LEVEL = re.compile(r'^cluster_l(\d+): "([^"]*)"', re.M)
+NEIGHBOR = re.compile(r"^- \[\[([^\]]+)\]\] — ([0-9.]+)$", re.M)
+
+
+def result_from_vault(space_dir):
+    """Reconstruct a cluster result from the notes of one rendered space.
+
+    The vault is the record of what the owner is looking at; the intermediate JSON
+    in inspo/_clusters/ is overwritten by every run. Relabelling from the notes is
+    the only way to name a version without silently reclustering it.
+    """
+    space_dir = Path(space_dir)
+    sites, names = {}, {}
+    for f in sorted(space_dir.glob("*.md")):
+        if f.stem == "INDEX":
+            continue
+        t = f.read_text()
+        m = FM_PATH.search(t)
+        if not m:
+            continue
+        path = m.group(1)
+        parts = path.split(".")
+        for lvl, name in FM_LEVEL.findall(t):
+            names.setdefault(".".join(parts[:int(lvl)]), name)
+        nb_block = t.split("## Nearest in this space", 1)[-1].split("\n## ", 1)[0]
+        sites[f.stem] = {"path": path, "neighbors": [
+            {"domain": d, "score": float(s)} for d, s in NEIGHBOR.findall(nb_block)]}
+    readme = (space_dir.parent / "README.md")
+    meta = {"provider": "?", "model": "?", "levels": [], "k": 0}
+    if readme.exists():
+        r = readme.read_text()
+        sec = r.split(f"## {space_dir.name}", 1)[-1]
+        mm = re.search(r"model: `([^:`]+):([^`]+)`", sec)
+        if mm:
+            meta["provider"], meta["model"] = mm.group(1), mm.group(2)
+        mc = re.search(r"cuts: `\[([0-9, ]+)\]` · k: `(\d+)`", sec)
+        if mc:
+            meta["levels"] = [int(x) for x in mc.group(1).split(",")]
+            meta["k"] = int(mc.group(2))
+    return {"space": space_dir.name, **meta, "sites": sites, "cluster_names": names}
+
+
+# --- CLI ------------------------------------------------------------------------
+
+def add_titles(results, doc, version_dir, retitle=False, log=print):
+    """Attach human titles, reusing titles.json when it already covers a space."""
+    from tools.ingest.cluster_titles import title_clusters
+    cached = {}
+    tfile = version_dir / "titles.json"
+    if tfile.exists() and not retitle:
+        cached = read_json(tfile)
+    for res in results:
+        prev = cached.get(res["space"]) or {}
+        if prev and all_paths(res) <= set(prev):
+            res["cluster_titles"] = prev
+            log(f"  {res['space']}: titles reused from {tfile.name}")
+            continue
+        log(f"  {res['space']}: titling {len(all_paths(res))} clusters with Sonnet…")
+        res["cluster_titles"] = title_clusters(res, doc)
+    return results
+
+
 def main():
-    ap = argparse.ArgumentParser(description=__doc__)
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--spaces", default="purpose,design")
     ap.add_argument("--version", type=int, default=None,
                     help="cluster-N to write (default: next unused)")
     ap.add_argument("--from-json", default=str(CLUSTER_JSON),
                     help="directory holding <space>.json from tools.ingest.cluster")
+    ap.add_argument("--relabel", default=None, metavar="cluster-N",
+                    help="name an existing version in place, without reclustering")
+    ap.add_argument("--no-titles", action="store_true",
+                    help="skip Sonnet titles; fall back to keyword names")
+    ap.add_argument("--retitle", action="store_true",
+                    help="ignore titles.json and ask for new titles")
     args = ap.parse_args()
 
-    src = Path(args.from_json)
-    results = []
-    for space in [s.strip() for s in args.spaces.split(",") if s.strip()]:
-        f = src / f"{space}.json"
-        if not f.exists():
-            print(f"missing {f} — run tools.ingest.cluster --space {space} --save",
-                  file=sys.stderr)
-            return 1
-        results.append(read_json(f))
+    doc = read_json(INSPIRATION_JSON)
+    spaces = [s.strip() for s in args.spaces.split(",") if s.strip()]
 
-    n = args.version or next_version()
-    out = render_version(results, read_json(INSPIRATION_JSON), INSPO / f"cluster-{n}")
+    if args.relabel:
+        out = INSPO / args.relabel
+        if not out.is_dir():
+            print(f"no such version: {out}", file=sys.stderr)
+            return 1
+        results = [result_from_vault(out / s) for s in spaces if (out / s).is_dir()]
+    else:
+        src = Path(args.from_json)
+        results = []
+        for space in spaces:
+            f = src / f"{space}.json"
+            if not f.exists():
+                print(f"missing {f} — run tools.ingest.cluster --space {space} --save",
+                      file=sys.stderr)
+                return 1
+            results.append(read_json(f))
+        out = INSPO / f"cluster-{args.version or next_version()}"
+
+    if not args.no_titles:
+        add_titles(results, doc, out, retitle=args.retitle)
+    render_version(results, doc, out)
     print(f"CLUSTER_VERSION {out}")
     for res in results:
-        print(f"  {res['space']}: {len(res['sites'])} notes -> {out / res['space']}")
+        labels, tagmap = labels_and_tags(res)
+        print(f"\n  {res['space']}: {len(res['sites'])} notes -> {out / res['space']}")
+        tops = sorted({i['path'].split('.')[0] for i in res['sites'].values()}, key=int)
+        for t in tops:
+            print(f"    tag:#{tagmap[t]:44}  {labels.get(t, '')}")
     return 0
 
 
