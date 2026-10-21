@@ -153,8 +153,8 @@ def test_titled_render_uses_named_tags_everywhere(result, doc, tmp_path):
     assert "  - terracotta-ink\n" in note
     assert "cluster/" not in note
     g = json.loads((out / "design" / ".obsidian" / "graph.json").read_text())
-    assert [x["query"] for x in g["colorGroups"]] == ["tag:#terracotta-ink",
-                                                       "tag:#browser-default-blue"]
+    assert [x["query"] for x in g["colorGroups"]] == ['"Terracotta ink"',
+                                                       '"Browser-default blue"']
     assert "Warm paper and serif › Terracotta ink" in note
 
 
@@ -187,7 +187,7 @@ def test_rerender_keeps_the_owners_graph_settings(result, doc, tmp_path):
     g2 = json.loads(gfile.read_text())
     assert (g2["repelStrength"], g2["centerStrength"], g2["scale"], g2["showTags"]) == \
         (14.79, 0, 0.307, True)
-    assert g2["colorGroups"][0]["query"] == "tag:#terracotta-ink"
+    assert g2["colorGroups"][0]["query"] == '"Terracotta ink"'
 
 
 def test_result_rebuilds_from_the_rendered_notes(result, doc, tmp_path):
@@ -312,3 +312,22 @@ def test_index_is_a_colour_legend_for_the_graph(result, doc, tmp_path):
     for grp in g["colorGroups"]:
         assert f'color:#{grp["color"]["rgb"]:06x}' in idx
     assert "Terracotta ink" in idx
+
+
+def test_each_group_phrase_matches_exactly_its_own_cluster(result, doc, tmp_path):
+    """Groups match by exact name (tag queries matched nothing against a stale tag
+    index), so a name appearing in another cluster's note would mis-colour it."""
+    out = rc.render_version([titled(result)], doc, tmp_path / "cluster-1")
+    d = out / "design"
+    g = json.loads((d / ".obsidian" / "graph.json").read_text())
+    notes = {f.stem: f.read_text().lower() for f in d.glob("*.md") if f.stem != "INDEX"}
+    want = {"Terracotta ink": {"a.com", "b.com"}, "Browser-default blue": {"c.com"}}
+    for grp in g["colorGroups"]:
+        name = grp["query"].strip('"')
+        assert {k for k, t in notes.items() if name.lower() in t} == want[name]
+
+
+def test_untitled_groups_still_use_tag_queries(result, doc, tmp_path):
+    out = rc.render_version([result], doc, tmp_path / "cluster-1")
+    g = json.loads((out / "design" / ".obsidian" / "graph.json").read_text())
+    assert all(x["query"].startswith("tag:#cluster/") for x in g["colorGroups"])

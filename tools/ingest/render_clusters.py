@@ -101,8 +101,8 @@ def graph_config(groups, existing=None):
     g = dict(existing) if existing else dict(DEFAULT_GRAPH)
     pairs = [x if isinstance(x, tuple) else (x, cluster_color(i, len(groups)))
              for i, x in enumerate(groups)]
-    g["colorGroups"] = [{"query": f"tag:#{t}", "color": {"a": 1, "rgb": rgb}}
-                        for t, rgb in pairs]
+    g["colorGroups"] = [{"query": t if t.startswith(('"', "tag:")) else f"tag:#{t}",
+                         "color": {"a": 1, "rgb": rgb}} for t, rgb in pairs]
     return g
 
 
@@ -241,7 +241,15 @@ def render_space(result, doc, outdir):
     from tools.ingest.cluster_titles import family_palette
     colours = family_palette(all_paths(result), result.get("cluster_titles"))
     (outdir / "INDEX.md").write_text(render_index(result, labels, tagmap, colours))
-    groups = [(tagmap[p], colours[p]) for p in sorted(colours, key=_key)]
+    # Titled clusters are matched by their exact name as a quoted phrase, not by tag.
+    # Tag queries matched nothing in practice: Obsidian's tag index lags behind a
+    # rewrite of an open vault, while a phrase search reads the file itself. The
+    # name is also what the panel then shows. Every note carries its cluster's name
+    # in its header line and frontmatter; a test asserts no other note does.
+    titled = bool(result.get("cluster_titles"))
+    def query(p):
+        return '"' + str(labels[p]).replace('"', "'") + '"' if titled else tagmap[p]
+    groups = [(query(p), colours[p]) for p in sorted(colours, key=_key)]
     obs = outdir / ".obsidian"
     obs.mkdir(exist_ok=True)
     gpath = obs / "graph.json"
