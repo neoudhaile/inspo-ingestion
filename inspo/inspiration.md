@@ -3812,4 +3812,138 @@ _Appended automatically from X bookmark exports. Move into curated sections by h
 **Tags:** `manual-add` `uncategorized` `todo-find-url`  
 
 
+### i like beautiful things pt. 2: nine sites for visual inspiration, books, type and art
+
+**Site:** [savee.it](http://savee.it)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2062198472187547845) · 2026-06-03  
+**Tags:** `thread` `directory` `design` `typography` `art` `reading` `favorites`  
+
+> i like beautiful things pt. 2  some more fun sites:  https://t.co/O2ElfySg3a - visual inspiration https://t.co/jT3mmImPye - photo books https://t.co/452R8hVwKa - artists' books https://t.co/byhWmjakGA…
+
+### cool internet things pt. 6: math visualized, visual instruments, every music genre, digital stamps
+
+**Site:** [everynoise.com](http://everynoise.com)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2065119247760515183) · 2026-06-11  
+**Tags:** `thread` `directory` `design` `art` `music` `experimental` `generative`  
+
+> cool internet things pt. 6  https://t.co/wTGYG7tYm3 - math visualized  https://t.co/09hFmr9csj - visual instruments  https://t.co/H7iFmVtUFu - every music genre ever    https://t.co/uTCkmA9wVf - a cam…
+
+### cool internet things pt. 9: digital gallery, personal digital home, size of life, constellations
+
+**Site:** [enterportal.xyz](http://enterportal.xyz)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2069135333422166044) · 2026-06-22  
+**Tags:** `thread` `directory` `design` `art` `experimental` `weird`  
+
+> cool internet things pt. 9  https://t.co/on5FbZZ7H8 - digital MoMA gallery https://t.co/bI2XNC7aWc - personal "digital home" https://t.co/f1J2n1hGmY - interface experiments https://t.co/DwB20ZfnfL - a…
+
+### cool internet things pt. 10: guitar minigames, multiplayer vibecoding, kerning game, sound therapy
+
+**Site:** [midlife.engineering](http://midlife.engineering)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2070242834985431293) · 2026-06-25  
+**Tags:** `thread` `directory` `design` `typography` `music` `experimental` `app`  
+
+> cool internet things pt. 10  https://t.co/5v8i7t14Hl - guitar minigames https://t.co/vITCtTnz2V - multiplayer vibecoding https://t.co/ohZ5Vuc0gZ - a kerning game https://t.co/K3UluzQuVo - customized g…
+
+### cool internet things pt. 11 (retro theme): retro games, typed classics, indie radio, electronic music guide
+
+**Site:** [music.ishkur.com](http://music.ishkur.com)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2072355786093744134) · 2026-07-01  
+**Tags:** `thread` `directory` `retro` `music` `experimental` `reading`  
+
+> cool internet things pt. 11   https://t.co/W2AdpZGbw5 - retro console games https://t.co/OsI59jaM54 - type out classic books https://t.co/DcOLe0m54g - independent online radio https://t.co/uysEcCpP8G …
+
+### Cool internet things pt. 14: portfolio sites that come alive
+
+**Site:** [igochi.studio](https://igochi.studio)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2098494067969581459) · 2026-09-11  
+**Tags:** `directory` `thread` `portfolio` `experimental` `design`  
+
+> cool internet things pt. 14  https://t.co/2p1LC2UNfX - living studio portfolio site https://t.co/KelE52fQtG - a self-updating personal site https://t.co/b8ZPoE5djX - field notes journal https://t.co/z…
+
+### Cool internet things pt. 15: internet museums that come to life
+
+**Site:** [bird.onethreenine.net](http://bird.onethreenine.net)  
+**Author:** [@jonaasw1](https://twitter.com/jonaasw1)  
+**Source:** [tweet](https://twitter.com/jonaasw1/status/2100282767711887766) · 2026-09-16  
+**Tags:** `directory` `thread` `art` `data-viz` `experimental`  
+
+> cool internet things pt. 15  internet museums that come to life:  https://t.co/1ffjwurGYp - live bird tracker https://t.co/UcKW2lxGEa - human anatomy https://t.co/NxqIBXvXi3 - famous artworks + econom…
+
+### Tangerine: drag and Shift to convert files on Mac
+
+**Site:** [tangerineformac.com](https://tangerineformac.com)  
+**Author:** [@th2049](https://twitter.com/th2049)  
+**Source:** [tweet](https://twitter.com/th2049/status/2111477585461039241) · 2026-10-17  
+**Tags:** `app` `tool` `product` `video`  
+
+> convert files with just drag + shift https://t.co/RzGHL4ArdF
+
+### Designeer: curated design resources, components and AI tools
+
+**Site:** [designeer.xyz](https://designeer.xyz)  
+**Author:** [@HoudayfaDesign](https://twitter.com/HoudayfaDesign)  
+**Source:** [tweet](https://twitter.com/HoudayfaDesign/status/2106334617561432436) · 2026-10-03  
+**Tags:** `directory` `design` `tool` `video`  
+
+> designers and builders, this one’s worth bookmarking 🔖  Designeer has a ton of design resources, components, AI tools, and more all in one place.  Check it out → https://t.co/TegxTaXNoG https://t.co/p…
+
+### New websites on DesEngs: Ploy, Infinite Machine, The Design Society, trulytype
+
+**Site:** [desengs.com](https://desengs.com)  
+**Author:** [@remvze](https://twitter.com/remvze)  
+**Source:** [tweet](https://twitter.com/remvze/status/2105717647354605755) · 2026-10-01  
+**Tags:** `directory` `thread` `design` `typography`  
+
+> New websites on https://t.co/zxw8aMxfdK:   № 01 → https://t.co/n4JvVZjvGl № 02 → https://t.co/obkPyHsYwr  № 03 → https://t.co/iLCGsqtKSp  № 04 → https://t.co/sMqf1vfkD5 https://t.co/ASg7AmPFGD
+
+### FIFA World Cup match balls, 1990 to today: an interactive timeline made with Claude
+
+**Author:** [@notjignes](https://twitter.com/notjignes)  
+**Source:** [tweet](https://twitter.com/notjignes/status/2106844667832828218) · 2026-10-04  
+**Tags:** `ai` `animation` `ui-pattern` `video`  
+
+> fifa world cup balls throughout the years made w @claudeai   came across  @colderoshay 's work the other day and wanted to try this out w the timeline https://t.co/v2BSGDB0sM
+
+### Josh Puckett's design toolkit: Graphical, Interface Craft, DialKit and more
+
+**Site:** [graphicalui.com](https://graphicalui.com)  
+**Author:** [@notjerrywang](https://twitter.com/notjerrywang)  
+**Source:** [tweet](https://twitter.com/notjerrywang/status/2107191980149108855) · 2026-10-05  
+**Tags:** `directory` `thread` `design` `ai` `tool` `design-system` `shadcn` `agents`  
+
+> did josh just end ai ui slop 👀
+
+### Fanout: mapped learning across AI research, systems and ML math
+
+**Site:** [fanout.sh](https://fanout.sh)  
+**Author:** [@Fanoutdotsh](https://twitter.com/Fanoutdotsh)  
+**Source:** [tweet](https://twitter.com/Fanoutdotsh/status/2104887755314733551) · 2026-09-29  
+**Tags:** `course` `ai` `directory` `tutorial`  
+
+> the directory senior engineers refer.
+
+### Boring Forest: a walkable WebGL forest with fireflies and stone skipping
+
+**Site:** [boring-forest.vercel.app](https://boring-forest.vercel.app/)  
+**Author:** [@threejs](https://twitter.com/threejs)  
+**Source:** [tweet](https://twitter.com/threejs/status/2105276283815129169) · 2026-09-30  
+**Tags:** `threejs` `webgl` `3d` `experimental` `mesmerizing` `video`  
+
+> 🌳 https://t.co/DNFG1D5OUF  https://t.co/8zdNUkMpFg
+
+### Fo by Wajo: an AI action agent that brings in humans when AI can't finish the task
+
+**Site:** [wajo.ai](https://wajo.ai)  
+**Author:** [@shivanipod](https://twitter.com/shivanipod)  
+**Source:** [tweet](https://twitter.com/shivanipod/status/2104624129626309024) · 2026-09-28  
+**Tags:** `ai` `agents` `product` `startups` `video`  
+
+> I led engineering at Google DeepMind.  Today, I'm proud to introduce Fo to give personal AI something no lab ever has... Humans.  Other personal AI's pretend AI can do everything. Fo employs humans to…
+
 <!-- AUTO-INGEST:END -->

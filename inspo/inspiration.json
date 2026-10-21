@@ -11285,6 +11285,1716 @@
       "source": "bookmarks-export",
       "source_export": "queue/20261017-ig-tech-saved.txt",
       "ingested_at": "2026-10-17T15:58:29"
+    },
+    {
+      "id": "2062198472187547845",
+      "title": "i like beautiful things pt. 2: nine sites for visual inspiration, books, type and art",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2062198472187547845",
+      "date": "2026-06-03",
+      "category": "design",
+      "tags": [
+        "thread",
+        "directory",
+        "design",
+        "typography",
+        "art",
+        "reading",
+        "favorites"
+      ],
+      "primary_url": "http://savee.it",
+      "primary_domain": "savee.it",
+      "related_urls": [
+        "http://collective-join.com",
+        "http://mackbooks.co.uk",
+        "http://printedmatter.org",
+        "http://idea-mag.com",
+        "http://letterformarchive.org",
+        "http://awwwards.com",
+        "http://fontsinuse.com",
+        "http://rothko.joonas.wtf",
+        "http://are.na/editorial",
+        "http://visualjournal.it",
+        "http://inventorypress.com",
+        "http://cosmos.so",
+        "http://fockups.com",
+        "http://sternberg-press.com",
+        "http://onomatopee.net"
+      ],
+      "all_urls": [
+        "http://collective-join.com",
+        "http://savee.it",
+        "http://mackbooks.co.uk",
+        "http://printedmatter.org",
+        "http://idea-mag.com",
+        "http://letterformarchive.org",
+        "http://awwwards.com",
+        "http://fontsinuse.com",
+        "http://rothko.joonas.wtf",
+        "http://are.na/editorial",
+        "http://visualjournal.it",
+        "http://inventorypress.com",
+        "http://cosmos.so",
+        "http://fockups.com",
+        "http://sternberg-press.com",
+        "http://onomatopee.net"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HJ5mWmLWsAAGVra?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HJ5mWmLWsAAGVra?format=jpg&name=thumb",
+          "description": "A dark gallery grid of 89 Rothko paintings, each framed on a near-black card with an italic serif title, year and tiny extracted color swatches, plus filter pills (dark, luminous, warm, cool) and a sort menu."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HJ5mWmKWcAA8fez?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HJ5mWmKWcAA8fez?format=jpg&name=thumb",
+          "description": "Awwwards' 'Recent Sites of the Day' section: large rounded cards showing award-winning sites on device mockups (REF Digital, Hashgraph Ventures, Vaulk) under a bold sans headline, with a floating pill nav at the bottom."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HJ5mWmNWoAAJSBI?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HJ5mWmNWoAAJSBI?format=jpg&name=thumb",
+          "description": "The Creative Independent's home feed: a monospaced, bordered-button interface with a grid of flat solid-color text tiles (interviews, essays, guides), each carrying a date, plus a small pixel spiral logo and an illustrated bird."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "http://collective-join.com",
+          "resolved": "http://collective-join.com",
+          "role": "author-portfolio",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://savee.it",
+          "resolved": "http://savee.it",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://mackbooks.co.uk",
+          "resolved": "http://mackbooks.co.uk",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://printedmatter.org",
+          "resolved": "http://printedmatter.org",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://idea-mag.com",
+          "resolved": "http://idea-mag.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://letterformarchive.org",
+          "resolved": "http://letterformarchive.org",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://awwwards.com",
+          "resolved": "http://awwwards.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://fontsinuse.com",
+          "resolved": "http://fontsinuse.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://rothko.joonas.wtf",
+          "resolved": "http://rothko.joonas.wtf",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://are.na/editorial",
+          "resolved": "http://are.na/editorial",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://visualjournal.it",
+          "resolved": "http://visualjournal.it",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://inventorypress.com",
+          "resolved": "http://inventorypress.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://cosmos.so",
+          "resolved": "http://cosmos.so",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://fockups.com",
+          "resolved": "http://fockups.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://sternberg-press.com",
+          "resolved": "http://sternberg-press.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://onomatopee.net",
+          "resolved": "http://onomatopee.net",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "i like beautiful things pt. 2\n\nsome more fun sites:\n\nhttps://t.co/O2ElfySg3a - visual inspiration\nhttps://t.co/jT3mmImPye - photo books\nhttps://t.co/452R8hVwKa - artists' books\nhttps://t.co/byhWmjakGA - design magazines\nhttps://t.co/4yS31UFQ3O - type archive\nhttps://t.co/ZzdbsvehId - beautiful websites\nhttps://t.co/gwsLRpDAwh - essays \nhttps://t.co/sfwLPBq2pK - typography in the wild\nhttps://t.co/fZH7DrPFOv - weather-matched rothkos",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:43:13"
+    },
+    {
+      "id": "2065119247760515183",
+      "title": "cool internet things pt. 6: math visualized, visual instruments, every music genre, digital stamps",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2065119247760515183",
+      "date": "2026-06-11",
+      "category": "design",
+      "tags": [
+        "thread",
+        "directory",
+        "design",
+        "art",
+        "music",
+        "experimental",
+        "generative"
+      ],
+      "primary_url": "http://everynoise.com",
+      "primary_domain": "everynoise.com",
+      "related_urls": [
+        "http://collective-join.com",
+        "http://profconradi.com",
+        "http://music.jessyin.world",
+        "http://poetry.camera",
+        "http://marijanapav.com/stamps",
+        "http://liumichelle.com/sketchbook",
+        "http://xrageroom.com",
+        "http://yeguessr.com",
+        "http://flower-buds.vercel.app",
+        "http://nycstoops.com",
+        "http://sotazine.com",
+        "http://handofyou.app",
+        "https://shorturl.at/HjZ5Z",
+        "http://paperplanes.world",
+        "http://earth.nullschool.net"
+      ],
+      "all_urls": [
+        "http://collective-join.com",
+        "http://profconradi.com",
+        "http://music.jessyin.world",
+        "http://everynoise.com",
+        "http://poetry.camera",
+        "http://marijanapav.com/stamps",
+        "http://liumichelle.com/sketchbook",
+        "http://xrageroom.com",
+        "http://yeguessr.com",
+        "http://flower-buds.vercel.app",
+        "http://nycstoops.com",
+        "http://sotazine.com",
+        "http://handofyou.app",
+        "https://shorturl.at/HjZ5Z",
+        "http://paperplanes.world",
+        "http://earth.nullschool.net"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HKjGw8iWQAA2R29?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HKjGw8iWQAA2R29?format=jpg&name=thumb",
+          "description": "Visual Instruments: a sage-green page where a small scanning window moves across an acrylic landscape painting to turn the image into music, with a waveform strip and controls (cheatsheet, shuffle, play, map, upload image)."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HKjGyAgWEAASJjq?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HKjGyAgWEAASJjq?format=jpg&name=thumb",
+          "description": "A digital stamp collection: a serif essay panel with a catalogue-style data table on the left, and a perforated Gibraltar stamp on graph paper with a 'loupe' magnifier and notebook tabs on the right."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HKjGywYW4AAD6aZ?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HKjGywYW4AAD6aZ?format=jpg&name=thumb",
+          "description": "Simone Conradi's generative math art: a white gallery grid of orbit and attractor plots (teal-to-cream palettes on cream or navy), each captioned with a title and hash codes."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "http://collective-join.com",
+          "resolved": "http://collective-join.com",
+          "role": "author-portfolio",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://profconradi.com",
+          "resolved": "http://profconradi.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://music.jessyin.world",
+          "resolved": "http://music.jessyin.world",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://everynoise.com",
+          "resolved": "http://everynoise.com",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://poetry.camera",
+          "resolved": "http://poetry.camera",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://marijanapav.com/stamps",
+          "resolved": "http://marijanapav.com/stamps",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://liumichelle.com/sketchbook",
+          "resolved": "http://liumichelle.com/sketchbook",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://xrageroom.com",
+          "resolved": "http://xrageroom.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://yeguessr.com",
+          "resolved": "http://yeguessr.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://flower-buds.vercel.app",
+          "resolved": "http://flower-buds.vercel.app",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://nycstoops.com",
+          "resolved": "http://nycstoops.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://sotazine.com",
+          "resolved": "http://sotazine.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://handofyou.app",
+          "resolved": "http://handofyou.app",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://shorturl.at/HjZ5Z",
+          "resolved": "https://shorturl.at/HjZ5Z",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://paperplanes.world",
+          "resolved": "http://paperplanes.world",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://earth.nullschool.net",
+          "resolved": "http://earth.nullschool.net",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "cool internet things pt. 6\n\nhttps://t.co/wTGYG7tYm3 - math visualized \nhttps://t.co/09hFmr9csj - visual instruments \nhttps://t.co/H7iFmVtUFu - every music genre ever   \nhttps://t.co/uTCkmA9wVf - a camera that prints poems \nhttps://t.co/m4LrYSv4ib - digital stamp collection \nhttps://t.co/447WHCUPFY - a living digital sketchbook  \n\nsome of the cool people behind these:\n@michelletliu, @marijanapav, @rpavlini, @S_Conradi, @EveryNoise, @S_Conradi, @itsjessyin, @kelin_online",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:43:13"
+    },
+    {
+      "id": "2069135333422166044",
+      "title": "cool internet things pt. 9: digital gallery, personal digital home, size of life, constellations",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2069135333422166044",
+      "date": "2026-06-22",
+      "category": "design",
+      "tags": [
+        "thread",
+        "directory",
+        "design",
+        "art",
+        "experimental",
+        "weird"
+      ],
+      "primary_url": "http://enterportal.xyz",
+      "primary_domain": "enterportal.xyz",
+      "related_urls": [
+        "http://collective-join.com",
+        "http://aileenis.online",
+        "http://ryanstephen.co",
+        "http://feather.computer",
+        "http://neal.fun/size-of-life",
+        "http://neal.fun/constellation-draw",
+        "http://knicksmosaic.com",
+        "http://poolsuite.net",
+        "http://typo.love",
+        "http://cafe.endofday.studio",
+        "http://zzz.zoomquilt.org",
+        "http://tinyurl.com/5n8e678y",
+        "http://lelezhang.design/draw",
+        "http://kathytzhou.com/sunset",
+        "http://hex.inc/rejected",
+        "http://basecase.vc/booklist",
+        "http://aquaticmuseum.xyz",
+        "http://ryanstephen.co/touch-grass-simulator",
+        "http://typatone.com"
+      ],
+      "all_urls": [
+        "http://collective-join.com",
+        "http://enterportal.xyz",
+        "http://aileenis.online",
+        "http://ryanstephen.co",
+        "http://feather.computer",
+        "http://neal.fun/size-of-life",
+        "http://neal.fun/constellation-draw",
+        "http://knicksmosaic.com",
+        "http://poolsuite.net",
+        "http://typo.love",
+        "http://cafe.endofday.studio",
+        "http://zzz.zoomquilt.org",
+        "http://tinyurl.com/5n8e678y",
+        "http://lelezhang.design/draw",
+        "http://kathytzhou.com/sunset",
+        "http://hex.inc/rejected",
+        "http://basecase.vc/booklist",
+        "http://aquaticmuseum.xyz",
+        "http://ryanstephen.co/touch-grass-simulator",
+        "http://typatone.com"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HLbhHcSXYAAtoFu?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HLbhHcSXYAAtoFu?format=jpg&name=thumb",
+          "description": "A masonry gallery of artworks, posters, prints and album covers (Saul Bass poster, Elvis Costello sleeve, woodcuts, drawings) under the line 'Come for a stroll through the garden of human creativity...', with a live viewer count."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HLbhu7VXwAETWXQ?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HLbhu7VXwAETWXQ?format=jpg&name=thumb",
+          "description": "A personal 'digital home' map: cut-out illustrated objects (fruit, a house, a postcard, a perfume bottle, framed pictures) with italic labels floating on a dotted paper canvas over a blurred blue-cloud gradient, with a red seal logo and a social icon rail."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HLcLnOrWgAA7u6_?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HLcLnOrWgAA7u6_?format=jpg&name=thumb",
+          "description": "Neal.fun's 'size of life': a scroll-through comparison of living things, showing the redwood Hyperion (377 ft) towering over a line of animals down to a blue whale, on a warm cream notebook-paper background."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "http://collective-join.com",
+          "resolved": "http://collective-join.com",
+          "role": "author-portfolio",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://enterportal.xyz",
+          "resolved": "http://enterportal.xyz",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://aileenis.online",
+          "resolved": "http://aileenis.online",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://ryanstephen.co",
+          "resolved": "http://ryanstephen.co",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://feather.computer",
+          "resolved": "http://feather.computer",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://neal.fun/size-of-life",
+          "resolved": "http://neal.fun/size-of-life",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://neal.fun/constellation-draw",
+          "resolved": "http://neal.fun/constellation-draw",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://knicksmosaic.com",
+          "resolved": "http://knicksmosaic.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://poolsuite.net",
+          "resolved": "http://poolsuite.net",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://typo.love",
+          "resolved": "http://typo.love",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://cafe.endofday.studio",
+          "resolved": "http://cafe.endofday.studio",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://zzz.zoomquilt.org",
+          "resolved": "http://zzz.zoomquilt.org",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://tinyurl.com/5n8e678y",
+          "resolved": "http://tinyurl.com/5n8e678y",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://lelezhang.design/draw",
+          "resolved": "http://lelezhang.design/draw",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://kathytzhou.com/sunset",
+          "resolved": "http://kathytzhou.com/sunset",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://hex.inc/rejected",
+          "resolved": "http://hex.inc/rejected",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://basecase.vc/booklist",
+          "resolved": "http://basecase.vc/booklist",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://aquaticmuseum.xyz",
+          "resolved": "http://aquaticmuseum.xyz",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://ryanstephen.co/touch-grass-simulator",
+          "resolved": "http://ryanstephen.co/touch-grass-simulator",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://typatone.com",
+          "resolved": "http://typatone.com",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "cool internet things pt. 9\n\nhttps://t.co/on5FbZZ7H8 - digital MoMA gallery\nhttps://t.co/bI2XNC7aWc - personal \"digital home\"\nhttps://t.co/f1J2n1hGmY - interface experiments\nhttps://t.co/DwB20ZfnfL - a self organizing inbox\nhttps://t.co/zJ0LIKHY2C - the scale of all living things\nhttps://t.co/nd7J4kfslP - draw constellations\nhttps://t.co/TCkF0gnW7f - a mosaic of thousands of NY Knicks photos\n\nthe cool people behind these - @itsjessyin (fan fav), @userisgrotesque, @nealagarwal, @Ryan__Stephen, @szgbo, @cadenbuild, @mohul_shukla",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:43:13"
+    },
+    {
+      "id": "2070242834985431293",
+      "title": "cool internet things pt. 10: guitar minigames, multiplayer vibecoding, kerning game, sound therapy",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2070242834985431293",
+      "date": "2026-06-25",
+      "category": "tools-build",
+      "tags": [
+        "thread",
+        "directory",
+        "design",
+        "typography",
+        "music",
+        "experimental",
+        "app"
+      ],
+      "primary_url": "http://midlife.engineering",
+      "primary_domain": "midlife.engineering",
+      "related_urls": [
+        "http://collective-join.com",
+        "http://strumsurfer.com",
+        "http://letsjam.now",
+        "http://kern.kineticstudio.com",
+        "http://cuteghostty.com",
+        "http://theknickswon.com",
+        "http://synesthesiaengine.netlify.app",
+        "http://codex-billboard.vercel.app",
+        "http://enterportal.xyz",
+        "http://aileenis.online",
+        "http://ryanstephen.co",
+        "http://feather.computer",
+        "http://neal.fun/size-of-life",
+        "http://poolsuite.net",
+        "http://typo.love",
+        "http://cafe.endofday.studio",
+        "http://zzz.zoomquilt.org",
+        "http://tinyurl.com/5n8e678y",
+        "http://typatone.com",
+        "http://neal.fun/constellation-draw",
+        "http://knicksmosaic.com"
+      ],
+      "all_urls": [
+        "http://collective-join.com",
+        "http://strumsurfer.com",
+        "http://letsjam.now",
+        "http://kern.kineticstudio.com",
+        "http://cuteghostty.com",
+        "http://midlife.engineering",
+        "http://theknickswon.com",
+        "http://synesthesiaengine.netlify.app",
+        "http://codex-billboard.vercel.app",
+        "http://enterportal.xyz",
+        "http://aileenis.online",
+        "http://ryanstephen.co",
+        "http://feather.computer",
+        "http://neal.fun/size-of-life",
+        "http://poolsuite.net",
+        "http://typo.love",
+        "http://cafe.endofday.studio",
+        "http://zzz.zoomquilt.org",
+        "http://tinyurl.com/5n8e678y",
+        "http://typatone.com",
+        "http://neal.fun/constellation-draw",
+        "http://knicksmosaic.com"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HLr6yfRW0AAyl_i?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HLr6yfRW0AAyl_i?format=jpg&name=thumb",
+          "description": "Jam, a multiplayer coding sandbox: a photoreal sky of cumulus clouds with a chrome 'START JAM' keycap in the centre and a circuit-board bird, with the tagline 'Multiplayer vibecoding'."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HLr6yfQXUAAGRX1?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HLr6yfQXUAAGRX1?format=jpg&name=thumb",
+          "description": "A kerning game: an enormous 'Kerning' wordmark in pale cyan on deep plum, with pink and green dot clusters showing how far players' guesses were from each gap, and an Off/Optical Kerning toggle."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HLr6118W8AEwUMs?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HLr6118W8AEwUMs?format=jpg&name=thumb",
+          "description": "Midlife Engineering: a hardware groove-box UI (speaker grille, OLED-style display, knobs, step buttons, icon pads) overlaid on a huge 'midlife engineering' wordmark on light grey."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "http://collective-join.com",
+          "resolved": "http://collective-join.com",
+          "role": "author-portfolio",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://strumsurfer.com",
+          "resolved": "http://strumsurfer.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://letsjam.now",
+          "resolved": "http://letsjam.now",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://kern.kineticstudio.com",
+          "resolved": "http://kern.kineticstudio.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://cuteghostty.com",
+          "resolved": "http://cuteghostty.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://midlife.engineering",
+          "resolved": "http://midlife.engineering",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://theknickswon.com",
+          "resolved": "http://theknickswon.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://synesthesiaengine.netlify.app",
+          "resolved": "http://synesthesiaengine.netlify.app",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://codex-billboard.vercel.app",
+          "resolved": "http://codex-billboard.vercel.app",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://enterportal.xyz",
+          "resolved": "http://enterportal.xyz",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://aileenis.online",
+          "resolved": "http://aileenis.online",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://ryanstephen.co",
+          "resolved": "http://ryanstephen.co",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://feather.computer",
+          "resolved": "http://feather.computer",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://neal.fun/size-of-life",
+          "resolved": "http://neal.fun/size-of-life",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://poolsuite.net",
+          "resolved": "http://poolsuite.net",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://typo.love",
+          "resolved": "http://typo.love",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://cafe.endofday.studio",
+          "resolved": "http://cafe.endofday.studio",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://zzz.zoomquilt.org",
+          "resolved": "http://zzz.zoomquilt.org",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://tinyurl.com/5n8e678y",
+          "resolved": "http://tinyurl.com/5n8e678y",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://typatone.com",
+          "resolved": "http://typatone.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://neal.fun/constellation-draw",
+          "resolved": "http://neal.fun/constellation-draw",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://knicksmosaic.com",
+          "resolved": "http://knicksmosaic.com",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "cool internet things pt. 10\n\nhttps://t.co/5v8i7t14Hl - guitar minigames\nhttps://t.co/vITCtTnz2V - multiplayer vibecoding\nhttps://t.co/ohZ5Vuc0gZ - a kerning game\nhttps://t.co/K3UluzQuVo - customized ghost terminal\nhttps://t.co/WPmMAvikE2 - interactive sound therapy\nhttps://t.co/RpubCNruyi - map of Knicks celebrations\nhttps://t.co/ZtC511gs6H - turn images into sound\nhttps://t.co/bqCuhDmbwz - make your own codex billboard\n\nthe cool people behind these - @mrblackstudio, @measure_plan, @hunterthompson, @amypretzel, @marcgmbh, @sofianeflarbi, @bryanhpchiang, @lkronhubbard, @leithnyang, @dccrew33, @itsjessyin",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:43:13"
+    },
+    {
+      "id": "2072355786093744134",
+      "title": "cool internet things pt. 11 (retro theme): retro games, typed classics, indie radio, electronic music guide",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2072355786093744134",
+      "date": "2026-07-01",
+      "category": "design",
+      "tags": [
+        "thread",
+        "directory",
+        "retro",
+        "music",
+        "experimental",
+        "reading"
+      ],
+      "primary_url": "http://music.ishkur.com",
+      "primary_domain": "music.ishkur.com",
+      "related_urls": [
+        "http://collective-join.com",
+        "http://gam.onl",
+        "http://typelit.io",
+        "http://nts.live",
+        "http://nityasnotes.com",
+        "http://70s.myretrotvs.com",
+        "http://1001albumsgenerator.com",
+        "http://strumsurfer.com",
+        "http://letsjam.now",
+        "http://kern.kineticstudio.com",
+        "http://cuteghostty.com",
+        "http://midlife.engineering",
+        "http://enterportal.xyz",
+        "http://aileenis.online",
+        "http://ryanstephen.co",
+        "http://feather.computer",
+        "http://neal.fun/size-of-life",
+        "http://neal.fun/constellation-draw",
+        "http://knicksmosaic.com",
+        "http://theknickswon.com",
+        "http://synesthesiaengine.netlify.app",
+        "http://codex-billboard.vercel.app"
+      ],
+      "all_urls": [
+        "http://collective-join.com",
+        "http://gam.onl",
+        "http://typelit.io",
+        "http://nts.live",
+        "http://nityasnotes.com",
+        "http://70s.myretrotvs.com",
+        "http://1001albumsgenerator.com",
+        "http://music.ishkur.com",
+        "http://strumsurfer.com",
+        "http://letsjam.now",
+        "http://kern.kineticstudio.com",
+        "http://cuteghostty.com",
+        "http://midlife.engineering",
+        "http://enterportal.xyz",
+        "http://aileenis.online",
+        "http://ryanstephen.co",
+        "http://feather.computer",
+        "http://neal.fun/size-of-life",
+        "http://neal.fun/constellation-draw",
+        "http://knicksmosaic.com",
+        "http://theknickswon.com",
+        "http://synesthesiaengine.netlify.app",
+        "http://codex-billboard.vercel.app"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HMJ7yzCXwAAYCWB?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HMJ7yzCXwAAYCWB?format=jpg&name=thumb",
+          "description": "Nitya's Notes: the title floats at the centre of a loose sphere of tilted book covers and papers over faint monospaced reading notes on a warm off-white grid."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HMJ7z3yWYAEneHZ?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HMJ7z3yWYAEneHZ?format=jpg&name=thumb",
+          "description": "Ishkur's Guide to Electronic Music: a glowing neon title over a dark-blue circuit-board timeline, with coloured genre lines branching from the 1900s to the 2010s and labelled sub-genres, plus zoom controls."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HMJ73BnXAAE4M8-?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HMJ73BnXAAE4M8-?format=jpg&name=thumb",
+          "description": "Gam.onl: a photoreal arcade cabinet playing Street Fighter on a brick-wall background, with console logos (Sega Saturn, PlayStation, Genesis, NES, SNES, N64) listed down the right side."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "http://collective-join.com",
+          "resolved": "http://collective-join.com",
+          "role": "author-portfolio",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://gam.onl",
+          "resolved": "http://gam.onl",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://typelit.io",
+          "resolved": "http://typelit.io",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://nts.live",
+          "resolved": "http://nts.live",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://nityasnotes.com",
+          "resolved": "http://nityasnotes.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://70s.myretrotvs.com",
+          "resolved": "http://70s.myretrotvs.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://1001albumsgenerator.com",
+          "resolved": "http://1001albumsgenerator.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://music.ishkur.com",
+          "resolved": "http://music.ishkur.com",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://strumsurfer.com",
+          "resolved": "http://strumsurfer.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://letsjam.now",
+          "resolved": "http://letsjam.now",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://kern.kineticstudio.com",
+          "resolved": "http://kern.kineticstudio.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://cuteghostty.com",
+          "resolved": "http://cuteghostty.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://midlife.engineering",
+          "resolved": "http://midlife.engineering",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://enterportal.xyz",
+          "resolved": "http://enterportal.xyz",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://aileenis.online",
+          "resolved": "http://aileenis.online",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://ryanstephen.co",
+          "resolved": "http://ryanstephen.co",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://feather.computer",
+          "resolved": "http://feather.computer",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://neal.fun/size-of-life",
+          "resolved": "http://neal.fun/size-of-life",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://neal.fun/constellation-draw",
+          "resolved": "http://neal.fun/constellation-draw",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://knicksmosaic.com",
+          "resolved": "http://knicksmosaic.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://theknickswon.com",
+          "resolved": "http://theknickswon.com",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://synesthesiaengine.netlify.app",
+          "resolved": "http://synesthesiaengine.netlify.app",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://codex-billboard.vercel.app",
+          "resolved": "http://codex-billboard.vercel.app",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "cool internet things pt. 11 \n\nhttps://t.co/W2AdpZGbw5 - retro console games\nhttps://t.co/OsI59jaM54 - type out classic books\nhttps://t.co/DcOLe0m54g - independent online radio\nhttps://t.co/uysEcCpP8G - portfolio website\nhttps://t.co/PF0aceorQn - browse 70s TV\nhttps://t.co/uPGMp4Mtg1 - classic albums\nhttps://t.co/qUaxQv7ACP - interactive guide to electronic music\n\nretro theme! tag any cool sites i'm missing...\n\nthe cool people behind these - @nityasnotes, @AdamDoquiatan, @NTSlive, @1001_albums_gen, @Ishkur23",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:43:13"
+    },
+    {
+      "id": "2098494067969581459",
+      "date": "2026-09-11",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2098494067969581459",
+      "title": "Cool internet things pt. 14: portfolio sites that come alive",
+      "category": "design",
+      "tags": [
+        "directory",
+        "thread",
+        "portfolio",
+        "experimental",
+        "design"
+      ],
+      "primary_url": "https://igochi.studio",
+      "primary_domain": "igochi.studio",
+      "related_urls": [
+        "https://laurent.fyi",
+        "https://oscardumlao.com",
+        "https://pengzhe.ng",
+        "http://collective-join.com",
+        "http://naturalselection.so",
+        "http://cig-index.vercel.app",
+        "http://sneakers.charmiekapoor.com",
+        "http://evebouffard.com/shapeofminds",
+        "http://comnyang.com"
+      ],
+      "all_urls": [
+        "https://igochi.studio",
+        "https://pengzhe.ng",
+        "https://laurent.fyi",
+        "https://oscardumlao.com",
+        "https://x.com/sakibsahmed/status/2091163732118499567",
+        "http://collective-join.com",
+        "http://naturalselection.so",
+        "http://humanityslastmachine.com/humanoid-landscape",
+        "http://cig-index.vercel.app",
+        "http://sneakers.charmiekapoor.com",
+        "http://evebouffard.com/shapeofminds",
+        "http://comnyang.com",
+        "https://www.appdrop.com/marcgmbh/link-bouquet",
+        "http://arcade.pirillo.com/retrowave-road.html?seed=1092661269",
+        "https://x.com/marina_uiux/status/2076410277109645741",
+        "http://x.com/airlasart/status/2072730037619757490"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HR9ZEQzbgAAr02A?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HR9ZEQzbgAAr02A?format=jpg&name=thumb",
+          "description": "A full-bleed dusk lake scene (orange and purple sky, dark shoreline trees) with a vertical scale of white ticks and a clock reading 6:48 a.m. beside a 'Back to local time' link: the site lets you scrub time of day."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HR9ZH5zXkAoOYUv?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HR9ZH5zXkAoOYUv?format=jpg&name=thumb",
+          "description": "A black-and-white masonry grid of short film stills (a holiday edit, origami cranes, particle-drawn shapes, Japanese text) with white mono buttons RETRACE STEPS, EXPLORE STUDIO and FIELD NOTES, and a 'STORIES IGS-26 · 17 FILMS' tag: igochi studio's stories wall."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HR9ZLo4aEAAvizU?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HR9ZLo4aEAAvizU?format=jpg&name=thumb",
+          "description": "A split image: a photo of San Francisco's Palace of Fine Arts rotunda on the left and a stamped, inked illustration of the same building on aged paper on the right, captioned 'Palace of Fine Arts No. 07 arches / lagoon / colonnade 2026'."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HR9ZNlsbAAAS5eM?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HR9ZNlsbAAAS5eM?format=jpg&name=thumb",
+          "description": "A dense grid of colourful design tiles (Apple device mock-ups, sneakers, Finder icons, a candy-coloured keyboard) on grey, with an enlarged hovered tile captioned '2024-05-02 · santa monica, ca' and 'edible keys': Laurent Del Rey's archive."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/2p1LC2UNfX",
+          "resolved": "https://pengzhe.ng",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/KelE52fQtG",
+          "resolved": "https://oscardumlao.com",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/b8ZPoE5djX",
+          "resolved": "https://x.com/sakibsahmed/status/2091163732118499567",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/zSZfYd2wG9",
+          "resolved": "https://laurent.fyi",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/GWkvcSYoVO",
+          "resolved": "https://igochi.studio",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "http://collective-join.com",
+          "resolved": "http://collective-join.com",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "cool internet things pt. 14\n\nhttps://t.co/2p1LC2UNfX - living studio portfolio site\nhttps://t.co/KelE52fQtG - a self-updating personal site\nhttps://t.co/b8ZPoE5djX - field notes journal\nhttps://t.co/zSZfYd2wG9 - a self updating design portfolio\nhttps://t.co/GWkvcSYoVO - interactive water portfolio\n\nthese websites all seem to come alive.\n\nthe cool people behind these - @pengzheng_, @oscardumlao, @laurentdelrey, @sakibsahmed, @arushiupmanyu",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:52:54"
+    },
+    {
+      "id": "2100282767711887766",
+      "date": "2026-09-16",
+      "author": "jonaasw1",
+      "name": "Jonas",
+      "author_profile": "https://twitter.com/jonaasw1",
+      "tweet": "https://twitter.com/jonaasw1/status/2100282767711887766",
+      "title": "Cool internet things pt. 15: internet museums that come to life",
+      "category": "design",
+      "tags": [
+        "directory",
+        "thread",
+        "art",
+        "data-viz",
+        "experimental"
+      ],
+      "primary_url": "http://bird.onethreenine.net",
+      "primary_domain": "bird.onethreenine.net",
+      "related_urls": [
+        "http://art-codec.ai.studio",
+        "https://danqiqian321.github.io/art",
+        "https://www.bubbbly.com/app/flower-life.html",
+        "http://human-atlas-seven.vercel.app",
+        "http://collective-join.com"
+      ],
+      "all_urls": [
+        "http://bird.onethreenine.net",
+        "http://human-atlas-seven.vercel.app",
+        "http://art-codec.ai.studio",
+        "https://danqiqian321.github.io/art",
+        "https://www.bubbbly.com/app/flower-life.html",
+        "http://collective-join.com",
+        "https://igochi.studio",
+        "https://pengzhe.ng",
+        "https://laurent.fyi",
+        "https://oscardumlao.com",
+        "http://naturalselection.so",
+        "http://cig-index.vercel.app",
+        "http://sneakers.charmiekapoor.com",
+        "http://evebouffard.com/shapeofminds"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HSWyVS4W0AEHAdI?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HSWyVS4W0AEHAdI?format=jpg&name=thumb",
+          "description": "A camellia photographed on a pale ground with a timeline scrubber (BUD to WILTED, 42 days), season tabs and a 'Play the whole life' button, captioned 'Petals loosening, Day 17': a one-flower life-cycle explorer."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HSWypuiXkAA_tKZ?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HSWypuiXkAA_tKZ?format=jpg&name=thumb",
+          "description": "'Avian Atlas / apartment birds': a wall of postage-stamp style cards, one per bird species (European Starling, Mallard, Herring Gull, Steller's Jay and more), each with a different illustration style and a count, with 1H/12H/24H/7D/ALL filters and Collage/Stats/Atlas views."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HSWyrf5XoAEmK9i?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HSWyrf5XoAEmK9i?format=jpg&name=thumb",
+          "description": "'Art Codec': a horizontal timeline carousel of Renaissance paintings (The Arnolfini Portrait, Primavera, The Birth of Venus) with era tabs from Medieval to Rococo along the bottom."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HSW0AXDWQAAc1RF?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HSW0AXDWQAAc1RF?format=jpg&name=thumb",
+          "description": "'Human Atlas' interactive anatomy: thousands of exploded 3D body parts (muscles, arteries, bones) laid out in a grid, with a systems panel of toggles, a selected-structure card for 'Right Gracilis', and an 'Explode anatomy' slider."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/1ffjwurGYp",
+          "resolved": "http://bird.onethreenine.net",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/UcKW2lxGEa",
+          "resolved": "http://human-atlas-seven.vercel.app",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/NxqIBXvXi3",
+          "resolved": "https://danqiqian321.github.io/art",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/ys1v9KoZtm",
+          "resolved": "https://www.bubbbly.com/app/flower-life.html",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/kvkSxwXPd2",
+          "resolved": "http://art-codec.ai.studio",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "cool internet things pt. 15\n\ninternet museums that come to life:\n\nhttps://t.co/1ffjwurGYp - live bird tracker\nhttps://t.co/UcKW2lxGEa - human anatomy\nhttps://t.co/NxqIBXvXi3 - famous artworks + economic history \nhttps://t.co/ys1v9KoZtm - camellia blooms visualized across the seasons\nhttps://t.co/kvkSxwXPd2 - tap any part of a painting and it explains what the artist meant\n\nthe cool people behind these - @ohhdanqi, @soumyadesign, @ashebytes, @ann_nnng, @WarnerTeddy",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:52:54"
+    },
+    {
+      "id": "2111477585461039241",
+      "date": "2026-10-17",
+      "author": "th2049",
+      "name": "thameem",
+      "author_profile": "https://twitter.com/th2049",
+      "tweet": "https://twitter.com/th2049/status/2111477585461039241",
+      "title": "Tangerine: drag and Shift to convert files on Mac",
+      "category": "product",
+      "tags": [
+        "app",
+        "tool",
+        "product",
+        "video"
+      ],
+      "primary_url": "https://tangerineformac.com",
+      "primary_domain": "tangerineformac.com",
+      "related_urls": [
+        "https://apps.apple.com/us/app/id6804172022"
+      ],
+      "all_urls": [
+        "https://tangerineformac.com",
+        "https://apps.apple.com/us/app/id6804172022"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2111477219927445504/vid/avc1/3840x2160/nTbYh3Qqu85d1aQj.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111477219927445504/img/tkFRclcD2CpXcTQd.jpg?name=thumb",
+          "description": "Demo video (poster frame only viewed): a MacBook desktop with orange-yellow-purple wallpaper and files like tangerine tree.pdf and sample.wav on the right; a PDF named 'Page 001.pdf' is being dragged across the screen, showing the drag-and-Shift conversion."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/RzGHL4ArdF",
+          "resolved": "https://tangerineformac.com",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://apps.apple.com/us/app/id6804172022",
+          "resolved": "https://apps.apple.com/us/app/id6804172022",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "convert files with just drag + shift https://t.co/RzGHL4ArdF",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:52:54"
+    },
+    {
+      "id": "2106334617561432436",
+      "date": "2026-10-03",
+      "author": "HoudayfaDesign",
+      "name": "Houdayfa",
+      "author_profile": "https://twitter.com/HoudayfaDesign",
+      "tweet": "https://twitter.com/HoudayfaDesign/status/2106334617561432436",
+      "title": "Designeer: curated design resources, components and AI tools",
+      "category": "design",
+      "tags": [
+        "directory",
+        "design",
+        "tool",
+        "video"
+      ],
+      "primary_url": "https://designeer.xyz",
+      "primary_domain": "designeer.xyz",
+      "related_urls": [
+        "https://www.inspora.design/"
+      ],
+      "all_urls": [
+        "https://designeer.xyz",
+        "https://www.inspora.design/"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2106334184960626688/vid/avc1/1698x1080/9Gans863-QTKbify.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106334184960626688/img/CyJFQCTp9AFQL6zG.jpg?name=thumb",
+          "description": "Demo video (poster frame only viewed): designeer.xyz's list view with a left nav (Inspiration 122, Components 120, Build, Visuals, Utilities, Design Engineers) and a long list of design galleries such as 60fps, Awwwards, Mobbin and Dribbble, each with a one-line description."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/TegxTaXNoG",
+          "resolved": "https://designeer.xyz",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/pO8z3EoLuc",
+          "resolved": "https://www.inspora.design/",
+          "role": "related",
+          "source": "tweet-body"
+        }
+      ],
+      "text": "designers and builders, this one’s worth bookmarking 🔖\n\nDesigneer has a ton of design resources, components, AI tools, and more all in one place.\n\nCheck it out → https://t.co/TegxTaXNoG https://t.co/pO8z3EoLuc",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:52:54"
+    },
+    {
+      "id": "2105717647354605755",
+      "date": "2026-10-01",
+      "author": "remvze",
+      "name": "MAZE",
+      "author_profile": "https://twitter.com/remvze",
+      "tweet": "https://twitter.com/remvze/status/2105717647354605755",
+      "title": "New websites on DesEngs: Ploy, Infinite Machine, The Design Society, trulytype",
+      "category": "design",
+      "tags": [
+        "directory",
+        "thread",
+        "design",
+        "typography"
+      ],
+      "primary_url": "https://desengs.com",
+      "primary_domain": "desengs.com",
+      "related_urls": [
+        "https://desengs.com/inspiration",
+        "https://ploy.ai",
+        "https://infinitemachine.com",
+        "https://thedesignsociety.fr",
+        "https://trulytype.com",
+        "http://remvze.com"
+      ],
+      "all_urls": [
+        "https://desengs.com",
+        "https://desengs.com/inspiration",
+        "https://ploy.ai",
+        "https://infinitemachine.com",
+        "https://thedesignsociety.fr",
+        "https://trulytype.com",
+        "http://remvze.com"
+      ],
+      "media": [
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HTkDClXWUAAFhtp?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HTkDClXWUAAFhtp?format=jpg&name=thumb",
+          "description": "Ploy's hero: a muted video of a person with headphones in a corridor under the h1 'YOUR WEBSITE SHOULD BE WORKING HARDER THAN YOU ARE.' in huge white condensed caps, with Start Free and Get Demo buttons and a funding announcement card."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HTkDCllXoAAF9tc?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HTkDCllXoAAF9tc?format=jpg&name=thumb",
+          "description": "Infinite Machine's hero: a giant extended-sans 'INFINITE MACHINE' wordmark over a smiling rider on a silver Olto e-bike holding cotton candy, on a white backdrop, with 'OLTO Starting at $3,495.00'."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HTkDCnjXsAAsZPS?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HTkDCnjXsAAsZPS?format=jpg&name=thumb",
+          "description": "The Design Society (Lyon): a pale lavender CRT-scanline page with a pixel-serif headline 'The Design Society, La société secrète la moins gardée de Lyon' and blue pixel crests above and below."
+        },
+        {
+          "type": "photo",
+          "original_url": "https://pbs.twimg.com/media/HTkDCpKWoAAbEdp?format=jpg&name=orig",
+          "thumbnail_url": "https://pbs.twimg.com/media/HTkDCpKWoAAbEdp?format=jpg&name=thumb",
+          "description": "trulytype's hero: a stack of 'Afrika Light / Regular / Semibold' specimen lines in grey with a neon-green spotted frog sitting on top, a pill nav and the line 'Introducing Afrika Sans and 12 other fonts'."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://t.co/zxw8aMxfdK",
+          "resolved": "https://desengs.com/inspiration",
+          "role": "primary",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/n4JvVZjvGl",
+          "resolved": "https://ploy.ai",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/obkPyHsYwr",
+          "resolved": "https://infinitemachine.com",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/iLCGsqtKSp",
+          "resolved": "https://thedesignsociety.fr",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "https://t.co/sMqf1vfkD5",
+          "resolved": "https://trulytype.com",
+          "role": "related",
+          "source": "tweet-body"
+        },
+        {
+          "raw": "http://remvze.com",
+          "resolved": "http://remvze.com",
+          "role": "author-portfolio",
+          "source": "metadata"
+        }
+      ],
+      "text": "New websites on https://t.co/zxw8aMxfdK: \n\n№ 01 → https://t.co/n4JvVZjvGl\n№ 02 → https://t.co/obkPyHsYwr \n№ 03 → https://t.co/iLCGsqtKSp \n№ 04 → https://t.co/sMqf1vfkD5 https://t.co/ASg7AmPFGD",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T22:52:54"
+    },
+    {
+      "id": "2106844667832828218",
+      "title": "FIFA World Cup match balls, 1990 to today: an interactive timeline made with Claude",
+      "author": "notjignes",
+      "name": "Vignesh",
+      "author_profile": "https://twitter.com/notjignes",
+      "tweet": "https://twitter.com/notjignes/status/2106844667832828218",
+      "date": "2026-10-04",
+      "category": "design",
+      "tags": [
+        "ai",
+        "animation",
+        "ui-pattern",
+        "video"
+      ],
+      "primary_url": null,
+      "primary_domain": null,
+      "related_urls": [],
+      "all_urls": [],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2106843435818954753/vid/avc1/1080x1080/ty15TDMqLGFvrZS-.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106843435818954753/img/pUdTue6TTxAv0zR9.jpg?name=thumb",
+          "description": "A 23-second screen recording of an interactive timeline on a white page: a photoreal match ball sits above its year and name (1994 Questra, USA; 2026 Trionda, USA / Canada / Mexico), and moving the cursor across a tick-mark scale from 1990 to Today swaps the ball, with the ticks nearest the cursor growing taller."
+        }
+      ],
+      "resolved_links": [],
+      "text": "fifa world cup balls throughout the years\nmade w @claudeai \n\ncame across  @colderoshay 's work the other day and wanted to try this out w the timeline https://t.co/v2BSGDB0sM",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T23:09:00"
+    },
+    {
+      "id": "2107191980149108855",
+      "title": "Josh Puckett's design toolkit: Graphical, Interface Craft, DialKit and more",
+      "author": "notjerrywang",
+      "name": "jerrywang",
+      "author_profile": "https://twitter.com/notjerrywang",
+      "tweet": "https://twitter.com/notjerrywang/status/2107191980149108855",
+      "date": "2026-10-05",
+      "category": "design",
+      "tags": [
+        "directory",
+        "thread",
+        "design",
+        "ai",
+        "tool",
+        "design-system",
+        "shadcn",
+        "agents"
+      ],
+      "primary_url": "https://graphicalui.com",
+      "primary_domain": "graphicalui.com",
+      "related_urls": [
+        "http://cur8d.club",
+        "http://chainofthoughts.net",
+        "http://interfacecraft.dev",
+        "http://dialkit.dev",
+        "http://joshpuckett.me"
+      ],
+      "all_urls": [
+        "http://cur8d.club",
+        "http://chainofthoughts.net",
+        "http://interfacecraft.dev",
+        "http://dialkit.dev",
+        "http://joshpuckett.me",
+        "https://graphicalui.com"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "http://cur8d.club",
+          "resolved": "http://cur8d.club",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://chainofthoughts.net",
+          "resolved": "http://chainofthoughts.net",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://interfacecraft.dev",
+          "resolved": "http://interfacecraft.dev",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://dialkit.dev",
+          "resolved": "http://dialkit.dev",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "http://joshpuckett.me",
+          "resolved": "http://joshpuckett.me",
+          "role": "author-portfolio",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://graphicalui.com",
+          "resolved": "https://graphicalui.com",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "did josh just end ai ui slop 👀",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T23:09:00"
+    },
+    {
+      "id": "2104887755314733551",
+      "title": "Fanout: mapped learning across AI research, systems and ML math",
+      "author": "Fanoutdotsh",
+      "name": "Fanout",
+      "author_profile": "https://twitter.com/Fanoutdotsh",
+      "tweet": "https://twitter.com/Fanoutdotsh/status/2104887755314733551",
+      "date": "2026-09-29",
+      "category": "tutorial",
+      "tags": [
+        "course",
+        "ai",
+        "directory",
+        "tutorial"
+      ],
+      "primary_url": "https://fanout.sh",
+      "primary_domain": "fanout.sh",
+      "related_urls": [],
+      "all_urls": [
+        "https://fanout.sh"
+      ],
+      "media": [],
+      "resolved_links": [
+        {
+          "raw": "https://fanout.sh",
+          "resolved": "https://fanout.sh",
+          "role": "primary",
+          "source": "metadata"
+        }
+      ],
+      "text": "the directory senior engineers refer.",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T23:09:00"
+    },
+    {
+      "id": "2105276283815129169",
+      "title": "Boring Forest: a walkable WebGL forest with fireflies and stone skipping",
+      "author": "threejs",
+      "name": "Three.js",
+      "author_profile": "https://twitter.com/threejs",
+      "tweet": "https://twitter.com/threejs/status/2105276283815129169",
+      "date": "2026-09-30",
+      "category": "design",
+      "tags": [
+        "threejs",
+        "webgl",
+        "3d",
+        "experimental",
+        "mesmerizing",
+        "video"
+      ],
+      "primary_url": "https://boring-forest.vercel.app/",
+      "primary_domain": "boring-forest.vercel.app",
+      "related_urls": [
+        "https://threejs.org",
+        "https://ko-fi.com/andreiprovkin"
+      ],
+      "all_urls": [
+        "https://threejs.org",
+        "https://ko-fi.com/andreiprovkin",
+        "https://boring-forest.vercel.app/"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2105020789263040514/vid/avc1/1394x720/3stx5tHTUz_KGviQ.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105020789263040514/img/0JdxwaDqbh-N4V1v.jpg?name=thumb",
+          "description": "A 1.5-minute first-person fly-through of a stylised 3D forest: at night, cyan and yellow fireflies drift between dark redwood trunks over grass, ferns and red mushrooms; later the camera moves along a sunlit stream with sparkling water, pebbles and moss, and the lighting shifts toward daytime."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "https://boring-forest.vercel.app/",
+          "resolved": "https://boring-forest.vercel.app/",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://threejs.org",
+          "resolved": "https://threejs.org",
+          "role": "related",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://ko-fi.com/andreiprovkin",
+          "resolved": "https://ko-fi.com/andreiprovkin",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "🌳 https://t.co/DNFG1D5OUF \nhttps://t.co/8zdNUkMpFg",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T23:09:00"
+    },
+    {
+      "id": "2104624129626309024",
+      "title": "Fo by Wajo: an AI action agent that brings in humans when AI can't finish the task",
+      "author": "shivanipod",
+      "name": "Shivani Poddar",
+      "author_profile": "https://twitter.com/shivanipod",
+      "tweet": "https://twitter.com/shivanipod/status/2104624129626309024",
+      "date": "2026-09-28",
+      "category": "product",
+      "tags": [
+        "ai",
+        "agents",
+        "product",
+        "startups",
+        "video"
+      ],
+      "primary_url": "https://wajo.ai",
+      "primary_domain": "wajo.ai",
+      "related_urls": [
+        "https://wajo.ai/join-wajo"
+      ],
+      "all_urls": [
+        "http://wajo.ai",
+        "https://wajo.ai/join-wajo"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "original_url": "https://video.twimg.com/amplify_video/2104623978417438720/vid/avc1/1920x1080/HgiVLI_7paIVWj0W.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104623978417438720/img/ITO7eKzMhDt3Myif.jpg?name=thumb",
+          "description": "A 2.5-minute product video for Wajo's Fo agent: a phone app shows a green Wajo card and recent transactions (Uber, Booking.com, American Airlines) with the caption 'All paid on my own credit card'; later a mascot asks 'What's your availability?' and a grid of human assistant profile cards shows each person's role, monthly rate, years of experience and full- or part-time availability."
+        }
+      ],
+      "resolved_links": [
+        {
+          "raw": "http://wajo.ai",
+          "resolved": "http://wajo.ai",
+          "role": "primary",
+          "source": "metadata"
+        },
+        {
+          "raw": "https://wajo.ai/join-wajo",
+          "resolved": "https://wajo.ai/join-wajo",
+          "role": "related",
+          "source": "metadata"
+        }
+      ],
+      "text": "I led engineering at Google DeepMind.\n\nToday, I'm proud to introduce Fo to give personal AI something no lab ever has... Humans.\n\nOther personal AI's pretend AI can do everything. Fo employs humans to do tasks that AI cannot.\n\n- 2x better at real-world task completion (beats other agents by 69%)\n- 94% trust rate (4x less likely to leak private info vs Muse, Instinct)\n\nSign up for free: https://t.co/9ndFhcN5mO",
+      "source": "bookmarks-export",
+      "source_export": "twitter-Bookmarks-1792550275395.json",
+      "ingested_at": "2026-10-20T23:09:00"
     }
   ],
   "site_designs": {
@@ -35084,6 +36794,2346 @@
         "confidence": "high",
         "confidence_note": "high | title, description and headings consistently describe the product and its purpose"
       }
+    },
+    "collective-join.com": {
+      "url": "https://collective-join.com/",
+      "title": "The Collective",
+      "tagline": "A community for the most ambitious people in the world.",
+      "screenshot": "screenshots/collective-joincom.png",
+      "extracted_at": "2026-10-20",
+      "extracted_via": "playwright-mcp full-page 1440x900; DOM probe; logged_out: true",
+      "logged_out": true,
+      "essence": {
+        "subject": "The Collective",
+        "host": null,
+        "does": "Learn about a founder community that began with New York rooftop parties, then join through in-person events and online membership.",
+        "for_whom": "founders, builders and ambitious operators",
+        "domain": "startups and founder community",
+        "kind": "membership community"
+      },
+      "what_it_is": "The Collective is a curated community for founders, builders, content creators and other ambitious people, started in summer 2025 with rooftop parties in New York. It runs in-person events and an online membership.",
+      "what_it_shows": "The pitch is 'A community for the most ambitious people in the world.' The page tells the origin story ('It all started on a NYC rooftop'), lists the kinds of gatherings (dinners, basketball tournaments, poker nights) and points to membership and a member login.",
+      "how_it_works": "A short scroll: a hero, the origin story, then membership. The nav offers About, Membership and Member login. The page is a single scroll of about 3,300px.",
+      "how_its_designed": "Stark white page with near-black text and square corners (--radius 0px). Manrope carries the body copy and a roughly 104px h1. The page declares script and serif faces (Great Vibes, Newsreader, Cormorant, Instrument Serif) that had not loaded at probe time. A grid of 30 photographs gives the warmth.",
+      "palette": "white ground, near-black text, light-grey cards and 1px-style borders",
+      "fonts": "Manrope (loaded); declared but unloaded at probe: Great Vibes, Newsreader, Cormorant, Pinyon Script, IBM Plex Mono, Instrument Serif",
+      "pattern_keywords": [
+        "monochrome",
+        "photo-grid",
+        "membership",
+        "square-corners",
+        "big-type"
+      ],
+      "tech_stack": [
+        "React",
+        "Google Fonts"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "0 0% 100%",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "0 0% 4%",
+          "kind": "var"
+        },
+        {
+          "name": "--card",
+          "value": "0 0% 96.5%",
+          "kind": "var"
+        },
+        {
+          "name": "--border",
+          "value": "0 0% 89%",
+          "kind": "var"
+        },
+        {
+          "name": "--radius",
+          "value": "0px",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(10, 10, 10)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(11, 11, 11)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Manrope 400",
+        "Manrope 500",
+        "Manrope 600"
+      ],
+      "meta": {
+        "description": "A curated community for founders, builders, and ambitious operators. In-person events and online membership.",
+        "og_image": "https://collective-join.com/hero/hero-1920w.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://collective-join.com/favicon.ico?v=5"
+      },
+      "media_mix": {
+        "img": 30,
+        "canvas": 0,
+        "video": 0,
+        "svg": 2,
+        "iframe": 0
+      },
+      "page_height_px": 3307,
+      "is_single_screen": false,
+      "headings": [
+        "The Collective",
+        "It all started on a NYC rooftop"
+      ],
+      "responsive_note": "At 390px the h1 drops from about 104px to 40px, the nav links are hidden, the page shortens from 3307px to 2421px and nothing overflows horizontally.",
+      "links_out": [
+        {
+          "label": "Membership",
+          "href": "https://collective-join.com/"
+        }
+      ],
+      "facets": {
+        "vertical": "community-social",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "startups"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "midlife.engineering": {
+      "url": "https://www.midlife.engineering/",
+      "title": "Midlife Engineering – Sound therapy for a harmonious mind",
+      "tagline": "Made for focus, rest, and everything in between.",
+      "screenshot": "screenshots/midlifeengineering.png",
+      "extracted_at": "2026-10-20",
+      "extracted_via": "playwright-mcp full-page 1440x900; DOM probe; logged_out: true",
+      "logged_out": true,
+      "essence": {
+        "subject": "Midlife Engineering",
+        "host": null,
+        "does": "Play a drum-machine-style device of knobs, step buttons and icon pads to mix ambient sounds and beats, and record a session.",
+        "for_whom": "people who want focus or calm",
+        "domain": "ambient sound and wellbeing",
+        "kind": "web-based sound instrument"
+      },
+      "what_it_is": "Midlife Engineering is an interactive ambient-sound toy built as a groove-box device. Its description calls it a place to play, pause and reset your head with gentle sound experiments. It was made by 1042 Studio.",
+      "what_it_shows": "A hardware-style machine with an 'AUTOPLAY' switch, 'RECORD SESSION', numbered beats and tracks, and a display reading 'Power required. Please switch on the machine.' Below it the page explains the idea ('baked in science') and how it works, with ambient music framed as a way to lower stress.",
+      "how_it_works": "Visitors switch on the machine, then press icon pads and turn knobs to layer sounds, run autoplay or record a session. Further down, a long scroll of copy reveals word by word.",
+      "how_its_designed": "A near-black device with soft shadows sits on a light-grey page (rgb 235,235,235) under a huge lowercase 'midlife engineering' wordmark (about 154px, PP Neue Montreal Medium) that the device overlaps. The display text is monospaced (Fragment Mono) and a single orange dot is the accent. One canvas and 13 SVGs make up the interface, and the page runs to about 11,600px.",
+      "palette": "light grey ground, near-black hardware, orange accent dot",
+      "fonts": "PP Neue Montreal, Fragment Mono, Aspekta, Manrope",
+      "pattern_keywords": [
+        "skeuomorphic",
+        "hardware-ui",
+        "oversized-wordmark",
+        "interactive-sound",
+        "word-by-word-reveal"
+      ],
+      "tech_stack": [
+        "Framer",
+        "Google Tag Manager",
+        "Google Fonts"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body background",
+          "value": "rgb(235, 235, 235)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(38, 38, 38)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Manrope 600",
+        "Fragment Mono 400",
+        "PP Neue Montreal Medium 500",
+        "Aspekta 400"
+      ],
+      "meta": {
+        "description": "Midlife Engineering is a place to play, pause, and reset your head. Interactive sound, gentle experiments, and calm tools for modern brains needing a breather today.",
+        "og_image": "https://framerusercontent.com/assets/jOzAJQ8QYCMfO9p0aUS6Q7Txe04.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://www.midlife.engineering/",
+        "favicon": "https://framerusercontent.com/images/8asr78D5meIMtS4mf0XWXPYhwcA.png"
+      },
+      "media_mix": {
+        "img": 100,
+        "canvas": 1,
+        "video": 0,
+        "svg": 13,
+        "iframe": 0
+      },
+      "page_height_px": 11630,
+      "is_single_screen": false,
+      "headings": [
+        "midlife engineering"
+      ],
+      "facets": {
+        "vertical": "tool-app",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "music",
+          "health"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "nityasnotes.com": {
+      "url": "https://nityasnotes.com/",
+      "title": "Nitya's Notes",
+      "tagline": null,
+      "screenshot": "screenshots/nityasnotescom.png",
+      "extracted_at": "2026-10-20",
+      "extracted_via": "playwright-mcp full-page 1440x900; DOM probe; logged_out: true",
+      "logged_out": true,
+      "essence": {
+        "subject": "Nitya's Notes",
+        "host": null,
+        "does": "Read a person's reading notes and quotes, entered through a floating cloud of book covers and papers.",
+        "for_whom": "curious readers",
+        "domain": "books and reading notes",
+        "kind": "personal notes site"
+      },
+      "what_it_is": "Nitya's Notes is a personal notes site. Its opening screen quotes Schopenhauer ('Genius needs leisure to think') and reflects on slow reading and understanding.",
+      "what_it_shows": "A title, 'nitya's notes', surrounded by about a dozen tilted book covers and papers, over ghosted notes in capital monospace. A single link leads to /home.",
+      "how_it_works": "The opening screen is one viewport with no scroll. Following the title link goes to the home page of notes.",
+      "how_its_designed": "A warm off-white ground (rgb 240,237,230) with a faint grid, a light serif title in Spectral 300, and book covers floating in 3D-tilted positions around the title. The background copy is faded monospaced text. There is no h1 element, no meta description and no og image.",
+      "palette": "warm off-white paper, slate-blue title, muted book-cover colours",
+      "fonts": "Spectral (300, 400)",
+      "pattern_keywords": [
+        "floating-covers",
+        "paper-tone",
+        "serif-title",
+        "ghost-text",
+        "single-screen"
+      ],
+      "tech_stack": [
+        "Tailwind CDN"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body background",
+          "value": "rgb(240, 237, 230)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Spectral 300",
+        "Spectral 400"
+      ],
+      "meta": {
+        "description": null,
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": null
+      },
+      "media_mix": {
+        "img": 52,
+        "canvas": 0,
+        "video": 0,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "links_out": [
+        {
+          "label": "nitya's notes",
+          "href": "https://nityasnotes.com/home"
+        }
+      ],
+      "facets": {
+        "vertical": "personal-blog",
+        "mode": "light",
+        "vibe": [
+          "organic-warm",
+          "editorial",
+          "experimental"
+        ],
+        "topics": [
+          "writing"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "music.ishkur.com": {
+      "url": "http://music.ishkur.com/",
+      "title": "Ishkur's Guide to Electronic Music",
+      "tagline": null,
+      "screenshot": "screenshots/musicishkurcom.png",
+      "extracted_at": "2026-10-20",
+      "extracted_via": "playwright-mcp full-page 1440x900; DOM probe; logged_out: true",
+      "logged_out": true,
+      "essence": {
+        "subject": "Ishkur's Guide to Electronic Music",
+        "host": null,
+        "does": "Explore a zoomable timeline map of electronic music genres and sub-genres from the 1900s to the 2010s.",
+        "for_whom": "electronic music fans",
+        "domain": "electronic music",
+        "kind": "interactive music guide"
+      },
+      "what_it_is": "Ishkur's Guide is an interactive map of electronic music history. Genres branch along coloured lines through decades, from Pioneers and Ambient up to Techno, House, Drum n Bass and UK Garage.",
+      "what_it_shows": "A neon wordmark, 'Ishkur's Guide to Electronic Music', over a dense timeline of labelled genre nodes, with zoom and home controls.",
+      "how_it_works": "A single full-screen canvas with plus, minus and H (home) buttons. Visitors pan and zoom along the timeline and open genres. A Mixcloud widget host appears among the page's resources.",
+      "how_its_designed": "A deep-navy circuit-board backdrop (body rgb 0,40,66) with a glowing cyan, Tron-style title and thin coloured genre lines, drawn on a single canvas. Genre labels are small white and yellow sans-serif type. There are no h1/h2 elements in the DOM.",
+      "palette": "deep navy ground, neon cyan title, multicolour genre lines",
+      "fonts": "Didact Gothic declared, not loaded at probe; Helvetica Neue stack on body",
+      "pattern_keywords": [
+        "timeline",
+        "canvas-map",
+        "neon-title",
+        "circuit-board",
+        "genre-tree"
+      ],
+      "tech_stack": [
+        "jQuery",
+        "Bootstrap",
+        "Google Analytics",
+        "Google Tag Manager",
+        "Mixcloud widget"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body background",
+          "value": "rgb(0, 40, 66)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [],
+      "meta": {
+        "description": null,
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": null
+      },
+      "media_mix": {
+        "img": 4,
+        "canvas": 1,
+        "video": 0,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "dark",
+        "vibe": [
+          "retro",
+          "technical"
+        ],
+        "topics": [
+          "music"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "igochi.studio": {
+      "url": "https://www.igochi.studio/",
+      "title": "igochi studio · designed to hold time",
+      "tagline": "a design studio rooted in ichigo ichie, one time, one meeting",
+      "screenshot": "screenshots/igochistudio.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 viewport-only screenshot (full-page capture timed out) + DOM probe; logged_out: true",
+      "what_it_is": "igochi studio is a design studio built around the Japanese idea of ichigo ichie, 'one time, one meeting'. It makes brand systems, objects and printed editions.",
+      "what_it_shows": "The opening screen reads 'enter our world' and 'a coterie of design-first experimentalists', with a release code (IGS-2605008) and a COMMISSIONS link. Sections are studio, stories, objects, core, archive, editions and software; the tweet's capture shows a black-and-white masonry of 17 short films labelled STORIES.",
+      "how_it_works": "The visitor enters the studio's 'world' and moves between sections; a MOTION · FULL toggle and an Aa control sit in the footer, and a consent prompt asks to record how the site is read, with typed input masked.",
+      "how_its_designed": "Near-monochrome: body text rgb(4,11,5) on white, with a monospace-style label system and a video-and-canvas heavy hero. Geist is the only webfont (weights 300 to 500). The page is a single canvas plus one video over 2,340px of scroll.",
+      "palette": "monochrome black and white, Geist",
+      "fonts": "Geist, system sans",
+      "pattern_keywords": [
+        "film grid",
+        "monochrome",
+        "canvas hero",
+        "motion toggle",
+        "studio world"
+      ],
+      "essence": {
+        "subject": "igochi studio, a design studio founded 2026",
+        "host": null,
+        "does": "Browse the studio's stories (a grid of short films), objects, editions and software, and commission brand systems, objects and printed editions.",
+        "for_whom": "brands and people commissioning design work",
+        "domain": "brand and object design",
+        "kind": "design studio"
+      },
+      "tech_stack": [
+        "Canvas"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body color",
+          "value": "rgb(4, 11, 5)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Geist 300",
+        "Geist 400",
+        "Geist 500"
+      ],
+      "meta": {
+        "description": "a design studio rooted in the japanese philosophy of ichigo ichie, one time, one meeting. brand systems, objects, and printed editions, designed to hold time.",
+        "og_image": "https://www.igochi.studio/meta/og.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.igochi.studio/meta/icon.png"
+      },
+      "media_mix": {
+        "img": 9,
+        "canvas": 1,
+        "video": 1,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 2340,
+      "is_single_screen": false,
+      "headings": [],
+      "facets": {
+        "vertical": "studio-agency",
+        "mode": "mixed",
+        "vibe": [
+          "experimental",
+          "minimal"
+        ],
+        "topics": [
+          "design"
+        ]
+      },
+      "responsive_note": "At 390x844 the page collapses to a single 844px screen with the same 'enter our world' entry and a DRAG TO ROTATE hint, no visible nav links.",
+      "links_out": [
+        {
+          "label": "Commissions",
+          "href": "https://www.igochi.studio/"
+        }
+      ],
+      "essence_status": "ok"
+    },
+    "laurent.fyi": {
+      "url": "https://laurent.fyi/",
+      "title": "laurent del rey - internet designer",
+      "tagline": "this is my journey",
+      "screenshot": "screenshots/laurentfyi.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "laurent.fyi is the portfolio of Laurent Del Rey, who describes himself as an internet designer. The work is a 307-item archive of design shots, apps, objects and interface moments.",
+      "what_it_shows": "The title reads 'laurent del rey's all · 307' with a sphere view and filters for all, apps and images. In the tweet capture the grid mixes product photos, OS UI concepts, tees and gadgets, with an overlay tag such as '2024-05-02 · santa monica, ca' on the hovered item.",
+      "how_it_works": "A canvas shows the archive as a grid or a sphere; the visitor hovers or opens a tile, which enlarges with a date-and-place caption, and can switch between all, apps and images or go to an 'about me' view.",
+      "how_its_designed": "A grey ground (body rgb(176,176,176)) lets the colourful tiles carry the page. The only type is Neue Haas Display at 400. The whole experience is one 900px screen driven by a single canvas, with a minimal LD wordmark top left.",
+      "palette": "mid grey with colourful tiles",
+      "fonts": "Neue Haas Display",
+      "pattern_keywords": [
+        "image grid",
+        "sphere view",
+        "canvas",
+        "hover captions"
+      ],
+      "essence": {
+        "subject": "Laurent Del Rey, an internet designer",
+        "host": null,
+        "does": "Explore his collected work as a zoomable grid of 307 images and app screens, filter by all, apps or images, and open an item to see its date and place.",
+        "for_whom": "people following or hiring a designer",
+        "domain": "product and interface design",
+        "kind": "personal portfolio"
+      },
+      "tech_stack": [
+        "Canvas"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#0a0a0a",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(176, 176, 176)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Neue Haas Display 400"
+      ],
+      "meta": {
+        "description": "this is my journey",
+        "og_image": "https://laurent.fyi/opengraph-image?2e9ea9cba7ac4125",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://laurent.fyi/favicon.ico"
+      },
+      "media_mix": {
+        "img": 1,
+        "canvas": 1,
+        "video": 0,
+        "svg": 2,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "experimental",
+          "playful"
+        ],
+        "topics": [
+          "design"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "oscardumlao.com": {
+      "url": "https://oscardumlao.com/",
+      "title": "Oscar Dumlao",
+      "tagline": "is by a lake.",
+      "screenshot": "screenshots/oscardumlaocom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "oscardumlao.com is the personal site of Oscar Dumlao, a designer in California who works on ideas before they have an obvious shape and on interfaces for new technology. Past work listed includes Reve, Figma and Skiff.",
+      "what_it_shows": "The site opens on a full-bleed lake scene with a clock (the tweet capture shows it set to 6:48 a.m. with a 'Back to local time' control) and an Info panel that says he is passionate about 'inventing tools to make humans more creative and capable'.",
+      "how_it_works": "The scene follows the visitor's local time; scrubbing a vertical tick scale changes the time of day, a Change scene control swaps the view, and Info, Twitter, Email and Instagram links sit at the edges.",
+      "how_its_designed": "Black ground, white 300-weight serif text (a single custom face with Georgia fallback) and thin white lines. Three canvases render the scene; there are no images, headings or buttons beyond text controls, and CSS variables handle safe-area insets and a 1.2s dissolve.",
+      "palette": "black with sunset orange and teal from the scene",
+      "fonts": "single light serif",
+      "pattern_keywords": [
+        "time-of-day scene",
+        "scrubber",
+        "full-bleed canvas",
+        "serif minimal"
+      ],
+      "essence": {
+        "subject": "Oscar Dumlao, a designer based in California",
+        "host": null,
+        "does": "Read a short bio and watch a lake scene that follows the time of day, scrub the time, switch scenes, and reach his social links.",
+        "for_whom": "people interested in a designer's work and tools",
+        "domain": "interface design for new technology",
+        "kind": "personal portfolio"
+      },
+      "tech_stack": [
+        "Canvas"
+      ],
+      "palette_tokens": [
+        {
+          "name": "html color",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        },
+        {
+          "name": "html bg",
+          "value": "rgb(0, 0, 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "--interface-dissolve-duration",
+          "value": "1.2s",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "_f 300"
+      ],
+      "meta": {
+        "description": "is by a lake.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "data:image (inline)"
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 3,
+        "video": 0,
+        "svg": 0,
+        "iframe": 1
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "experimental"
+        ],
+        "topics": [
+          "design"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "art-codec.ai.studio": {
+      "url": "https://art-codec.ai.studio/",
+      "title": "Art Codec",
+      "tagline": "The world's greatest pieces of art explored, decoded, and explained",
+      "screenshot": "screenshots/artcodecaistudio.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "Art Codec is an interactive guide that explains famous paintings through art and cultural history and critical theory. It is credited 'Made by Soumya'.",
+      "what_it_shows": "A horizontal timeline of paintings such as Giotto's Lamentation, The Arnolfini Portrait, Primavera and The Birth of Venus, grouped by era (Medieval & Proto-Renaissance, Northern Renaissance, High Renaissance, Baroque, Dutch Golden Age, Rococo) with century labels.",
+      "how_it_works": "Visitors switch between Timeline and Index, search, scroll the carousel with arrows and hover an artwork to decode its symbols.",
+      "how_its_designed": "Warm off-white ground rgb(251,249,244) with near-black text, a serif display face for titles (Cormorant Unicase and similar), DM Sans for body and DM Mono for small labels. Painting cards have rounded corners and soft shadows; the dark navy Timeline pill is the one strong accent.",
+      "palette": "warm off-white, near-black navy",
+      "fonts": "Cormorant Unicase, DM Sans, DM Mono",
+      "pattern_keywords": [
+        "timeline carousel",
+        "art cards",
+        "serif titles",
+        "hover decode"
+      ],
+      "essence": {
+        "subject": "Art Codec, an interactive guide to famous artworks",
+        "host": null,
+        "does": "Browse a chronological timeline of masterpieces from Medieval to Modern, search an index, and hover to decode symbolic motifs and iconography.",
+        "for_whom": "art lovers and students of art history",
+        "domain": "art history",
+        "kind": "educational web app"
+      },
+      "tech_stack": [
+        "React",
+        "Google Fonts"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body bg",
+          "value": "rgb(251, 249, 244)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(28, 25, 23)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "DM Sans 100-1000",
+        "Cormorant Unicase 600",
+        "DM Mono 400"
+      ],
+      "meta": {
+        "description": "Explore a chronological timeline of art history from Medieval to Modern masterpieces. Hover to decode symbolic motifs and iconographical meanings.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": null
+      },
+      "media_mix": {
+        "img": 45,
+        "canvas": 0,
+        "video": 0,
+        "svg": 2,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "art",
+          "education"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "danqiqian321.github.io": {
+      "url": "https://danqiqian321.github.io/art/",
+      "title": "Art & Economy",
+      "tagline": "artists' work against the economy, year by year",
+      "screenshot": "screenshots/danqiqian321githubio.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "Art & Economy pairs contemporary artists with the economic conditions of the year they worked. It is made by @ohhdanqi, who invites visitors to follow for more creative demos.",
+      "what_it_shows": "A wall of 526 artwork images for artists like Leon Golub, Martha Rosler, Alfredo Jaar, Damien Hirst and Andreas Gursky, with a year readout (1990), an S&P 500 figure and an event label (Gulf War begins, Gulf War recession), plus a short caption on what the artists were reacting to.",
+      "how_it_works": "The visitor moves through time and the artists, markets and events change together, with a text caption explaining the era.",
+      "how_its_designed": "A mostly image-driven page with DM Sans and DM Mono from Google Fonts, two canvases and white ground. Dense artwork thumbnails fill the screen and white UI text sits over them.",
+      "palette": "white ground, artwork colour",
+      "fonts": "DM Sans, DM Mono",
+      "pattern_keywords": [
+        "timeline scrub",
+        "image wall",
+        "data overlay"
+      ],
+      "essence": {
+        "subject": "Art & Economy, an interactive visualization linking artists to economic history",
+        "host": null,
+        "does": "Scrub through years and see which artists were making work, alongside S&P 500 level and economic events such as the Gulf War recession.",
+        "for_whom": "people curious about art history and economics",
+        "domain": "art history and economic history",
+        "kind": "interactive data visualization"
+      },
+      "tech_stack": [
+        "Canvas",
+        "Google Fonts",
+        "GitHub Pages"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body bg",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "DM Sans 400",
+        "DM Sans 500"
+      ],
+      "meta": {
+        "description": "",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": null
+      },
+      "media_mix": {
+        "img": 526,
+        "canvas": 2,
+        "video": 0,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "experimental",
+          "minimal"
+        ],
+        "topics": [
+          "art",
+          "finance"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "bubbbly.com": {
+      "url": "https://www.bubbbly.com/app/flower-life.html",
+      "title": "Camellia life — one flower, from tight bud to wilted bloom",
+      "tagline": "Camellia INNER STRENGTH",
+      "screenshot": "screenshots/bubbblycom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "Camellia life shows a single flower from tight bud to wilted bloom, as an interactive scrubber. It is created by Ann Nguyen and hosted on bubbbly.com, with a TypingMind link in the page.",
+      "what_it_shows": "A cut-out camellia photo on a pale ground with a caption ('Petals loosening'), a day counter (Day 17), a timeline from BUD to WILTED over 42 days, a Play the whole life button and a seasonal paragraph on how winter slows the bloom.",
+      "how_it_works": "Drag the timeline or press play; the flower image and caption change per day, season tabs (Winter, Spring, Summer, Autumn) change the length of the life, and a Camellia/Magnolia switch changes the flower.",
+      "how_its_designed": "Warm paper tokens (--bg #f3f0e7, --fg #1a1c1f), Instrument Serif italic for the caption and Inter for UI. A dark pill marks the current day and the page is a single 900px screen with a canvas, one image and one SVG.",
+      "palette": "paper cream, ink black, camellia pink",
+      "fonts": "Instrument Serif, Inter",
+      "pattern_keywords": [
+        "scrubber timeline",
+        "single subject",
+        "season tabs"
+      ],
+      "essence": {
+        "subject": "Camellia life, a flower life-cycle scrubber",
+        "host": "bubbbly.com",
+        "does": "Scrub or play through the whole life of one camellia or magnolia from bud to wilt, and pick a season to stretch or shrink the timeline.",
+        "for_whom": "people who like gentle nature interactives",
+        "domain": "flowers and botany",
+        "kind": "web toy"
+      },
+      "tech_stack": [
+        "Google Tag Manager",
+        "Google Fonts"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--bg",
+          "value": "#f3f0e7",
+          "kind": "var"
+        },
+        {
+          "name": "--fg",
+          "value": "#1a1c1f",
+          "kind": "var"
+        },
+        {
+          "name": "--pill-bg",
+          "value": "#1a1c1f",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Instrument Serif 400",
+        "Inter 400",
+        "Inter 500",
+        "Inter 600",
+        "Inter 700"
+      ],
+      "meta": {
+        "description": "Scrub through the whole life of a single flower, camellia or magnolia: bud, bloom, and wilt. Pick a season and watch the timeline stretch or shrink.",
+        "og_image": "https://image.social/get?url=bubbbly.com/app/flower-life.html",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://www.bubbbly.com/app/flower-life.html",
+        "favicon": "https://www.bubbbly.com/favicon-32x32.png"
+      },
+      "media_mix": {
+        "img": 1,
+        "canvas": 1,
+        "video": 0,
+        "svg": 1,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "organic-warm"
+        ],
+        "topics": []
+      },
+      "essence_status": "ok"
+    },
+    "tangerineformac.com": {
+      "url": "https://tangerineformac.com/",
+      "title": "Tangerine | The zero-click offline file converter for Mac",
+      "tagline": "The zero-click offline file converter",
+      "screenshot": "screenshots/tangerineformaccom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "Tangerine is a Mac app for converting files without opening a converter. It runs entirely offline on the user's Mac.",
+      "what_it_shows": "The h1 reads 'The zero-click offline file converter.' Counters give 275 conversion options across images, video, audio, documents, spreadsheets and archives, 26 advanced tools (compress, crop, trim, split, merge) and 6 file actions, plus a supported-formats list and the line 'Your files stay on your Mac.'",
+      "how_it_works": "Drag a file onto the app, tap Shift, and drop it onto a format; the tweet's video shows a PDF being dragged on a MacBook desktop for exactly this. The page demos it with draggable sample files (landscape.jpg, mixtape.mp3, weekend.mov).",
+      "how_its_designed": "Light grey page (#f4f4f4) with white content cards and a single orange accent (#f35b28). DM Sans for text with a 67px weight-500 h1, and Caveat for handwritten notes. A 6,785px scroll with 45 images and an embedded video.",
+      "palette": "light grey, white, tangerine orange",
+      "fonts": "DM Sans, Caveat",
+      "pattern_keywords": [
+        "draggable demo",
+        "orange accent",
+        "handwritten notes",
+        "feature counters"
+      ],
+      "essence": {
+        "subject": "Tangerine, a Mac file converter",
+        "host": null,
+        "does": "Drag a file, tap Shift to convert it, Command for editing tools or Control for file actions; everything runs locally on the Mac.",
+        "for_whom": "Mac users who convert files often",
+        "domain": "file conversion and utilities",
+        "kind": "Mac app"
+      },
+      "tech_stack": [
+        "Cloudflare Web Analytics"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--page-bg",
+          "value": "#f4f4f4",
+          "kind": "var"
+        },
+        {
+          "name": "--content-bg",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--orange",
+          "value": "#f35b28",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#828782",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "DM Sans 400-700",
+        "Caveat 400-700"
+      ],
+      "meta": {
+        "description": "Tangerine is a Mac app for converting files: drag a file, then tap Shift to convert, Command for editing tools, or Control for file actions. Everything runs locally.",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "https://tangerineformac.com/favicon.svg?v=2"
+      },
+      "media_mix": {
+        "img": 45,
+        "canvas": 0,
+        "video": 1,
+        "svg": 4,
+        "iframe": 0
+      },
+      "page_height_px": 6785,
+      "is_single_screen": false,
+      "headings": [
+        "The zero-click offline file converter.",
+        "Conversion options",
+        "Advanced file tools",
+        "File actions",
+        "Image tools",
+        "File actions",
+        "Supported formats",
+        "Your files stay on your Mac.",
+        "Less busywork. More flow."
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful"
+        ],
+        "topics": [
+          "productivity"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "designeer.xyz": {
+      "url": "https://designeer.xyz/",
+      "title": "Designeer: Inspiration, resources, tools & portfolios",
+      "tagline": "A curated collection of interface craft, component libraries, AI tools, and resources for builders",
+      "screenshot": "screenshots/designeerxyz.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 viewport-only screenshot (full-page capture timed out) + DOM probe; logged_out: true",
+      "what_it_is": "Designeer is a curated catalogue for designers and developers, gathering interface references, component libraries, tools and portfolios in one place. The tweet describes it as 'a ton of design resources, components, AI tools, and more all in one place'.",
+      "what_it_shows": "Its own pitch: 'Designeer is a curated catalogue for designers and developers.' The left nav lists Inspiration, Components, Build, Visuals, Utilities and Design Engineers with counts (122 inspiration entries in the tweet capture); the list shows galleries such as 60fps, Awwwards, Mobbin and Dribbble, each with a one-line description.",
+      "how_it_works": "Pick a section from the left nav, browse a long list of linked entries with favicons, switch to a list view, create folders to save finds, and click through. A few sponsored entries sit in the list.",
+      "how_its_designed": "White ground with ink #18181b text, hairline borders and a diagonal hatch pattern framing the column. Funnel Display for the h1, Funnel Sans at 13px for body and Geist Mono/Pixel for labels; accents are brand blue #0066fa and cyan #0bf.",
+      "palette": "white, ink, brand blue #0066fa",
+      "fonts": "Funnel Display, Funnel Sans, Geist Mono",
+      "pattern_keywords": [
+        "link directory",
+        "hatched frame",
+        "list view",
+        "folders"
+      ],
+      "essence": {
+        "subject": "Designeer, a curated catalogue of design resources",
+        "host": null,
+        "does": "Browse categorised links to galleries, components, AI tools and portfolios, save them in folders, and visit the sources.",
+        "for_whom": "designers and developers",
+        "domain": "design resources",
+        "kind": "link directory"
+      },
+      "tech_stack": [
+        "Cloudflare Web Analytics"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--page",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--ink",
+          "value": "#18181b",
+          "kind": "var"
+        },
+        {
+          "name": "--brand",
+          "value": "#0066fa",
+          "kind": "var"
+        },
+        {
+          "name": "--cyan",
+          "value": "#0bf",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Funnel Display 300-800",
+        "Funnel Sans 300-800",
+        "Geist Pixel 400"
+      ],
+      "meta": {
+        "description": "Browse design references, reusable resources, practical tools, and portfolios from designers and developers.",
+        "og_image": "https://designeer.xyz/og_image.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://designeer.xyz/",
+        "favicon": "https://designeer.xyz/favicon.ico"
+      },
+      "media_mix": {
+        "img": 57,
+        "canvas": 0,
+        "video": 0,
+        "svg": 62,
+        "iframe": 1
+      },
+      "page_height_px": 3754,
+      "is_single_screen": false,
+      "headings": [
+        "Browse",
+        "Folders",
+        "Designeer is a curated catalogue for designers and developers."
+      ],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "technical"
+        ],
+        "topics": [
+          "design"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "desengs.com": {
+      "url": "https://desengs.com/",
+      "title": "DesEngs: Resources for Design Engineers",
+      "tagline": "The Ultimate Resource for Design Engineers",
+      "screenshot": "screenshots/desengscom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "DesEngs is a curated resource hub for design engineers, people who work across design and code. It is 'curated by design engineers; for design engineers'.",
+      "what_it_shows": "The h1 reads 'The Ultimate Resource for Design Engineers.' It lists sponsors (Interfaces, Resurf, React Bits Pro, Details, Indent), sections for Jobs, Inspiration, Minimum, DSGNRS and Newsletter, and a 'Browse Resources' filter (Read, Watch, Listen, Browse, Use, Build, Learn, Join, Follow, Apply).",
+      "how_it_works": "Pick a resource type and the list filters; separate pages hold jobs, inspiration (new websites are posted there) and a newsletter.",
+      "how_its_designed": "Dark ground rgb(9,9,11) with near-white text, a zinc neutral scale (--color-neutral-50 to 950), Instrument Serif for the 33px display h1, Geist for body and IBM Plex Mono for labels. Parenthesised nav labels like '( Jobs )' are the signature detail.",
+      "palette": "near-black zinc, near-white",
+      "fonts": "Instrument Serif, Geist, IBM Plex Mono",
+      "pattern_keywords": [
+        "dark directory",
+        "serif display",
+        "parenthesised nav",
+        "filters"
+      ],
+      "essence": {
+        "subject": "DesEngs, a resource hub for design engineers",
+        "host": null,
+        "does": "Browse curated tools, articles, videos, communities and inspiration, filtered by type, and see newly added websites in its inspiration section.",
+        "for_whom": "design engineers",
+        "domain": "design engineering",
+        "kind": "resource directory"
+      },
+      "tech_stack": [
+        "Cloudflare Web Analytics"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--color-neutral-50",
+          "value": "#09090b",
+          "kind": "var"
+        },
+        {
+          "name": "--color-foreground",
+          "value": "#fafafa",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(9, 9, 11)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Geist 400",
+        "Geist 500",
+        "IBM Plex Mono 400",
+        "Instrument Serif 400"
+      ],
+      "meta": {
+        "description": "Curated tools, articles, videos, communities, and inspiration for design engineers working across design and code.",
+        "og_image": "https://desengs.com/og.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://desengs.com/",
+        "favicon": "https://desengs.com/favicon.svg"
+      },
+      "media_mix": {
+        "img": 6,
+        "canvas": 0,
+        "video": 0,
+        "svg": 5,
+        "iframe": 0
+      },
+      "page_height_px": 5012,
+      "is_single_screen": false,
+      "headings": [
+        "The Ultimate Resource for Design Engineers.",
+        "Browse Resources:"
+      ],
+      "facets": {
+        "vertical": "directory-gallery",
+        "mode": "dark",
+        "vibe": [
+          "minimal",
+          "editorial",
+          "technical"
+        ],
+        "topics": [
+          "design",
+          "engineering"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "ploy.ai": {
+      "url": "https://ploy.ai/",
+      "title": "AI Marketing Platform for Website Growth | Ploy",
+      "tagline": "YOUR WEBSITE SHOULD BE WORKING HARDER THAN YOU ARE.",
+      "screenshot": "screenshots/ployai.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "Ploy is an AI marketing platform that treats a company's website as its growth engine. The announcement banner says it raised a $27M seed.",
+      "what_it_shows": "The h1 is 'YOUR WEBSITE SHOULD BE WORKING HARDER THAN YOU ARE.' Later headings: 'Your website launched. Then it stopped.', Monitor / Act / Surface, 'You slept 8 hours. Ploy didn't.', 'Expert strategies, deployed for you' and 'One platform three engines', with a logo wall of customers such as Leadbay, Hex and CodeCrafters.",
+      "how_it_works": "Start Free or Get Demo from the hero; a long scroll explains the three engines and ends on 'Stop maintaining your website.'",
+      "how_its_designed": "A cinematic video hero with the h1 in 144px FK Screamer condensed caps in white, Geist for body, and a mostly white-to-black palette (--ploy-accent-primary #000, button #212121). Page body is #f4f4f4 with a 9,811px scroll, 76 images and 71 SVGs; the nav letters of 'The Ploy Effect' animate.",
+      "palette": "light grey, black, white over video",
+      "fonts": "FK Screamer, Geist",
+      "pattern_keywords": [
+        "video hero",
+        "condensed caps",
+        "announcement banner",
+        "logo wall"
+      ],
+      "essence": {
+        "subject": "Ploy, an AI marketing platform for websites",
+        "host": null,
+        "does": "Build on-brand pages, identify visitors, automate SEO and outreach, and improve conversion from one platform.",
+        "for_whom": "marketing and growth teams",
+        "domain": "website marketing and growth",
+        "kind": "AI marketing platform"
+      },
+      "tech_stack": [
+        "React",
+        "PostHog",
+        "Google Tag Manager"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--ploy-accent-primary",
+          "value": "#000",
+          "kind": "var"
+        },
+        {
+          "name": "--ploy-button-primary-background",
+          "value": "#212121",
+          "kind": "var"
+        },
+        {
+          "name": "body bg",
+          "value": "rgb(244, 244, 244)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "FK Screamer 100-900",
+        "Geist 100-900"
+      ],
+      "meta": {
+        "description": "Ploy is an AI marketing platform for website growth. Build on-brand pages, identify visitors, automate SEO and outreach, and improve conversion.",
+        "og_image": "https://cdn.ploy.ai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/095160ed-og-home-alt.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://ploy.ai/",
+        "favicon": "https://ploy.ai/favicon.ico"
+      },
+      "media_mix": {
+        "img": 76,
+        "canvas": 0,
+        "video": 1,
+        "svg": 71,
+        "iframe": 0
+      },
+      "page_height_px": 9811,
+      "is_single_screen": false,
+      "headings": [
+        "YOUR WEBSITE SHOULD BE WORKING HARDER THAN YOU ARE.",
+        "YOUR WEBSITE LAUNCHED. THEN IT STOPPED.",
+        "Monitor",
+        "Act",
+        "Surface",
+        "YOU SLEPT 8 HOURS. PLOY DIDN'T.",
+        "AN EMPLOYEE THAT NEVER SLEEPS",
+        "EXPERT STRATEGIES, DEPLOYED FOR YOU.",
+        "One platform three engines",
+        "STOP MAINTAINING YOUR WEBSITE.",
+        "Want the short version?"
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "mixed",
+        "vibe": [
+          "corporate-clean",
+          "editorial"
+        ],
+        "topics": [
+          "marketing",
+          "ai"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "infinitemachine.com": {
+      "url": "https://www.infinitemachine.com/",
+      "title": "Infinite Machine — Olto & P1",
+      "tagline": "The Best Non-Cars on Earth",
+      "screenshot": "screenshots/infinitemachinecom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "Infinite Machine builds electric vehicles for city life. Olto is a bike-lane vehicle with a 35-mile range and P1 is a faster car-lane one.",
+      "what_it_shows": "The tweet capture shows a huge wordmark over a rider on Olto with 'Starting at $3,495.00' and 'Explore Olto'. The page lists Olto and P1 specs (usage, range, top speed, passengers), the line 'The Best Non-Cars on Earth', awards, and a test-ride booking form.",
+      "how_it_works": "Browse Olto, P1 or Accessories, order or tap Learn More, and book a test ride through an embedded scheduler; the cart is in the nav.",
+      "how_its_designed": "White ground with black type, Helvetica Now Display, an extended Eurostile wordmark and a red Olto logo (#e00020); other tokens include electric green #00ff57 and cyan #00d1ff. A hero photo of a rider on an empty white backdrop fills the first screen.",
+      "palette": "white, black, Olto red",
+      "fonts": "Helvetica Now Display, Eurostile Extended",
+      "pattern_keywords": [
+        "huge wordmark",
+        "white studio photography",
+        "spec table",
+        "test-ride booking"
+      ],
+      "essence": {
+        "subject": "Infinite Machine, an electric vehicle maker (Olto and P1)",
+        "host": null,
+        "does": "Explore and order the Olto bike-lane e-bike ($3,495) or the P1 ($7,995, 65 mph), buy accessories and book a test ride in NYC or SF.",
+        "for_whom": "city riders",
+        "domain": "electric vehicles",
+        "kind": "electric vehicle maker's store"
+      },
+      "tech_stack": [
+        "Webflow",
+        "Cal.com",
+        "Google Tag Manager"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--im-olto-red",
+          "value": "#e00020",
+          "kind": "var"
+        },
+        {
+          "name": "--im-electric-green",
+          "value": "#00ff57",
+          "kind": "var"
+        },
+        {
+          "name": "--im-cyan-guide",
+          "value": "#00d1ff",
+          "kind": "var"
+        },
+        {
+          "name": "--im-asphalt-black",
+          "value": "#000",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Helvetica Now Display 300",
+        "Helvetica Now Display 400",
+        "Helvetica Now Display 500"
+      ],
+      "meta": {
+        "description": "Infinite Machine builds electric vehicles for city life. Olto: $3,495 bike-lane e-bike, 35-mile range. P1: $7,995, 65 mph. Test ride in NYC and SF.",
+        "og_image": "https://www.infinitemachine.com/assets/og/olto.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://www.infinitemachine.com/",
+        "favicon": "https://www.infinitemachine.com/favicon.ico"
+      },
+      "media_mix": {
+        "img": 12,
+        "canvas": 0,
+        "video": 0,
+        "svg": 15,
+        "iframe": 0
+      },
+      "page_height_px": 5104,
+      "is_single_screen": false,
+      "headings": [
+        "The Best Non-Cars on Earth",
+        "Awards",
+        "Book a test ride in New York City",
+        "Stay up to date with Infinite Machine",
+        "Choose a location for your test ride",
+        "New York"
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "luxury"
+        ],
+        "topics": []
+      },
+      "essence_status": "ok"
+    },
+    "thedesignsociety.fr": {
+      "url": "https://www.thedesignsociety.fr/",
+      "title": "The Design Society Lyon — la communauté des designers",
+      "tagline": "La société secrète la moins gardée de Lyon",
+      "screenshot": "screenshots/thedesignsocietyfr.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "The Design Society is an association founded by five designers to bring Lyon's designers together through talks and apéros. It jokes that it is a secret society so poorly kept that it made a website.",
+      "what_it_shows": "The h1 is 'The Design Society — La société secrète la moins gardée de Lyon', with bracketed notes such as '[CRITÈRE D'ACCÈS : SAVOIR RESPIRER]' and '[FORMATION SUR PLACE POSSIBLE]'. Sections: Accueil, Évènements, À propos, Contact.",
+      "how_it_works": "Scroll a long page about the group and its events, then follow the Eventbrite link to book; the title treatment inserts pixel icons and a photo inline in the headline.",
+      "how_its_designed": "Pale lavender ground (#ebedf5) with scanline and vignette effects, brand colours electric blue #350aff and lime #bcf015, a pixel-serif display face (FK Raster Roman) with Geist Pixel and Khteka labels. Pixel-art crests above and below the headline give a retro-game feel.",
+      "palette": "pale lavender, electric blue, lime",
+      "fonts": "FK Raster Roman, Geist Pixel, KH Teka",
+      "pattern_keywords": [
+        "pixel crest",
+        "scanlines",
+        "inline icons in headline",
+        "bracket labels"
+      ],
+      "essence": {
+        "subject": "The Design Society, a community of designers in Lyon",
+        "host": null,
+        "does": "Find upcoming talks and apéros for Lyon designers, read about the association and reach it through Instagram, LinkedIn and Eventbrite.",
+        "for_whom": "designers in Lyon",
+        "domain": "design community events in Lyon",
+        "kind": "community association"
+      },
+      "tech_stack": [
+        "Webflow",
+        "GSAP"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--brand-color-2",
+          "value": "#350aff",
+          "kind": "var"
+        },
+        {
+          "name": "--brand-color-1",
+          "value": "#bcf015",
+          "kind": "var"
+        },
+        {
+          "name": "--background",
+          "value": "#ebedf5",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "FK Raster Roman Compact 400",
+        "Geist Pixel Line 400",
+        "KH Interference 400",
+        "KH Teka 400"
+      ],
+      "meta": {
+        "description": "L'association qui réunit les designers de Lyon autour de talks et d'apéros. Une société secrète si mal gardée qu'on a fait un site. Prochains événements ici.",
+        "og_image": null,
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://cdn.prod.website-files.com/698de82080130d2fe9cada54/6a96a56caf2dbc50ad13753b_webclip.png"
+      },
+      "media_mix": {
+        "img": 47,
+        "canvas": 0,
+        "video": 0,
+        "svg": 31,
+        "iframe": 0
+      },
+      "page_height_px": 8277,
+      "is_single_screen": false,
+      "headings": [
+        "The Design Society — La société secrète la moins gardée de Lyon"
+      ],
+      "facets": {
+        "vertical": "community-social",
+        "mode": "light",
+        "vibe": [
+          "retro",
+          "playful",
+          "experimental"
+        ],
+        "topics": [
+          "design"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "trulytype.com": {
+      "url": "https://trulytype.com/",
+      "title": "trulytype",
+      "tagline": "@trulytype is a Los Angeles type foundry",
+      "screenshot": "screenshots/trulytypecom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright 1440x900 full-page screenshot + DOM probe; logged_out: true",
+      "what_it_is": "trulytype is an independent type foundry in Los Angeles. It sells retail fonts and does custom type for titles, music, architecture and brands.",
+      "what_it_shows": "The h1 reads '@trulytype is a Los Angeles type foundry. Type for titles, music, architecture, and the page.' The hero promotes 'Afrika Sans and 12 other fonts', and the collection lists fonts such as Ulrich Sans, Ordinary Sans, Everyday Sans and Dakota Serif with weight counts and Learn More / License Now buttons.",
+      "how_it_works": "Browse fonts from the nav chips, try them, press License Now to open a licensing flow and check out through the cart.",
+      "how_its_designed": "A light grey ground with grey specimen text in Afrika Sans stacked over a 3D-scanned green frog. Each font is loaded to show itself; navigation is pill chips with one green Cart pill, and easing is defined centrally (cubic-bezier(0.65,0,0.35,1)).",
+      "palette": "light grey, neon green frog",
+      "fonts": "trulytype's own fonts (Afrika Sans, Heldane, Ordinary Sans)",
+      "pattern_keywords": [
+        "specimen hero",
+        "pill nav",
+        "font-as-content",
+        "license buttons"
+      ],
+      "essence": {
+        "subject": "@trulytype, an independent type foundry in Los Angeles",
+        "host": null,
+        "does": "Browse and try retail fonts (sans, serif, script, mono), license them, and commission custom type for film titles, music, architecture and brands.",
+        "for_whom": "designers and brands needing typefaces",
+        "domain": "typography and type design",
+        "kind": "type foundry"
+      },
+      "tech_stack": [
+        "Stripe"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--tt-ease",
+          "value": "cubic-bezier(0.65,0,0.35,1)",
+          "kind": "var"
+        },
+        {
+          "name": "--tt-stagger",
+          "value": "72ms",
+          "kind": "var"
+        }
+      ],
+      "fonts_loaded": [
+        "Heldane 400",
+        "Ordinary Sans",
+        "Afrika Sans",
+        "Werk Sans",
+        "Practice Sans"
+      ],
+      "meta": {
+        "description": "@trulytype is an independent type foundry in Los Angeles. Retail sans, serif, script, and mono fonts to license, plus custom type for film titles, music, architecture, and brands.",
+        "og_image": "https://trulytype.com/media/fonts/twombly/specimen.jpg",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://trulytype.com/",
+        "favicon": "https://trulytype.com/favicon-32.png?v=3"
+      },
+      "media_mix": {
+        "img": 19,
+        "canvas": 3,
+        "video": 6,
+        "svg": 0,
+        "iframe": 1
+      },
+      "page_height_px": 5020,
+      "is_single_screen": false,
+      "headings": [
+        "@trulytype is a Los Angeles type foundry. Type for titles, music, architecture, and the page."
+      ],
+      "facets": {
+        "vertical": "ecommerce",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful",
+          "editorial"
+        ],
+        "topics": [
+          "design"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "graphicalui.com": {
+      "url": "https://www.graphicalui.com/",
+      "title": "Graphical",
+      "tagline": "A tool to create visual systems, customize colors, and build interfaces with Claude.",
+      "screenshot": "screenshots/graphicaluicom.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true; page content scrolls inside an inner container, so the full-page capture shows only the first screen",
+      "what_it_is": "Graphical is a paid design tool for building a visual theme (colors, type, a full component language) and handing it to a coding agent so the interfaces it generates follow that system. It is made by Josh Puckett and Adam Michela.",
+      "what_it_shows": "The pitch is 'A tool to create visual systems, customize colors, and build interfaces with Claude.' Further down: 'Create your theme in Graphical', 'Download it directly, or install via shadcn', 'Build beautiful interfaces with the agent you already use', 'A complete design language', and 'One-time purchase.' A 'Buy for $119' link sits alongside a changelog and login.",
+      "how_it_works": "A visitor reads the headline, where the highlighted words (systems, colors, Claude) can be selected to swap in other options. Scrolling shows a terminal install step, then a mock agent session building a 'Stations' feedback dashboard from a spec file, then pricing and an FAQ.",
+      "how_its_designed": "A near-white canvas with a single black pill logo and a large centered headline in GT Standard L, with inline sticker-style icons inside soft grey pills. Quiet grey Changelog and Login links sit top right. The product demos reuse a dark editor-panel palette (#101010 panels, #242424 controls) against light page chrome (#f7f7f7 canvas, #fff surfaces, #262626 text).",
+      "palette": "#f7f7f7 canvas, #fff surfaces, #171717 headline, #262626 text, #101010/#242424 dark editor panels",
+      "fonts": "GT Standard L 400/500/600, Open Runde 700, LT Superior Serif 500, Kecal, Timeless Grotesk; Inter, Geist and Geist Mono for demo UI",
+      "pattern_keywords": [
+        "theme builder",
+        "inline word swapper",
+        "sticker icons",
+        "pill highlights",
+        "agent demo",
+        "one-time purchase",
+        "design tokens",
+        "centered hero"
+      ],
+      "essence": {
+        "subject": "Graphical",
+        "host": null,
+        "does": "Create a visual theme and component set, then download it or install it via shadcn so a coding agent like Claude builds interfaces that follow it.",
+        "for_whom": "designers and developers building interfaces with coding agents",
+        "domain": "software interface design and AI-assisted UI development",
+        "kind": "design tool"
+      },
+      "tech_stack": [],
+      "palette_tokens": [
+        {
+          "name": "--editor-panel",
+          "value": "#101010",
+          "kind": "var"
+        },
+        {
+          "name": "--editor-control",
+          "value": "#242424",
+          "kind": "var"
+        },
+        {
+          "name": "--editor-text",
+          "value": "#eee",
+          "kind": "var"
+        },
+        {
+          "name": "--chrome-canvas",
+          "value": "#f7f7f7",
+          "kind": "var"
+        },
+        {
+          "name": "--chrome-surface",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--chrome-text",
+          "value": "#262626",
+          "kind": "var"
+        },
+        {
+          "name": "--chrome-muted",
+          "value": "#737373",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(247, 247, 247)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(23, 23, 23)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "GT Standard L 400",
+        "GT Standard L 500",
+        "GT Standard L 600",
+        "Open Runde 700",
+        "LT Superior Serif 500",
+        "Kecal 200-800",
+        "Timeless Grotesk 300-800",
+        "Sidebar Inter 100-900",
+        "Sidebar Geist 100-900",
+        "Sidebar Geist Mono 100-900"
+      ],
+      "meta": {
+        "description": "A tool to create visual themes, customize components, and build interfaces with your coding agent.",
+        "og_image": "https://graphicalui.com/og/home.png?v=6342191d852f",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.graphicalui.com/favicon-black-v3.png"
+      },
+      "media_mix": {
+        "img": 13,
+        "canvas": 0,
+        "video": 0,
+        "svg": 97,
+        "iframe": 1
+      },
+      "page_height_px": 900,
+      "is_single_screen": false,
+      "headings": [
+        "A tool to create visual systems, customize colors, and build interfaces with Claude.",
+        "Create your theme in Graphical",
+        "Download it directly, or install via shadcn",
+        "Build beautiful interfaces with the agent you already use.",
+        "A complete design language.",
+        "Everything you and your agent need to build interfaces.",
+        "One-time purchase.",
+        "FAQ"
+      ],
+      "responsive_note": "At 390px the headline drops from 48px to about 33px and a menu control appears; document height stays 844px.",
+      "links_out": [
+        {
+          "label": "Buy for $119",
+          "href": "https://www.graphicalui.com/purchase"
+        },
+        {
+          "label": "Changelog",
+          "href": "https://www.graphicalui.com/changelog"
+        },
+        {
+          "label": "Josh Puckett",
+          "href": "https://x.com/joshpuckett"
+        },
+        {
+          "label": "Adam Michela",
+          "href": "https://x.com/soopa"
+        }
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "playful"
+        ],
+        "topics": [
+          "design",
+          "ai",
+          "engineering"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "interfacecraft.dev": {
+      "url": "https://www.interfacecraft.dev/",
+      "title": "Interface Craft",
+      "tagline": "A working library for those committed to designing with uncommon care.",
+      "screenshot": "screenshots/interfacecraftdev.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true",
+      "what_it_is": "Interface Craft is a paid learning library on interface design by Josh Puckett, built on his own publishing platform. Members get articles, interactive walkthroughs and video lessons, including lessons on working with AI tools such as Claude Code and v0.",
+      "what_it_shows": "'Interface Craft: a working library for those committed to designing with uncommon care.' Five collections are listed: Working Knowledge, Practical Demonstration, Collaborating with AI, Means & Methods and Interface Kit. The page adds testimonials from design engineers, an author bio, a 'Join for $249' lifetime membership and an FAQ.",
+      "how_it_works": "A visitor reads the pitch, previews three free items (an article, an interactive walkthrough and a video), then can join once for lifetime access or log in. The FAQ covers regional pricing, gift memberships, team discounts and mobile access.",
+      "how_its_designed": "A quiet white page with a centered serif title in Signifier at 50px and generous vertical rhythm, broken by short hairline dividers. A fan of five tilted cards, one per collection, forms the hero, and pull-quote testimonials in serif italics separate the sections. Body text is black (#171717) on #fff; the page uses 5 canvases and 2 videos for its live previews.",
+      "palette": "#fff background, #171717 text, #0000001a hairline strokes",
+      "fonts": "Signifier 400 for display and quotes; system UI sans for body",
+      "pattern_keywords": [
+        "serif display",
+        "card fan hero",
+        "testimonial quotes",
+        "hairline dividers",
+        "member library",
+        "interactive previews",
+        "editorial minimal"
+      ],
+      "essence": {
+        "subject": "Interface Craft",
+        "host": null,
+        "does": "Read articles, interactive walkthroughs and video lessons on interface design, with a one-time membership that unlocks the full library.",
+        "for_whom": "designers, engineers and founders who care about interface craft",
+        "domain": "interface design education",
+        "kind": "membership learning library"
+      },
+      "tech_stack": [],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#fff",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#171717",
+          "kind": "var"
+        },
+        {
+          "name": "--interactive-stage-stroke",
+          "value": "#0000001a",
+          "kind": "var"
+        },
+        {
+          "name": "h1 color",
+          "value": "lab(9.03835 1.15298 1.92955)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Signifier 400"
+      ],
+      "meta": {
+        "description": "A working library for those committed to designing with uncommon care.",
+        "og_image": "https://interfacecraft.dev/images/og-safe-zone.png",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.interfacecraft.dev/favicon.ico?favicon.0b3bf435.ico"
+      },
+      "media_mix": {
+        "img": 3,
+        "canvas": 5,
+        "video": 2,
+        "svg": 0,
+        "iframe": 3
+      },
+      "page_height_px": 5962,
+      "is_single_screen": false,
+      "headings": [
+        "Interface Craft",
+        "Working Knowledge",
+        "Practical Demonstration",
+        "Collaborating with AI",
+        "Means & Methods",
+        "Interface Kit",
+        "Library",
+        "Author",
+        "Membership",
+        "Questions"
+      ],
+      "responsive_note": "At 390px the page grows from 5962px to 7210px and the title shrinks from 50px to 40px; no menu toggle was found.",
+      "links_out": [
+        {
+          "label": "Login",
+          "href": "https://www.interfacecraft.dev/login"
+        },
+        {
+          "label": "Josh Puckett",
+          "href": "https://joshpuckett.me/"
+        },
+        {
+          "label": "DialKit",
+          "href": "https://joshpuckett.me/dialkit"
+        },
+        {
+          "label": "Pica",
+          "href": "https://pica.joshpuckett.me/"
+        }
+      ],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "light",
+        "vibe": [
+          "editorial",
+          "minimal"
+        ],
+        "topics": [
+          "design",
+          "education",
+          "ai"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "dialkit.dev": {
+      "url": "https://www.dialkit.dev/",
+      "title": "DialKit — Tune interfaces in real time",
+      "tagline": "Live controls for React, Solid, Svelte, Vue, and plain JavaScript.",
+      "screenshot": "screenshots/dialkitdev.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true",
+      "what_it_is": "DialKit is an open-source library by Josh Puckett that puts a floating panel of live controls on top of a running interface, so motion, layout, color and animation timing can be tuned by feel instead of by editing code. It works with React, Solid, Svelte, Vue and plain JavaScript.",
+      "what_it_shows": "The headline reads 'DialKit is a tool for shaping your ideas by feel.' Below are a live demo, install commands, usage examples per framework, copyable prompts for coding agents, a control reference (slider, toggle, text, select, color, image, pad, spring, easing, action, folder) and a timeline guide.",
+      "how_it_works": "The headline itself is wired to DialKit: sliders for Strength and Weight, and a Fancy toggle, change the type live, with a caption describing the current values. The demo opens a photo-stack example, the install block switches between npm, pnpm, yarn and bun, and the usage tabs switch framework.",
+      "how_its_designed": "A near-black page (rgb 17,17,17) with a 128px headline in light-weight mluvka, set in letter-by-letter spans that animate with the controls. Docs sections use mono code blocks and small control mock-ups. The token set adds a paper tone, a lime 'signal' accent and soft blue and orange accents for the demos.",
+      "palette": "rgb(17,17,17) page, white text, #d9ff43 signal lime, #b8c8ff blue, #ff9c63 orange, #f4f3ef paper",
+      "fonts": "mluvka (headline, weight 300), kecal (body), Geist Mono (code)",
+      "pattern_keywords": [
+        "live parameter controls",
+        "floating panel",
+        "per-letter type animation",
+        "dark docs",
+        "code blocks",
+        "control reference",
+        "variable font weight demo"
+      ],
+      "essence": {
+        "subject": "DialKit",
+        "host": null,
+        "does": "Add a floating panel of live controls to a React, Solid, Svelte, Vue or plain JavaScript interface and tune motion, layout and color values in real time.",
+        "for_whom": "front-end developers and designers tuning interface motion",
+        "domain": "front-end UI development",
+        "kind": "open-source library"
+      },
+      "tech_stack": [],
+      "palette_tokens": [
+        {
+          "name": "--ink",
+          "value": "#171715",
+          "kind": "var"
+        },
+        {
+          "name": "--paper",
+          "value": "#f4f3ef",
+          "kind": "var"
+        },
+        {
+          "name": "--signal",
+          "value": "#d9ff43",
+          "kind": "var"
+        },
+        {
+          "name": "--blue",
+          "value": "#b8c8ff",
+          "kind": "var"
+        },
+        {
+          "name": "--orange",
+          "value": "#ff9c63",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#6d6b65",
+          "kind": "var"
+        },
+        {
+          "name": "--line",
+          "value": "#deddd7",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(17, 17, 17)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "mluvka 200-900",
+        "kecal 200-800",
+        "Geist Mono 100-900"
+      ],
+      "meta": {
+        "description": "Live controls for React, Solid, Svelte, Vue, and plain JavaScript. Tune motion, layout, color, and animation timing directly in your interface.",
+        "og_image": "https://dialkit.dev/og.png",
+        "twitter_card": "summary_large_image",
+        "canonical": null,
+        "favicon": "https://www.dialkit.dev/favicon.ico?favicon.3gtz3-2jelvj0.ico"
+      },
+      "media_mix": {
+        "img": 1,
+        "canvas": 0,
+        "video": 0,
+        "svg": 22,
+        "iframe": 0
+      },
+      "page_height_px": 10530,
+      "is_single_screen": false,
+      "headings": [
+        "DialKit is a tool for shaping your ideas by feel.",
+        "Demo",
+        "Install",
+        "Usage",
+        "Prompts",
+        "Control reference",
+        "Timeline"
+      ],
+      "responsive_note": "At 390px the page grows from 10530px to 13827px; the headline stays 128px, and no menu toggle was found.",
+      "links_out": [
+        {
+          "label": "GitHub",
+          "href": "https://github.com/joshpuckett/dialkit"
+        },
+        {
+          "label": "Agent",
+          "href": "https://www.dialkit.dev/agent"
+        },
+        {
+          "label": "Open Demo Link",
+          "href": "https://www.dialkit.dev/photostack"
+        },
+        {
+          "label": "Josh Puckett",
+          "href": "https://joshpuckett.me/"
+        }
+      ],
+      "facets": {
+        "vertical": "docs-resource",
+        "mode": "dark",
+        "vibe": [
+          "technical",
+          "experimental",
+          "minimal"
+        ],
+        "topics": [
+          "engineering",
+          "design"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "joshpuckett.me": {
+      "url": "https://joshpuckett.me/",
+      "title": "Josh Puckett",
+      "tagline": "Personal site for Josh Puckett",
+      "screenshot": "screenshots/joshpuckettme.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true",
+      "what_it_is": "The personal site of Josh Puckett, a designer who co-founded Iteration, a design practice for early-stage founders, and Upperstudy, an apprenticeship-based studio. He previously led design teams at Wealthfront, Dropbox and Groupon.",
+      "what_it_shows": "A short bio under the handle '@joshpuckett', followed by two lists: Projects (Interface Craft, Letters of Love, DialKit, Pica, Locale, Pasito, Bloom, Miss My Bar, Design Strategies) and Writing. Each project has a one-line description.",
+      "how_it_works": "A single scrolling page of text and links. Company names in the bio and each project link out to their own sites.",
+      "how_its_designed": "A very plain text page: #fafafa ground, near-black text, one serif face (Signifier) for the heading and system UI for the rest, with no images, no SVG and no canvas. The token set holds a single indigo accent (#6366f1) and hairline borders (#e5e5e5).",
+      "palette": "#fafafa background, #0a0a0a text, #737373 muted, #e5e5e5 border, #6366f1 accent",
+      "fonts": "Signifier 400 for the heading; system UI for body",
+      "pattern_keywords": [
+        "text-only portfolio",
+        "bio and project list",
+        "single column",
+        "serif heading",
+        "no imagery",
+        "designer homepage"
+      ],
+      "essence": {
+        "subject": "Josh Puckett",
+        "host": null,
+        "does": "Read about Josh Puckett's design practice and browse the products and writing he has published.",
+        "for_whom": "founders, designers and design engineers",
+        "domain": "product design",
+        "kind": "personal portfolio"
+      },
+      "tech_stack": [],
+      "palette_tokens": [
+        {
+          "name": "--background",
+          "value": "#fafafa",
+          "kind": "var"
+        },
+        {
+          "name": "--foreground",
+          "value": "#0a0a0a",
+          "kind": "var"
+        },
+        {
+          "name": "--muted",
+          "value": "#737373",
+          "kind": "var"
+        },
+        {
+          "name": "--border",
+          "value": "#e5e5e5",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#6366f1",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(250, 250, 250)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Signifier 400"
+      ],
+      "meta": {
+        "description": "Personal site for Josh Puckett",
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "https://joshpuckett.me/favicon.ico?favicon.33747bef.ico"
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 0,
+        "video": 0,
+        "svg": 0,
+        "iframe": 0
+      },
+      "page_height_px": 1905,
+      "is_single_screen": false,
+      "headings": [
+        "@joshpuckett",
+        "Projects",
+        "Writing"
+      ],
+      "responsive_note": "At 390px the page grows from 1905px to 2277px; the heading stays 24px and no menu toggle was found.",
+      "links_out": [
+        {
+          "label": "@joshpuckett",
+          "href": "https://x.com/joshpuckett"
+        },
+        {
+          "label": "Iteration",
+          "href": "https://iteration.design/"
+        },
+        {
+          "label": "Upperstudy",
+          "href": "https://upperstudy.com/"
+        }
+      ],
+      "facets": {
+        "vertical": "portfolio",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design",
+          "startups"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "chainofthoughts.net": {
+      "url": "https://www.chainofthoughts.net/",
+      "title": "chain of thoughts",
+      "tagline": "reflecting on design, building product, and personal growth",
+      "screenshot": "screenshots/chainofthoughtsnet.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true",
+      "what_it_is": "chain of thoughts is a newsletter by 'jerry' about design, building product and personal growth. It launched about two years before this capture and has 'hundreds of subscribers' per its own listing.",
+      "what_it_shows": "The title 'chain of thoughts' and the line 'reflecting on design, building product, and personal growth', a Subscribe button, and navigation to Home, Notes, Archive and About.",
+      "how_it_works": "Visitors subscribe by email, browse the post archive and short notes, or read the About page. A subscribe prompt appears over the page with a 'No thanks' dismissal.",
+      "how_its_designed": "A white publication home using the Substack 'newspaper' hero layout with a list of posts. Text is dark grey (rgb 54,55,55) in Spectral at 19px; the title is bold SF Pro Display (system, not webfont) at 24px. The accent token is a near-black navy (#020617).",
+      "palette": "#fff background, rgb(54,55,55) text, #020617 accent",
+      "fonts": "Spectral 400/600 for body; SF Pro Display 700 for the title (system font)",
+      "pattern_keywords": [
+        "substack",
+        "newsletter home",
+        "post list",
+        "subscribe prompt",
+        "serif body",
+        "minimal publication"
+      ],
+      "essence": {
+        "subject": "chain of thoughts",
+        "host": "Substack",
+        "does": "Subscribe to and read a newsletter on design, building product and personal growth.",
+        "for_whom": "designers and product builders",
+        "domain": "design and product building",
+        "kind": "newsletter"
+      },
+      "tech_stack": [
+        "Substack"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--color_theme_bg_pop",
+          "value": "#020617",
+          "kind": "var"
+        },
+        {
+          "name": "--color_theme_bg_web",
+          "value": "#ffffff",
+          "kind": "var"
+        },
+        {
+          "name": "--cover_print_primary",
+          "value": "#363737",
+          "kind": "var"
+        },
+        {
+          "name": "--cover_print_secondary",
+          "value": "#757575",
+          "kind": "var"
+        },
+        {
+          "name": "body color",
+          "value": "rgb(54, 55, 55)",
+          "kind": "rendered"
+        },
+        {
+          "name": "page background",
+          "value": "rgb(255, 255, 255)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Spectral 400",
+        "Spectral 600"
+      ],
+      "meta": {
+        "description": "reflecting on design, building product, and personal growth. Click to read chain of thoughts, by jerry, a Substack publication with hundreds of subscribers.",
+        "og_image": "https://substackcdn.com/image/fetch/$s_!Dk6s!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b6d4d0a-89bb-4a6c-81b4-f26a841b6235_1280x1280.png",
+        "twitter_card": "summary",
+        "canonical": "https://www.chainofthoughts.net/",
+        "favicon": "https://substackcdn.com/image/fetch/$s_!VxuP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fbdf7c5-3002-4e29-9d21-c5847c0e8820%2Ffavicon.ico"
+      },
+      "media_mix": {
+        "img": 12,
+        "canvas": 0,
+        "video": 0,
+        "svg": 35,
+        "iframe": 2
+      },
+      "page_height_px": 1658,
+      "is_single_screen": false,
+      "headings": [
+        "chain of thoughts"
+      ],
+      "responsive_note": "At 390px the page grows from 1658px to 1998px; the title stays 24px and a menu control is present.",
+      "links_out": [
+        {
+          "label": "Notes",
+          "href": "https://www.chainofthoughts.net/notes"
+        },
+        {
+          "label": "Archive",
+          "href": "https://www.chainofthoughts.net/archive"
+        },
+        {
+          "label": "About",
+          "href": "https://www.chainofthoughts.net/about"
+        }
+      ],
+      "facets": {
+        "vertical": "publication-newsletter",
+        "mode": "light",
+        "vibe": [
+          "minimal",
+          "editorial"
+        ],
+        "topics": [
+          "design",
+          "writing"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "boring-forest.vercel.app": {
+      "url": "https://boring-forest.vercel.app/",
+      "title": "Boring Forest",
+      "tagline": "Hold the mouse button to call fireflies. Let go to throw light.",
+      "screenshot": "screenshots/boring-forestvercelapp.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true; the WebGL scene did not run headless (GPU context lost), so the screenshot is the loading screen 'The forest is waking…' and the scene itself is described from the tweet's video",
+      "what_it_is": "Boring Forest is a browser game by @AndreiProvkin: a first-person walk through a stylised 3D forest with fireflies, mushrooms, a stream and seasons. It is a toy to wander through rather than a game with a goal; the on-screen counter tracks stone skips.",
+      "what_it_shows": "A title card reading 'Boring Forest', the prompt 'Click to enter', and a controls list: WASD walk, Shift run, Space jump, right mouse or F to skip a stone (a snowball in winter), M for sound, Esc to pause. A '0 skips' counter and the author credit sit in the corners.",
+      "how_it_works": "Click to enter, then walk the forest with the keyboard. Holding the mouse button calls fireflies toward you and releasing throws light. Right mouse or F skips a stone across water, which adds to the skip counter, and sound can be toggled.",
+      "how_its_designed": "A dark green-black ground (rgb 13,22,18) with cream text (#f3efe2), a mint accent (#9fe8e0) and a pale lime firefly color (#d8f7a0). The loader uses Source Serif 4 for its line of copy and JetBrains Mono for small labels. The whole experience is a single full-window canvas.",
+      "palette": "rgb(13,22,18) ground, #f3efe2 text, #9fe8e0 mint accent, #d8f7a0 firefly lime",
+      "fonts": "Source Serif 4 (titles), JetBrains Mono (labels)",
+      "pattern_keywords": [
+        "webgl forest",
+        "fireflies",
+        "first-person walk",
+        "stone skipping",
+        "seasons",
+        "loading screen",
+        "dark ambient",
+        "single canvas"
+      ],
+      "essence": {
+        "subject": "Boring Forest",
+        "host": null,
+        "does": "Walk through a 3D forest in the browser, call fireflies with the mouse, and skip stones across the water.",
+        "for_whom": "anyone curious about browser-based 3D",
+        "domain": "browser games and 3D web",
+        "kind": "web toy"
+      },
+      "tech_stack": [
+        "WebGL canvas",
+        "Vercel"
+      ],
+      "palette_tokens": [
+        {
+          "name": "--fg",
+          "value": "#f3efe2",
+          "kind": "var"
+        },
+        {
+          "name": "--fg-dim",
+          "value": "#f3efe2b3",
+          "kind": "var"
+        },
+        {
+          "name": "--accent",
+          "value": "#9fe8e0",
+          "kind": "var"
+        },
+        {
+          "name": "--firefly",
+          "value": "#d8f7a0",
+          "kind": "var"
+        },
+        {
+          "name": "--firefly-text",
+          "value": "#e4fbb4",
+          "kind": "var"
+        },
+        {
+          "name": "body background",
+          "value": "rgb(13, 22, 18)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Source Serif 4 400-600",
+        "JetBrains Mono 400-700"
+      ],
+      "meta": {
+        "description": null,
+        "og_image": null,
+        "twitter_card": null,
+        "canonical": null,
+        "favicon": "data:image/svg+xml (inline pine-tree icon, fill #2f6b3a)"
+      },
+      "media_mix": {
+        "img": 0,
+        "canvas": 1,
+        "video": 0,
+        "svg": 1,
+        "iframe": 0
+      },
+      "page_height_px": 900,
+      "is_single_screen": true,
+      "headings": [],
+      "responsive_note": "At 390px the canvas simply fills the 390x844 window with the same keyboard and mouse instructions; no touch-specific controls were found.",
+      "links_out": [
+        {
+          "label": "@AndreiProvkin",
+          "href": "https://x.com/AndreiProvkin"
+        }
+      ],
+      "facets": {
+        "vertical": "experiment-art",
+        "mode": "dark",
+        "vibe": [
+          "experimental",
+          "playful"
+        ],
+        "topics": [
+          "art",
+          "gaming"
+        ]
+      },
+      "essence_status": "ok"
+    },
+    "wajo.ai": {
+      "url": "https://wajo.ai/",
+      "title": "Wajo",
+      "tagline": "Fo, get sh*t done. Built on trust.",
+      "screenshot": "screenshots/wajoai.png",
+      "extracted_at": "2026-10-21",
+      "extracted_via": "Playwright Chromium: 1440x900 screenshot + DOM probe; 390x844 DOM probe only (no mobile screenshot); logged_out: true",
+      "what_it_is": "Wajo makes Fo, an AI action agent that calls, emails and coordinates with people to get everyday to-dos done, with human help when a task needs it. Wajo's meta description calls them 'action agents that get things done in the physical world', and a separate business offering lets companies build their own.",
+      "what_it_shows": "The headline is 'Fo, get sh*t done. Built on trust.' with Get started and Meet Fo buttons, example requests ('Book me a dentist for Thursday afternoon', 'Send Mom flowers for her birthday'), a live-feeling activity list (Ordered lunch, Booked your haircut), a section on building agents for business, pricing, an FAQ and the closing line 'Ready to get $h!t done?'",
+      "how_it_works": "A visitor reads how Fo handles a request step by step (understanding the task, searching, calling, confirming) through animated task cards such as a haircut booking and a flight rebooking, then signs up or logs in. Menu links lead to the business offering, About and the blog.",
+      "how_its_designed": "A white page led by 48px Figtree headlines at weight 600 over Inter body text, with hand-drawn doodle characters, small colored pixel squares scattered around photo cutouts, and animated task cards. The page is long, with 40 images, 4 videos and 95 SVGs, and the doodle mascot reappears as the closing sign-off.",
+      "palette": "white background, near-black text (rgb 10,10,10), accent colors only in pixel squares and illustrations",
+      "fonts": "Figtree Variable (headlines), Inter Variable (body); Geist Mono and static Inter declared",
+      "pattern_keywords": [
+        "doodle mascot",
+        "pixel squares",
+        "animated task cards",
+        "consumer ai agent",
+        "video hero",
+        "long scroll",
+        "friendly tone"
+      ],
+      "essence": {
+        "subject": "Fo",
+        "host": "Wajo",
+        "does": "Ask Fo, an AI action agent, to call, email and coordinate with people to handle everyday to-dos like booking a haircut or rebooking a flight, with human help when needed.",
+        "for_whom": "busy people who want errands handled for them",
+        "domain": "personal assistants and everyday task automation",
+        "kind": "AI assistant"
+      },
+      "tech_stack": [
+        "Google Tag Manager",
+        "Google Ads"
+      ],
+      "palette_tokens": [
+        {
+          "name": "body background",
+          "value": "oklch(1 0 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "body color",
+          "value": "oklch(0.145 0 0)",
+          "kind": "rendered"
+        },
+        {
+          "name": "h1 color",
+          "value": "rgb(10, 10, 10)",
+          "kind": "rendered"
+        }
+      ],
+      "fonts_loaded": [
+        "Figtree Variable 300-900",
+        "Inter Variable 100-900"
+      ],
+      "meta": {
+        "description": "Wajo – action agents that get things done in the physical world.",
+        "og_image": "https://media.wajo.ai/og-card-fo-built-on-trust-v1.png",
+        "twitter_card": "summary_large_image",
+        "canonical": "https://wajo.ai/",
+        "favicon": "https://wajo.ai/favicon.svg"
+      },
+      "media_mix": {
+        "img": 40,
+        "canvas": 0,
+        "video": 4,
+        "svg": 95,
+        "iframe": 0
+      },
+      "page_height_px": 11951,
+      "is_single_screen": false,
+      "headings": [
+        "Fo, get sh*t done. Built on trust.",
+        "Meet Fo",
+        "Fo meets you where you are or aren’t",
+        "Build action agents for your business",
+        "Our agents are a result of many technological innovations",
+        "Your agents integrate with the tools you already use",
+        "Pricing",
+        "Questions",
+        "Ready to get $h!t done?"
+      ],
+      "responsive_note": "At 390px the headline drops from 48px to 36px, the page grows from 11951px to 12673px and navigation collapses behind a Menu button.",
+      "links_out": [
+        {
+          "label": "Sign up",
+          "href": "https://login.wajo.ai/signup?return_to=https%3A%2F%2Fwajo.ai%2Ffo"
+        },
+        {
+          "label": "Log in",
+          "href": "https://login.wajo.ai/?return_to=https%3A%2F%2Fwajo.ai%2Ffo"
+        },
+        {
+          "label": "For businesses",
+          "href": "https://business.wajo.ai/"
+        },
+        {
+          "label": "Blog",
+          "href": "https://wajo.ai/blog"
+        }
+      ],
+      "facets": {
+        "vertical": "startup-product",
+        "mode": "light",
+        "vibe": [
+          "playful",
+          "minimal"
+        ],
+        "topics": [
+          "ai",
+          "productivity",
+          "startups"
+        ]
+      },
+      "essence_status": "ok"
     }
   }
 }
