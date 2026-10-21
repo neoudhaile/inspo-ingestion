@@ -5,6 +5,8 @@ bookmark exports, ingests new bookmarks (tools/ingest), tears down design-worthy
 via headless claude -p + Playwright, classifies them against tools/ingest/taxonomy.json,
 and regenerates an Obsidian knowledge-graph vault at inspo/vault/.
 
+**Read `CONTEXT.md` first:** it covers the purpose, current state, direction and a map of every doc.
+
 ## Standing rules
 
 - **Iteration log (mandatory):** after any meaningful change to the pipeline, SOP,
