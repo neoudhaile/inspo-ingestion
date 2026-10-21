@@ -144,22 +144,63 @@ def slug_tag(title):
 
 
 def named_tags(titles):
-    """{path: tag} where children nest under their parent: `parent/child`.
+    """{path: tag}, one FLAT tag per cluster, unique across the whole space.
 
-    Nesting is what lets one graph group colour a whole family: Obsidian's
-    `tag:#parent` also matches `#parent/child`. Slugs are made unique among their
-    siblings, since two titles can slug to the same string.
+    Flat rather than nested (`family/child`) because the graph panel truncates a
+    group's query after ~20 characters: nested, both children of
+    "designer-and-studio-portfolios" render as the same `tag:#designer-and-studio-…`,
+    and the name is the only label a group has. Each note carries its family's tag and
+    its cluster's tag, so families stay searchable without the nesting.
     """
-    out = {}
-    taken = defaultdict(set)   # parent tag -> child slugs already used
+    out, taken = {}, set()
     for p in sorted(titles, key=_key):
-        parts = p.split(".")
-        parent = ".".join(parts[:-1])
-        prefix = out.get(parent, "")
         base = slug_tag(titles[p])
         slug, n = base, 2
-        while slug in taken[prefix]:
+        while slug in taken:
             slug, n = f"{base}-{n}", n + 1
-        taken[prefix].add(slug)
-        out[p] = f"{prefix}/{slug}" if prefix else slug
+        taken.add(slug)
+        out[p] = slug
+    return out
+
+
+def colour_depth(paths):
+    """Which level gets a colour group: the second when there is one.
+
+    The owner wants every named cluster coloured, not just the eight families, and
+    the second level is where names are specific ("Personal designer and developer
+    portfolios" rather than "Designer and studio portfolios").
+    """
+    deepest = max(p.count(".") + 1 for p in paths)
+    return min(2, deepest)
+
+
+def family_palette(paths, titles=None):
+    """{path: rgb_int} for every cluster at colour_depth, coordinated by family.
+
+    Hue encodes the family, so the graph reads as eight colour regions; lightness
+    separates siblings inside a family. A cluster titled "Mixed:" keeps its family's
+    hue at low saturation: still placed, visibly weaker, so the clusters the titler
+    could not name stand out as greyed patches.
+    """
+    import colorsys
+    titles = titles or {}
+    depth = colour_depth(paths)
+    level = sorted((p for p in paths if p.count(".") + 1 == depth), key=_key)
+    tops = sorted({p.split(".")[0] for p in level}, key=int)
+    out = {}
+    for i, top in enumerate(tops):
+        hue = (0.0 + i / len(tops)) % 1.0
+        kids = [p for p in level if p.split(".")[0] == top]
+        n = len(kids)
+        for j, k in enumerate(kids):
+            t = 0.5 if n == 1 else j / (n - 1)
+            light = 0.72 - 0.28 * t
+            # Fan the hue a little inside the family too. Lightness alone did not
+            # separate siblings: six shades of yellow read as one colour. ±0.04 keeps
+            # every family clear of its neighbours (families sit 1/8 = 0.125 apart).
+            h = (hue - 0.04 + 0.08 * t) % 1.0
+            mixed = str(titles.get(k, "")).lower().startswith("mixed")
+            sat = 0.16 if mixed else 0.74
+            r, g, b = colorsys.hls_to_rgb(h, light, sat)
+            out[k] = (int(r * 255) << 16) + (int(g * 255) << 8) + int(b * 255)
     return out

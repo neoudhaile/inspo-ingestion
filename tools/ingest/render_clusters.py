@@ -19,11 +19,13 @@ The graph model, which is the whole point:
 - Edges are each site's nearest neighbours in embedding space, symmetrized. Sites sit
   near the sites they actually resemble, not near the sites that happen to share a
   tag.
-- Cluster membership rides in frontmatter as a NAMED, nested tag —
-  `#portfolios-and-studios/design-studios` — which the graph config uses for colour
-  only, with tag display switched off. Tags that are never displayed cannot become
-  nodes. The name has to be in the tag because Obsidian's colour groups have no label
-  field: the group shows its query, so `tag:#portfolios-and-studios` IS the label.
+- Cluster membership rides in frontmatter as NAMED tags — the family's and the
+  cluster's, e.g. `#designer-and-studio-portfolios` and `#design-studios-and-agencies`
+  — which the graph config uses for colour only, with tag display switched off. Tags
+  that are never displayed cannot become nodes. The name has to be in the tag because
+  Obsidian's colour groups have no label field: the query IS the label.
+- One colour group per named cluster, hue by family and shade by sibling, so the
+  graph reads as colour regions; "Mixed:" clusters are washed out.
 
 `--relabel cluster-<n>` names an existing version in place: it rebuilds the result
 from that vault's own notes, so the clustering is exactly what was rendered even when
@@ -88,19 +90,19 @@ DEFAULT_GRAPH = {
 }
 
 
-def graph_config(top_tags, existing=None):
-    """An .obsidian/graph.json, one colour group per top-level cluster.
+def graph_config(groups, existing=None):
+    """An .obsidian/graph.json with one colour group per (tag, rgb) in `groups`.
 
-    `top_tags` is ordered, one tag per top-level cluster. When the vault already has
-    a graph.json (the owner has opened it and tuned forces or zoom), everything in it
-    is kept and only the colour groups are replaced. showTags is false on purpose for
-    a fresh vault: a displayed tag would appear as a node.
+    When the vault already has a graph.json (the owner has opened it and tuned forces
+    or zoom), everything in it is kept and only the colour groups are replaced.
+    showTags is false on purpose for a fresh vault: a displayed tag becomes a node.
+    Plain strings are accepted for `groups` and get evenly spaced colours.
     """
     g = dict(existing) if existing else dict(DEFAULT_GRAPH)
-    g["colorGroups"] = [
-        {"query": f"tag:#{t}", "color": {"a": 1, "rgb": cluster_color(i, len(top_tags))}}
-        for i, t in enumerate(top_tags)
-    ]
+    pairs = [x if isinstance(x, tuple) else (x, cluster_color(i, len(groups)))
+             for i, x in enumerate(groups)]
+    g["colorGroups"] = [{"query": f"tag:#{t}", "color": {"a": 1, "rgb": rgb}}
+                        for t, rgb in pairs]
     return g
 
 
@@ -166,7 +168,7 @@ def render_note(dom, entry, info, labels, tagmap, space, screenshot_rel):
     return "\n".join(fm + body)
 
 
-def render_index(result, labels, tagmap):
+def render_index(result, labels, tagmap, colours=None):
     sites = result["sites"]
     by_path = {}
     for d, info in sites.items():
@@ -188,11 +190,18 @@ def render_index(result, labels, tagmap):
             seen.add(prefix)
             size = sum(len(v) for p, v in by_path.items()
                        if p == prefix or p.startswith(prefix + "."))
-            out.append(f"{'  ' * depth}- **{labels.get(prefix, prefix)}** ({size}) "
+            # A swatch in the cluster's graph colour: the group panel truncates its
+            # queries, so this is the one place colour and full name sit side by side.
+            dot = (f'<span style="color:#{colours[prefix]:06x}">●</span> '
+                   if colours and prefix in colours else "")
+            out.append(f"{'  ' * depth}- {dot}**{labels.get(prefix, prefix)}** ({size}) "
                        f"`#{tagmap[prefix]}`")
             if depth == len(result["levels"]) - 1:
+                # Plain names, NOT [[links]]: a link from INDEX to all 201 sites made
+                # INDEX the biggest hub in the graph, pulling every site towards the
+                # centre and breaking "every node is a website".
                 for m in sorted(by_path.get(prefix, [])):
-                    out.append(f"{'  ' * depth}    - [[{m}]]")
+                    out.append(f"{'  ' * depth}    - {m}")
     return "\n".join(out) + "\n"
 
 
@@ -229,9 +238,10 @@ def render_space(result, doc, outdir):
         (outdir / f"{dom}.md").write_text(
             render_note(dom, entry, info, labels, tagmap, result["space"], screenshot_rel))
 
-    (outdir / "INDEX.md").write_text(render_index(result, labels, tagmap))
-
-    tops = sorted({i["path"].split(".")[0] for i in result["sites"].values()}, key=int)
+    from tools.ingest.cluster_titles import family_palette
+    colours = family_palette(all_paths(result), result.get("cluster_titles"))
+    (outdir / "INDEX.md").write_text(render_index(result, labels, tagmap, colours))
+    groups = [(tagmap[p], colours[p]) for p in sorted(colours, key=_key)]
     obs = outdir / ".obsidian"
     obs.mkdir(exist_ok=True)
     gpath = obs / "graph.json"
@@ -241,7 +251,7 @@ def render_space(result, doc, outdir):
             existing = json.loads(gpath.read_text())
         except ValueError:
             existing = None
-    gpath.write_text(json.dumps(graph_config([tagmap[t] for t in tops], existing), indent=2))
+    gpath.write_text(json.dumps(graph_config(groups, existing), indent=2))
     return len(result["sites"])
 
 

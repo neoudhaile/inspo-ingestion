@@ -132,17 +132,17 @@ def test_slug_tag(title, slug):
     assert ct.slug_tag(title) == slug
 
 
-def test_named_tags_nest_children_under_their_parent():
+def test_named_tags_are_flat_so_the_panel_shows_the_cluster_name():
+    """The group panel truncates at ~20 chars; nested, siblings looked identical."""
     tm = ct.named_tags(TITLES)
     assert tm["1"] == "warm-paper-and-serif"
-    assert tm["1.1"] == "warm-paper-and-serif/terracotta-ink"
-    assert tm["2.1"] == "stark-mono/browser-default-blue"
+    assert tm["1.1"] == "terracotta-ink"
+    assert tm["2.1"] == "browser-default-blue"
 
 
-def test_named_tags_keep_colliding_slugs_apart():
-    tm = ct.named_tags({"1": "Portfolios", "2": "portfolios!", "1.1": "A", "1.2": "a"})
-    assert tm["1"] != tm["2"]
-    assert tm["1.1"] != tm["1.2"]
+def test_named_tags_are_unique_across_the_whole_space():
+    tm = ct.named_tags({"1": "Portfolios", "2": "portfolios!", "1.1": "A", "2.1": "a"})
+    assert len(set(tm.values())) == 4
 
 
 def test_titled_render_uses_named_tags_everywhere(result, doc, tmp_path):
@@ -150,11 +150,11 @@ def test_titled_render_uses_named_tags_everywhere(result, doc, tmp_path):
     out = rc.render_version([titled(result)], doc, tmp_path / "cluster-1")
     note = (out / "design" / "a.com.md").read_text()
     assert "  - warm-paper-and-serif\n" in note
-    assert "  - warm-paper-and-serif/terracotta-ink" in note
+    assert "  - terracotta-ink\n" in note
     assert "cluster/" not in note
     g = json.loads((out / "design" / ".obsidian" / "graph.json").read_text())
-    assert [x["query"] for x in g["colorGroups"]] == ["tag:#warm-paper-and-serif",
-                                                       "tag:#stark-mono"]
+    assert [x["query"] for x in g["colorGroups"]] == ["tag:#terracotta-ink",
+                                                       "tag:#browser-default-blue"]
     assert "Warm paper and serif › Terracotta ink" in note
 
 
@@ -187,7 +187,7 @@ def test_rerender_keeps_the_owners_graph_settings(result, doc, tmp_path):
     g2 = json.loads(gfile.read_text())
     assert (g2["repelStrength"], g2["centerStrength"], g2["scale"], g2["showTags"]) == \
         (14.79, 0, 0.307, True)
-    assert g2["colorGroups"][0]["query"] == "tag:#warm-paper-and-serif"
+    assert g2["colorGroups"][0]["query"] == "tag:#terracotta-ink"
 
 
 def test_result_rebuilds_from_the_rendered_notes(result, doc, tmp_path):
@@ -229,3 +229,86 @@ def test_purpose_members_are_described_by_their_essence():
                                                     "domain": "fashion and apparel",
                                                     "subject": "Fabra"}}, "purpose")
     assert "design tool | fashion and apparel | Fabra" in line
+
+
+# --- colour coordination ----------------------------------------------------------
+
+import colorsys
+
+
+def hls(rgb):
+    r, g, b = ((rgb >> 16) & 255) / 255, ((rgb >> 8) & 255) / 255, (rgb & 255) / 255
+    return colorsys.rgb_to_hls(r, g, b)
+
+
+def hue_gap(a, b):
+    """Distance around the colour wheel: hue 0.96 and 0.04 are 0.08 apart, not 0.92."""
+    d = abs(a - b) % 1.0
+    return min(d, 1.0 - d)
+
+
+PATHS = {"1", "1.1", "1.2", "1.3", "2", "2.1", "2.2", "3", "3.1"}
+
+
+def test_every_named_cluster_gets_a_colour_and_no_family_does():
+    pal = ct.family_palette(PATHS)
+    assert set(pal) == {"1.1", "1.2", "1.3", "2.1", "2.2", "3.1"}
+
+
+def test_siblings_share_a_hue_and_differ_in_shade():
+    """Colour-coordinated: a family reads as one colour region."""
+    pal = ct.family_palette(PATHS)
+    h11, l11, _ = hls(pal["1.1"]); h13, l13, _ = hls(pal["1.3"])
+    assert hue_gap(h11, h13) < 0.09, "same family, near-same hue"
+    assert abs(l11 - l13) > 0.15, "but distinguishable shades"
+    assert hue_gap(hls(pal["1.1"])[0], hls(pal["2.1"])[0]) > 0.04, "families differ in hue"
+    assert len(set(pal.values())) == len(pal)
+
+
+def test_mixed_clusters_are_washed_out_but_keep_their_family_hue():
+    pal = ct.family_palette(PATHS, {"1.2": "Mixed: a, b"})
+    _, _, s_mixed = hls(pal["1.2"]); _, _, s_clean = hls(pal["1.1"])
+    assert s_mixed < 0.3 < s_clean
+    assert hue_gap(hls(pal["1.2"])[0], hls(pal["1.1"])[0]) < 0.09
+
+
+def test_single_level_clusterings_colour_the_top_level():
+    assert set(ct.family_palette({"1", "2", "3"})) == {"1", "2", "3"}
+
+
+def test_graph_groups_follow_family_order(result, doc, tmp_path):
+    out = rc.render_version([titled(result)], doc, tmp_path / "cluster-1")
+    g = json.loads((out / "design" / ".obsidian" / "graph.json").read_text())
+    assert len(g["colorGroups"]) == 2
+    assert all(x["color"]["rgb"] > 0 for x in g["colorGroups"])
+
+
+def test_index_does_not_link_sites_so_it_cannot_be_a_hub(result, doc, tmp_path):
+    """INDEX linking all 201 sites made it the largest node in the graph."""
+    out = rc.render_version([result], doc, tmp_path / "cluster-1")
+    idx = (out / "design" / "INDEX.md").read_text()
+    assert "[[" not in idx
+    assert "a.com" in idx, "still lists the sites, as plain text"
+
+
+def test_families_never_overlap_in_hue():
+    """Siblings fan their hue, but never far enough to look like the next family."""
+    paths = {str(i) for i in range(1, 9)} | {f"{i}.{j}" for i in range(1, 9) for j in (1, 2, 3)}
+    pal = ct.family_palette(paths)
+    def hue(p): return hls(pal[p])[0]
+    for i in range(1, 8):
+        widest_gap_inside = hue_gap(hue(f"{i}.1"), hue(f"{i}.3"))
+        to_next = min(hue_gap(hue(f"{i}.{a}"), hue(f"{i + 1}.{b}"))
+                      for a in (1, 2, 3) for b in (1, 2, 3))
+        assert to_next > 0.03, f"family {i} touches family {i + 1}"
+        assert widest_gap_inside < 0.09
+
+
+def test_index_is_a_colour_legend_for_the_graph(result, doc, tmp_path):
+    """The panel truncates group names; INDEX pairs each colour with its full name."""
+    out = rc.render_version([titled(result)], doc, tmp_path / "cluster-1")
+    idx = (out / "design" / "INDEX.md").read_text()
+    g = json.loads((out / "design" / ".obsidian" / "graph.json").read_text())
+    for grp in g["colorGroups"]:
+        assert f'color:#{grp["color"]["rgb"]:06x}' in idx
+    assert "Terracotta ink" in idx
