@@ -331,3 +331,63 @@ def test_untitled_groups_still_use_tag_queries(result, doc, tmp_path):
     out = rc.render_version([result], doc, tmp_path / "cluster-1")
     g = json.loads((out / "design" / ".obsidian" / "graph.json").read_text())
     assert all(x["query"].startswith("tag:#cluster/") for x in g["colorGroups"])
+
+
+# --- edges that keep clusters together ---------------------------------------------
+
+from tools.ingest import cluster as cl
+import numpy as np
+
+
+def test_structured_edges_never_cross_families():
+    rng = np.random.RandomState(1)
+    doms = [f"s{i}.com" for i in range(12)]
+    vecs = rng.normal(size=(12, 8))
+    paths = {d: ("1.1" if i < 4 else "1.2" if i < 8 else "2.1") for i, d in enumerate(doms)}
+    edges = cl.structured_edges(doms, vecs, paths, k_in=2, k_sib=1)
+    for d, lst in edges.items():
+        for o, _ in lst:
+            assert paths[o].split(".")[0] == paths[d].split(".")[0], "no cross-family edge"
+            assert d in [x for x, _ in edges[o]], "symmetric"
+
+
+def test_structured_edges_are_mostly_inside_the_cluster():
+    """The whole point: plain kNN kept only ~40% of edges inside a cluster."""
+    rng = np.random.RandomState(2)
+    doms = [f"s{i}.com" for i in range(20)]
+    vecs = rng.normal(size=(20, 8))
+    paths = {d: f"1.{1 + i % 2}" for i, d in enumerate(doms)}
+    edges = cl.structured_edges(doms, vecs, paths, k_in=4, k_sib=1)
+    pairs = {tuple(sorted((d, o))) for d, l in edges.items() for o, _ in l}
+    inside = sum(1 for a, b in pairs if paths[a] == paths[b])
+    assert inside / len(pairs) > 0.7
+
+
+def test_cross_cluster_neighbours_become_plain_text_not_links(result, doc, tmp_path):
+    r = dict(result)
+    r["sites"] = {d: dict(i) for d, i in result["sites"].items()}
+    r["sites"]["c.com"]["neighbors"] = [{"domain": "a.com", "score": 0.4}]
+    r["sites"]["c.com"]["graph_edges"] = []
+    out = rc.render_version([r], doc, tmp_path / "cluster-1")
+    note = (out / "design" / "c.com.md").read_text()
+    assert "[[a.com]]" not in note, "a cross-cluster neighbour must not be an edge"
+    assert "## Also close, in other clusters" in note and "- a.com — 0.400" in note
+
+
+def test_screenshots_are_linked_into_the_vault(result, doc, tmp_path):
+    """Paths outside a vault never render and appear as unresolved graph nodes."""
+    out = rc.render_version([result], doc, tmp_path / "cluster-1")
+    note = (out / "design" / "a.com.md").read_text()
+    assert "](_screenshots/a.png)" in note and "../" not in note.split("## ")[0]
+    link = out / "design" / "_screenshots"
+    assert link.is_symlink() and link.resolve() == (rc.REPO / "screenshots").resolve()
+
+
+def test_rebuild_reads_back_both_neighbour_lists(result, doc, tmp_path):
+    r = dict(result)
+    r["sites"] = {d: dict(i) for d, i in result["sites"].items()}
+    r["sites"]["c.com"]["neighbors"] = [{"domain": "a.com", "score": 0.4}]
+    r["sites"]["c.com"]["graph_edges"] = []
+    out = rc.render_version([r], doc, tmp_path / "cluster-1")
+    back = rc.result_from_vault(out / "design")
+    assert back["sites"]["c.com"]["neighbors"] == [{"domain": "a.com", "score": 0.4}]

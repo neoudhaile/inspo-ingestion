@@ -170,6 +170,38 @@ def knn(sims, doms, k=DEFAULT_K):
     return out
 
 
+def structured_edges(doms, vecs, paths, k_in=4, k_sib=1):
+    """Graph edges that make clusters visible: {domain: [(other, score)]}.
+
+    Plain kNN let most edges cross clusters (only 45% of purpose edges and 38% of
+    design edges stayed inside their own cluster), so the force layout mixed the
+    colours together. Here each site links to its `k_in` nearest sites INSIDE its own
+    cluster, plus `k_sib` nearest in a SIBLING cluster of the same family, and nothing
+    across families. Clusters pull together as tight lobes, sibling lobes sit side by
+    side, families separate: "separate but close" built out of edge counts, since
+    Obsidian's graph has no edge weights. Symmetrized, as with knn().
+    """
+    sims = cosine_sim(vecs)
+    idx = {d: i for i, d in enumerate(doms)}
+    present = [d for d in doms if d in paths]
+    fam = {d: paths[d].split(".")[0] for d in present}
+    chosen = {}
+    for d in present:
+        i = idx[d]
+        same = [o for o in present if o != d and paths[o] == paths[d]]
+        sib = [o for o in present if paths[o] != paths[d] and fam[o] == fam[d]]
+        for group, k in ((same, k_in), (sib, k_sib)):
+            for o in sorted(group, key=lambda o: (-sims[i][idx[o]], o))[:k]:
+                chosen[tuple(sorted((d, o)))] = float(sims[i][idx[o]])
+    out = {d: [] for d in present}
+    for (a, b), sc in chosen.items():
+        out[a].append((b, sc))
+        out[b].append((a, sc))
+    for d in out:
+        out[d].sort(key=lambda x: (-x[1], x[0]))
+    return out
+
+
 # --- naming ---------------------------------------------------------------------
 
 def tokenize(text):

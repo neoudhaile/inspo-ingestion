@@ -47,6 +47,13 @@ from tools.ingest.jsonio import read_json, write_json_atomic
 
 CLUSTER_JSON = INSPO / "_clusters"
 
+# Screenshots are linked INTO each vault under this name. Obsidian cannot resolve a
+# path outside the vault: the old `../../../screenshots/x.png` embeds never rendered,
+# and each became an unresolved node in the graph. A symlinked folder makes them real
+# attachments, which render in the note and stay out of the graph (attachments are
+# hidden there by default).
+SHOTS = "_screenshots"
+
 # Which teardown fields each vault leads with. The rest still appear, lower down —
 # clicking a node should always show the whole site, whichever graph you came from.
 LEAD_FIELDS = {
@@ -144,17 +151,29 @@ def render_note(dom, entry, info, labels, tagmap, space, screenshot_rel):
 
     scr = entry.get("screenshot")
     if scr:
-        body.append(f"![{dom}]({screenshot_rel}/{Path(scr).name})\n")
+        body.append(f"![{dom}]({SHOTS}/{Path(scr).name})\n")
 
     for key, label in lead:
         v = entry.get(key)
         if v:
             body += [f"**{label}.** {v}", ""]
 
-    rel = info.get("neighbors") or []
+    # Wikilinks ARE graph edges, so only the structured edges are links. The overall
+    # nearest neighbours in other clusters are kept as plain text: still readable, no
+    # pull on the layout.
+    edges = info.get("graph_edges")
+    if edges is None:
+        edges = info.get("neighbors") or []
+    linked = {n["domain"] for n in edges}
     body += ["## Nearest in this space", ""]
-    body += [f"- [[{n['domain']}]] — {n['score']:.3f}" for n in rel] or ["—"]
+    body += [f"- [[{n['domain']}]] — {n['score']:.3f}" for n in edges] or ["—"]
     body.append("")
+    elsewhere = [n for n in (info.get("neighbors") or []) if n["domain"] not in linked
+                 and n["domain"] in (info.get("_other_cluster") or ())]
+    if elsewhere:
+        body += ["## Also close, in other clusters", ""]
+        body += [f"- {n['domain']} — {n['score']:.3f}" for n in elsewhere]
+        body.append("")
 
     extra = [(k, l) for k, l in REST_FIELDS if k not in lead_keys and entry.get(k)]
     if extra:
@@ -233,7 +252,13 @@ def render_space(result, doc, outdir):
     # to a tmpdir), and relative_to raises rather than coping.
     screenshot_rel = os.path.relpath(REPO / "screenshots", outdir).replace(os.sep, "/")
 
+    shots = outdir / SHOTS
+    if not shots.exists() and not shots.is_symlink() and (REPO / "screenshots").is_dir():
+        os.symlink(os.path.relpath(REPO / "screenshots", outdir), shots)
+
+    paths = {d: i["path"] for d, i in result["sites"].items()}
     for dom, info in result["sites"].items():
+        info["_other_cluster"] = {o for o, p in paths.items() if p != info["path"]}
         entry = sd.get(dom) or {}
         (outdir / f"{dom}.md").write_text(
             render_note(dom, entry, info, labels, tagmap, result["space"], screenshot_rel))
@@ -306,6 +331,7 @@ def render_version(results, doc, version_dir):
 FM_PATH = re.compile(r'^cluster: "([^"]+)"', re.M)
 FM_LEVEL = re.compile(r'^cluster_l(\d+): "([^"]*)"', re.M)
 NEIGHBOR = re.compile(r"^- \[\[([^\]]+)\]\] — ([0-9.]+)$", re.M)
+NEIGHBOR_TEXT = re.compile(r"^- ([^\[\s][^ ]*) — ([0-9.]+)$", re.M)
 
 
 def result_from_vault(space_dir):
@@ -329,8 +355,16 @@ def result_from_vault(space_dir):
         for lvl, name in FM_LEVEL.findall(t):
             names.setdefault(".".join(parts[:int(lvl)]), name)
         nb_block = t.split("## Nearest in this space", 1)[-1].split("\n## ", 1)[0]
-        sites[f.stem] = {"path": path, "neighbors": [
-            {"domain": d, "score": float(s)} for d, s in NEIGHBOR.findall(nb_block)]}
+        nb = [(d, float(s)) for d, s in NEIGHBOR.findall(nb_block)]
+        if "## Also close, in other clusters" in t:
+            far = t.split("## Also close, in other clusters", 1)[1].split("\n## ", 1)[0]
+            nb += [(d, float(s)) for d, s in NEIGHBOR_TEXT.findall(far)]
+        seen, merged = set(), []
+        for d, sc in sorted(nb, key=lambda x: -x[1]):
+            if d not in seen:
+                seen.add(d)
+                merged.append({"domain": d, "score": sc})
+        sites[f.stem] = {"path": path, "neighbors": merged}
     readme = (space_dir.parent / "README.md")
     meta = {"provider": "?", "model": "?", "levels": [], "k": 0}
     if readme.exists():
@@ -366,6 +400,32 @@ def add_titles(results, doc, version_dir, retitle=False, log=print):
     return results
 
 
+def add_structured_edges(results, doc, log=print):
+    """Attach in-cluster graph edges, computed from each space's embeddings.
+
+    The edges only shape the layout; membership is whatever the version already has.
+    Uses the current text recipe's vectors (cached, so mostly free). If embedding is
+    unavailable, falls back to plain neighbours rather than failing the render.
+    """
+    from tools.ingest.cluster import structured_edges
+    from tools.ingest.embed import embed_space
+    for res in results:
+        try:
+            doms, vecs = embed_space(res["space"], doc=doc, log=lambda m: None)
+        except Exception as exc:              # noqa: BLE001 - degrade, don't fail
+            log(f"  {res['space']}: no vectors ({exc}); keeping plain neighbours")
+            continue
+        paths = {d: i["path"] for d, i in res["sites"].items()}
+        keep = [i for i, d in enumerate(doms) if d in paths]
+        edges = structured_edges([doms[i] for i in keep], [vecs[i] for i in keep], paths)
+        for d, info in res["sites"].items():
+            info["graph_edges"] = [{"domain": o, "score": round(sc, 4)}
+                                   for o, sc in edges.get(d, [])]
+        same = sum(len(v) for v in edges.values())
+        log(f"  {res['space']}: {same // 2} in-cluster/sibling edges")
+    return results
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -380,6 +440,8 @@ def main():
                     help="skip Sonnet titles; fall back to keyword names")
     ap.add_argument("--retitle", action="store_true",
                     help="ignore titles.json and ask for new titles")
+    ap.add_argument("--knn-edges", action="store_true",
+                    help="link plain nearest neighbours instead of in-cluster edges")
     args = ap.parse_args()
 
     doc = read_json(INSPIRATION_JSON)
@@ -405,6 +467,8 @@ def main():
 
     if not args.no_titles:
         add_titles(results, doc, out, retitle=args.retitle)
+    if not args.knn_edges:
+        add_structured_edges(results, doc)
     render_version(results, doc, out)
     print(f"CLUSTER_VERSION {out}")
     for res in results:

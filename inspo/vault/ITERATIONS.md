@@ -198,6 +198,14 @@ The 155 existing sites were backfilled by a chunked, text-only `claude -p` class
 
 **What replaced it and why.** Groups at the second level, ordered family by family, so the panel itself reads in colour blocks. The renderer still merges into an existing `graph.json` and replaces only `colorGroups`, so the owner's hand-tuned forces and zoom survive every re-render. 186 tests.
 
+## Iteration 22 — Edges that keep colours together; screenshots that actually load (2026-10-20)
+
+**What we built.** Graph edges built from the cluster structure (`cluster.structured_edges`). Each site links to its 4 nearest sites *inside its own cluster*, plus 1 in a sibling cluster of the same family, and none across families. These are the "separate but close" mechanics from the October design, finally wired in. A site's overall nearest neighbours in other clusters stay in its note as plain text ("Also close, in other clusters"), so they're still readable but no longer pull on the layout. Screenshots are symlinked into each vault as `_screenshots/`.
+
+**What broke or what we learned.** Once colouring worked, two things were visible. (1) **The colours were scattered across the graph, not clustered.** Plain kNN put only **45% of purpose edges and 38% of design edges inside their own cluster**, so most of the force layout's pull was across clusters. The clustering was fine; the edges disagreed with it. (2) **Screenshot PNGs showed up as graph nodes.** The notes embedded `../../../screenshots/x.png`, a path outside the vault that Obsidian cannot resolve. So the images had **never rendered in any cluster-vault note**, and each one was an unresolved link, which appeared as a node once the owner's graph reset "Existing files only".
+
+**What replaced it and why.** After the change, **76% of purpose edges and 75% of design edges stay inside their own cluster, and 100% stay inside their family**, with no site left without an edge. Edges come from the current embeddings (cached; 39 purpose re-embeds for the sites whose prose was re-scraped) but never change membership, which stays as each version recorded it. 193 tests.
+
 ## Open threads
 
 - **Obsidian can overwrite a render while it is open:** it writes its in-memory graph settings to `graph.json`, so a re-render applied while the vault is open is lost on the next zoom or settings change. Today the fix is "reload without saving" after every render. A render could detect an open vault (`obsidian.json` marks it `open`) and warn.
