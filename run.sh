@@ -118,6 +118,11 @@ fi
 # Rebuild the Obsidian graph vault from the updated JSON (once per run, deterministic).
 "$VENV" -m tools.ingest.render_vault >/dev/null || echo "vault rebuild failed (non-fatal)"
 
+# The web graph: site/ reads inspo/graph.json straight from GitHub, so writing it here
+# and letting publish push it is the whole deploy. Lives under inspo/ on purpose — the
+# daemon owns inspo/, so it commits this file like the vault. Non-fatal like the vault.
+"$VENV" -m tools.ingest.export_graph >/dev/null || echo "graph export failed (non-fatal)"
+
 # Archive the processed export.
 EXPORT="$($VENV - <<'PY'
 from tools.ingest.ingest import newest_export

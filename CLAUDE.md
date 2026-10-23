@@ -20,5 +20,5 @@ and regenerates an Obsidian knowledge-graph vault at inspo/vault/.
 - Run tests with `.venv/bin/python -m pytest -q` before committing.
 - The daemon runs unattended: keep run.sh chunked + resumable, keep enrichment on
   Sonnet (NEOUD_ENRICH_MODEL), never let a failure advance the ledger.
-- Commit + push to the private repo (github.com/neoudhaile/bookmark-ingestion) after
-  substantive changes.
+- Commit + push to the repo (github.com/neoudhaile/inspo-ingestion — **public**:
+  never commit secrets; keys live in the gitignored `.env`) after substantive changes.

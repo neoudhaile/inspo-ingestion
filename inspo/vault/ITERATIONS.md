@@ -206,8 +206,26 @@ The 155 existing sites were backfilled by a chunked, text-only `claude -p` class
 
 **What replaced it and why.** After the change, **76% of purpose edges and 75% of design edges stay inside their own cluster, and 100% stay inside their family**, with no site left without an edge. **Bridges, added back the same day.** Cutting every cross-family edge also hid real relationships. Measured, **113 cross-family pairs per space are at least as similar as the median in-cluster edge** (0.814 purpose, 0.891 design), and the strongest are unambiguous: the same person's portfolio and gallery (daryl.cv ↔ recent.design), a course and its author's site (animations.dev ↔ emilkowal.ski), Joonas's portfolio and his Rothko piece. `bridge_edges()` gives each site at most one link, to its closest site in another family, only above that bar, listed in the note under "Bridges to other families". That adds back about one edge in seven, so families stay visibly apart but connected. Edges come from the current embeddings (cached; 39 purpose re-embeds for the sites whose prose was re-scraped) but never change membership, which stays as each version recorded it. 193 tests.
 
+## Iteration 23 — Out of Obsidian: a hosted graph, and a public repo (2026-10-23)
+
+**What we built.** A web graph that reads straight from GitHub. `tools/ingest/export_graph.py` writes `inspo/graph.json`. It clusters every site fresh, so new ones are included without waiting for a vault version. It covers both clusterings and types each edge `cluster`, `sibling` or `bridge`. Group titles are cached by the exact set of member sites, so a run that leaves membership unchanged never pays to re-title. `site/` is plain HTML and JS (`force-graph`, no build step) and does the following:
+- groups sites into category clusters, with bridges between them
+- zooms and pans
+- opens a site's summary when you click it
+- highlights a group's sites when you hover it in the legend
+- switches between the purpose and design views
+- searches for a site
+
+The page loads `graph.json` from `raw.githubusercontent.com`, so it can be hosted anywhere. A Pages workflow deploys only when `site/` changes, and a daemon push of fresh data goes live without a redeploy. The daemon runs the export after every vault rebuild. The repo was made **public** at the owner's request so agents anywhere can read it without a login, after a scan of the full history found no secrets.
+
+**What broke or what we learned.** (1) **The Obsidian plugin route stalled on tooling, not on the code.** The plugin was written, but the CLI loop needed to reload it and take screenshots stayed off despite the toggle. The owner chose to build our own UI instead. (2) **The headless `claude` login had expired**, with "OAuth session expired and could not be refreshed". Every daemon fire had been failing to enrich the same 1-item chunk. By design the ledger didn't advance, so nothing was lost, but nothing new got in. Titling now degrades to keyword names instead of crashing, and fallback names are never cached. A long-lived token from `claude setup-token` is the durable fix. (3) **The data file's location decides whether the daemon keeps working.** The daemon owns only `inspo/` and `screenshots/`, so `site/graph.json` would have looked like a hand edit and stalled every sync. The file lives at `inspo/graph.json`. (4) **`force-graph` empties the element it's mounted on**, which wiped the toolbar on the first test. It now mounts on its own `#canvas`. (5) Every headless call waited 3 seconds for stdin. `run_claude` now passes `DEVNULL`.
+
+**What replaced it and why.** Obsidian stays a place to read notes. The graph you look at is now a hosted page over the same single source of truth. The remaining gap for agents is querying the data rather than parsing it: a small MCP server over `graph.json` and the embeddings is the next step.
+
 ## Open threads
 
+- **The daemon's `claude` login expires:** an OAuth session lapsed and enrichment failed silently for days. Run `claude setup-token` for a long-lived token, and alert when `enrich failed` repeats.
+- **Agents parse files; they can't query yet:** an MCP server over `graph.json` and the embeddings (e.g. similar sites, a group's members, search by domain) is the step that makes the public repo useful to agents beyond reading files.
 - **Obsidian can overwrite a render while it is open:** it writes its in-memory graph settings to `graph.json`, so a re-render applied while the vault is open is lost on the next zoom or settings change. Today the fix is "reload without saving" after every render. A render could detect an open vault (`obsidian.json` marks it `open`) and warn.
 - **The essence is not yet what the purpose space clusters on:** every site has one, but `embed.py` still embeds `what_it_is`. The next cluster run should embed the essence (kind + domain + does) and name each cluster from its members' own `kind`/`domain` rather than TF-IDF word salad — then render `cluster-<n>` and check fabra lands with fashion.
 - **`domain` and `kind` are free text:** "desktop companions and productivity", "fashion and apparel design and production". Fine for embedding; for names and grep the same idea will be worded many ways. Some normalisation (or clustering the values themselves) will be needed before they read as a vocabulary.

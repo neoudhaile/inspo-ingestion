@@ -302,8 +302,9 @@ def run_claude(prompt, *, browser, model=MODEL, timeout=420):
     if browser:
         cmd += ["--mcp-config", str(MCP_CONFIG), "--allowedTools", "mcp__playwright"]
     try:
+        # stdin=DEVNULL: without it the CLI waits 3s for piped input on every call.
         r = subprocess.run(cmd, cwd=work, env=env, capture_output=True, text=True,
-                           timeout=timeout)
+                           timeout=timeout, stdin=subprocess.DEVNULL)
     finally:
         shutil.rmtree(work, ignore_errors=True)
     if r.returncode != 0:

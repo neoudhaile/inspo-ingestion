@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inspo graph</title>
+<style>
+  :root { --bg:#111; --panel:#1b1b1b; --line:#2a2a2a; --text:#ddd; --muted:#888; }
+  * { box-sizing: border-box; }
+  html, body { margin:0; height:100%; background:var(--bg); color:var(--text);
+               font: 13px/1.4 -apple-system, system-ui, sans-serif; }
+  #app { display:grid; grid-template-columns: 270px 1fr 0; height:100vh; }
+  #app.open { grid-template-columns: 270px 1fr 360px; }
+  aside { background:var(--panel); border-right:1px solid var(--line); overflow:auto; padding:10px; }
+  #panel { border-right:0; border-left:1px solid var(--line); }
+  #graph { position:relative; overflow:hidden; }
+  #canvas { position:absolute; inset:0; }
+  #bar { position:absolute; top:10px; left:10px; z-index:2; display:flex; gap:6px; }
+  #bar button, #bar input { background:#222; color:var(--text); border:1px solid #333;
+               border-radius:6px; padding:5px 9px; font:inherit; }
+  #bar button.on { background:#3a3a3a; border-color:#555; }
+  #bar input { width:200px; }
+  .fam { margin:10px 0 3px; font-size:10px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); }
+  .grp { display:flex; gap:7px; align-items:center; padding:3px 5px; border-radius:5px; cursor:pointer; }
+  .grp:hover { background:#262626; }
+  .dot { flex:0 0 auto; width:10px; height:10px; border-radius:50%; }
+  .n { color:var(--muted); margin-left:auto; }
+  h2 { margin:0 0 2px; font-size:16px; }
+  .meta { color:var(--muted); margin-bottom:10px; }
+  dl { margin:0; } dt { color:var(--muted); font-size:11px; margin-top:8px; } dd { margin:2px 0 0; }
+  .near a { display:block; cursor:pointer; color:#9cf; padding:1px 0; }
+  #close { float:right; cursor:pointer; color:var(--muted); }
+  #status { position:absolute; bottom:10px; left:10px; color:var(--muted); z-index:2; }
+  a { color:#9cf; }
+</style>
+</head>
+<body>
+<div id="app">
+  <aside id="legend"></aside>
+  <main id="graph">
+    <div id="bar">
+      <button data-view="purpose" class="on">Purpose</button>
+      <button data-view="design">Design</button>
+      <button id="fit">Fit</button>
+      <input id="search" list="sites" placeholder="Find a site…">
+      <datalist id="sites"></datalist>
+    </div>
+    <div id="status">Loading…</div>
+    <div id="canvas"></div>
+  </main>
+  <aside id="panel"></aside>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/force-graph@1.47.4/dist/force-graph.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

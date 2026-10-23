@@ -4,7 +4,7 @@ Read this first if you're a person or an agent picking the project up cold. It
 explains the purpose, what has been built, what is being worked on now, and how. It
 doesn't repeat the other docs; it tells you which one to open for each detail.
 
-_Last updated 2026-10-20._
+_Last updated 2026-10-23._
 
 ---
 
@@ -42,6 +42,8 @@ It serves two uses:
 | `docs/superpowers/specs/2026-06-04-bookmark-auto-ingestion-design.md`, `docs/superpowers/plans/2026-06-04-bookmark-auto-ingestion.md` | The original June design and the 13-task build plan for the ingestion daemon. Historical. |
 | `docs/superpowers/specs/2026-10-17-vault-views-design.md` | The design for purpose and design vaults built on a controlled vocabulary. **Superseded in part**: the owner chose embeddings over a curated taxonomy (see §5). Its view model and edge mechanics still apply. |
 | `inspo/inspiration.md` | Generated readable digest of every bookmark. Don't edit. |
+| `inspo/graph.json` | Generated: every site, both clusterings, typed edges. What the web graph and agents read. Don't edit. |
+| `site/` | The web graph: `index.html` + `app.js`, no build step. Reads `inspo/graph.json` from GitHub; deployed to GitHub Pages. |
 | `inspo/vault/*.md` | Generated Obsidian notes, one per site, plus `INDEX.md`. Don't edit, except `ITERATIONS.md`. |
 | `inspo/bestdesignsonx.md` | A one-off dump of bestdesignsonx.com's curated feed from 2026-05-28. Reference material; not part of the pipeline. |
 | `inspo/landing-page.md` | A short hand-kept list of references for the neoud.net landing page. |
@@ -166,6 +168,16 @@ As of 2026-10-20:
   cluster on their pitch, not their domain.
 - **The essence is not yet what the purpose space clusters on.** That's the next
   step: `cluster-2`.
+
+## 7b. The web graph (2026-10-23)
+
+The repo is **public**, so agents anywhere can read it without a login, and there is
+a hosted graph. `tools/ingest/export_graph.py` runs after every ingest and writes
+`inspo/graph.json`: all sites, purpose and design clusterings, edges typed
+`cluster` / `sibling` / `bridge`, group titles cached by membership. `site/` fetches
+that file from `raw.githubusercontent.com`, so a daemon push is live without a
+redeploy; the Pages workflow only redeploys when `site/` itself changes. Open it with
+`?data=<url>` to point it at a local copy.
 
 ## 8. Next steps and pending decisions
 
